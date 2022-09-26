@@ -1,11 +1,15 @@
 <script>
   import { onMount } from "svelte";
-  import { query_selector_all } from "svelte/internal";
+  import { set_attributes } from "svelte/internal";
 
   let svgMarkup;
   let precinctData;
+
+  export let state;
+  export let chamber;
+  //
   onMount(() => {
-    fetch("./assets/h000h9049.svg")
+    fetch(`./assets/2012/${state}-${chamber}.svg`)
       .then((res) => res.text())
       .then((res) => {
         svgMarkup = res;
@@ -18,17 +22,17 @@
         svg.setAttribute("stroke", "black");
         svg.setAttribute("width", "100%");
         svg.setAttribute("font-size", "3em");
-        svg.setAttribute("style", "max-height:500px");
-        // svg.getElementById("19").setAttribute("fill", "blue");
-        getResults();
+        // svg.setAttribute("style", "max-height:500px");
+        svg.setAttribute("id", `${state}-${chamber}-map`);
         svgMarkup = map.innerHTML;
+        getResults();
       });
   });
 
   async function getResults() {
-    const res = await fetch(`./assets/combined.json`);
+    const res = await fetch(`./output/${state}-${chamber}.json`);
     const results = await res.json();
-    console.log(results);
+    // console.log(results);
     if (res.ok) {
       //   debugger;
       precinctData = results;
@@ -39,26 +43,58 @@
   }
 
   const paintMap = () => {
+    let demCount = 0;
+    let gopCount = 0;
     for (let i = 0; i < precinctData.length; i++) {
       let district = precinctData[i].current_role.district;
       let party = precinctData[i].party;
-      console.log(district + party);
+      let map = document.getElementById(`${state}-${chamber}-map`);
+      // console.log(chamber + district + party);
       if (party == "Democratic") {
-        document.getElementById(`${district}`).style.fill = "blue";
+        map.getElementById(`${district}`).style.fill = "#1441BA";
+        demCount++;
+        console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
       } else if (party == "Republican") {
-        document.getElementById(`${district}`).style.fill = "red";
+        map.getElementById(`${district}`).style.fill = "#DF2D1F";
+        gopCount++;
       }
     }
+    document.getElementById("dem").style.width = `${demCount}%`;
+    document.getElementById("gop").style.width = `${gopCount}%`;
   };
 </script>
 
 <main>
+  <h2>{state} {chamber} Chamber</h2>
   <div class="container">
     {#if svgMarkup}
       <div class="map">{@html svgMarkup}</div>
     {/if}
   </div>
+  <!-- <div class="bop">
+    <div id="dem" />
+    <div id="gop" />
+  </div> -->
 </main>
 
 <style>
+  main {
+    width: 30%;
+  }
+  .bop {
+    border-color: black;
+    border-style: solid;
+    min-height: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  #dem {
+    height: 20px;
+    background-color: blue;
+  }
+  #gop {
+    height: 20px;
+    background-color: red;
+  }
 </style>
