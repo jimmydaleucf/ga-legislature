@@ -12,7 +12,7 @@ houses = ["upper", "lower"]
     
 path = '/Users/jdale/other-repos/ga-legislature/public/output/'
 
-x = input("Enter State Postal Abbreviation: ")
+x = input("Enter State NAME: ")
 state = x
 y = input("Which chamber? (upper or lower): ")
 chamber = y

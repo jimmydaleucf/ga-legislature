@@ -5,7 +5,6 @@ import time
 
 path = '/Users/jdale/other-repos/ga-legislature/public/output/'
 
-# stateList = ['FL','GA']
 stateList =['Alabama',
 'Alaska',
 'Arizona',
@@ -69,8 +68,6 @@ for x in range(len(stateList)):
     chamberInfo =  requests.get(f'https://v3.openstates.org/jurisdictions/{state}?include=organizations&apikey=f186a663-061d-462c-8364-f20e6f3594ce').json()
     organizations = chamberInfo['organizations']
     orgCount = len(organizations)
-    # print(orgCount)
-
     chamberArray = []
     for x in range(orgCount):
         name =organizations[x]['name']
@@ -86,10 +83,8 @@ for x in range(len(stateList)):
 
     combined = {"state": state,
                 "organizations":chamberArray}
-    # print(combined)
     output.append(combined)
     print(f'********* {state} complete! ***********')
-    # print(output)
     with open(f'{path}legislatureDataFile.json', 'w') as json_file:
         json.dump(output, json_file)
 print('your file has been created Jimmy!')

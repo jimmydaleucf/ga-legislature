@@ -4,6 +4,7 @@
 
   let svgMarkup;
   let precinctData;
+  let chamberData;
 
   export let state;
   export let chamber;
@@ -36,7 +37,20 @@
     if (res.ok) {
       //   debugger;
       precinctData = results;
-      paintMap(precinctData);
+      paintMap();
+      getChamberInfo();
+    } else {
+      throw new Error(text);
+    }
+  }
+  async function getChamberInfo() {
+    const res = await fetch(`./output/legislatureDataFile.json`);
+    const results = await res.json();
+    if (res.ok) {
+      //   debugger;
+      chamberData = results;
+      const targetState = chamberData.find(({ state }) => state === `${state}`);
+      console.log(targetState);
     } else {
       throw new Error(text);
     }
@@ -54,17 +68,26 @@
       if (party == "Democratic") {
         mapTarget.style.fill = "#4165D2";
         demCount++;
-        // console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
       } else if (party == "Republican") {
         mapTarget.style.fill = "#DC3D3D";
         gopCount++;
-        // console.log(`gopCount for ${state} ${chamber}` + " is " + demCount);
       } else {
         // console.log("something else happened");
       }
     }
-    // document.getElementById("dem").style.width = `${demCount}%`;
-    // document.getElementById("gop").style.width = `${gopCount}%`;
+    console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
+    console.log(`gopCount for ${state} ${chamber}` + " is " + gopCount);
+    const demPercent = (demCount / 120) * 100;
+    console.log(demPercent);
+    const gopPercent = (gopCount / 120) * 100;
+    console.log(gopPercent);
+    // console.log(demPercent);
+    document.getElementById(
+      `${state}-${chamber}-dem`
+    ).style.width = `${demPercent}%`;
+    document.getElementById(
+      `${state}-${chamber}-gop`
+    ).style.width = `${gopPercent}%`;
   };
 </script>
 
@@ -75,10 +98,10 @@
       <div class="map">{@html svgMarkup}</div>
     {/if}
   </div>
-  <!-- <div class="bop">
-    <div id="dem" />
-    <div id="gop" />
-  </div> -->
+  <div id="{state}-{chamber}-bop" class="bop">
+    <div id="{state}-{chamber}-dem" class="dem" />
+    <div id="{state}-{chamber}-gop" class="gop" />
+  </div>
 </main>
 
 <style>
@@ -93,12 +116,13 @@
     display: flex;
     flex-direction: row;
   }
-  #dem {
+  .dem {
     height: 20px;
-    background-color: blue;
+    background-color: #4165d2;
   }
-  #gop {
+  .gop {
     height: 20px;
-    background-color: red;
+    background-color: #dc3d3d;
+    align-items: right;
   }
 </style>
