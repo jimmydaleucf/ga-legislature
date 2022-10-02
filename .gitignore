@@ -23,5 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-#python extractor files
-*.py
+
