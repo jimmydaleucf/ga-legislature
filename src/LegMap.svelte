@@ -38,7 +38,6 @@
       //   debugger;
       precinctData = results;
       paintMap();
-      getChamberInfo();
     } else {
       throw new Error(text);
     }
@@ -46,17 +45,25 @@
   async function getChamberInfo() {
     const res = await fetch(`./output/legislatureDataFile.json`);
     const results = await res.json();
+    const stateName = `${state}`;
     if (res.ok) {
       //   debugger;
       chamberData = results;
-      const targetState = chamberData.find(({ state }) => state === `${state}`);
-      console.log(targetState);
+      const targetState = chamberData.find(
+        ({ state }) => state === `${stateName}`
+      );
+      const organizations = targetState.organizations.find(
+        ({ classification }) => classification === `${chamber}`
+      );
+      let chamberSize = organizations.totalSeats;
+      // return chamberSize;
     } else {
       throw new Error(text);
     }
   }
 
   const paintMap = () => {
+    getChamberInfo();
     let demCount = 0;
     let gopCount = 0;
     for (let i = 0; i < precinctData.length; i++) {
@@ -75,8 +82,8 @@
         // console.log("something else happened");
       }
     }
-    console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
-    console.log(`gopCount for ${state} ${chamber}` + " is " + gopCount);
+    // console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
+    // console.log(`gopCount for ${state} ${chamber}` + " is " + gopCount);
     const demPercent = (demCount / 120) * 100;
     console.log(demPercent);
     const gopPercent = (gopCount / 120) * 100;
