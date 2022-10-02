@@ -7,6 +7,8 @@
   <div class="container">
     <LegMap state="FL" chamber="lower" />
     <LegMap state="FL" chamber="upper" />
+    <LegMap state="GA" chamber="lower" />
+    <LegMap state="GA" chamber="upper" />
   </div>
 </main>
 

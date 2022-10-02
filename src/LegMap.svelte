@@ -8,26 +8,26 @@
   export let state;
   export let chamber;
   //
-  onMount(() => {
-    fetch(`./assets/2012/${state}-${chamber}.svg`)
-      .then((res) => res.text())
-      .then((res) => {
-        svgMarkup = res;
-        let map = document.createElement("div");
-        map.innerHTML = svgMarkup;
-        let svg = map.querySelector("svg");
-        svg.classList.add("svg-map");
-        svg.setAttribute("height", "100%");
-        svg.setAttribute("fill", "gray");
-        svg.setAttribute("stroke", "black");
-        svg.setAttribute("width", "100%");
-        svg.setAttribute("font-size", "3em");
-        // svg.setAttribute("style", "max-height:500px");
-        svg.setAttribute("id", `${state}-${chamber}-map`);
-        svgMarkup = map.innerHTML;
-        getResults();
-      });
-  });
+  // onMount(() => {
+  fetch(`./assets/2012/${state}-${chamber}.svg`)
+    .then((res) => res.text())
+    .then((res) => {
+      svgMarkup = res;
+      let map = document.createElement("div");
+      map.innerHTML = svgMarkup;
+      let svg = map.querySelector("svg");
+      svg.classList.add("svg-map");
+      svg.setAttribute("height", "100%");
+      svg.setAttribute("fill", "gray");
+      svg.setAttribute("stroke", "black");
+      svg.setAttribute("width", "100%");
+      svg.setAttribute("font-size", "3em");
+      // svg.setAttribute("style", "max-height:500px");
+      svg.setAttribute("id", `${state}-${chamber}-map`);
+      svgMarkup = map.innerHTML;
+      getResults();
+    });
+  // });
 
   async function getResults() {
     const res = await fetch(`./output/${state}-${chamber}.json`);
@@ -49,18 +49,22 @@
       let district = precinctData[i].current_role.district;
       let party = precinctData[i].party;
       let map = document.getElementById(`${state}-${chamber}-map`);
+      const mapTarget = map.getElementById(`${district}`);
       // console.log(chamber + district + party);
       if (party == "Democratic") {
-        map.getElementById(`${district}`).style.fill = "#1441BA";
+        mapTarget.style.fill = "#4165D2";
         demCount++;
-        console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
+        // console.log(`demCount for ${state} ${chamber}` + " is " + demCount);
       } else if (party == "Republican") {
-        map.getElementById(`${district}`).style.fill = "#DF2D1F";
+        mapTarget.style.fill = "#DC3D3D";
         gopCount++;
+        // console.log(`gopCount for ${state} ${chamber}` + " is " + demCount);
+      } else {
+        // console.log("something else happened");
       }
     }
-    document.getElementById("dem").style.width = `${demCount}%`;
-    document.getElementById("gop").style.width = `${gopCount}%`;
+    // document.getElementById("dem").style.width = `${demCount}%`;
+    // document.getElementById("gop").style.width = `${gopCount}%`;
   };
 </script>
 
