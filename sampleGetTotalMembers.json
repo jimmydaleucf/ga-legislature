@@ -1,0 +1,17 @@
+{
+  "state": "FL",
+  "organizations": [
+    {
+      "org": "Florida Legislature",
+      "classification": "legislature",
+      "totalSeats": 0
+    },
+    { "org": "House", "classification": "lower", "totalSeats": 120 },
+    { "org": "Senate", "classification": "upper", "totalSeats": 40 },
+    {
+      "org": "Office of the Governor",
+      "classification": "executive",
+      "totalSeats": 0
+    }
+  ]
+}
