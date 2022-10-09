@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ocd-person/50ff89eb-0e1c-4ca4-90e5-e21c51cb7d94",
+    "name": "Andreas Borgeas",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "8",
+      "division_id": "ocd-division/country:us/state:ca/sldu:8"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Andreas",
+    "family_name": "Borgeas",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/official_portrait_cropped_borgeas_4623_llsed1_2.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:45.379231+00:00",
+    "updated_at": "2022-02-02T09:00:19.045119+00:00",
+    "openstates_url": "https://openstates.org/person/andreas-borgeas-2SqAObQBazdWJqfqoeLs6m/"
+  },
+  {
+    "id": "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+    "name": "Anna M. Caballero",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "12",
+      "division_id": "ocd-division/country:us/state:ca/sldu:12"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Anna",
+    "family_name": "Caballero",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:20.378014+00:00",
+    "updated_at": "2022-02-02T09:00:27.690752+00:00",
+    "openstates_url": "https://openstates.org/person/anna-m-caballero-7jo7693ZI31cwOmvvBsK0s/"
+  },
+  {
+    "id": "ocd-person/84f0dbbd-99dd-4ef2-9772-eb06047d847b",
+    "name": "Anthony J. Portantino",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "25",
+      "division_id": "ocd-division/country:us/state:ca/sldu:25"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Anthony",
+    "family_name": "Portantino",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino_0331_lscr.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:13.993842+00:00",
+    "updated_at": "2022-02-02T09:00:05.395403+00:00",
+    "openstates_url": "https://openstates.org/person/anthony-j-portantino-42r3he0hCSuxPi2vZJfafr/"
+  },
+  {
+    "id": "ocd-person/041e3c31-f9c0-4add-ae2e-f5c0a281fc27",
+    "name": "Ben Hueso",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "40",
+      "division_id": "ocd-division/country:us/state:ca/sldu:40"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Ben",
+    "family_name": "Hueso",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hueso-ben.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:13.153166+00:00",
+    "updated_at": "2022-02-02T08:59:53.395832+00:00",
+    "openstates_url": "https://openstates.org/person/ben-hueso-7lmmTWgFH3gJXBFzdVtPb/"
+  },
+  {
+    "id": "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+    "name": "Benjamin Allen",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "26",
+      "division_id": "ocd-division/country:us/state:ca/sldu:26"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Benjamin",
+    "family_name": "Allen",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:28.783188+00:00",
+    "updated_at": "2022-04-14T07:25:29.764309+00:00",
+    "openstates_url": "https://openstates.org/person/benjamin-allen-72ASxK9bXvDQwlApBfTC6N/"
+  },
+  {
+    "id": "ocd-person/7ecd4221-a627-42dc-9029-bbc543ef3735",
+    "name": "Bill Dodd",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "3",
+      "division_id": "ocd-division/country:us/state:ca/sldu:3"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Bill",
+    "family_name": "Dodd",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sen_bill_dodd.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:32.306730+00:00",
+    "updated_at": "2022-02-02T08:59:47.983040+00:00",
+    "openstates_url": "https://openstates.org/person/bill-dodd-3rGprZWvmHWVn2pBSKFtv3/"
+  },
+  {
+    "id": "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+    "name": "Bob Archuleta",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "32",
+      "division_id": "ocd-division/country:us/state:ca/sldu:32"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Bob",
+    "family_name": "Archuleta",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:19.227467+00:00",
+    "updated_at": "2022-02-02T09:00:22.257956+00:00",
+    "openstates_url": "https://openstates.org/person/bob-archuleta-55pf9Egd2B241p5C7tCvmD/"
+  },
+  {
+    "id": "ocd-person/c4167cdb-2f4b-4fce-a106-e4d033b83651",
+    "name": "Bob Wieckowski",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "10",
+      "division_id": "ocd-division/country:us/state:ca/sldu:10"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Bob",
+    "family_name": "Wieckowski",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wieckowski_9781_lls.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:17.089308+00:00",
+    "updated_at": "2022-02-02T09:01:08.345572+00:00",
+    "openstates_url": "https://openstates.org/person/bob-wieckowski-5y0lvQxC5m9RulUnPxgb57/"
+  },
+  {
+    "id": "ocd-person/91915f3b-c93f-4f55-a164-58b8c1587d6d",
+    "name": "Brian Dahle",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "1",
+      "division_id": "ocd-division/country:us/state:ca/sldu:1"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Brian",
+    "family_name": "Dahle",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-dahle.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:26.251614+00:00",
+    "updated_at": "2022-02-02T09:00:25.393243+00:00",
+    "openstates_url": "https://openstates.org/person/brian-dahle-4QgK05vET7EM3mVBmIof41/"
+  },
+  {
+    "id": "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+    "name": "Brian W. Jones",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "38",
+      "division_id": "ocd-division/country:us/state:ca/sldu:38"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Brian",
+    "family_name": "Jones",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:16.616020+00:00",
+    "updated_at": "2022-02-02T09:01:04.464291+00:00",
+    "openstates_url": "https://openstates.org/person/brian-w-jones-78ELyGR6tpqu9pwkzNKwnk/"
+  },
+  {
+    "id": "ocd-person/c95294d8-1c22-4121-939d-f0f4c7c437f0",
+    "name": "Connie M. Leyva",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "20",
+      "division_id": "ocd-division/country:us/state:ca/sldu:20"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Connie",
+    "family_name": "Leyva",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-leyva.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:11.282837+00:00",
+    "updated_at": "2022-02-02T08:59:58.701298+00:00",
+    "openstates_url": "https://openstates.org/person/connie-m-leyva-67tCFLICiKdnAl40CAE0gK/"
+  },
+  {
+    "id": "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+    "name": "Dave Cortese",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "15",
+      "division_id": "ocd-division/country:us/state:ca/sldu:15"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Dave",
+    "family_name": "Cortese",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2020-12-16T06:02:49.349058+00:00",
+    "updated_at": "2022-02-02T09:00:30.093797+00:00",
+    "openstates_url": "https://openstates.org/person/dave-cortese-TWudHoz3xWcpzCLnyfrEl/"
+  },
+  {
+    "id": "ocd-person/393d31b9-3336-4e2a-b397-fe12898052c2",
+    "name": "Dave Min",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "37",
+      "division_id": "ocd-division/country:us/state:ca/sldu:37"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Dave",
+    "family_name": "Min",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd37_min.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2020-12-16T06:02:53.326616+00:00",
+    "updated_at": "2022-02-02T09:00:18.194718+00:00",
+    "openstates_url": "https://openstates.org/person/dave-min-1k0WlThZ2aaAFDOThgelz0/"
+  },
+  {
+    "id": "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+    "name": "Henry I. Stern",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "27",
+      "division_id": "ocd-division/country:us/state:ca/sldu:27"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Henry",
+    "family_name": "Stern",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:16.700338+00:00",
+    "updated_at": "2022-02-02T09:00:26.911723+00:00",
+    "openstates_url": "https://openstates.org/person/henry-i-stern-37riwFn37s8mamsuhR7oTN/"
+  },
+  {
+    "id": "ocd-person/de59f459-9b3d-410a-ab49-49bc47efcf1f",
+    "name": "Jim Nielsen",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "4",
+      "division_id": "ocd-division/country:us/state:ca/sldu:4"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Jim",
+    "family_name": "Nielsen",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nielsen-jim.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:17.886038+00:00",
+    "updated_at": "2022-02-02T09:00:01.482982+00:00",
+    "openstates_url": "https://openstates.org/person/jim-nielsen-6lZPAJSUFICXmpiL7KP09P/"
+  },
+  {
+    "id": "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+    "name": "John Laird",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "17",
+      "division_id": "ocd-division/country:us/state:ca/sldu:17"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "John",
+    "family_name": "Laird",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2020-12-16T06:02:54.721577+00:00",
+    "updated_at": "2022-02-02T09:01:03.690597+00:00",
+    "openstates_url": "https://openstates.org/person/john-laird-3XlFaQLZB0DLk0mE9HAGoN/"
+  },
+  {
+    "id": "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+    "name": "Josh Becker",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "13",
+      "division_id": "ocd-division/country:us/state:ca/sldu:13"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Josh",
+    "family_name": "Becker",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2020-12-16T06:02:55.016758+00:00",
+    "updated_at": "2022-02-02T08:59:48.768773+00:00",
+    "openstates_url": "https://openstates.org/person/josh-becker-63dLAnWBOBG5gYvlBbz1XU/"
+  },
+  {
+    "id": "ocd-person/ed40c798-40c1-4fe6-9fb8-c3fee65b48e0",
+    "name": "Josh Newman",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "29",
+      "division_id": "ocd-division/country:us/state:ca/sldu:29"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Josh",
+    "family_name": "Newman",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd29_newman.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-11-16T01:57:26.863221+00:00",
+    "updated_at": "2022-02-02T08:59:50.305967+00:00",
+    "openstates_url": "https://openstates.org/person/josh-newman-7DgmiwjAguaWxWaYRLlps8/"
+  },
+  {
+    "id": "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+    "name": "Lena A. Gonzalez",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "33",
+      "division_id": "ocd-division/country:us/state:ca/sldu:33"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Lena",
+    "family_name": "Gonzalez",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-lena-gonzalez.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-08-22T23:30:46.232955+00:00",
+    "updated_at": "2022-02-02T09:00:56.710113+00:00",
+    "openstates_url": "https://openstates.org/person/lena-a-gonzalez-6Br9EouplEmSq5IrGp6l79/"
+  },
+  {
+    "id": "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+    "name": "Mar\u00eda Elena Durazo",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "24",
+      "division_id": "ocd-division/country:us/state:ca/sldu:24"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Mar\u00eda Elena",
+    "family_name": "Durazo",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:42.056004+00:00",
+    "updated_at": "2022-02-02T09:00:39.550318+00:00",
+    "openstates_url": "https://openstates.org/person/maria-elena-durazo-5TZk24AveCVVjb7oFHaFbq/"
+  },
+  {
+    "id": "ocd-person/d7cb8647-1324-42e9-b2a6-a26d05863806",
+    "name": "Melissa A. Melendez",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "28",
+      "division_id": "ocd-division/country:us/state:ca/sldu:28"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Melissa",
+    "family_name": "Melendez",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sen_melendez.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:27.507851+00:00",
+    "updated_at": "2022-02-02T09:00:57.489016+00:00",
+    "openstates_url": "https://openstates.org/person/melissa-a-melendez-6ZCMOiR28Brzis4KBy4m06/"
+  },
+  {
+    "id": "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+    "name": "Melissa Hurtado",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "14",
+      "division_id": "ocd-division/country:us/state:ca/sldu:14"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Melissa",
+    "family_name": "Hurtado",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:12.690127+00:00",
+    "updated_at": "2022-02-02T09:01:02.869308+00:00",
+    "openstates_url": "https://openstates.org/person/melissa-hurtado-7GE7jO4olKnoRqh4MaC5lh/"
+  },
+  {
+    "id": "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
+    "name": "Mike McGuire",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "2",
+      "division_id": "ocd-division/country:us/state:ca/sldu:2"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "McGuire",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:34.214212+00:00",
+    "updated_at": "2022-02-02T09:00:45.098643+00:00",
+    "openstates_url": "https://openstates.org/person/mike-mcguire-4uDwk1u7mF3uNJSONooGWG/"
+  },
+  {
+    "id": "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+    "name": "Monique Lim\u00f3n",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "19",
+      "division_id": "ocd-division/country:us/state:ca/sldu:19"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Monique",
+    "family_name": "Lim\u00f3n",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:27.073567+00:00",
+    "updated_at": "2022-02-02T09:00:49.000225+00:00",
+    "openstates_url": "https://openstates.org/person/monique-limon-75vxKC1syP4Km0kgWdlDzj/"
+  },
+  {
+    "id": "ocd-person/da008178-5da9-4adb-a690-1360a9bce2db",
+    "name": "Nancy Skinner",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "9",
+      "division_id": "ocd-division/country:us/state:ca/sldu:9"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Nancy",
+    "family_name": "Skinner",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:23.626621+00:00",
+    "updated_at": "2022-02-02T08:59:57.832700+00:00",
+    "openstates_url": "https://openstates.org/person/nancy-skinner-6dMYcWJlyF9MjQ2HIS9sAV/"
+  },
+  {
+    "id": "ocd-person/9ed8fe52-b020-47d3-92d5-621e32f42e94",
+    "name": "Patricia C. Bates",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "36",
+      "division_id": "ocd-division/country:us/state:ca/sldu:36"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Patricia",
+    "family_name": "Bates",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bates-patricia.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:20.556429+00:00",
+    "updated_at": "2022-02-02T09:00:02.306644+00:00",
+    "openstates_url": "https://openstates.org/person/patricia-c-bates-4pjx8yMa1JJbDeTz5e6RRk/"
+  },
+  {
+    "id": "ocd-person/26cbb5a7-e485-41f6-9cb6-be82cbef73db",
+    "name": "Richard D. Roth",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "31",
+      "division_id": "ocd-division/country:us/state:ca/sldu:31"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Richard",
+    "family_name": "Roth",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:22.510115+00:00",
+    "updated_at": "2022-05-04T17:31:30.298019+00:00",
+    "openstates_url": "https://openstates.org/person/richard-d-roth-1BCnqSUt0oiZvPpBjpI81z/"
+  },
+  {
+    "id": "ocd-person/96c9e551-f768-41c7-ab17-0f204c6be259",
+    "name": "Richard Pan",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "6",
+      "division_id": "ocd-division/country:us/state:ca/sldu:6"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Richard",
+    "family_name": "Pan",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pan-richard.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:26.865945+00:00",
+    "updated_at": "2022-02-02T08:59:51.127695+00:00",
+    "openstates_url": "https://openstates.org/person/richard-pan-4aX7AfMTOSKCnbzNAaCka9/"
+  },
+  {
+    "id": "ocd-person/d7e883c1-2011-45a1-b5bd-00e2046fa0fd",
+    "name": "Robert M. Hertzberg",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "18",
+      "division_id": "ocd-division/country:us/state:ca/sldu:18"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Robert",
+    "family_name": "Hertzberg",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hertzberg_0705_lls_hsedcr.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:27.728555+00:00",
+    "updated_at": "2022-02-02T09:00:30.877614+00:00",
+    "openstates_url": "https://openstates.org/person/robert-m-hertzberg-6ZPbo4izIGpnTmfyOvFfW1/"
+  },
+  {
+    "id": "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+    "name": "Rosilicie Ochoa Bogh",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "23",
+      "division_id": "ocd-division/country:us/state:ca/sldu:23"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Rosilicie",
+    "family_name": "Ochoa Bogh",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg",
+    "email": "",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2020-12-16T06:02:48.266765+00:00",
+    "updated_at": "2022-03-01T22:04:29.065127+00:00",
+    "openstates_url": "https://openstates.org/person/rosilicie-ochoa-bogh-6BjI8Qh4MYmJkO0oeoALcB/"
+  },
+  {
+    "id": "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+    "name": "Scott D. Wiener",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "11",
+      "division_id": "ocd-division/country:us/state:ca/sldu:11"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Scott",
+    "family_name": "Wiener",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:23.186979+00:00",
+    "updated_at": "2022-02-02T09:00:59.731741+00:00",
+    "openstates_url": "https://openstates.org/person/scott-d-wiener-6lsgrCgvjfspYcr3jpsa5e/"
+  },
+  {
+    "id": "ocd-person/f82658a8-e4e5-4f12-807b-b1eec79782d1",
+    "name": "Scott Wilk",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "21",
+      "division_id": "ocd-division/country:us/state:ca/sldu:21"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Scott",
+    "family_name": "Wilk",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:19.222266+00:00",
+    "updated_at": "2022-02-02T09:00:34.944650+00:00",
+    "openstates_url": "https://openstates.org/person/scott-wilk-7YFcWi9kv01IeDsmy858K1/"
+  },
+  {
+    "id": "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+    "name": "Shannon Grove",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "16",
+      "division_id": "ocd-division/country:us/state:ca/sldu:16"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Shannon",
+    "family_name": "Grove",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:58.817470+00:00",
+    "updated_at": "2022-02-02T09:00:31.661076+00:00",
+    "openstates_url": "https://openstates.org/person/shannon-grove-5V17cpGtXDjzhb6z6Jxcky/"
+  },
+  {
+    "id": "ocd-person/99fd8cce-55ba-493a-b787-e339a57de7df",
+    "name": "Steven Bradford",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "35",
+      "division_id": "ocd-division/country:us/state:ca/sldu:35"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Steven",
+    "family_name": "Bradford",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:12.737487+00:00",
+    "updated_at": "2022-02-02T09:00:21.428607+00:00",
+    "openstates_url": "https://openstates.org/person/steven-bradford-4gZhJqzkj0UbV53mW00h2t/"
+  },
+  {
+    "id": "ocd-person/9521850c-594d-415b-becf-002add076e86",
+    "name": "Steven M. Glazer",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "7",
+      "division_id": "ocd-division/country:us/state:ca/sldu:7"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Steven",
+    "family_name": "Glazer",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:20.777991+00:00",
+    "updated_at": "2022-02-02T09:00:14.181855+00:00",
+    "openstates_url": "https://openstates.org/person/steven-m-glazer-4XPArl6ww355IoISp2dK2o/"
+  },
+  {
+    "id": "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+    "name": "Susan Rubio",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "22",
+      "division_id": "ocd-division/country:us/state:ca/sldu:22"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Susan",
+    "family_name": "Rubio",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:15:54.917592+00:00",
+    "updated_at": "2022-02-02T09:01:06.792811+00:00",
+    "openstates_url": "https://openstates.org/person/susan-rubio-6BATYbrTpWkxpvEmwVNgM8/"
+  },
+  {
+    "id": "ocd-person/796593d1-498e-4980-bd5e-2db033754c62",
+    "name": "Susan Talamantes Eggman",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "5",
+      "division_id": "ocd-division/country:us/state:ca/sldu:5"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Susan",
+    "family_name": "Eggman",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/eggman-susan.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:25.349921+00:00",
+    "updated_at": "2022-02-02T09:00:41.873650+00:00",
+    "openstates_url": "https://openstates.org/person/susan-talamantes-eggman-3h4UXRp0CZFe8uExE5oOcE/"
+  },
+  {
+    "id": "ocd-person/93b85e3f-af14-4792-ae2e-06bcdaf04aa1",
+    "name": "Sydney Kamlager",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "30",
+      "division_id": "ocd-division/country:us/state:ca/sldu:30"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Sydney",
+    "family_name": "Kamlager",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/kamlager-sydney-sd30.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:21.422503+00:00",
+    "updated_at": "2022-02-02T09:00:40.286967+00:00",
+    "openstates_url": "https://openstates.org/person/sydney-kamlager-4Uk7y9NGuJy6QKpE6uZet7/"
+  },
+  {
+    "id": "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632",
+    "name": "Thomas J. Umberg",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "34",
+      "division_id": "ocd-division/country:us/state:ca/sldu:34"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Thomas",
+    "family_name": "Umberg",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg",
+    "email": "",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-02T10:16:38.827112+00:00",
+    "updated_at": "2022-02-02T08:59:44.755817+00:00",
+    "openstates_url": "https://openstates.org/person/thomas-j-umberg-6ID4EiKp0yaDhEG3FSCAmg/"
+  },
+  {
+    "id": "ocd-person/426d94ce-e49c-4d56-a185-9eb9c628c006",
+    "name": "Toni G. Atkins",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "39",
+      "division_id": "ocd-division/country:us/state:ca/sldu:39"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:ca/government",
+      "name": "California",
+      "classification": "state"
+    },
+    "given_name": "Toni",
+    "family_name": "Atkins",
+    "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_018_after_09-28-20.jpg",
+    "email": "",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:35:28.990511+00:00",
+    "updated_at": "2022-02-02T09:00:34.017089+00:00",
+    "openstates_url": "https://openstates.org/person/toni-g-atkins-21LZUB46v2UR4hVc5JyCH8/"
+  }
+]

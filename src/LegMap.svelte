@@ -80,6 +80,7 @@
         mapTarget.style.fill = "#DC3D3D";
         gopCount++;
       } else {
+        mapTarget.style.fill = "#E3BB1C";
         // console.log("something else happened");
       }
     }
@@ -114,7 +115,7 @@
 
 <style>
   main {
-    width: 30%;
+    width: 35%;
   }
   .bop {
     border-color: black;

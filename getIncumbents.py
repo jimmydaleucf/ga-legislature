@@ -10,7 +10,7 @@ chamberList = ["lower", "upper"]
 mainList = []
 houses = ["upper", "lower"]
     
-path = '/Users/jdale/other-repos/ga-legislature/public/output/'
+path = './public/output/'
 
 x = input("Enter State NAME: ")
 state = x

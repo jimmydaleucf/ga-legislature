@@ -9,6 +9,8 @@
     <LegMap state="Florida" chamber="upper" />
     <LegMap state="Georgia" chamber="lower" />
     <LegMap state="Georgia" chamber="upper" />
+    <LegMap state="California" chamber="upper" />
+    <LegMap state="California" chamber="lower" />
   </div>
 </main>
 
@@ -19,6 +21,7 @@
   .container {
     flex-direction: row;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
   }
 </style>
