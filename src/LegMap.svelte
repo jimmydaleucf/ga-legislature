@@ -1,6 +1,5 @@
 <script>
   import { onMount } from "svelte";
-  import { set_attributes } from "svelte/internal";
 
   let svgMarkup;
   let precinctData;
@@ -24,12 +23,26 @@
       svg.setAttribute("stroke", "black");
       svg.setAttribute("width", "100%");
       svg.setAttribute("font-size", "3em");
+      let paths = svg.querySelectorAll("path");
+      for (let i = 0; i < paths.length; i++) {
+        let path = paths[i];
+        path.addEventListener("mouseover", mouseOver);
+        path.addEventListener("mouseout", mouseOut);
+      }
       // svg.setAttribute("style", "max-height:500px");
       svg.setAttribute("id", `${state}-${chamber}-map`);
       svgMarkup = map.innerHTML;
-      getChamberInfo().then(getResults(chamberSize));
+      getChamberInfo().then(getResults());
     });
   // });
+
+  function mouseOver() {
+    target.style.fill = "green";
+  }
+
+  function mouseOut() {
+    target.style.fill = "pink";
+  }
 
   async function getResults() {
     const res = await fetch(`./output/${state}-${chamber}.json`);
@@ -67,6 +80,7 @@
   const paintMap = () => {
     let demCount = 0;
     let gopCount = 0;
+    let thirdCount = 0;
     for (let i = 0; i < precinctData.length; i++) {
       let district = precinctData[i].current_role.district;
       let party = precinctData[i].party;
@@ -81,6 +95,7 @@
         gopCount++;
       } else {
         mapTarget.style.fill = "#E3BB1C";
+        thirdCount++;
         // console.log("something else happened");
       }
     }
@@ -89,6 +104,7 @@
     const demPercent = (demCount / chamberSize) * 100;
     // console.log(demPercent);
     const gopPercent = (gopCount / chamberSize) * 100;
+    const thirdPercent = (thirdCount / chamberSize) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
     // console.log(gopPercent);
     // console.log(demPercent);
     document.getElementById(
@@ -97,6 +113,9 @@
     document.getElementById(
       `${state}-${chamber}-gop`
     ).style.width = `${gopPercent}%`;
+    document.getElementById(
+      `${state}-${chamber}-third`
+    ).style.width = `${thirdPercent}%`;
   };
 </script>
 
@@ -109,13 +128,21 @@
   </div>
   <div id="{state}-{chamber}-bop" class="bop">
     <div id="{state}-{chamber}-dem" class="dem" />
+    <div id="{state}-{chamber}-third" class="third" />
     <div id="{state}-{chamber}-gop" class="gop" />
   </div>
+  <!-- <Tooltip title="this is a greeting from component">
+    <h1>Hello world from component!</h1>
+  </Tooltip> -->
 </main>
 
 <style>
   main {
     width: 35%;
+  }
+
+  .active {
+    border-color: white;
   }
   .bop {
     border-color: black;
@@ -134,6 +161,11 @@
   .gop {
     height: 20px;
     background-color: #dc3d3d;
+    align-items: right;
+  }
+  .third {
+    height: 20px;
+    background-color: #e3bb1c;
     align-items: right;
   }
 </style>
