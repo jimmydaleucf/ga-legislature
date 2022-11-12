@@ -1,476 +1,755 @@
 [
   {
     "state": "Alabama",
-    "chamber": "lower",
-    "totalIncumbents": 103,
-    "partyCount": [{ "gop": 75 }, { "dem": 28 }, { "other": 0 }]
-  },
-  {
-    "state": "Alabama",
-    "chamber": "upper",
-    "totalIncumbents": 35,
-    "partyCount": [{ "gop": 27 }, { "dem": 8 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 103,
+        "gop": 75,
+        "dem": 28,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 35,
+        "gop": 27,
+        "dem": 8,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Alaska",
-    "chamber": "lower",
-    "totalIncumbents": 40,
-    "partyCount": [{ "gop": 21 }, { "dem": 15 }, { "other": 4 }]
-  },
-  {
-    "state": "Alaska",
-    "chamber": "upper",
-    "totalIncumbents": 20,
-    "partyCount": [{ "gop": 13 }, { "dem": 7 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 40,
+        "gop": 21,
+        "dem": 15,
+        "other": 4
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 20,
+        "gop": 13,
+        "dem": 7,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Arizona",
-    "chamber": "lower",
-    "totalIncumbents": 60,
-    "partyCount": [{ "gop": 31 }, { "dem": 29 }, { "other": 0 }]
-  },
-  {
-    "state": "Arizona",
-    "chamber": "upper",
-    "totalIncumbents": 30,
-    "partyCount": [{ "gop": 16 }, { "dem": 14 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 60,
+        "gop": 31,
+        "dem": 29,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 30,
+        "gop": 16,
+        "dem": 14,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Arkansas",
-    "chamber": "lower",
-    "totalIncumbents": 100,
-    "partyCount": [{ "gop": 78 }, { "dem": 22 }, { "other": 0 }]
-  },
-  {
-    "state": "Arkansas",
-    "chamber": "upper",
-    "totalIncumbents": 35,
-    "partyCount": [{ "gop": 27 }, { "dem": 7 }, { "other": 1 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 100,
+        "gop": 78,
+        "dem": 22,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 35,
+        "gop": 27,
+        "dem": 7,
+        "other": 1
+      }
+    ]
   },
   {
     "state": "California",
-    "chamber": "lower",
-    "totalIncumbents": 80,
-    "partyCount": [{ "gop": 19 }, { "dem": 60 }, { "other": 1 }]
-  },
-  {
-    "state": "California",
-    "chamber": "upper",
-    "totalIncumbents": 40,
-    "partyCount": [{ "gop": 9 }, { "dem": 31 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 80,
+        "gop": 19,
+        "dem": 60,
+        "other": 1
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 40,
+        "gop": 9,
+        "dem": 31,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Colorado",
-    "chamber": "upper",
-    "totalIncumbents": 35,
-    "partyCount": [{ "gop": 15 }, { "dem": 20 }, { "other": 0 }]
-  },
-  {
-    "state": "Colorado",
-    "chamber": "lower",
-    "totalIncumbents": 65,
-    "partyCount": [{ "gop": 24 }, { "dem": 41 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 35,
+        "gop": 15,
+        "dem": 20,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 65,
+        "gop": 24,
+        "dem": 41,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Connecticut",
-    "chamber": "lower",
-    "totalIncumbents": 151,
-    "partyCount": [{ "gop": 54 }, { "dem": 97 }, { "other": 0 }]
-  },
-  {
-    "state": "Connecticut",
-    "chamber": "upper",
-    "totalIncumbents": 36,
-    "partyCount": [{ "gop": 13 }, { "dem": 23 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 151,
+        "gop": 54,
+        "dem": 97,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 36,
+        "gop": 13,
+        "dem": 23,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Delaware",
-    "chamber": "lower",
-    "totalIncumbents": 41,
-    "partyCount": [{ "gop": 15 }, { "dem": 26 }, { "other": 0 }]
-  },
-  {
-    "state": "Delaware",
-    "chamber": "upper",
-    "totalIncumbents": 21,
-    "partyCount": [{ "gop": 7 }, { "dem": 14 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 41,
+        "gop": 15,
+        "dem": 26,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 21,
+        "gop": 7,
+        "dem": 14,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Florida",
-    "chamber": "upper",
-    "totalIncumbents": 39,
-    "partyCount": [{ "gop": 23 }, { "dem": 16 }, { "other": 0 }]
-  },
-  {
-    "state": "Florida",
-    "chamber": "lower",
-    "totalIncumbents": 118,
-    "partyCount": [{ "gop": 76 }, { "dem": 42 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 39,
+        "gop": 23,
+        "dem": 16,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 118,
+        "gop": 76,
+        "dem": 42,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Georgia",
-    "chamber": "upper",
-    "totalIncumbents": 56,
-    "partyCount": [{ "gop": 34 }, { "dem": 22 }, { "other": 0 }]
-  },
-  {
-    "state": "Georgia",
-    "chamber": "lower",
-    "totalIncumbents": 180,
-    "partyCount": [{ "gop": 103 }, { "dem": 77 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 56,
+        "gop": 34,
+        "dem": 22,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 180,
+        "gop": 103,
+        "dem": 77,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Hawaii",
-    "chamber": "upper",
-    "totalIncumbents": 25,
-    "partyCount": [{ "gop": 1 }, { "dem": 24 }, { "other": 0 }]
-  },
-  {
-    "state": "Hawaii",
-    "chamber": "lower",
-    "totalIncumbents": 51,
-    "partyCount": [{ "gop": 4 }, { "dem": 47 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 25,
+        "gop": 1,
+        "dem": 24,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 51,
+        "gop": 4,
+        "dem": 47,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Idaho",
-    "chamber": "lower",
-    "totalIncumbents": 70,
-    "partyCount": [{ "gop": 58 }, { "dem": 12 }, { "other": 0 }]
-  },
-  {
-    "state": "Idaho",
-    "chamber": "upper",
-    "totalIncumbents": 35,
-    "partyCount": [{ "gop": 28 }, { "dem": 7 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 70,
+        "gop": 58,
+        "dem": 12,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 35,
+        "gop": 28,
+        "dem": 7,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Illinois",
-    "chamber": "upper",
-    "totalIncumbents": 59,
-    "partyCount": [{ "gop": 18 }, { "dem": 41 }, { "other": 0 }]
-  },
-  {
-    "state": "Illinois",
-    "chamber": "lower",
-    "totalIncumbents": 118,
-    "partyCount": [{ "gop": 45 }, { "dem": 73 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 59,
+        "gop": 18,
+        "dem": 41,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 118,
+        "gop": 45,
+        "dem": 73,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Indiana",
-    "chamber": "upper",
-    "totalIncumbents": 50,
-    "partyCount": [{ "gop": 39 }, { "dem": 11 }, { "other": 0 }]
-  },
-  {
-    "state": "Indiana",
-    "chamber": "lower",
-    "totalIncumbents": 100,
-    "partyCount": [{ "gop": 71 }, { "dem": 29 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 50,
+        "gop": 39,
+        "dem": 11,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 100,
+        "gop": 71,
+        "dem": 29,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Iowa",
-    "chamber": "lower",
-    "totalIncumbents": 100,
-    "partyCount": [{ "gop": 60 }, { "dem": 40 }, { "other": 0 }]
-  },
-  {
-    "state": "Iowa",
-    "chamber": "upper",
-    "totalIncumbents": 50,
-    "partyCount": [{ "gop": 32 }, { "dem": 18 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 100,
+        "gop": 60,
+        "dem": 40,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 50,
+        "gop": 32,
+        "dem": 18,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Kansas",
-    "chamber": "upper",
-    "totalIncumbents": 40,
-    "partyCount": [{ "gop": 29 }, { "dem": 11 }, { "other": 0 }]
-  },
-  {
-    "state": "Kansas",
-    "chamber": "lower",
-    "totalIncumbents": 125,
-    "partyCount": [{ "gop": 86 }, { "dem": 39 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 40,
+        "gop": 29,
+        "dem": 11,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 125,
+        "gop": 86,
+        "dem": 39,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Kentucky",
-    "chamber": "upper",
-    "totalIncumbents": 38,
-    "partyCount": [{ "gop": 30 }, { "dem": 8 }, { "other": 0 }]
-  },
-  {
-    "state": "Kentucky",
-    "chamber": "lower",
-    "totalIncumbents": 100,
-    "partyCount": [{ "gop": 75 }, { "dem": 25 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 38,
+        "gop": 30,
+        "dem": 8,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 100,
+        "gop": 75,
+        "dem": 25,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Louisiana",
-    "chamber": "upper",
-    "totalIncumbents": 38,
-    "partyCount": [{ "gop": 27 }, { "dem": 11 }, { "other": 0 }]
-  },
-  {
-    "state": "Louisiana",
-    "chamber": "lower",
-    "totalIncumbents": 105,
-    "partyCount": [{ "gop": 68 }, { "dem": 34 }, { "other": 3 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 38,
+        "gop": 27,
+        "dem": 11,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 105,
+        "gop": 68,
+        "dem": 34,
+        "other": 3
+      }
+    ]
   },
   {
     "state": "Maine",
-    "chamber": "lower",
-    "totalIncumbents": 144,
-    "partyCount": [{ "gop": 63 }, { "dem": 78 }, { "other": 3 }]
-  },
-  {
-    "state": "Maine",
-    "chamber": "upper",
-    "totalIncumbents": 35,
-    "partyCount": [{ "gop": 13 }, { "dem": 22 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 144,
+        "gop": 63,
+        "dem": 78,
+        "other": 3
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 35,
+        "gop": 13,
+        "dem": 22,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Maryland",
-    "chamber": "lower",
-    "totalIncumbents": 141,
-    "partyCount": [{ "gop": 42 }, { "dem": 99 }, { "other": 0 }]
-  },
-  {
-    "state": "Maryland",
-    "chamber": "upper",
-    "totalIncumbents": 47,
-    "partyCount": [{ "gop": 15 }, { "dem": 32 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 141,
+        "gop": 42,
+        "dem": 99,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 47,
+        "gop": 15,
+        "dem": 32,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Massachusetts",
-    "chamber": "upper",
-    "totalIncumbents": 40,
-    "partyCount": [{ "gop": 3 }, { "dem": 37 }, { "other": 0 }]
-  },
-  {
-    "state": "Massachusetts",
-    "chamber": "lower",
-    "totalIncumbents": 156,
-    "partyCount": [{ "gop": 28 }, { "dem": 127 }, { "other": 1 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 40,
+        "gop": 3,
+        "dem": 37,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 156,
+        "gop": 28,
+        "dem": 127,
+        "other": 1
+      }
+    ]
   },
   {
     "state": "Michigan",
-    "chamber": "lower",
-    "totalIncumbents": 110,
-    "partyCount": [{ "gop": 57 }, { "dem": 53 }, { "other": 0 }]
-  },
-  {
-    "state": "Michigan",
-    "chamber": "upper",
-    "totalIncumbents": 38,
-    "partyCount": [{ "gop": 22 }, { "dem": 16 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 110,
+        "gop": 57,
+        "dem": 53,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 38,
+        "gop": 22,
+        "dem": 16,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Minnesota",
-    "chamber": "upper",
-    "totalIncumbents": 67,
-    "partyCount": [{ "gop": 34 }, { "dem": 0 }, { "other": 33 }]
-  },
-  {
-    "state": "Minnesota",
-    "chamber": "lower",
-    "totalIncumbents": 134,
-    "partyCount": [{ "gop": 64 }, { "dem": 0 }, { "other": 70 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 67,
+        "gop": 34,
+        "dem": 0,
+        "other": 33
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 134,
+        "gop": 64,
+        "dem": 0,
+        "other": 70
+      }
+    ]
   },
   {
     "state": "Mississippi",
-    "chamber": "lower",
-    "totalIncumbents": 122,
-    "partyCount": [{ "gop": 75 }, { "dem": 45 }, { "other": 2 }]
-  },
-  {
-    "state": "Mississippi",
-    "chamber": "upper",
-    "totalIncumbents": 52,
-    "partyCount": [{ "gop": 37 }, { "dem": 15 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 122,
+        "gop": 75,
+        "dem": 45,
+        "other": 2
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 52,
+        "gop": 37,
+        "dem": 15,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Missouri",
-    "chamber": "upper",
-    "totalIncumbents": 34,
-    "partyCount": [{ "gop": 24 }, { "dem": 10 }, { "other": 0 }]
-  },
-  {
-    "state": "Missouri",
-    "chamber": "lower",
-    "totalIncumbents": 157,
-    "partyCount": [{ "gop": 108 }, { "dem": 49 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 34,
+        "gop": 24,
+        "dem": 10,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 157,
+        "gop": 108,
+        "dem": 49,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Montana",
-    "chamber": "lower",
-    "totalIncumbents": 100,
-    "partyCount": [{ "gop": 67 }, { "dem": 33 }, { "other": 0 }]
-  },
-  {
-    "state": "Montana",
-    "chamber": "upper",
-    "totalIncumbents": 50,
-    "partyCount": [{ "gop": 31 }, { "dem": 19 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 100,
+        "gop": 67,
+        "dem": 33,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 50,
+        "gop": 31,
+        "dem": 19,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Nevada",
-    "chamber": "upper",
-    "totalIncumbents": 21,
-    "partyCount": [{ "gop": 9 }, { "dem": 12 }, { "other": 0 }]
-  },
-  {
-    "state": "Nevada",
-    "chamber": "lower",
-    "totalIncumbents": 42,
-    "partyCount": [{ "gop": 16 }, { "dem": 26 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 21,
+        "gop": 9,
+        "dem": 12,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 42,
+        "gop": 16,
+        "dem": 26,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "New Hampshire",
-    "chamber": "upper",
-    "totalIncumbents": 24,
-    "partyCount": [{ "gop": 14 }, { "dem": 10 }, { "other": 0 }]
-  },
-  {
-    "state": "New Hampshire",
-    "chamber": "lower",
-    "totalIncumbents": 400,
-    "partyCount": [{ "gop": 212 }, { "dem": 188 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 24,
+        "gop": 14,
+        "dem": 10,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 400,
+        "gop": 212,
+        "dem": 188,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "New Jersey",
-    "chamber": "lower",
-    "totalIncumbents": 80,
-    "partyCount": [{ "gop": 34 }, { "dem": 46 }, { "other": 0 }]
-  },
-  {
-    "state": "New Jersey",
-    "chamber": "upper",
-    "totalIncumbents": 40,
-    "partyCount": [{ "gop": 16 }, { "dem": 24 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 80,
+        "gop": 34,
+        "dem": 46,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 40,
+        "gop": 16,
+        "dem": 24,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "New Mexico",
-    "chamber": "upper",
-    "totalIncumbents": 42,
-    "partyCount": [{ "gop": 15 }, { "dem": 26 }, { "other": 1 }]
-  },
-  {
-    "state": "New Mexico",
-    "chamber": "lower",
-    "totalIncumbents": 70,
-    "partyCount": [{ "gop": 24 }, { "dem": 45 }, { "other": 1 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 42,
+        "gop": 15,
+        "dem": 26,
+        "other": 1
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 70,
+        "gop": 24,
+        "dem": 45,
+        "other": 1
+      }
+    ]
   },
   {
     "state": "New York",
-    "chamber": "lower",
-    "totalIncumbents": 150,
-    "partyCount": [{ "gop": 43 }, { "dem": 106 }, { "other": 1 }]
-  },
-  {
-    "state": "New York",
-    "chamber": "upper",
-    "totalIncumbents": 63,
-    "partyCount": [{ "gop": 20 }, { "dem": 43 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 150,
+        "gop": 43,
+        "dem": 106,
+        "other": 1
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 63,
+        "gop": 20,
+        "dem": 43,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "North Carolina",
-    "chamber": "lower",
-    "totalIncumbents": 120,
-    "partyCount": [{ "gop": 69 }, { "dem": 51 }, { "other": 0 }]
-  },
-  {
-    "state": "North Carolina",
-    "chamber": "upper",
-    "totalIncumbents": 50,
-    "partyCount": [{ "gop": 28 }, { "dem": 22 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 120,
+        "gop": 69,
+        "dem": 51,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 50,
+        "gop": 28,
+        "dem": 22,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "North Dakota",
-    "chamber": "lower",
-    "totalIncumbents": 94,
-    "partyCount": [{ "gop": 80 }, { "dem": 14 }, { "other": 0 }]
-  },
-  {
-    "state": "North Dakota",
-    "chamber": "upper",
-    "totalIncumbents": 47,
-    "partyCount": [{ "gop": 40 }, { "dem": 7 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 94,
+        "gop": 80,
+        "dem": 14,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 47,
+        "gop": 40,
+        "dem": 7,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Ohio",
-    "chamber": "upper",
-    "totalIncumbents": 33,
-    "partyCount": [{ "gop": 25 }, { "dem": 8 }, { "other": 0 }]
-  },
-  {
-    "state": "Ohio",
-    "chamber": "lower",
-    "totalIncumbents": 99,
-    "partyCount": [{ "gop": 64 }, { "dem": 35 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 33,
+        "gop": 25,
+        "dem": 8,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 99,
+        "gop": 64,
+        "dem": 35,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Oklahoma",
-    "chamber": "upper",
-    "totalIncumbents": 48,
-    "partyCount": [{ "gop": 39 }, { "dem": 9 }, { "other": 0 }]
-  },
-  {
-    "state": "Oklahoma",
-    "chamber": "lower",
-    "totalIncumbents": 101,
-    "partyCount": [{ "gop": 82 }, { "dem": 19 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 48,
+        "gop": 39,
+        "dem": 9,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 101,
+        "gop": 82,
+        "dem": 19,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Oregon",
-    "chamber": "lower",
-    "totalIncumbents": 60,
-    "partyCount": [{ "gop": 22 }, { "dem": 38 }, { "other": 0 }]
-  },
-  {
-    "state": "Oregon",
-    "chamber": "upper",
-    "totalIncumbents": 30,
-    "partyCount": [{ "gop": 11 }, { "dem": 18 }, { "other": 1 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 60,
+        "gop": 22,
+        "dem": 38,
+        "other": 0
+      },
+      {
+        "chamber": "upper",
+        "incubmentTotal": 30,
+        "gop": 11,
+        "dem": 18,
+        "other": 1
+      }
+    ]
   },
   {
     "state": "Pennsylvania",
-    "chamber": "upper",
-    "totalIncumbents": 50,
-    "partyCount": [{ "gop": 28 }, { "dem": 21 }, { "other": 1 }]
-  },
-  {
-    "state": "Pennsylvania",
-    "chamber": "lower",
-    "totalIncumbents": 203,
-    "partyCount": [{ "gop": 113 }, { "dem": 90 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 50,
+        "gop": 28,
+        "dem": 21,
+        "other": 1
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 203,
+        "gop": 113,
+        "dem": 90,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "Rhode Island",
-    "chamber": "upper",
-    "totalIncumbents": 38,
-    "partyCount": [{ "gop": 4 }, { "dem": 34 }, { "other": 0 }]
-  },
-  {
-    "state": "Rhode Island",
-    "chamber": "lower",
-    "totalIncumbents": 75,
-    "partyCount": [{ "gop": 10 }, { "dem": 65 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 38,
+        "gop": 4,
+        "dem": 34,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 75,
+        "gop": 10,
+        "dem": 65,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "South Carolina",
-    "chamber": "upper",
-    "totalIncumbents": 46,
-    "partyCount": [{ "gop": 30 }, { "dem": 16 }, { "other": 0 }]
-  },
-  {
-    "state": "South Carolina",
-    "chamber": "lower",
-    "totalIncumbents": 124,
-    "partyCount": [{ "gop": 81 }, { "dem": 43 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "upper",
+        "incubmentTotal": 46,
+        "gop": 30,
+        "dem": 16,
+        "other": 0
+      },
+      {
+        "chamber": "lower",
+        "incubmentTotal": 124,
+        "gop": 81,
+        "dem": 43,
+        "other": 0
+      }
+    ]
   },
   {
     "state": "South Dakota",
-    "chamber": "lower",
-    "totalIncumbents": 70,
-    "partyCount": [{ "gop": 62 }, { "dem": 8 }, { "other": 0 }]
+    "chamberInfo": [
+      {
+        "chamber": "lower",
+        "incubmentTotal": 70,
+        "gop": 62,
+        "dem": 8,
+        "other": 0
+      }
+    ]
   }
 ]
