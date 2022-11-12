@@ -47,7 +47,7 @@
   }
 
   async function getResults() {
-    const res = await fetch(`./output/${state}-${chamber}.json`);
+    const res = await fetch(`./output/incumbents/${state}-${chamber}.json`);
     const results = await res.json();
     // console.log(results);
     if (res.ok) {
@@ -107,8 +107,6 @@
     // console.log(demPercent);
     const gopPercent = (gopCount / chamberSize) * 100;
     const thirdPercent = (thirdCount / chamberSize) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
-    // console.log(gopPercent);
-    // console.log(demPercent);
     document.getElementById(
       `${state}-${chamber}-dem`
     ).style.width = `${demPercent}%`;
