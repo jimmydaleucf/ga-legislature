@@ -3,11 +3,10 @@ import json
 
 import time
 
-path = './public/output/totalMembers/'
+path = './public/output/'
 
-# stateList = ['Alabama',
-# 'Alaska',
-# 'Arizona']
+# stateList = [
+# 'Alabama', 'Alaska']
 
 stateList =['Alabama',
 'Alaska',
@@ -89,6 +88,6 @@ for x in range(len(stateList)):
                 "organizations":chamberArray}
     output.append(combined)
     print(f'********* {state} complete! ***********')
-    with open(f'{path}{state}Total.json', 'w') as json_file:
-        json.dump(output, json_file)
+with open(f'{path}ChambersTotal.json', 'w') as json_file:
+    json.dump(output, json_file)
 print('your file has been created Jimmy!')

@@ -57,7 +57,7 @@
     }
   }
   async function getChamberInfo() {
-    const res = await fetch(`./output/totalMembers/${state}Total.json`);
+    const res = await fetch(`./output/ChambersTotal.json`);
     const results = await res.json();
     const stateName = `${state}`;
     if (res.ok) {
