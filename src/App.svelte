@@ -5,7 +5,7 @@
 <main>
   <h1>Jimmy's Legislature Project</h1>
   <div class="container">
-    <LegMap state="Florida" chamber="lower" />
+    <LegMap state="North Carolina" chamber="upper" />
     <!-- <LegMap state="Florida" chamber="upper" />
     <LegMap state="Georgia" chamber="lower" />
     <LegMap state="Georgia" chamber="upper" />

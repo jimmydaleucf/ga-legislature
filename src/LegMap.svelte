@@ -8,6 +8,7 @@
 
   export let state;
   export let chamber;
+  let stateString = state.replace(/\s/g, "_");
   //
   // onMount(() => {
   fetch(`./assets/2012/${state}-${chamber}.svg`)
@@ -33,6 +34,7 @@
       svg.setAttribute("id", `${state}-${chamber}-map`);
       svgMarkup = map.innerHTML;
       getChamberInfo().then(getResults());
+      console.log(stateString);
     });
   // });
 
