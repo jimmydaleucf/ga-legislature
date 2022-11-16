@@ -4,6 +4,7 @@ import collections
 
 bopRollup = []
 directory = './public/output/incumbents/'
+directoryTwo = 'public/output/ChambersTotal.json'
 path = './public/output/'
 
 
@@ -31,18 +32,35 @@ for file in files:
   gopObj = {'gop': gop}
   demObj = {'dem':dem}
   otherObj = {'other': other}
-#   partyCount.append(incumbentObj)
-#   partyCount.append(gopObj)
-#   partyCount.append(demObj)
-#   partyCount.append(otherObj)
-  chamberObj ={'chamber':chamberName,'incubmentTotal':incumbentTotal, 'gop':gop, 'dem':dem, 'other':other}
-  stateObj = {'state':stateName,  'chamberInfo':chamberObj}
+  chamberObj ={'classification':chamberName,'incubmentTotal':incumbentTotal, 'gop':gop, 'dem':dem, 'other':other}
+  stateObj = {'state':stateName,  'organizations':[chamberObj]}
   bopRollup.append(stateObj)
-  newlist = sorted(bopRollup, key=lambda d: d['state'])
-  print(newlist)
-  combinedList = collections.defaultdict(list)
-  for chamberInfo in newlist:
-    combinedList[chamberInfo['state']].append(chamberInfo['chamberInfo'])
-  newlist = [{'state': key, 'chamberInfo': value} for key, value in combinedList.items()]
+combinedTotal = open(directoryTwo)
+combinedTotalObj = json.load(combinedTotal)
+mergedList = bopRollup + combinedTotalObj
+newlist = sorted(mergedList, key=lambda d: d['state'])
+combinedList = collections.defaultdict(list)
+for organizations in newlist:
+  combinedList[organizations['state']].extend(organizations['organizations'])
+newlist = [{'state': key, 'organizations': value} for key, value in combinedList.items()]
+for state in newlist:
+    print(newlist)
+    lowerChamber = []
+    orgs = state['organizations']
+    for org in orgs:
+        if org['classification'] == 'upper':
+            upperChamber.append(org)
+        elif org['classification'] == 'lower':
+            lowerChamber.append(org)
+        else:
+            print('skip')
+    if state['state'] != "Nebraska":
+        newThing = upperChamber[0] | upperChamber[1]
+        print(newThing)
+    else:
+        print('NEBRASKA')
+    print(state['state'])
+    
 with open(f'{path}bopRollup.json', 'w') as json_file:
     json.dump(newlist, json_file)
+    print('***** bopRollup.json file updated *****')

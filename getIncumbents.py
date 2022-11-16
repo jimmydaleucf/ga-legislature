@@ -47,19 +47,20 @@ mainList = []
 # 'Pennsylvania',
 # 'Rhode Island',
 # 'South Carolina',
-# 'South Dakota',
+# 
 # ]
 
 stateList =[
-'Tennessee',
-'Texas',
-'Utah',
-'Vermont',
-'Virginia',
-'Washington',
-'West Virginia',
-'Wisconsin',
-'Wyoming']
+'South Dakota',]
+# 'Tennessee',
+# 'Texas',
+# 'Utah',
+# 'Vermont',
+# 'Virginia',
+# 'Washington',
+# 'West Virginia',
+# 'Wisconsin',
+# 'Wyoming'
 
     
 path = './public/output/incumbents/'
