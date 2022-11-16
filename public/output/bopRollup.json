@@ -3,30 +3,22 @@
     "state": "Alabama",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 103,
-        "gop": 75,
-        "dem": 28,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 35,
         "gop": 27,
         "dem": 8,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       },
       {
-        "org": "Alabama Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 },
-      { "org": "House", "classification": "lower", "totalSeats": 105 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 103,
+        "gop": 75,
+        "dem": 28,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 105
       }
     ]
   },
@@ -34,30 +26,22 @@
     "state": "Alaska",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 40,
-        "gop": 21,
-        "dem": 15,
-        "other": 4
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 20,
         "gop": 13,
         "dem": 7,
-        "other": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 20 },
-      { "org": "House", "classification": "lower", "totalSeats": 40 },
-      {
-        "org": "Alaska State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 20
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 40,
+        "gop": 21,
+        "dem": 15,
+        "other": 4,
+        "org": "House",
+        "totalSeats": 40
       }
     ]
   },
@@ -65,61 +49,45 @@
     "state": "Arizona",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 60,
-        "gop": 31,
-        "dem": 29,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 30,
         "gop": 16,
         "dem": 14,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 30
       },
       {
-        "org": "Arizona State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 30 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 30 }
+        "classification": "lower",
+        "incubmentTotal": 60,
+        "gop": 31,
+        "dem": 29,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 30
+      }
     ]
   },
   {
     "state": "Arkansas",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 78,
-        "dem": 22,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 35,
         "gop": 27,
         "dem": 7,
-        "other": 1
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 35
       },
       {
-        "org": "Arkansas General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 78,
+        "dem": 22,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
       }
     ]
   },
@@ -127,31 +95,23 @@
     "state": "California",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 80,
-        "gop": 19,
-        "dem": 60,
-        "other": 1
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 40,
         "gop": 9,
         "dem": 31,
-        "other": 0
-      },
-      { "org": "Assembly", "classification": "lower", "totalSeats": 80 },
-      {
-        "org": "California State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 }
+        "classification": "lower",
+        "incubmentTotal": 80,
+        "gop": 19,
+        "dem": 60,
+        "other": 1,
+        "org": "Assembly",
+        "totalSeats": 80
+      }
     ]
   },
   {
@@ -162,57 +122,41 @@
         "incubmentTotal": 35,
         "gop": 15,
         "dem": 20,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       },
       {
         "classification": "lower",
         "incubmentTotal": 65,
         "gop": 24,
         "dem": 41,
-        "other": 0
-      },
-      {
-        "org": "Colorado General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 65 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 65
+      }
     ]
   },
   {
     "state": "Connecticut",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 151,
-        "gop": 54,
-        "dem": 97,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 36,
         "gop": 13,
         "dem": 23,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 36
       },
       {
-        "org": "Connecticut General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 151 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 36 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 151,
+        "gop": 54,
+        "dem": 97,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 151
       }
     ]
   },
@@ -220,31 +164,23 @@
     "state": "Delaware",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 41,
-        "gop": 15,
-        "dem": 26,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 21,
         "gop": 7,
         "dem": 14,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 21
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Delaware General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 41 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 21 }
+        "classification": "lower",
+        "incubmentTotal": 41,
+        "gop": 15,
+        "dem": 26,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 41
+      }
     ]
   },
   {
@@ -255,26 +191,18 @@
         "incubmentTotal": 39,
         "gop": 23,
         "dem": 16,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
         "classification": "lower",
         "incubmentTotal": 118,
         "gop": 76,
         "dem": 42,
-        "other": 0
-      },
-      {
-        "org": "Florida Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 120 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 120
       }
     ]
   },
@@ -286,26 +214,18 @@
         "incubmentTotal": 56,
         "gop": 34,
         "dem": 22,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 56
       },
       {
         "classification": "lower",
         "incubmentTotal": 180,
         "gop": 103,
         "dem": 77,
-        "other": 0
-      },
-      {
-        "org": "Georgia General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 180 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 56 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 180
       }
     ]
   },
@@ -317,26 +237,18 @@
         "incubmentTotal": 25,
         "gop": 1,
         "dem": 24,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 25
       },
       {
         "classification": "lower",
         "incubmentTotal": 51,
         "gop": 4,
         "dem": 47,
-        "other": 0
-      },
-      {
-        "org": "Hawaii State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 51 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 25 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 51
       }
     ]
   },
@@ -344,30 +256,22 @@
     "state": "Idaho",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 70,
-        "gop": 58,
-        "dem": 12,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 35,
         "gop": 28,
         "dem": 7,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       },
       {
-        "org": "Idaho State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 },
-      { "org": "House", "classification": "lower", "totalSeats": 35 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 70,
+        "gop": 58,
+        "dem": 12,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 35
       }
     ]
   },
@@ -379,26 +283,18 @@
         "incubmentTotal": 59,
         "gop": 18,
         "dem": 41,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 59
       },
       {
         "classification": "lower",
         "incubmentTotal": 118,
         "gop": 45,
         "dem": 73,
-        "other": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 118 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 59 },
-      {
-        "org": "Illinois General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 118
       }
     ]
   },
@@ -410,57 +306,41 @@
         "incubmentTotal": 50,
         "gop": 39,
         "dem": 11,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       },
       {
         "classification": "lower",
         "incubmentTotal": 100,
         "gop": 71,
         "dem": 29,
-        "other": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Indiana General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 50 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
+      }
     ]
   },
   {
     "state": "Iowa",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 60,
-        "dem": 40,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 50,
         "gop": 32,
         "dem": 18,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       },
       {
-        "org": "Iowa General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 50 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 60,
+        "dem": 40,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
       }
     ]
   },
@@ -472,26 +352,18 @@
         "incubmentTotal": 40,
         "gop": 29,
         "dem": 11,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
         "classification": "lower",
         "incubmentTotal": 125,
         "gop": 86,
         "dem": 39,
-        "other": 0
-      },
-      {
-        "org": "Kansas State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 125 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 125
       }
     ]
   },
@@ -503,26 +375,18 @@
         "incubmentTotal": 38,
         "gop": 30,
         "dem": 8,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       },
       {
         "classification": "lower",
         "incubmentTotal": 100,
         "gop": 75,
         "dem": 25,
-        "other": 0
-      },
-      {
-        "org": "Kentucky General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 38 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
       }
     ]
   },
@@ -534,26 +398,18 @@
         "incubmentTotal": 38,
         "gop": 27,
         "dem": 11,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 39
       },
       {
         "classification": "lower",
         "incubmentTotal": 105,
         "gop": 68,
         "dem": 34,
-        "other": 3
-      },
-      {
-        "org": "Louisiana Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 105 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 39 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 3,
+        "org": "House",
+        "totalSeats": 105
       }
     ]
   },
@@ -561,62 +417,46 @@
     "state": "Maine",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 144,
-        "gop": 63,
-        "dem": 78,
-        "other": 3
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 35,
         "gop": 13,
         "dem": 22,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       },
       {
-        "org": "Maine Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 151 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 }
+        "classification": "lower",
+        "incubmentTotal": 144,
+        "gop": 63,
+        "dem": 78,
+        "other": 3,
+        "org": "House",
+        "totalSeats": 151
+      }
     ]
   },
   {
     "state": "Maryland",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 141,
-        "gop": 42,
-        "dem": 99,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 47,
         "gop": 15,
         "dem": 32,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 47
       },
       {
-        "org": "Maryland General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 67 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 47 }
+        "classification": "lower",
+        "incubmentTotal": 141,
+        "gop": 42,
+        "dem": 99,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 67
+      }
     ]
   },
   {
@@ -627,57 +467,41 @@
         "incubmentTotal": 40,
         "gop": 3,
         "dem": 37,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
         "classification": "lower",
         "incubmentTotal": 156,
         "gop": 28,
         "dem": 127,
-        "other": 1
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Massachusetts General Court",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 160 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 }
+        "other": 1,
+        "org": "House",
+        "totalSeats": 160
+      }
     ]
   },
   {
     "state": "Michigan",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 110,
-        "gop": 57,
-        "dem": 53,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 38,
         "gop": 22,
         "dem": 16,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       },
       {
-        "org": "Michigan Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 110 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 38 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 110,
+        "gop": 57,
+        "dem": 53,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 110
       }
     ]
   },
@@ -689,58 +513,42 @@
         "incubmentTotal": 67,
         "gop": 34,
         "dem": 0,
-        "other": 33
+        "other": 33,
+        "org": "Senate",
+        "totalSeats": 67
       },
       {
         "classification": "lower",
         "incubmentTotal": 134,
         "gop": 64,
         "dem": 0,
-        "other": 70
-      },
-      {
-        "org": "Minnesota Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Governor of Minnesota",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 134 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 67 }
+        "other": 70,
+        "org": "House",
+        "totalSeats": 134
+      }
     ]
   },
   {
     "state": "Mississippi",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 122,
-        "gop": 75,
-        "dem": 45,
-        "other": 2
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 52,
         "gop": 37,
         "dem": 15,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 52
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Mississippi Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 122 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 52 }
+        "classification": "lower",
+        "incubmentTotal": 122,
+        "gop": 75,
+        "dem": 45,
+        "other": 2,
+        "org": "House",
+        "totalSeats": 122
+      }
     ]
   },
   {
@@ -751,72 +559,56 @@
         "incubmentTotal": 34,
         "gop": 24,
         "dem": 10,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 34
       },
       {
         "classification": "lower",
         "incubmentTotal": 157,
         "gop": 108,
         "dem": 49,
-        "other": 0
-      },
-      {
-        "org": "Missouri General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 163 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 34 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 163
+      }
     ]
   },
   {
     "state": "Montana",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 67,
-        "dem": 33,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 50,
         "gop": 31,
         "dem": 19,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       },
       {
-        "org": "Montana Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 50 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 67,
+        "dem": 33,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
       }
     ]
   },
   {
     "state": "Nebraska",
     "organizations": [
+      [],
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Nebraska Legislature",
-        "classification": "legislature",
-        "totalSeats": 49
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 67,
+        "dem": 33,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
       }
     ]
   },
@@ -828,27 +620,19 @@
         "incubmentTotal": 21,
         "gop": 9,
         "dem": 12,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 21
       },
       {
         "classification": "lower",
         "incubmentTotal": 42,
         "gop": 16,
         "dem": 26,
-        "other": 0
-      },
-      {
-        "org": "Nevada Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "Assembly", "classification": "lower", "totalSeats": 42 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 21 }
+        "other": 0,
+        "org": "Assembly",
+        "totalSeats": 42
+      }
     ]
   },
   {
@@ -859,26 +643,18 @@
         "incubmentTotal": 24,
         "gop": 14,
         "dem": 10,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 24
       },
       {
         "classification": "lower",
         "incubmentTotal": 400,
         "gop": 212,
         "dem": 188,
-        "other": 0
-      },
-      {
-        "org": "New Hampshire General Court",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 204 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 24 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 204
       }
     ]
   },
@@ -886,31 +662,23 @@
     "state": "New Jersey",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 80,
-        "gop": 34,
-        "dem": 46,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 40,
         "gop": 16,
         "dem": 24,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
-        "org": "New Jersey Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Governor of New Jersey",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "Assembly", "classification": "lower", "totalSeats": 40 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 }
+        "classification": "lower",
+        "incubmentTotal": 80,
+        "gop": 34,
+        "dem": 46,
+        "other": 0,
+        "org": "Assembly",
+        "totalSeats": 40
+      }
     ]
   },
   {
@@ -921,57 +689,41 @@
         "incubmentTotal": 42,
         "gop": 15,
         "dem": 26,
-        "other": 1
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 42
       },
       {
         "classification": "lower",
         "incubmentTotal": 70,
         "gop": 24,
         "dem": 45,
-        "other": 1
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "New Mexico Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 70 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 42 }
+        "other": 1,
+        "org": "House",
+        "totalSeats": 70
+      }
     ]
   },
   {
     "state": "New York",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 150,
-        "gop": 43,
-        "dem": 106,
-        "other": 1
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 63,
         "gop": 20,
         "dem": 43,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 63
       },
       {
-        "org": "New York Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 63 },
-      { "org": "Assembly", "classification": "lower", "totalSeats": 150 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 150,
+        "gop": 43,
+        "dem": 106,
+        "other": 1,
+        "org": "Assembly",
+        "totalSeats": 150
       }
     ]
   },
@@ -979,61 +731,45 @@
     "state": "North Carolina",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 120,
-        "gop": 69,
-        "dem": 51,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 50,
         "gop": 28,
         "dem": 22,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       },
       {
-        "org": "North Carolina General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Executive Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 120 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 50 }
+        "classification": "lower",
+        "incubmentTotal": 120,
+        "gop": 69,
+        "dem": 51,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 120
+      }
     ]
   },
   {
     "state": "North Dakota",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 94,
-        "gop": 80,
-        "dem": 14,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 47,
         "gop": 40,
         "dem": 7,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 47
       },
       {
-        "org": "North Dakota Legislative Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 47 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 47 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 94,
+        "gop": 80,
+        "dem": 14,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 47
       }
     ]
   },
@@ -1045,27 +781,19 @@
         "incubmentTotal": 33,
         "gop": 25,
         "dem": 8,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       },
       {
         "classification": "lower",
         "incubmentTotal": 99,
         "gop": 64,
         "dem": 35,
-        "other": 0
-      },
-      {
-        "org": "Governor of Ohio",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Ohio General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 99 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 33 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 99
+      }
     ]
   },
   {
@@ -1076,26 +804,18 @@
         "incubmentTotal": 48,
         "gop": 39,
         "dem": 9,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 48
       },
       {
         "classification": "lower",
         "incubmentTotal": 101,
         "gop": 82,
         "dem": 19,
-        "other": 0
-      },
-      {
-        "org": "Oklahoma Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 101 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 48 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 101
       }
     ]
   },
@@ -1103,30 +823,22 @@
     "state": "Oregon",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 60,
-        "gop": 22,
-        "dem": 38,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 30,
         "gop": 11,
         "dem": 18,
-        "other": 1
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 30
       },
       {
-        "org": "Oregon Legislative Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 60 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 30 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 60,
+        "gop": 22,
+        "dem": 38,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 60
       }
     ]
   },
@@ -1138,26 +850,18 @@
         "incubmentTotal": 50,
         "gop": 28,
         "dem": 21,
-        "other": 1
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 50
       },
       {
         "classification": "lower",
         "incubmentTotal": 203,
         "gop": 113,
         "dem": 90,
-        "other": 0
-      },
-      {
-        "org": "Pennsylvania General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 203 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 50 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 203
       }
     ]
   },
@@ -1169,27 +873,19 @@
         "incubmentTotal": 38,
         "gop": 4,
         "dem": 34,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       },
       {
         "classification": "lower",
         "incubmentTotal": 75,
         "gop": 10,
         "dem": 65,
-        "other": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Rhode Island General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 75 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 38 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 75
+      }
     ]
   },
   {
@@ -1200,26 +896,18 @@
         "incubmentTotal": 46,
         "gop": 30,
         "dem": 16,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 46
       },
       {
         "classification": "lower",
         "incubmentTotal": 124,
         "gop": 81,
         "dem": 43,
-        "other": 0
-      },
-      {
-        "org": "South Carolina Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 124 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 46 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 124
       }
     ]
   },
@@ -1227,24 +915,23 @@
     "state": "South Dakota",
     "organizations": [
       {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 32,
+        "dem": 3,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
+      },
+      {
         "classification": "lower",
         "incubmentTotal": 70,
         "gop": 62,
         "dem": 8,
-        "other": 0
-      },
-      {
-        "org": "South Dakota State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 37 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 35 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 37
+      }
     ]
   },
   {
@@ -1255,26 +942,18 @@
         "incubmentTotal": 33,
         "gop": 27,
         "dem": 6,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       },
       {
         "classification": "lower",
         "incubmentTotal": 98,
         "gop": 73,
         "dem": 24,
-        "other": 1
-      },
-      {
-        "org": "Tennessee General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 99 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 33 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 1,
+        "org": "House",
+        "totalSeats": 99
       }
     ]
   },
@@ -1282,62 +961,46 @@
     "state": "Texas",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 150,
-        "gop": 83,
-        "dem": 67,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 31,
         "gop": 18,
         "dem": 13,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 31
       },
       {
-        "org": "Texas Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 150 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 31 }
+        "classification": "lower",
+        "incubmentTotal": 150,
+        "gop": 83,
+        "dem": 67,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 150
+      }
     ]
   },
   {
     "state": "Utah",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 75,
-        "gop": 58,
-        "dem": 17,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 29,
         "gop": 23,
         "dem": 6,
-        "other": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 29 },
-      {
-        "org": "Utah State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 29
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 75 }
+        "classification": "lower",
+        "incubmentTotal": 75,
+        "gop": 58,
+        "dem": 17,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 75
+      }
     ]
   },
   {
@@ -1348,27 +1011,19 @@
         "incubmentTotal": 30,
         "gop": 7,
         "dem": 18,
-        "other": 5
+        "other": 5,
+        "org": "Senate",
+        "totalSeats": 13
       },
       {
         "classification": "lower",
         "incubmentTotal": 150,
         "gop": 46,
         "dem": 90,
-        "other": 14
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Vermont General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 104 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 13 }
+        "other": 14,
+        "org": "House",
+        "totalSeats": 104
+      }
     ]
   },
   {
@@ -1379,27 +1034,19 @@
         "incubmentTotal": 40,
         "gop": 19,
         "dem": 21,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       },
       {
         "classification": "lower",
         "incubmentTotal": 100,
         "gop": 52,
         "dem": 48,
-        "other": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 100 },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      {
-        "org": "Virginia General Assembly",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 40 }
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
+      }
     ]
   },
   {
@@ -1410,26 +1057,18 @@
         "incubmentTotal": 49,
         "gop": 20,
         "dem": 29,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 49
       },
       {
         "classification": "lower",
         "incubmentTotal": 98,
         "gop": 41,
         "dem": 57,
-        "other": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 49 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 49 },
-      {
-        "org": "Washington State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "other": 0,
+        "org": "House",
+        "totalSeats": 49
       }
     ]
   },
@@ -1437,30 +1076,22 @@
     "state": "West Virginia",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 78,
-        "dem": 22,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 34,
         "gop": 23,
         "dem": 11,
-        "other": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 67 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 17 },
-      {
-        "org": "West Virginia Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 17
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 78,
+        "dem": 22,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 67
       }
     ]
   },
@@ -1468,30 +1099,22 @@
     "state": "Wisconsin",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 99,
-        "gop": 61,
-        "dem": 38,
-        "other": 0
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 33,
         "gop": 21,
         "dem": 12,
-        "other": 0
-      },
-      { "org": "Senate", "classification": "upper", "totalSeats": 33 },
-      { "org": "Assembly", "classification": "lower", "totalSeats": 99 },
-      {
-        "org": "Wisconsin State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       },
       {
-        "org": "Office of the Governor",
-        "classification": "executive",
-        "totalSeats": 0
+        "classification": "lower",
+        "incubmentTotal": 99,
+        "gop": 61,
+        "dem": 38,
+        "other": 0,
+        "org": "Assembly",
+        "totalSeats": 99
       }
     ]
   },
@@ -1499,31 +1122,23 @@
     "state": "Wyoming",
     "organizations": [
       {
-        "classification": "lower",
-        "incubmentTotal": 60,
-        "gop": 51,
-        "dem": 7,
-        "other": 2
-      },
-      {
         "classification": "upper",
         "incubmentTotal": 30,
         "gop": 28,
         "dem": 2,
-        "other": 0
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 30
       },
       {
-        "org": "Wyoming State Legislature",
-        "classification": "legislature",
-        "totalSeats": 0
-      },
-      {
-        "org": "Governor of Wyoming",
-        "classification": "executive",
-        "totalSeats": 0
-      },
-      { "org": "House", "classification": "lower", "totalSeats": 60 },
-      { "org": "Senate", "classification": "upper", "totalSeats": 30 }
+        "classification": "lower",
+        "incubmentTotal": 60,
+        "gop": 51,
+        "dem": 7,
+        "other": 2,
+        "org": "House",
+        "totalSeats": 60
+      }
     ]
   }
 ]

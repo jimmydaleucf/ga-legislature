@@ -44,7 +44,7 @@ for organizations in newlist:
   combinedList[organizations['state']].extend(organizations['organizations'])
 newlist = [{'state': key, 'organizations': value} for key, value in combinedList.items()]
 for state in newlist:
-    print(newlist)
+    upperChamber = []
     lowerChamber = []
     orgs = state['organizations']
     for org in orgs:
@@ -56,10 +56,15 @@ for state in newlist:
             print('skip')
     if state['state'] != "Nebraska":
         newThing = upperChamber[0] | upperChamber[1]
+        newThing2 = lowerChamber[0] | lowerChamber[1]
         print(newThing)
     else:
-        print('NEBRASKA')
+        newThing = upperChamber
     print(state['state'])
+    container = []
+    container.append(newThing)
+    container.append(newThing2)
+    state['organizations'] = container
     
 with open(f'{path}bopRollup.json', 'w') as json_file:
     json.dump(newlist, json_file)
