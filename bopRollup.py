@@ -46,7 +46,6 @@ newlist = [{'state': key, 'organizations': value} for key, value in combinedList
 for state in newlist:
     upperChamber = []
     lowerChamber = []
-    legislature = []
     orgs = state['organizations']
     container = []
     for org in orgs:
@@ -55,15 +54,15 @@ for state in newlist:
         elif org['classification'] == 'lower':
             lowerChamber.append(org)
         elif org['classification'] == 'legislature':
-            legislature.append(org)
+            upperChamber.append(org)
     if state['state'] != "Nebraska":
         newThing = upperChamber[0] | upperChamber[1]
         newThing2 = lowerChamber[0] | lowerChamber[1]
         container.append(newThing2)
     else:
-        newThing = legislature
+        newThing = upperChamber
         print(state['state'])
-        print(legislature)
+        print(upperChamber)
     container.append(newThing)
     state['organizations'] = container
     
