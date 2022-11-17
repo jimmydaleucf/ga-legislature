@@ -44,6 +44,7 @@ mainList = []
 # ]
 
 stateList =[
+    'Florida'
 # 'North Carolina',
 # 'North Dakota',
 # 'Ohio',
@@ -56,14 +57,16 @@ stateList =[
 # 'Tennessee',
 # 'Texas',
 # 'Utah',
-'Vermont',
-'Virginia',
-'Washington',
-'West Virginia',
-'Wisconsin',
-'Wyoming'
+# 'Vermont',
+# 'Virginia',
+# 'Washington',
+# 'West Virginia',
+# 'Wisconsin',
+# 'Wyoming'
 ]
 
+apiKey= '&apikey=f186a663-061d-462c-8364-f20e6f3594ce'
+baseURL= 'https://v3.openstates.org/people?jurisdiction='
 
     
 path = './public/output/incumbents/'
@@ -74,16 +77,22 @@ for x in range(len(stateList)):
     for y in range(len(chamberList)):
         time.sleep(20)
         chamber = chamberList[y]
-        getFirstPage = f'https://v3.openstates.org/people?jurisdiction={state}&org_classification={chamber}&page=1&per_page=50&apikey=f186a663-061d-462c-8364-f20e6f3594ce'
+        getFirstPage = f'{baseURL}{state}&org_classification={chamber}&page=1&per_page=50{apiKey}'
         findPageCount = requests.get(getFirstPage).json()
         page_count = findPageCount['pagination']['max_page']
-        for z in range(page_count):
+        firstResponse = requests.get(getFirstPage).json()
+        personList = firstResponse['results']
+        for z in range(page_count-1):
             time.sleep(10)
-            pageNum = f'page={z+1}'
-            baseUrl= f'https://v3.openstates.org/people?jurisdiction={state}&org_classification={chamber}&page=1&per_page=50&apikey=f186a663-061d-462c-8364-f20e6f3594ce&{pageNum}'
-            response = requests.get(baseUrl).json()
-            personList = response['results']
             mainList = mainList + personList
+            if page_count > 1:
+                pageNum = f'page={z+2}'
+                secondaryUrl= f'{baseURL}{state}&org_classification={chamber}&page=1&per_page=50{apiKey}&{pageNum}'
+                response = requests.get(secondaryUrl).json()
+                personList = response['results']
+                mainList = mainList + personList
+            else:
+                 pass
         with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
             json.dump(mainList, json_file)
         print(f'  *** Condragulations, your file {state}-{chamber} has been updated! ***  ')
