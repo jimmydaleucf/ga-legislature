@@ -60,10 +60,7 @@ stateList =['Alabama',
 'Wyoming']
 
 output = []
-# x = input("Enter State Postal Abbreviation: ")
-# state = x
-# y = input("Which chamber? (upper or lower): ")
-# chamber = y
+
 
 for x in range(len(stateList)):
     time.sleep(20)
@@ -83,7 +80,6 @@ for x in range(len(stateList)):
             "totalSeats": seats,
         }
         chamberArray.append(stateDictionary)
-
     combined = {"state": state,
                 "organizations":chamberArray}
     output.append(combined)

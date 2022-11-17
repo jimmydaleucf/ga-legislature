@@ -17,7 +17,7 @@ for file in files:
   dem = 0
   other = 0
   stateName = data[0]['jurisdiction']['name']
-  chamberName = data[0]['current_role']['org_classification']
+  chamberName = data[0]['current_role']['org_classification'] 
   partyCount = []
   for datum in data:
     party = datum['party']
@@ -46,24 +46,25 @@ newlist = [{'state': key, 'organizations': value} for key, value in combinedList
 for state in newlist:
     upperChamber = []
     lowerChamber = []
+    legislature = []
     orgs = state['organizations']
+    container = []
     for org in orgs:
         if org['classification'] == 'upper':
             upperChamber.append(org)
         elif org['classification'] == 'lower':
             lowerChamber.append(org)
-        else:
-            print('skip')
+        elif org['classification'] == 'legislature':
+            legislature.append(org)
     if state['state'] != "Nebraska":
         newThing = upperChamber[0] | upperChamber[1]
         newThing2 = lowerChamber[0] | lowerChamber[1]
-        print(newThing)
+        container.append(newThing2)
     else:
-        newThing = upperChamber
-    print(state['state'])
-    container = []
+        newThing = legislature
+        print(state['state'])
+        print(legislature)
     container.append(newThing)
-    container.append(newThing2)
     state['organizations'] = container
     
 with open(f'{path}bopRollup.json', 'w') as json_file:

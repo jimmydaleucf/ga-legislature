@@ -3,15 +3,6 @@
     "state": "Alabama",
     "organizations": [
       {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 27,
-        "dem": 8,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 35
-      },
-      {
         "classification": "lower",
         "incubmentTotal": 103,
         "gop": 75,
@@ -19,21 +10,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 105
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 27,
+        "dem": 8,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       }
     ]
   },
   {
     "state": "Alaska",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 20,
-        "gop": 13,
-        "dem": 7,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 20
-      },
       {
         "classification": "lower",
         "incubmentTotal": 40,
@@ -42,6 +33,15 @@
         "other": 4,
         "org": "House",
         "totalSeats": 40
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 20,
+        "gop": 13,
+        "dem": 7,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 20
       }
     ]
   },
@@ -49,21 +49,21 @@
     "state": "Arizona",
     "organizations": [
       {
-        "classification": "upper",
-        "incubmentTotal": 30,
-        "gop": 16,
-        "dem": 14,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 30
-      },
-      {
         "classification": "lower",
         "incubmentTotal": 60,
         "gop": 31,
         "dem": 29,
         "other": 0,
         "org": "House",
+        "totalSeats": 30
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 30,
+        "gop": 16,
+        "dem": 14,
+        "other": 0,
+        "org": "Senate",
         "totalSeats": 30
       }
     ]
@@ -72,15 +72,6 @@
     "state": "Arkansas",
     "organizations": [
       {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 27,
-        "dem": 7,
-        "other": 1,
-        "org": "Senate",
-        "totalSeats": 35
-      },
-      {
         "classification": "lower",
         "incubmentTotal": 100,
         "gop": 78,
@@ -88,21 +79,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 100
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 27,
+        "dem": 7,
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 35
       }
     ]
   },
   {
     "state": "California",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 40,
-        "gop": 9,
-        "dem": 31,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 80,
@@ -111,21 +102,21 @@
         "other": 1,
         "org": "Assembly",
         "totalSeats": 80
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 40,
+        "gop": 9,
+        "dem": 31,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "Colorado",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 15,
-        "dem": 20,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 35
-      },
       {
         "classification": "lower",
         "incubmentTotal": 65,
@@ -134,21 +125,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 65
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 15,
+        "dem": 20,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       }
     ]
   },
   {
     "state": "Connecticut",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 36,
-        "gop": 13,
-        "dem": 23,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 36
-      },
       {
         "classification": "lower",
         "incubmentTotal": 151,
@@ -157,21 +148,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 151
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 36,
+        "gop": 13,
+        "dem": 23,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 36
       }
     ]
   },
   {
     "state": "Delaware",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 21,
-        "gop": 7,
-        "dem": 14,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 21
-      },
       {
         "classification": "lower",
         "incubmentTotal": 41,
@@ -180,21 +171,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 41
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 21,
+        "gop": 7,
+        "dem": 14,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 21
       }
     ]
   },
   {
     "state": "Florida",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 39,
-        "gop": 23,
-        "dem": 16,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 118,
@@ -203,21 +194,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 120
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 39,
+        "gop": 23,
+        "dem": 16,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "Georgia",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 56,
-        "gop": 34,
-        "dem": 22,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 56
-      },
       {
         "classification": "lower",
         "incubmentTotal": 180,
@@ -226,21 +217,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 180
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 56,
+        "gop": 34,
+        "dem": 22,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 56
       }
     ]
   },
   {
     "state": "Hawaii",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 25,
-        "gop": 1,
-        "dem": 24,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 25
-      },
       {
         "classification": "lower",
         "incubmentTotal": 51,
@@ -249,6 +240,15 @@
         "other": 0,
         "org": "House",
         "totalSeats": 51
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 25,
+        "gop": 1,
+        "dem": 24,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 25
       }
     ]
   },
@@ -256,21 +256,21 @@
     "state": "Idaho",
     "organizations": [
       {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 28,
-        "dem": 7,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 35
-      },
-      {
         "classification": "lower",
         "incubmentTotal": 70,
         "gop": 58,
         "dem": 12,
         "other": 0,
         "org": "House",
+        "totalSeats": 35
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 28,
+        "dem": 7,
+        "other": 0,
+        "org": "Senate",
         "totalSeats": 35
       }
     ]
@@ -279,15 +279,6 @@
     "state": "Illinois",
     "organizations": [
       {
-        "classification": "upper",
-        "incubmentTotal": 59,
-        "gop": 18,
-        "dem": 41,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 59
-      },
-      {
         "classification": "lower",
         "incubmentTotal": 118,
         "gop": 45,
@@ -295,21 +286,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 118
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 59,
+        "gop": 18,
+        "dem": 41,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 59
       }
     ]
   },
   {
     "state": "Indiana",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 50,
-        "gop": 39,
-        "dem": 11,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 50
-      },
       {
         "classification": "lower",
         "incubmentTotal": 100,
@@ -318,21 +309,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 100
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 50,
+        "gop": 39,
+        "dem": 11,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       }
     ]
   },
   {
     "state": "Iowa",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 50,
-        "gop": 32,
-        "dem": 18,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 50
-      },
       {
         "classification": "lower",
         "incubmentTotal": 100,
@@ -341,21 +332,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 100
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 50,
+        "gop": 32,
+        "dem": 18,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       }
     ]
   },
   {
     "state": "Kansas",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 40,
-        "gop": 29,
-        "dem": 11,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 125,
@@ -364,21 +355,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 125
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 40,
+        "gop": 29,
+        "dem": 11,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "Kentucky",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 38,
-        "gop": 30,
-        "dem": 8,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 38
-      },
       {
         "classification": "lower",
         "incubmentTotal": 100,
@@ -387,21 +378,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 100
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 38,
+        "gop": 30,
+        "dem": 8,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       }
     ]
   },
   {
     "state": "Louisiana",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 38,
-        "gop": 27,
-        "dem": 11,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 39
-      },
       {
         "classification": "lower",
         "incubmentTotal": 105,
@@ -410,21 +401,21 @@
         "other": 3,
         "org": "House",
         "totalSeats": 105
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 38,
+        "gop": 27,
+        "dem": 11,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 39
       }
     ]
   },
   {
     "state": "Maine",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 13,
-        "dem": 22,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 35
-      },
       {
         "classification": "lower",
         "incubmentTotal": 144,
@@ -433,21 +424,21 @@
         "other": 3,
         "org": "House",
         "totalSeats": 151
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 13,
+        "dem": 22,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       }
     ]
   },
   {
     "state": "Maryland",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 47,
-        "gop": 15,
-        "dem": 32,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 47
-      },
       {
         "classification": "lower",
         "incubmentTotal": 141,
@@ -456,21 +447,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 67
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 47,
+        "gop": 15,
+        "dem": 32,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 47
       }
     ]
   },
   {
     "state": "Massachusetts",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 40,
-        "gop": 3,
-        "dem": 37,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 156,
@@ -479,21 +470,21 @@
         "other": 1,
         "org": "House",
         "totalSeats": 160
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 40,
+        "gop": 3,
+        "dem": 37,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "Michigan",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 38,
-        "gop": 22,
-        "dem": 16,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 38
-      },
       {
         "classification": "lower",
         "incubmentTotal": 110,
@@ -502,21 +493,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 110
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 38,
+        "gop": 22,
+        "dem": 16,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       }
     ]
   },
   {
     "state": "Minnesota",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 67,
-        "gop": 34,
-        "dem": 0,
-        "other": 33,
-        "org": "Senate",
-        "totalSeats": 67
-      },
       {
         "classification": "lower",
         "incubmentTotal": 134,
@@ -525,21 +516,21 @@
         "other": 70,
         "org": "House",
         "totalSeats": 134
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 67,
+        "gop": 34,
+        "dem": 0,
+        "other": 33,
+        "org": "Senate",
+        "totalSeats": 67
       }
     ]
   },
   {
     "state": "Mississippi",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 52,
-        "gop": 37,
-        "dem": 15,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 52
-      },
       {
         "classification": "lower",
         "incubmentTotal": 122,
@@ -548,21 +539,21 @@
         "other": 2,
         "org": "House",
         "totalSeats": 122
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 52,
+        "gop": 37,
+        "dem": 15,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 52
       }
     ]
   },
   {
     "state": "Missouri",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 34,
-        "gop": 24,
-        "dem": 10,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 34
-      },
       {
         "classification": "lower",
         "incubmentTotal": 157,
@@ -571,12 +562,30 @@
         "other": 0,
         "org": "House",
         "totalSeats": 163
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 34,
+        "gop": 24,
+        "dem": 10,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 34
       }
     ]
   },
   {
     "state": "Montana",
     "organizations": [
+      {
+        "classification": "lower",
+        "incubmentTotal": 100,
+        "gop": 67,
+        "dem": 33,
+        "other": 0,
+        "org": "House",
+        "totalSeats": 100
+      },
       {
         "classification": "upper",
         "incubmentTotal": 50,
@@ -585,36 +594,40 @@
         "other": 0,
         "org": "Senate",
         "totalSeats": 50
-      },
-      {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 67,
-        "dem": 33,
-        "other": 0,
-        "org": "House",
-        "totalSeats": 100
       }
     ]
   },
   {
     "state": "Nebraska",
     "organizations": [
-      [],
-      {
-        "classification": "lower",
-        "incubmentTotal": 100,
-        "gop": 67,
-        "dem": 33,
-        "other": 0,
-        "org": "House",
-        "totalSeats": 100
-      }
+      [
+        {
+          "classification": "legislature",
+          "incubmentTotal": 50,
+          "gop": 1,
+          "dem": 0,
+          "other": 49
+        },
+        {
+          "org": "Nebraska Legislature",
+          "classification": "legislature",
+          "totalSeats": 49
+        }
+      ]
     ]
   },
   {
     "state": "Nevada",
     "organizations": [
+      {
+        "classification": "lower",
+        "incubmentTotal": 42,
+        "gop": 16,
+        "dem": 26,
+        "other": 0,
+        "org": "Assembly",
+        "totalSeats": 42
+      },
       {
         "classification": "upper",
         "incubmentTotal": 21,
@@ -623,30 +636,12 @@
         "other": 0,
         "org": "Senate",
         "totalSeats": 21
-      },
-      {
-        "classification": "lower",
-        "incubmentTotal": 42,
-        "gop": 16,
-        "dem": 26,
-        "other": 0,
-        "org": "Assembly",
-        "totalSeats": 42
       }
     ]
   },
   {
     "state": "New Hampshire",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 24,
-        "gop": 14,
-        "dem": 10,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 24
-      },
       {
         "classification": "lower",
         "incubmentTotal": 400,
@@ -655,21 +650,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 204
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 24,
+        "gop": 14,
+        "dem": 10,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 24
       }
     ]
   },
   {
     "state": "New Jersey",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 40,
-        "gop": 16,
-        "dem": 24,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 80,
@@ -678,21 +673,21 @@
         "other": 0,
         "org": "Assembly",
         "totalSeats": 40
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 40,
+        "gop": 16,
+        "dem": 24,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "New Mexico",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 42,
-        "gop": 15,
-        "dem": 26,
-        "other": 1,
-        "org": "Senate",
-        "totalSeats": 42
-      },
       {
         "classification": "lower",
         "incubmentTotal": 70,
@@ -701,21 +696,21 @@
         "other": 1,
         "org": "House",
         "totalSeats": 70
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 42,
+        "gop": 15,
+        "dem": 26,
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 42
       }
     ]
   },
   {
     "state": "New York",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 63,
-        "gop": 20,
-        "dem": 43,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 63
-      },
       {
         "classification": "lower",
         "incubmentTotal": 150,
@@ -724,21 +719,21 @@
         "other": 1,
         "org": "Assembly",
         "totalSeats": 150
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 63,
+        "gop": 20,
+        "dem": 43,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 63
       }
     ]
   },
   {
     "state": "North Carolina",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 50,
-        "gop": 28,
-        "dem": 22,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 50
-      },
       {
         "classification": "lower",
         "incubmentTotal": 120,
@@ -747,21 +742,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 120
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 50,
+        "gop": 28,
+        "dem": 22,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 50
       }
     ]
   },
   {
     "state": "North Dakota",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 47,
-        "gop": 40,
-        "dem": 7,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 47
-      },
       {
         "classification": "lower",
         "incubmentTotal": 94,
@@ -770,21 +765,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 47
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 47,
+        "gop": 40,
+        "dem": 7,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 47
       }
     ]
   },
   {
     "state": "Ohio",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 33,
-        "gop": 25,
-        "dem": 8,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 33
-      },
       {
         "classification": "lower",
         "incubmentTotal": 99,
@@ -793,21 +788,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 99
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 33,
+        "gop": 25,
+        "dem": 8,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       }
     ]
   },
   {
     "state": "Oklahoma",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 48,
-        "gop": 39,
-        "dem": 9,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 48
-      },
       {
         "classification": "lower",
         "incubmentTotal": 101,
@@ -816,21 +811,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 101
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 48,
+        "gop": 39,
+        "dem": 9,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 48
       }
     ]
   },
   {
     "state": "Oregon",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 30,
-        "gop": 11,
-        "dem": 18,
-        "other": 1,
-        "org": "Senate",
-        "totalSeats": 30
-      },
       {
         "classification": "lower",
         "incubmentTotal": 60,
@@ -839,21 +834,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 60
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 30,
+        "gop": 11,
+        "dem": 18,
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 30
       }
     ]
   },
   {
     "state": "Pennsylvania",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 50,
-        "gop": 28,
-        "dem": 21,
-        "other": 1,
-        "org": "Senate",
-        "totalSeats": 50
-      },
       {
         "classification": "lower",
         "incubmentTotal": 203,
@@ -862,21 +857,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 203
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 50,
+        "gop": 28,
+        "dem": 21,
+        "other": 1,
+        "org": "Senate",
+        "totalSeats": 50
       }
     ]
   },
   {
     "state": "Rhode Island",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 38,
-        "gop": 4,
-        "dem": 34,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 38
-      },
       {
         "classification": "lower",
         "incubmentTotal": 75,
@@ -885,21 +880,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 75
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 38,
+        "gop": 4,
+        "dem": 34,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 38
       }
     ]
   },
   {
     "state": "South Carolina",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 46,
-        "gop": 30,
-        "dem": 16,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 46
-      },
       {
         "classification": "lower",
         "incubmentTotal": 124,
@@ -908,21 +903,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 124
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 46,
+        "gop": 30,
+        "dem": 16,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 46
       }
     ]
   },
   {
     "state": "South Dakota",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 35,
-        "gop": 32,
-        "dem": 3,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 35
-      },
       {
         "classification": "lower",
         "incubmentTotal": 70,
@@ -931,21 +926,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 37
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 35,
+        "gop": 32,
+        "dem": 3,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 35
       }
     ]
   },
   {
     "state": "Tennessee",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 33,
-        "gop": 27,
-        "dem": 6,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 33
-      },
       {
         "classification": "lower",
         "incubmentTotal": 98,
@@ -954,21 +949,21 @@
         "other": 1,
         "org": "House",
         "totalSeats": 99
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 33,
+        "gop": 27,
+        "dem": 6,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       }
     ]
   },
   {
     "state": "Texas",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 31,
-        "gop": 18,
-        "dem": 13,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 31
-      },
       {
         "classification": "lower",
         "incubmentTotal": 150,
@@ -977,21 +972,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 150
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 31,
+        "gop": 18,
+        "dem": 13,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 31
       }
     ]
   },
   {
     "state": "Utah",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 29,
-        "gop": 23,
-        "dem": 6,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 29
-      },
       {
         "classification": "lower",
         "incubmentTotal": 75,
@@ -1000,21 +995,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 75
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 29,
+        "gop": 23,
+        "dem": 6,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 29
       }
     ]
   },
   {
     "state": "Vermont",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 30,
-        "gop": 7,
-        "dem": 18,
-        "other": 5,
-        "org": "Senate",
-        "totalSeats": 13
-      },
       {
         "classification": "lower",
         "incubmentTotal": 150,
@@ -1023,21 +1018,21 @@
         "other": 14,
         "org": "House",
         "totalSeats": 104
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 30,
+        "gop": 7,
+        "dem": 18,
+        "other": 5,
+        "org": "Senate",
+        "totalSeats": 13
       }
     ]
   },
   {
     "state": "Virginia",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 40,
-        "gop": 19,
-        "dem": 21,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 40
-      },
       {
         "classification": "lower",
         "incubmentTotal": 100,
@@ -1046,21 +1041,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 100
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 40,
+        "gop": 19,
+        "dem": 21,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 40
       }
     ]
   },
   {
     "state": "Washington",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 49,
-        "gop": 20,
-        "dem": 29,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 49
-      },
       {
         "classification": "lower",
         "incubmentTotal": 98,
@@ -1069,21 +1064,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 49
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 49,
+        "gop": 20,
+        "dem": 29,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 49
       }
     ]
   },
   {
     "state": "West Virginia",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 34,
-        "gop": 23,
-        "dem": 11,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 17
-      },
       {
         "classification": "lower",
         "incubmentTotal": 100,
@@ -1092,21 +1087,21 @@
         "other": 0,
         "org": "House",
         "totalSeats": 67
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 34,
+        "gop": 23,
+        "dem": 11,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 17
       }
     ]
   },
   {
     "state": "Wisconsin",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 33,
-        "gop": 21,
-        "dem": 12,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 33
-      },
       {
         "classification": "lower",
         "incubmentTotal": 99,
@@ -1115,21 +1110,21 @@
         "other": 0,
         "org": "Assembly",
         "totalSeats": 99
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 33,
+        "gop": 21,
+        "dem": 12,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 33
       }
     ]
   },
   {
     "state": "Wyoming",
     "organizations": [
-      {
-        "classification": "upper",
-        "incubmentTotal": 30,
-        "gop": 28,
-        "dem": 2,
-        "other": 0,
-        "org": "Senate",
-        "totalSeats": 30
-      },
       {
         "classification": "lower",
         "incubmentTotal": 60,
@@ -1138,6 +1133,15 @@
         "other": 2,
         "org": "House",
         "totalSeats": 60
+      },
+      {
+        "classification": "upper",
+        "incubmentTotal": 30,
+        "gop": 28,
+        "dem": 2,
+        "other": 0,
+        "org": "Senate",
+        "totalSeats": 30
       }
     ]
   }

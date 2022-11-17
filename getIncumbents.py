@@ -13,15 +13,19 @@ def getIncumbents(apiKey, stateList):
     import json
     import time
     path = './public/output/incumbents/'
-    chamberList = [
-        'lower',
-        'upper']
+    
     mainList = []
     baseURL= 'https://v3.openstates.org/people?jurisdiction='
 
     for x in range(len(stateList)):
         state = stateList[x]
         stateString= state.replace(" ", "_")
+        if state == 'Nebraska':
+            chamberList = ['legislature']
+            classifier = 'classification'
+        else:
+            chamberList = ['lower','upper']
+            classifier = 'org_classification'
         for y in range(len(chamberList)):
             print('pausing for twenty seconds')
             # time.sleep(20)
@@ -29,8 +33,7 @@ def getIncumbents(apiKey, stateList):
                 print(f"{i}", end="\r", flush=True)
                 time.sleep(1)
             chamber = chamberList[y]
-            print(chamber)
-            getFirstPage = f'{baseURL}{state}&org_classification={chamber}&page=1&per_page=50{apiKey}'
+            getFirstPage = f'{baseURL}{state}&{classifier}={chamber}&page=1&per_page=50{apiKey}'
             findPageCount = requests.get(getFirstPage).json()
             page_count = findPageCount['pagination']['max_page']
             personList = findPageCount['results']
