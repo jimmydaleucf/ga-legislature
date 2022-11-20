@@ -1,3 +1,7 @@
+
+# This file takes all the individual files of incumbets saved in /public/output/incumbents/ 
+# and creates a rollup by counting all the repubs, the dems, and the others.  It creates a lightweight
+# rollup by state.  
 import json
 from pathlib import Path
 import collections
@@ -21,6 +25,7 @@ for file in files:
   partyCount = []
   for datum in data:
     party = datum['party']
+    jimmy = datum['current_role']['org_classification']
     if party == 'Republican':
       gop += 1
     elif party == 'Democratic':
@@ -53,7 +58,7 @@ for state in newlist:
             upperChamber.append(org)
         elif org['classification'] == 'lower':
             lowerChamber.append(org)
-        elif org['classification'] == 'legislature':
+        elif org['classification'] == 'legislature' and state['state']== 'Nebraska':
             upperChamber.append(org)
     if state['state'] != "Nebraska":
         newThing = upperChamber[0] | upperChamber[1]
@@ -61,11 +66,9 @@ for state in newlist:
         container.append(newThing2)
     else:
         newThing = upperChamber
-        print(state['state'])
-        print(upperChamber)
     container.append(newThing)
     state['organizations'] = container
-    
+    print(container)    
 with open(f'{path}bopRollup.json', 'w') as json_file:
     json.dump(newlist, json_file)
     print('***** bopRollup.json file updated *****')
