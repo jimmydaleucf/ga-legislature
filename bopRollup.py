@@ -25,8 +25,8 @@ for file in files:
   partyCount = []
   for datum in data:
     party = datum['party']
-    jimmy = datum['current_role']['org_classification']
-    if jimmy != 'executive':
+    orgClass = datum['current_role']['org_classification']
+    if orgClass != 'executive':
       if party == 'Republican':
         gop += 1
       elif party == 'Democratic':

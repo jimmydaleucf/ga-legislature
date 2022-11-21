@@ -29,7 +29,7 @@ def getIncumbents(apiKey, stateList):
             personList = findPageCount['results']
             mainList = mainList + personList
             for z in range(page_count-1):
-                print(f'Fetching next request for {state} {chamber} in 10 seconds')
+                print(f'Fetching next request for {state} {chamber} chamber in 10 seconds')
                 for i in range(10,0,-1):
                     print(f"{i}", end=" \r", flush=True)
                     time.sleep(1)
@@ -45,6 +45,6 @@ def getIncumbents(apiKey, stateList):
                     pass
             with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
                 json.dump(mainList, json_file)
-            print(f'  *** Condragulations, your file {state}-{chamber} has been updated! ***  ')
+            print(f'/n  *** Condragulations, your file {state}-{chamber} has been updated! ***  /n')
             mainList=[]
 
