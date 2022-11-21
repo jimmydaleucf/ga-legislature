@@ -4,6 +4,11 @@
   export let chamber;
   let chamberData;
   let chamberName;
+  let demSeats;
+  let gopSeats;
+  let otherSeats;
+  let totalIncumbents;
+  let vacantSeats;
 
   async function getChamberInfo() {
     const res = await fetch(`./output/bopRollup.json`);
@@ -20,13 +25,16 @@
         ({ classification }) => classification === `${chamber}`
       );
       chamberName = organization.org;
-      console.log(chamberName);
       const totalSeats = organization.totalSeats;
-      const demSeats = organization.dem;
-      const gopSeats = organization.gop;
-      const otherSeats = organization.other;
+      demSeats = organization.dem;
+      gopSeats = organization.gop;
+      otherSeats = organization.other;
+      totalIncumbents = organization.incubmentTotal;
+      vacantSeats = totalSeats - totalIncumbents;
+      console.log(vacantSeats);
       const demPercent = (demSeats / totalSeats) * 100;
       const gopPercent = (gopSeats / totalSeats) * 100;
+      const vacantPercent = (vacantSeats / totalSeats) * 100;
       const thirdPercent = (otherSeats / totalSeats) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
       document.getElementById(
         `${state}-${chamber}-dem`
@@ -37,6 +45,9 @@
       document.getElementById(
         `${state}-${chamber}-third`
       ).style.width = `${thirdPercent}%`;
+      document.getElementById(
+        `${state}-${chamber}-vacant`
+      ).style.width = `${vacantPercent}%`;
       return chamberSize;
     } else {
       throw new Error(text);
@@ -48,16 +59,23 @@
 
 <main>
   <h2 class="bop-title">{state} {chamberName}</h2>
-  <div id="{state}-{chamber}-bop" class="bop">
-    <div id="{state}-{chamber}-dem" class="dem" />
-    <div id="{state}-{chamber}-third" class="third" />
-    <div id="{state}-{chamber}-gop" class="gop" />
+  <div class="bar-container">
+    <div id="{state}-{chamber}-bop" class="bop">
+      <div id="{state}-{chamber}-dem" class="dem">{demSeats}</div>
+      {#if otherSeats != 0}
+        <div id="{state}-{chamber}-third" class="third">{otherSeats}</div>
+      {:else}{/if}
+      {#if vacantSeats != 0}
+        <div id="{state}-{chamber}-vacant" class="vacant">{vacantSeats}</div>
+      {:else}{/if}
+      <div id="{state}-{chamber}-gop" class="gop">{gopSeats}</div>
+    </div>
   </div>
 </main>
 
 <style>
   main {
-    width: 35%;
+    width: 100%;
   }
   .bop {
     border-color: black;
@@ -73,16 +91,36 @@
   }
   .dem {
     height: 20px;
+    color: white;
+    font-weight: bold;
     background-color: #4165d2;
+    display: flex;
+    justify-content: center;
   }
   .gop {
+    color: white;
+    font-weight: bold;
     height: 20px;
     background-color: #dc3d3d;
-    align-items: right;
+    display: flex;
+    justify-content: center;
+  }
+  .bar-container {
+    border-style: solid;
+    border-color: black;
   }
   .third {
     height: 20px;
+    font-weight: bold;
     background-color: #e3bb1c;
-    align-items: right;
+    display: flex;
+    justify-content: center;
+  }
+  .vacant {
+    height: 20px;
+    color: white;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
   }
 </style>

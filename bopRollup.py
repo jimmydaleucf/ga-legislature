@@ -29,7 +29,7 @@ for file in files:
     if orgClass != 'executive':
       if party == 'Republican':
         gop += 1
-      elif party == 'Democratic':
+      elif party == 'Democratic' or party =='Democratic-Farmer-Labor': 
         dem += 1
       else:
         other += 1

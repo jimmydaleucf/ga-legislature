@@ -1,16 +1,78 @@
 <script>
   import LegMap from "./LegMap.svelte";
   import BopBar from "./BopBar.svelte";
+
+  let stateList = [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming",
+  ];
+  let chamberList = ["upper", "lower"];
 </script>
 
 <main>
   <h1>Jimmy's Legislature Project</h1>
+  <BopBar state="Nebraska" chamber="legislature" />
   <div class="container">
-    <BopBar state="Florida" chamber="upper" />
+    {#each stateList as state}
+      {#each chamberList as chamber}
+        <div class="bop-component"><BopBar {state} {chamber} /></div>
+      {/each}
+    {/each}
+
+    <!-- <BopBar state="Florida" chamber="upper" />
     <BopBar state="Florida" chamber="lower" />
     <BopBar state="New York" chamber="upper" />
     <BopBar state="New York" chamber="lower" />
-    <BopBar state="Nebraska" chamber="legislature" />
+    <BopBar state="Idaho" chamber="upper" />
+    <BopBar state="Idaho" chamber="lower" />
+    <BopBar state="Nebraska" chamber="legislature" /> -->
 
     <!-- <LegMap state="Florida" chamber="upper" /> -->
     <!-- <LegMap state="Florida" chamber="upper" />
@@ -31,5 +93,8 @@
     flex-wrap: wrap;
     justify-content: space-around;
     width: 100%;
+  }
+  .bop-component {
+    width: 45%;
   }
 </style>
