@@ -59,13 +59,11 @@ apiKeys= [
 
 stateLists = [['Nebraska']]
 
-stateLists = [['Nebraska']]
+stateLists = [['Florida']]
 # apiKey = '&apikey=047dc17e-0268-4b55-9eab-3ae74457228d'
 
 for x in range(len(apiKeys)):
     apiKey = apiKeys[x]
     stateList = stateLists[x]
-    print(apiKey)
-    print(stateList)
     getIncumbents.getIncumbents(apiKey,stateList)
    

@@ -1,13 +1,3 @@
-
-
-
-
-
-
-# apiKey= '&apikey=f186a663-061d-462c-8364-f20e6f3594ce'
-# stateList =[
-#     'Alabama', 'Wyoming', 'Florida' ]
-
 def getIncumbents(apiKey, stateList):
     import requests
     import json
@@ -30,7 +20,7 @@ def getIncumbents(apiKey, stateList):
             print('pausing for twenty seconds')
             # time.sleep(20)
             for i in range(20,0,-1):
-                print(f"{i}", end="\r", flush=True)
+                print(f"{i}", end=" \r", flush=True)
                 time.sleep(1)
             chamber = chamberList[y]
             getFirstPage = f'{baseURL}{state}&{classifier}={chamber}&page=1&per_page=50{apiKey}'
@@ -40,13 +30,15 @@ def getIncumbents(apiKey, stateList):
             mainList = mainList + personList
             for z in range(page_count-1):
                 print('pausing for 10 seconds')
-                time.sleep(10)
+                for i in range(10,0,-1):
+                    print(f"{i}", end=" \r", flush=True)
+                    time.sleep(1)
                 if page_count > 1:
                     pageNum = f'page={z+2}'
                     secondaryUrl= f'{baseURL}{state}&org_classification={chamber}&page=1&per_page=50{apiKey}&{pageNum}'
-                    print(secondaryUrl)
+                    # print(secondaryUrl)
                     response = requests.get(secondaryUrl).json()
-                    print(response)
+                    # print(response)
                     personList = response['results']
                     mainList = mainList + personList
                 else:
