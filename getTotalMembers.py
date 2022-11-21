@@ -63,16 +63,25 @@ output = []
 
 
 for x in range(len(stateList)):
-    time.sleep(20)
+    print(f'\n******* Initiating request for {stateList[x]} *********')
+    # time.sleep(20)
+    for i in range(20,0,-1):
+                print(f"{i}", end=" \r", flush=True)
+                time.sleep(1)
     state = stateList[x]
     chamberInfo =  requests.get(f'https://v3.openstates.org/jurisdictions/{state}?include=organizations&apikey=f186a663-061d-462c-8364-f20e6f3594ce').json()
     organizations = chamberInfo['organizations']
     orgCount = len(organizations)
     chamberArray = []
     for x in range(orgCount):
-        name =organizations[x]['name']
+        seats = 0
+        name = organizations[x]['name']
         districts = organizations[x]['districts']
-        seats = len(districts)
+        # print(districts)
+        for z in range(len(districts)):
+          maxMembers = districts[z]['maximum_memberships']
+          seats = seats + maxMembers
+        print(f'{name}: {seats} seats')
         whichOne = organizations[x]['classification']        
         stateDictionary = {
             "org": name,
@@ -83,7 +92,7 @@ for x in range(len(stateList)):
     combined = {"state": state,
                 "organizations":chamberArray}
     output.append(combined)
-    print(f'********* {state} complete! ***********')
+    print(f'\n ✅ Request information from {state} complete!')
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
     json.dump(output, json_file)
-print('your file has been created Jimmy!')
+print('\n ✅ Your file "ChambersTotal.json" has been created Jimmy!')

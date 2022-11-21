@@ -55,7 +55,7 @@
         "dem": 29,
         "other": 0,
         "org": "House",
-        "totalSeats": 30
+        "totalSeats": 60
       },
       {
         "classification": "upper",
@@ -262,7 +262,7 @@
         "dem": 12,
         "other": 0,
         "org": "House",
-        "totalSeats": 35
+        "totalSeats": 70
       },
       {
         "classification": "upper",
@@ -446,7 +446,7 @@
         "dem": 99,
         "other": 0,
         "org": "House",
-        "totalSeats": 67
+        "totalSeats": 141
       },
       {
         "classification": "upper",
@@ -649,7 +649,7 @@
         "dem": 188,
         "other": 0,
         "org": "House",
-        "totalSeats": 204
+        "totalSeats": 400
       },
       {
         "classification": "upper",
@@ -672,7 +672,7 @@
         "dem": 46,
         "other": 0,
         "org": "Assembly",
-        "totalSeats": 40
+        "totalSeats": 80
       },
       {
         "classification": "upper",
@@ -764,7 +764,7 @@
         "dem": 14,
         "other": 0,
         "org": "House",
-        "totalSeats": 47
+        "totalSeats": 94
       },
       {
         "classification": "upper",
@@ -925,7 +925,7 @@
         "dem": 8,
         "other": 0,
         "org": "House",
-        "totalSeats": 37
+        "totalSeats": 70
       },
       {
         "classification": "upper",
@@ -1017,7 +1017,7 @@
         "dem": 90,
         "other": 14,
         "org": "House",
-        "totalSeats": 104
+        "totalSeats": 150
       },
       {
         "classification": "upper",
@@ -1026,7 +1026,7 @@
         "dem": 18,
         "other": 5,
         "org": "Senate",
-        "totalSeats": 13
+        "totalSeats": 30
       }
     ]
   },
@@ -1063,7 +1063,7 @@
         "dem": 57,
         "other": 0,
         "org": "House",
-        "totalSeats": 49
+        "totalSeats": 98
       },
       {
         "classification": "upper",
@@ -1086,7 +1086,7 @@
         "dem": 22,
         "other": 0,
         "org": "House",
-        "totalSeats": 67
+        "totalSeats": 100
       },
       {
         "classification": "upper",
@@ -1095,7 +1095,7 @@
         "dem": 11,
         "other": 0,
         "org": "Senate",
-        "totalSeats": 17
+        "totalSeats": 34
       }
     ]
   },

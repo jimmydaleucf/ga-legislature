@@ -73,4 +73,4 @@ for state in newlist:
     state['organizations'] = container
 with open(f'{path}bopRollup.json', 'w') as json_file:
     json.dump(newlist, json_file)
-    print('***** bopRollup.json file updated *****')
+    print('\n✅ Your "bopRollup.json" file updated!\n')

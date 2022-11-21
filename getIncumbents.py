@@ -17,7 +17,7 @@ def getIncumbents(apiKey, stateList):
             chamberList = ['lower','upper']
             classifier = 'org_classification'
         for y in range(len(chamberList)):
-            print(f'Initiating inital request for {state} {chamberList[y]} chamber in 20 seconds')
+            print(f'\n** Initiating inital request for {state} {chamberList[y]} chamber in 20 seconds **')
             # time.sleep(20)
             for i in range(20,0,-1):
                 print(f"{i}", end=" \r", flush=True)
