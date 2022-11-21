@@ -58,17 +58,24 @@
 </script>
 
 <main>
-  <h2 class="bop-title">{state} {chamberName}</h2>
+  {#if state != "Nebraska"}
+    <h2 class="bop-title">{state} {chamberName}</h2>
+  {:else}
+    <h2 class="bop-title">{chamberName}</h2>
+  {/if}
   <div class="bar-container">
     <div id="{state}-{chamber}-bop" class="bop">
-      <div id="{state}-{chamber}-dem" class="dem">{demSeats}</div>
+      {#if demSeats != 0}
+        <div id="{state}-{chamber}-dem" class="dem">{demSeats}</div>{:else}{/if}
       {#if otherSeats != 0}
         <div id="{state}-{chamber}-third" class="third">{otherSeats}</div>
       {:else}{/if}
       {#if vacantSeats != 0}
         <div id="{state}-{chamber}-vacant" class="vacant">{vacantSeats}</div>
       {:else}{/if}
-      <div id="{state}-{chamber}-gop" class="gop">{gopSeats}</div>
+      {#if demSeats != 0}<div id="{state}-{chamber}-gop" class="gop">
+          {gopSeats}
+        </div>{:else}{/if}
     </div>
   </div>
 </main>
