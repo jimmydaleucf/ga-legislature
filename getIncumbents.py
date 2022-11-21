@@ -17,7 +17,7 @@ def getIncumbents(apiKey, stateList):
             chamberList = ['lower','upper']
             classifier = 'org_classification'
         for y in range(len(chamberList)):
-            print('pausing for twenty seconds')
+            print(f'Initiating inital request for {state} {chamberList[y]} chamber in 20 seconds')
             # time.sleep(20)
             for i in range(20,0,-1):
                 print(f"{i}", end=" \r", flush=True)
@@ -29,7 +29,7 @@ def getIncumbents(apiKey, stateList):
             personList = findPageCount['results']
             mainList = mainList + personList
             for z in range(page_count-1):
-                print('pausing for 10 seconds')
+                print(f'Fetching next request for {state} {chamber} in 10 seconds')
                 for i in range(10,0,-1):
                     print(f"{i}", end=" \r", flush=True)
                     time.sleep(1)
