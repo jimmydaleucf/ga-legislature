@@ -31,7 +31,6 @@
       otherSeats = organization.other;
       totalIncumbents = organization.incubmentTotal;
       vacantSeats = totalSeats - totalIncumbents;
-      console.log(vacantSeats);
       const demPercent = (demSeats / totalSeats) * 100;
       const gopPercent = (gopSeats / totalSeats) * 100;
       const vacantPercent = (vacantSeats / totalSeats) * 100;
@@ -59,7 +58,7 @@
 
 <main>
   {#if state != "Nebraska"}
-    <h2 class="bop-title">{state} {chamberName}</h2>
+    <h2 class="bop-title">{chamberName}</h2>
   {:else}
     <h2 class="bop-title">{chamberName}</h2>
   {/if}
@@ -95,6 +94,8 @@
   }
   .bop-title {
     text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
   .dem {
     height: 20px;
