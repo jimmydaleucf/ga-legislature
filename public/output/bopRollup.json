@@ -603,8 +603,8 @@
       [
         {
           "classification": "legislature",
-          "incubmentTotal": 50,
-          "gop": 1,
+          "incubmentTotal": 49,
+          "gop": 0,
           "dem": 0,
           "other": 49
         },

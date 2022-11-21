@@ -26,12 +26,15 @@ for file in files:
   for datum in data:
     party = datum['party']
     jimmy = datum['current_role']['org_classification']
-    if party == 'Republican':
-      gop += 1
-    elif party == 'Democratic':
-      dem += 1
+    if jimmy != 'executive':
+      if party == 'Republican':
+        gop += 1
+      elif party == 'Democratic':
+        dem += 1
+      else:
+        other += 1
     else:
-      other += 1
+      pass
   incumbentTotal = gop + dem + other
   incumbentObj = {'incumbentTotal':incumbentTotal}
   gopObj = {'gop': gop}
@@ -68,7 +71,6 @@ for state in newlist:
         newThing = upperChamber
     container.append(newThing)
     state['organizations'] = container
-    print(container)    
 with open(f'{path}bopRollup.json', 'w') as json_file:
     json.dump(newlist, json_file)
     print('***** bopRollup.json file updated *****')
