@@ -151,7 +151,6 @@
     margin: 20px;
     display: flex;
     flex-direction: row;
-
     justify-content: space-between;
   }
   .dem {
