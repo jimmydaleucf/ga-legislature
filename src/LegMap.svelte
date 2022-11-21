@@ -59,7 +59,7 @@
     }
   }
   async function getChamberInfo() {
-    const res = await fetch(`./output/ChambersTotal.json`);
+    const res = await fetch(`./output/bopRollup.json`);
     const results = await res.json();
     const stateName = `${state}`;
     if (res.ok) {
