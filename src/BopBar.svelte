@@ -16,7 +16,6 @@
       const targetState = chamberData.find(
         ({ state }) => state === `${stateName}`
       );
-      console.log(targetState);
       const organization = targetState.organizations.find(
         ({ classification }) => classification === `${chamber}`
       );
@@ -26,13 +25,7 @@
       const demSeats = organization.dem;
       const gopSeats = organization.gop;
       const otherSeats = organization.other;
-      console.log(organization);
-      console.log(`totalSeats= ${totalSeats}`);
-      console.log(`demSeats= ${demSeats}`);
-      console.log(`gopSeats= ${gopSeats}`);
-      console.log(`otherSeats= ${otherSeats}`);
       const demPercent = (demSeats / totalSeats) * 100;
-      console.log(demPercent);
       const gopPercent = (gopSeats / totalSeats) * 100;
       const thirdPercent = (otherSeats / totalSeats) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
       document.getElementById(
@@ -54,7 +47,7 @@
 </script>
 
 <main>
-  <h2>{state} {chamberName}</h2>
+  <h2 class="bop-title">{state} {chamberName}</h2>
   <div id="{state}-{chamber}-bop" class="bop">
     <div id="{state}-{chamber}-dem" class="dem" />
     <div id="{state}-{chamber}-third" class="third" />
@@ -66,10 +59,6 @@
   main {
     width: 35%;
   }
-
-  .active {
-    border-color: white;
-  }
   .bop {
     border-color: black;
     border-style: solid;
@@ -78,6 +67,9 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+  }
+  .bop-title {
+    text-align: center;
   }
   .dem {
     height: 20px;

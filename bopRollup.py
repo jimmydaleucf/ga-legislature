@@ -68,7 +68,7 @@ for state in newlist:
         newThing2 = lowerChamber[0] | lowerChamber[1]
         container.append(newThing2)
     else:
-        newThing = upperChamber
+        newThing = upperChamber[0] | upperChamber[1]
     container.append(newThing)
     state['organizations'] = container
 with open(f'{path}bopRollup.json', 'w') as json_file:

@@ -600,20 +600,15 @@
   {
     "state": "Nebraska",
     "organizations": [
-      [
-        {
-          "classification": "legislature",
-          "incubmentTotal": 49,
-          "gop": 0,
-          "dem": 0,
-          "other": 49
-        },
-        {
-          "org": "Nebraska Legislature",
-          "classification": "legislature",
-          "totalSeats": 49
-        }
-      ]
+      {
+        "classification": "legislature",
+        "incubmentTotal": 49,
+        "gop": 0,
+        "dem": 0,
+        "other": 49,
+        "org": "Nebraska Legislature",
+        "totalSeats": 49
+      }
     ]
   },
   {

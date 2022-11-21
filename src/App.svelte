@@ -7,6 +7,11 @@
   <h1>Jimmy's Legislature Project</h1>
   <div class="container">
     <BopBar state="Florida" chamber="upper" />
+    <BopBar state="Florida" chamber="lower" />
+    <BopBar state="New York" chamber="upper" />
+    <BopBar state="New York" chamber="lower" />
+    <BopBar state="Nebraska" chamber="legislature" />
+
     <!-- <LegMap state="Florida" chamber="upper" /> -->
     <!-- <LegMap state="Florida" chamber="upper" />
     <LegMap state="Georgia" chamber="lower" />
