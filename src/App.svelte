@@ -29,6 +29,7 @@
     "Mississippi",
     "Missouri",
     "Montana",
+    "Nebraska",
     "Nevada",
     "New Hampshire",
     "New Jersey",
@@ -58,15 +59,19 @@
 
 <main>
   <h1>Jimmy's Legislature Project</h1>
-  <BopBar state="Nebraska" chamber="legislature" />
-
   {#each stateList as state}
     <div class="state-container">
       <h2 class="state-name">{state}</h2>
       <div class="flex-container">
-        {#each chamberList as chamber}
-          <div class="bop-component"><BopBar {state} {chamber} /></div>
-        {/each}
+        {#if state != "Nebraska"}
+          {#each chamberList as chamber}
+            <div class="bop-component"><BopBar {state} {chamber} /></div>
+          {/each}
+        {:else}
+          <div class="bop-component" style="width:100%">
+            <BopBar {state} chamber="legislature" />
+          </div>
+        {/if}
       </div>
     </div>
   {/each}

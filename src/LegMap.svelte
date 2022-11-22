@@ -120,17 +120,17 @@
 </script>
 
 <main>
-  <h2>{state} {chamber} Chamber</h2>
+  <!-- <h2>{state} {chamber} Chamber</h2> -->
   <div class="container">
     {#if svgMarkup}
       <div class="map">{@html svgMarkup}</div>
     {/if}
   </div>
-  <div id="{state}-{chamber}-bop" class="bop">
+  <!-- <div id="{state}-{chamber}-bop" class="bop">
     <div id="{state}-{chamber}-dem" class="dem" />
     <div id="{state}-{chamber}-third" class="third" />
     <div id="{state}-{chamber}-gop" class="gop" />
-  </div>
+  </div> -->
   <!-- <Tooltip title="this is a greeting from component">
     <h1>Hello world from component!</h1>
   </Tooltip> -->
