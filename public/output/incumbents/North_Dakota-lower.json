@@ -1,1 +1,2648 @@
-[{"id": "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897", "name": "Alisa Mitskog", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:nd/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Alisa", "family_name": "Mitskog", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/amitskog.jpg?itok=f5Y8bmv_", "email": "amitskog@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-642-9023"}, "created_at": "2018-10-18T14:53:02.294869+00:00", "updated_at": "2022-02-19T10:01:38.055722+00:00", "openstates_url": "https://openstates.org/person/alisa-mitskog-4kTkkKaWhkLlchhJfyGwsx/"}, {"id": "ocd-person/6fbb2691-956f-4427-8927-66309b08ed68", "name": "Andrew Marschall", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:nd/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Andrew", "family_name": "Marschall", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/amarschall.jpg?itok=R0Srf1A1", "email": "amarschall@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": []}, "created_at": "2018-10-18T14:52:56.970470+00:00", "updated_at": "2022-02-19T10:02:14.012211+00:00", "openstates_url": "https://openstates.org/person/andrew-marschall-3Opfw1eL495VfDCIz9vsSW/"}, {"id": "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df", "name": "Austen Schauer", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:nd/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Austen", "family_name": "Schauer", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/aschauer.jpg?itok=alVrk7GN", "email": "aschauer@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-730-4474"}, "created_at": "2019-01-04T06:33:20.274516+00:00", "updated_at": "2022-02-19T10:02:36.823562+00:00", "openstates_url": "https://openstates.org/person/austen-schauer-44utAJwfLVL58nADPnbvrT/"}, {"id": "ocd-person/9335be7e-11ff-4577-af89-e61195143354", "name": "Ben Koppelman", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:nd/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Ben", "family_name": "Koppelman", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bkoppelman.jpg?itok=Vo9eUxbE", "email": "bkoppelman@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-491-0665"}, "created_at": "2018-10-18T14:53:09.008812+00:00", "updated_at": "2022-02-19T10:02:39.253259+00:00", "openstates_url": "https://openstates.org/person/ben-koppelman-4TmQrCNR7fxwb4LHWqvqgW/"}, {"id": "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539", "name": "Bernie Satrom", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:nd/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bernie", "family_name": "Satrom", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/blsatrom.jpg?itok=mYaCmf1w", "email": "blsatrom@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-320-7239"}, "created_at": "2018-10-18T14:52:58.074686+00:00", "updated_at": "2022-02-19T10:01:48.960933+00:00", "openstates_url": "https://openstates.org/person/bernie-satrom-1vsq23CH5NEvAiuMvp8o4f/"}, {"id": "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0", "name": "Bert Anderson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:nd/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bert", "family_name": "Anderson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bertanderson.jpg?itok=lvbNifGi", "email": "bertanderson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-641-1549", "Home phone": "701-965-6973"}, "created_at": "2018-10-18T14:52:56.493081+00:00", "updated_at": "2022-02-19T10:02:12.833740+00:00", "openstates_url": "https://openstates.org/person/bert-anderson-3lLNSU5M3RD6etZhoVcp1c/"}, {"id": "ocd-person/4deb8a5c-cd4c-4f1b-9fce-5b886a389cd3", "name": "Bill Devlin", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:nd/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bill", "family_name": "Devlin", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bdevlin.jpg?itok=_8npxfnp", "email": "bdevlin@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-524-2303"}, "created_at": "2018-10-18T14:53:17.427110+00:00", "updated_at": "2022-02-19T10:01:59.522385+00:00", "openstates_url": "https://openstates.org/person/bill-devlin-2N23BsXAfQTJ0hJLoJLYgN/"}, {"id": "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09", "name": "Bill Tveit", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "33", "division_id": "ocd-division/country:us/state:nd/sldl:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bill", "family_name": "Tveit", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/btveit.jpg?itok=CIYTYFFx", "email": "btveit@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-870-4014", "Home phone": "701-748-2812"}, "created_at": "2019-01-04T06:33:01.447195+00:00", "updated_at": "2022-02-19T10:02:00.814870+00:00", "openstates_url": "https://openstates.org/person/bill-tveit-2SdoyVN3EQw8B04bvak4Kn/"}, {"id": "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444", "name": "Bob Martinson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "35", "division_id": "ocd-division/country:us/state:nd/sldl:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bob", "family_name": "Martinson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bmartinson.jpg?itok=npRjwYvv", "email": "bmartinson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-223-0835"}, "created_at": "2018-10-18T14:53:12.936806+00:00", "updated_at": "2022-02-19T10:00:37.106898+00:00", "openstates_url": "https://openstates.org/person/bob-martinson-7YoCA9J46xg6nGY1Rd919A/"}, {"id": "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696", "name": "Bob Paulson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:nd/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Bob", "family_name": "Paulson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bpaulson.jpg?itok=36cu6Wrb", "email": "bpaulson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-833-4752"}, "created_at": "2019-01-04T06:33:03.272032+00:00", "updated_at": "2022-02-19T10:00:56.409836+00:00", "openstates_url": "https://openstates.org/person/bob-paulson-4dHliglLw4nTFSRKN9kgHG/"}, {"id": "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477", "name": "Brandy Pyle", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:nd/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Brandy", "family_name": "Pyle", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bpyle.jpg?itok=JJDNioja", "email": "bpyle@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-388-2622"}, "created_at": "2018-10-18T14:53:13.094431+00:00", "updated_at": "2022-02-19T10:03:07.661029+00:00", "openstates_url": "https://openstates.org/person/brandy-pyle-M2Vw8BEYB6bXGWUhzh3mp/"}, {"id": "ocd-person/bb5b0c38-8178-42e1-b23e-034c55f4e29e", "name": "Chet Pollert", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:nd/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Chet", "family_name": "Pollert", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cpollert.jpg?itok=g29Zw0nO", "email": "cpollert@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-652-2494"}, "created_at": "2018-10-18T14:52:56.170728+00:00", "updated_at": "2022-02-19T10:02:22.616254+00:00", "openstates_url": "https://openstates.org/person/chet-pollert-5hXAn9pSL3Fa58Yh1oNh7u/"}, {"id": "ocd-person/fda9f750-66db-427e-83ef-f1aae1d6f7cb", "name": "Chuck Damschen", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:nd/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Chuck", "family_name": "Damschen", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cdamschen.jpg?itok=licGuk9T", "email": "cdamschen@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-370-1758", "Home phone": "701-868-3281"}, "created_at": "2018-10-18T14:53:08.550546+00:00", "updated_at": "2022-02-19T10:00:33.540655+00:00", "openstates_url": "https://openstates.org/person/chuck-damschen-7iejTL2oRNf69loCFzlp6J/"}, {"id": "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01", "name": "Claire Cory", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "42", "division_id": "ocd-division/country:us/state:nd/sldl:42"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Claire", "family_name": "Cory", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/clairecory.jpg?itok=lOocC4oU", "email": "clairecory@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-213-6553"}, "created_at": "2020-12-30T06:12:00.572249+00:00", "updated_at": "2022-02-19T10:01:33.333805+00:00", "openstates_url": "https://openstates.org/person/claire-cory-1Y2tCFDKYYK8coWcU4JRh/"}, {"id": "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a", "name": "Clayton Fegley", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:nd/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Clayton", "family_name": "Fegley", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cfegley.jpg?itok=HMYRyWbV", "email": "cfegley@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-263-1442", "Home phone": "701-453-3151"}, "created_at": "2019-01-04T06:33:00.637098+00:00", "updated_at": "2022-02-19T10:00:25.026569+00:00", "openstates_url": "https://openstates.org/person/clayton-fegley-R45ckD7exnEeJFrxdi5KU/"}, {"id": "ocd-person/7e68311f-8c99-40d6-b606-c287d09ff3e9", "name": "Cole Christensen", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:nd/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Cole", "family_name": "Christensen", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/colechristensen.jpg?itok=vaxvkU7A", "email": "colechristensen@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-659-1776"}, "created_at": "2020-12-30T06:12:04.805581+00:00", "updated_at": "2022-02-19T10:02:11.647565+00:00", "openstates_url": "https://openstates.org/person/cole-christensen-3qWeEr59V6bsEzC0ayYz3B/"}, {"id": "ocd-person/33add2cf-dc7a-4da0-b60d-95faaad1f261", "name": "Corey Mock", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:nd/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Corey", "family_name": "Mock", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/crmock.jpg?itok=oibEbWx5", "email": "crmock@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-732-0085"}, "created_at": "2018-10-18T14:53:13.252696+00:00", "updated_at": "2022-02-19T10:03:06.378039+00:00", "openstates_url": "https://openstates.org/person/corey-mock-1ZW2ri3HzhyybJYaedIIXx/"}, {"id": "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd", "name": "Craig Headland", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:nd/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Craig", "family_name": "Headland", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cheadland.jpg?itok=uqevDd5-", "email": "cheadland@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-489-3184"}, "created_at": "2018-10-18T14:53:06.603037+00:00", "updated_at": "2022-02-19T10:01:01.261243+00:00", "openstates_url": "https://openstates.org/person/craig-headland-3YZleZ6sem4b5EBfT1GIfN/"}, {"id": "ocd-person/edc83bb0-e49f-42e6-8c3d-559da1f2ea91", "name": "Cynthia Schreiber-Beck", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:nd/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Cynthia", "family_name": "Schreiber-Beck", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cschreiberbeck.jpg?itok=ggXH_Uvh", "email": "cschreiberbeck@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-899-3232"}, "created_at": "2018-10-18T14:53:12.471377+00:00", "updated_at": "2022-02-19T10:01:17.911857+00:00", "openstates_url": "https://openstates.org/person/cynthia-schreiber-beck-7EggfrO3ITl5839yuNov9V/"}, {"id": "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381", "name": "Dan Ruby", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "38", "division_id": "ocd-division/country:us/state:nd/sldl:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dan", "family_name": "Ruby", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/druby.jpg?itok=WlcMGYCa", "email": "druby@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-720-7442"}, "created_at": "2018-10-18T14:53:00.169528+00:00", "updated_at": "2022-02-19T10:02:56.900641+00:00", "openstates_url": "https://openstates.org/person/dan-ruby-568qWRXd3nj0kiFmP8fmk5/"}, {"id": "ocd-person/f7e32b7c-2777-4aa6-890b-edb680eee1fc", "name": "Dave Nehring", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:nd/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dave", "family_name": "Nehring", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dnehring.jpg?itok=ZDsNKm-t", "email": "dnehring@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-214-3184"}, "created_at": "2020-12-30T06:12:01.225035+00:00", "updated_at": "2022-02-19T10:01:00.017190+00:00", "openstates_url": "https://openstates.org/person/dave-nehring-7Xkv8wwqKlCZgSCz0HMry0/"}, {"id": "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f", "name": "David Monson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:nd/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "David", "family_name": "Monson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dmonson.jpg?itok=6CTrMTOx", "email": "dmonson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-496-3394"}, "created_at": "2018-10-18T14:53:05.349194+00:00", "updated_at": "2022-02-19T10:02:03.275735+00:00", "openstates_url": "https://openstates.org/person/david-monson-2pu5YuMFqhlNvb4Ath5guF/"}, {"id": "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a", "name": "David Richter", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:nd/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "David", "family_name": "Richter", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dwrichter.jpg?itok=AAkJSJAw", "email": "dwrichter@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-572-1932"}, "created_at": "2019-01-04T06:33:08.343650+00:00", "updated_at": "2022-02-19T10:00:21.351716+00:00", "openstates_url": "https://openstates.org/person/david-richter-31Ev6LIktJWRLHakClI9N4/"}, {"id": "ocd-person/5d600d38-31f0-4a13-9ceb-9ed6630edb3c", "name": "Dennis Johnson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:nd/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dennis", "family_name": "Johnson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/djohnson.jpg?itok=JSW04RNu", "email": "djohnson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-739-9328", "Home phone": "701-662-4998"}, "created_at": "2018-10-18T14:53:14.014033+00:00", "updated_at": "2022-02-19T10:01:44.138916+00:00", "openstates_url": "https://openstates.org/person/dennis-johnson-2qCBI6zt0xNhluka014HXA/"}, {"id": "ocd-person/78f3279d-3218-4739-b87d-294a9a6e2c22", "name": "Denton Zubke", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "39", "division_id": "ocd-division/country:us/state:nd/sldl:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Denton", "family_name": "Zubke", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dzubke.jpg?itok=xB4GXR1M", "email": "dzubke@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-570-4043", "Home phone": "701-842-3081"}, "created_at": "2018-10-18T14:52:58.395190+00:00", "updated_at": "2022-02-19T10:00:46.872950+00:00", "openstates_url": "https://openstates.org/person/denton-zubke-3gECTfNbSi8jGN8GWiTBTO/"}, {"id": "ocd-person/65381298-5fe3-49d8-9739-8678016f8383", "name": "Dick Anderson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:nd/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dick", "family_name": "Anderson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dickanderson.jpg?itok=2phUbEOH", "email": "dickanderson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-228-4782", "Home phone": "701-366-4625"}, "created_at": "2018-10-18T14:52:55.594389+00:00", "updated_at": "2022-02-19T10:01:22.730183+00:00", "openstates_url": "https://openstates.org/person/dick-anderson-34zqiWXgQGjSoA0BkPIF19/"}, {"id": "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce", "name": "Don Vigesaa", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:nd/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Don", "family_name": "Vigesaa", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dwvigesaa.jpg?itok=FiTfzTsC", "email": "dwvigesaa@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-797-2448"}, "created_at": "2018-10-18T14:53:03.284076+00:00", "updated_at": "2022-02-19T10:01:23.923868+00:00", "openstates_url": "https://openstates.org/person/don-vigesaa-4YqPRNg2Y9mQg3O87PhmRi/"}, {"id": "ocd-person/da7774ec-8498-4094-b7d7-87d301911015", "name": "Donald Longmuir", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:nd/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Donald W.", "family_name": "Longmuir", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dlongmuir.jpg?itok=ZvTPmhE_", "email": "dlongmuir@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-629-1632", "Home phone": "701-628-2617"}, "created_at": "2018-10-18T14:53:02.454156+00:00", "updated_at": "2022-02-19T10:00:28.714882+00:00", "openstates_url": "https://openstates.org/person/donald-longmuir-6eEuzGIqYBg6NSlgwqtAdp/"}, {"id": "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8", "name": "Dori Hauck", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "36", "division_id": "ocd-division/country:us/state:nd/sldl:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dori", "family_name": "Hauck", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dorihauck.jpg?itok=Q1wEweP_", "email": "dorihauck@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "218-790-1345"}, "created_at": "2022-02-19T10:02:53.338741+00:00", "updated_at": "2022-02-19T10:02:54.868559+00:00", "openstates_url": "https://openstates.org/person/dori-hauck-2vXtDiaHKKDqKyhJmvgzIe/"}, {"id": "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36", "name": "Dwight Kiefert", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:nd/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Dwight", "family_name": "Kiefert", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dhkiefert.jpg?itok=3KWyrftz", "email": "dhkiefert@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-490-0443", "Home phone": "701-845-0760"}, "created_at": "2018-10-18T14:53:08.401074+00:00", "updated_at": "2022-02-19T10:01:03.475689+00:00", "openstates_url": "https://openstates.org/person/dwight-kiefert-3mzxPkR805QXkL72V2aLNm/"}, {"id": "ocd-person/6e057049-e588-483b-bc2d-9e9f453284ba", "name": "Emily O'Brien", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "42", "division_id": "ocd-division/country:us/state:nd/sldl:42"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Emily", "family_name": "O'Brien", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/eobrien.jpg?itok=hthdMczA", "email": "eobrien@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "952-693-3109"}, "created_at": "2018-10-18T14:53:14.645365+00:00", "updated_at": "2022-02-19T10:02:52.821980+00:00", "openstates_url": "https://openstates.org/person/emily-o-brien-3LbdleJnn8XR6QPItAMGE6/"}, {"id": "ocd-person/f0938888-cc5c-4a00-a778-9d91efc07da4", "name": "Gary Kreidt", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "33", "division_id": "ocd-division/country:us/state:nd/sldl:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Gary", "family_name": "Kreidt", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gkreidt.jpg?itok=TrOof242", "email": "gkreidt@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-226-2169", "Home phone": "701-843-7074"}, "created_at": "2018-10-18T14:53:14.326450+00:00", "updated_at": "2022-02-19T10:03:08.862333+00:00", "openstates_url": "https://openstates.org/person/gary-kreidt-7Jxa2u01lPQrGqyEtYOwiK/"}, {"id": "ocd-person/830c77cc-1e70-45d1-96fc-829fd79f394f", "name": "Gary Paur", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:nd/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Gary", "family_name": "Paur", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gpaur.jpg?itok=CPb3vbZy", "email": "gpaur@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "218-791-0491", "Home phone": "701-869-2892"}, "created_at": "2018-10-18T14:53:05.501858+00:00", "updated_at": "2022-02-19T10:00:29.937692+00:00", "openstates_url": "https://openstates.org/person/gary-paur-3zHgwlkLdo5R9xmssftlOh/"}, {"id": "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5", "name": "Glenn Bosch", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:nd/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Glenn", "family_name": "Bosch", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gdbosch.jpg?itok=hu_eBi8_", "email": "gdbosch@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-226-1886"}, "created_at": "2018-10-18T14:53:12.782945+00:00", "updated_at": "2022-02-19T10:01:11.950728+00:00", "openstates_url": "https://openstates.org/person/glenn-bosch-2D18pkZQ77VxsAUGenDzoz/"}, {"id": "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31", "name": "Greg Stemen", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:nd/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Greg", "family_name": "Stemen", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gstemen.jpg?itok=QtPi56aF", "email": "gstemen@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "507-828-7836"}, "created_at": "2020-12-30T06:12:05.675866+00:00", "updated_at": "2022-02-19T10:02:10.438754+00:00", "openstates_url": "https://openstates.org/person/greg-stemen-1umhmXLz7dz0NPcmIWYSw5/"}, {"id": "ocd-person/37e93a0e-58a9-43a2-baac-dc3e19260a77", "name": "Greg Westlind", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:nd/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Greg", "family_name": "Westlind", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gwestlind.jpg?itok=5tNl_aqS", "email": "gwestlind@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-739-8275", "Home phone": "701-968-4222"}, "created_at": "2018-10-18T14:53:10.739087+00:00", "updated_at": "2022-02-19T10:03:01.645319+00:00", "openstates_url": "https://openstates.org/person/greg-westlind-1hVA6GhPNHn3olZbbbhN4B/"}, {"id": "ocd-person/752ba791-ab73-4945-b632-64fcae50c118", "name": "Gretchen Dobervich", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:nd/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Gretchen", "family_name": "Dobervich", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gdobervich.jpg?itok=Erq9varC", "email": "gdobervich@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-361-5627"}, "created_at": "2018-10-18T14:53:07.102158+00:00", "updated_at": "2022-02-19T10:01:58.344548+00:00", "openstates_url": "https://openstates.org/person/gretchen-dobervich-3Z63FcK7K9F62hmYnFq2gq/"}, {"id": "ocd-person/cbb1ed7b-ca03-4c1b-b119-a171263e7661", "name": "Jared C. Hagert", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:nd/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jhagert.jpg?itok=s6-ehTsT", "email": "jhagert@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "218-779-8691"}, "created_at": "2020-12-30T06:11:58.402700+00:00", "updated_at": "2022-02-19T10:03:02.821180+00:00", "openstates_url": "https://openstates.org/person/jared-c-hagert-6CMkqKuZ0p0gPvSUjROhaj/"}, {"id": "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c", "name": "Jason Dockter", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:nd/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jason", "family_name": "Dockter", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jddockter.jpg?itok=mBqEFY1V", "email": "jddockter@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-214-0486", "Home phone": "701-214-0486"}, "created_at": "2018-10-18T14:53:14.475297+00:00", "updated_at": "2022-02-19T10:01:13.157784+00:00", "openstates_url": "https://openstates.org/person/jason-dockter-LIFrqgAdASa5A00vQ1mns/"}, {"id": "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1", "name": "Jay Fisher", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:nd/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jay", "family_name": "Fisher", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jayfisher.jpg?itok=xJcu3ZNC", "email": "jayfisher@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-852-6755"}, "created_at": "2019-01-04T06:33:20.543830+00:00", "updated_at": "2022-02-19T10:03:03.996712+00:00", "openstates_url": "https://openstates.org/person/jay-fisher-5sfeyqgR7EGOTRHhkmIvvV/"}, {"id": "ocd-person/4c53491d-adf0-4c18-a645-a63667f2c828", "name": "Jeff A. Hoverson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:nd/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jahoverson.jpg?itok=hm2OhUZw", "email": "jahoverson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-340-8237"}, "created_at": "2019-01-04T06:33:13.865363+00:00", "updated_at": "2022-02-19T10:02:06.853194+00:00", "openstates_url": "https://openstates.org/person/jeff-a-hoverson-2K1TfHM7e6UtNVetsO07Mu/"}, {"id": "ocd-person/55fbd571-b96b-4465-8d1a-eb49a4b510dc", "name": "Jeff Delzer", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:nd/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jeff", "family_name": "Delzer", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jdelzer.jpg?itok=EYIfSmXe", "email": "jdelzer@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-442-5435"}, "created_at": "2018-10-18T14:53:05.009050+00:00", "updated_at": "2022-02-19T10:02:45.623907+00:00", "openstates_url": "https://openstates.org/person/jeff-delzer-2cFR2Y0IdkU5jIgytjfW2u/"}, {"id": "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818", "name": "Jeffery J. Magrum", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:nd/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jeffery J.", "family_name": "Magrum", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jmagrum.jpg?itok=tR0plIsn", "email": "jmagrum@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-321-2224"}, "created_at": "2018-10-18T14:53:06.437807+00:00", "updated_at": "2022-02-19T10:02:05.670716+00:00", "openstates_url": "https://openstates.org/person/jeffery-j-magrum-4kbbE3wmEpnZgLUcSNBl16/"}, {"id": "ocd-person/af2974f4-4889-4ea5-9cfd-93d68e2d39a2", "name": "Jim Kasper", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "46", "division_id": "ocd-division/country:us/state:nd/sldl:46"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jim", "family_name": "Kasper", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jkasper.jpg?itok=KFkmnNi8", "email": "jkasper@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-799-9000", "Home phone": "701-799-9000"}, "created_at": "2018-10-18T14:53:02.620615+00:00", "updated_at": "2022-02-19T10:00:50.452165+00:00", "openstates_url": "https://openstates.org/person/jim-kasper-5KWbO9PmN80q1D20t1jTco/"}, {"id": "ocd-person/27b30276-7f7d-4c61-9bf1-bf6f40d7714e", "name": "Jim Schmidt", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "31", "division_id": "ocd-division/country:us/state:nd/sldl:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jim", "family_name": "Schmidt", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jeschmidt.jpg?itok=2LyMU_Sb", "email": "jeschmidt@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-426-2102"}, "created_at": "2018-10-18T14:53:08.853558+00:00", "updated_at": "2022-02-19T10:02:41.643090+00:00", "openstates_url": "https://openstates.org/person/jim-schmidt-1CuVWCeZSYYdqN1fJirbTy/"}, {"id": "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca", "name": "Jon O. Nelson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:nd/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Jon O.", "family_name": "Nelson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jonelson.jpg?itok=yWIDB4v9", "email": "jonelson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-771-2193", "Home phone": "701-776-6738"}, "created_at": "2018-10-18T14:52:59.203681+00:00", "updated_at": "2022-02-19T10:01:50.140239+00:00", "openstates_url": "https://openstates.org/person/jon-o-nelson-5TXplI7ub88hXfzOJ5lDNC/"}, {"id": "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0", "name": "Joshua A. Boschee", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "44", "division_id": "ocd-division/country:us/state:nd/sldl:44"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Joshua A.", "family_name": "Boschee", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jboschee.jpg?itok=JkT0nsS5", "email": "jboschee@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-367-3513", "Home phone": "701-367-3513"}, "created_at": "2018-10-18T14:53:05.185064+00:00", "updated_at": "2022-02-19T10:03:05.174403+00:00", "openstates_url": "https://openstates.org/person/joshua-a-boschee-2SXOxms4Yt0phGE5UzlXpw/"}, {"id": "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3", "name": "Karen Karls", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "35", "division_id": "ocd-division/country:us/state:nd/sldl:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Karen", "family_name": "Karls", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkarls.jpg?itok=XHQSNmih", "email": "kkarls@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-258-6836"}, "created_at": "2018-10-18T14:53:13.855504+00:00", "updated_at": "2022-02-19T10:01:27.502779+00:00", "openstates_url": "https://openstates.org/person/karen-karls-4ulR1eUM4i8wdOF0Ku6YKJ/"}, {"id": "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e", "name": "Karen M. Rohr", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "31", "division_id": "ocd-division/country:us/state:nd/sldl:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Karen M.", "family_name": "Rohr", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kmrohr.jpg?itok=96299jIY", "email": "kmrohr@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-202-1956", "Home phone": "701-202-1956"}, "created_at": "2018-10-18T14:53:07.413492+00:00", "updated_at": "2022-02-19T10:00:32.336147+00:00", "openstates_url": "https://openstates.org/person/karen-m-rohr-5KSzz3ZWu3wN9hT1sQpPB8/"}, {"id": "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd", "name": "Karla Rose Hanson", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "44", "division_id": "ocd-division/country:us/state:nd/sldl:44"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Karla Rose", "family_name": "Hanson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/krhanson.jpg?itok=WiFcqlvB", "email": "krhanson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-793-9181"}, "created_at": "2018-10-18T14:53:10.116581+00:00", "updated_at": "2022-02-19T10:01:14.356018+00:00", "openstates_url": "https://openstates.org/person/karla-rose-hanson-42Pl9qEvAnFHAfDfkcmSZ3/"}, {"id": "ocd-person/d9bd764d-f08a-4056-ba7d-82bad9e9d17b", "name": "Kathy Skroch", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:nd/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Kathy", "family_name": "Skroch", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kskroch.jpg?itok=QIurj_0Y", "email": "kskroch@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-538-7396"}, "created_at": "2018-10-18T14:53:04.066804+00:00", "updated_at": "2022-02-19T10:03:00.462193+00:00", "openstates_url": "https://openstates.org/person/kathy-skroch-6crv08O6KhNRCaq2LmZBdL/"}, {"id": "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b", "name": "Keith Kempenich", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "39", "division_id": "ocd-division/country:us/state:nd/sldl:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Keith", "family_name": "Kempenich", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkempenich.jpg?itok=gc89NnG2", "email": "kkempenich@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-523-2273", "Home phone": "701-523-3858"}, "created_at": "2018-10-18T14:52:55.887390+00:00", "updated_at": "2022-02-19T10:00:39.547093+00:00", "openstates_url": "https://openstates.org/person/keith-kempenich-1TRC26DrErGM44eMZVusHb/"}, {"id": "ocd-person/9799a03d-cd79-4fc3-92bd-655ff5cc55de", "name": "Kim Koppelman", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:nd/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Kim", "family_name": "Koppelman", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkoppelman.jpg?itok=NcNVr4Oi", "email": "kkoppelman@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-282-9267"}, "created_at": "2018-10-18T14:53:01.965584+00:00", "updated_at": "2022-02-19T10:02:50.465366+00:00", "openstates_url": "https://openstates.org/person/kim-koppelman-4c430vDWpMOG86C292bum6/"}, {"id": "ocd-person/1e110d7c-5f6a-4964-86a0-19a87e025c90", "name": "Larry Bellew", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "38", "division_id": "ocd-division/country:us/state:nd/sldl:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Larry", "family_name": "Bellew", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lbellew.jpg?itok=z8Q-yqb-", "email": "lbellew@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-852-5786"}, "created_at": "2018-10-18T14:52:59.533874+00:00", "updated_at": "2022-02-19T10:02:31.062442+00:00", "openstates_url": "https://openstates.org/person/larry-bellew-ujYtoBi4XiDazIasf8Euu/"}, {"id": "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c", "name": "LaurieBeth Hager", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:nd/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "LaurieBeth", "family_name": "Hager", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lbhager.jpg?itok=8rbtqA5e", "email": "lbhager@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-371-1407", "Home phone": "701-280-2535"}, "created_at": "2019-01-04T06:33:10.173521+00:00", "updated_at": "2022-02-19T10:02:21.441669+00:00", "openstates_url": "https://openstates.org/person/lauriebeth-hager-7N1nxedOxsrPJBDb6bd0hQ/"}, {"id": "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6", "name": "Lawrence R. Klemin", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "47", "division_id": "ocd-division/country:us/state:nd/sldl:47"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Lawrence R.", "family_name": "Klemin", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lklemin.jpg?itok=-o6DsxAD", "email": "lklemin@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-471-5802", "Home phone": "701-222-2577"}, "created_at": "2018-10-18T14:53:02.785234+00:00", "updated_at": "2022-02-19T10:02:29.854793+00:00", "openstates_url": "https://openstates.org/person/lawrence-r-klemin-1skvQqtdoSoqnbem6suTV0/"}, {"id": "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07", "name": "Lisa Meier", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "32", "division_id": "ocd-division/country:us/state:nd/sldl:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Lisa", "family_name": "Meier", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lmeier.jpg?itok=M38CNbRk", "email": "lmeier@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-202-7126", "Home phone": "701-255-4166"}, "created_at": "2018-10-18T14:53:03.109244+00:00", "updated_at": "2022-02-19T10:00:45.678848+00:00", "openstates_url": "https://openstates.org/person/lisa-meier-1lGH8JtYUN9cuYAHIoxX55/"}, {"id": "ocd-person/00bb47f8-3fbc-435f-897c-60385972e6f7", "name": "Mark S. Owens", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:nd/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mark S.", "family_name": "Owens", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mowens.jpg?itok=0hDnOzwd", "email": "mowens@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": []}, "created_at": "2018-10-18T14:53:00.983402+00:00", "updated_at": "2022-02-19T10:02:33.426830+00:00", "openstates_url": "https://openstates.org/person/mark-s-owens-1NaRBHBUiEaexZPy72UvH/"}, {"id": "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9", "name": "Mark Sanford", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:nd/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mark", "family_name": "Sanford", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/masanford.jpg?itok=D_yVPglg", "email": "masanford@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-772-4236"}, "created_at": "2018-10-18T14:53:11.685710+00:00", "updated_at": "2022-02-19T10:01:36.880470+00:00", "openstates_url": "https://openstates.org/person/mark-sanford-7if4mO16qBvBx9LkGTmiAz/"}, {"id": "ocd-person/74bfa4e7-d21d-479b-ae5b-89e3c6d50193", "name": "Marvin E. Nelson", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:nd/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Marvin E.", "family_name": "Nelson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/menelson.jpg?itok=zAA9TSAv", "email": "menelson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-550-9731"}, "created_at": "2018-10-18T14:53:08.700756+00:00", "updated_at": "2022-02-19T10:01:20.294330+00:00", "openstates_url": "https://openstates.org/person/marvin-e-nelson-3YIgsLUgX8fdNHOzUbrBPn/"}, {"id": "ocd-person/0c6f9edd-4cd3-4049-9006-60cf273a5102", "name": "Mary Adams", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "43", "division_id": "ocd-division/country:us/state:nd/sldl:43"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mary", "family_name": "Adams", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mkadams.jpg?itok=z9k4FuEg", "email": "mkadams@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-739-5520"}, "created_at": "2019-01-04T06:33:04.133569+00:00", "updated_at": "2022-02-19T10:02:55.691341+00:00", "openstates_url": "https://openstates.org/person/mary-adams-NSuxLQ8I9TByWll8hGNwg/"}, {"id": "ocd-person/72377176-d5f1-40de-8a6d-afa3c0e6cf66", "name": "Mary Johnson", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "45", "division_id": "ocd-division/country:us/state:nd/sldl:45"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mary", "family_name": "Johnson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/marycjohnson.jpg?itok=9ashpc1s", "email": "marycjohnson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-306-2037"}, "created_at": "2018-10-18T14:52:57.426746+00:00", "updated_at": "2022-02-19T10:02:09.243075+00:00", "openstates_url": "https://openstates.org/person/mary-johnson-3TWShNhe1AhK76Gwg3snvK/"}, {"id": "ocd-person/891c379b-f866-4029-9f52-a416b5005272", "name": "Mary Schneider", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:nd/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mary", "family_name": "Schneider", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mschneider.jpg?itok=U0OtNqyN", "email": "mschneider@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-306-0860", "Home phone": "701-235-0316"}, "created_at": "2018-10-18T14:53:10.429603+00:00", "updated_at": "2022-02-19T10:01:10.729946+00:00", "openstates_url": "https://openstates.org/person/mary-schneider-4AiqKjihZQmq8gL7bROcPy/"}, {"id": "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1", "name": "Matthew Ruby", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "40", "division_id": "ocd-division/country:us/state:nd/sldl:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Matthew", "family_name": "Ruby", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mruby.jpg?itok=mIPfahXg", "email": "mruby@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-509-8149"}, "created_at": "2018-10-18T14:52:56.792070+00:00", "updated_at": "2022-02-19T10:02:40.447162+00:00", "openstates_url": "https://openstates.org/person/matthew-ruby-XdflUSolNUkp8DVzZRdwn/"}, {"id": "ocd-person/7d98fdaa-e045-4953-8865-e7c812c0390a", "name": "Michael Howe", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:nd/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Michael", "family_name": "Howe", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mchowe.jpg?itok=LYLKni2P", "email": "mchowe@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": []}, "created_at": "2018-10-18T14:52:55.738148+00:00", "updated_at": "2022-02-19T10:02:17.706960+00:00", "openstates_url": "https://openstates.org/person/michael-howe-3ozxOBXou54BO86mBDExbe/"}, {"id": "ocd-person/a6e733ce-ccdc-425a-bb9b-9010a09c3933", "name": "Michelle Strinden", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "41", "division_id": "ocd-division/country:us/state:nd/sldl:41"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Michelle", "family_name": "Strinden", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mstrinden.jpg?itok=tHpp2G4m", "email": "mstrinden@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-799-9799"}, "created_at": "2019-01-04T06:33:08.944500+00:00", "updated_at": "2022-02-19T10:00:35.915569+00:00", "openstates_url": "https://openstates.org/person/michelle-strinden-54wNw0wNGsXKGzBLQkcHqd/"}, {"id": "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58", "name": "Mike Beltz", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:nd/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mike", "family_name": "Beltz", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mbeltz.jpg?itok=zK1ttSEE", "email": "mbeltz@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-430-1209"}, "created_at": "2020-12-30T06:12:08.586027+00:00", "updated_at": "2021-12-16T19:01:43.843018+00:00", "openstates_url": "https://openstates.org/person/mike-beltz-1P0K8pOeMi3o6vt5XPbLOi/"}, {"id": "ocd-person/52538b14-697a-4632-854b-badf925cbfe6", "name": "Mike Brandenburg", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:nd/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mike", "family_name": "Brandenburg", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mbrandenburg.jpg?itok=qF5aWQUM", "email": "mbrandenburg@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-709-0237", "Home phone": "701-493-2915"}, "created_at": "2018-10-18T14:53:06.768366+00:00", "updated_at": "2022-02-19T10:01:29.790972+00:00", "openstates_url": "https://openstates.org/person/mike-brandenburg-2VLY6xkSkfglxCYSGoMWKU/"}, {"id": "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f", "name": "Mike Lefor", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "37", "division_id": "ocd-division/country:us/state:nd/sldl:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mike", "family_name": "Lefor", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mlefor.jpg?itok=gPexLSiZ", "email": "mlefor@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-290-0539"}, "created_at": "2018-10-18T14:52:59.990650+00:00", "updated_at": "2022-02-19T10:01:25.112491+00:00", "openstates_url": "https://openstates.org/person/mike-lefor-3vsVIRvnGacsZOXGJLmI8d/"}, {"id": "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba", "name": "Mike Nathe", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:nd/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mike", "family_name": "Nathe", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mrnathe.jpg?itok=lDCRhvZi", "email": "mrnathe@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-250-0645"}, "created_at": "2018-10-18T14:53:16.662538+00:00", "updated_at": "2022-02-19T10:02:08.035332+00:00", "openstates_url": "https://openstates.org/person/mike-nathe-4d1ldOTmOdZteSDBjG2t5O/"}, {"id": "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63", "name": "Mike Schatz", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "36", "division_id": "ocd-division/country:us/state:nd/sldl:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mike", "family_name": "Schatz", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mischatz.jpg?itok=lu_mxP4L", "email": "mischatz@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-333-8610", "Home phone": "701-579-4823"}, "created_at": "2018-10-18T14:53:15.412074+00:00", "updated_at": "2022-02-19T10:01:55.982640+00:00", "openstates_url": "https://openstates.org/person/mike-schatz-58jZT7gWQLTjaT1HYcNtDv/"}, {"id": "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520", "name": "Mitch Ostlie", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:nd/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Mitch", "family_name": "Ostlie", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mostlie.jpg?itok=EQC7hszY", "email": "mostlie@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-320-8822"}, "created_at": "2020-12-30T06:12:03.303194+00:00", "updated_at": "2022-02-19T10:02:49.204921+00:00", "openstates_url": "https://openstates.org/person/mitch-ostlie-5ADuKdbiCS44hjid2U6sGu/"}, {"id": "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f", "name": "Nathan Toman", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "34", "division_id": "ocd-division/country:us/state:nd/sldl:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Nathan", "family_name": "Toman", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/nptoman.jpg?itok=w1R9T3hd", "email": "nptoman@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-484-1906"}, "created_at": "2018-10-18T14:53:12.629158+00:00", "updated_at": "2022-02-19T10:00:31.138607+00:00", "openstates_url": "https://openstates.org/person/nathan-toman-5oZvqaRn3R9uSbQUjaf0gx/"}, {"id": "ocd-person/5e3b0f76-86ce-4162-9307-6fd8dcaaf91f", "name": "Pamela Anderson", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "41", "division_id": "ocd-division/country:us/state:nd/sldl:41"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Pamela", "family_name": "Anderson", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/pkanderson.jpg?itok=3lUIkV3g", "email": "pkanderson@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-306-3362"}, "created_at": "2018-10-18T14:53:13.404575+00:00", "updated_at": "2022-02-19T10:00:54.005069+00:00", "openstates_url": "https://openstates.org/person/pamela-anderson-2roGhdO0pjf8HPy5DLrjfr/"}, {"id": "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84", "name": "Pat D. Heinert", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "32", "division_id": "ocd-division/country:us/state:nd/sldl:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Pat D.", "family_name": "Heinert", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/pdheinert.jpg?itok=Ih_rMu3c", "email": "pdheinert@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-222-1354"}, "created_at": "2018-10-18T14:52:58.245921+00:00", "updated_at": "2022-02-19T10:01:30.972756+00:00", "openstates_url": "https://openstates.org/person/pat-d-heinert-xAeqjcTIfl5pfzuEAzY6G/"}, {"id": "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567", "name": "Patrick Hatlestad", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:nd/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Patrick", "family_name": "Hatlestad", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/phatlestad.jpg?itok=vlun2ydv", "email": "phatlestad@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-770-8899", "Home phone": "701-577-6656"}, "created_at": "2020-12-30T06:12:05.997379+00:00", "updated_at": "2022-02-19T10:02:59.265227+00:00", "openstates_url": "https://openstates.org/person/patrick-hatlestad-4NPqHU1sOHdrBftynrfEut/"}, {"id": "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096", "name": "Paul J. Thomas", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:nd/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/paulthomas.jpg?itok=v4Mja5dV", "email": "paulthomas@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-626-2777"}, "created_at": "2020-12-30T06:12:02.598694+00:00", "updated_at": "2022-02-19T10:02:46.823727+00:00", "openstates_url": "https://openstates.org/person/paul-j-thomas-4Z9mybU1jo0zqYrtBSPAAg/"}, {"id": "ocd-person/8af43362-097c-4898-a147-0bfc87d3b38e", "name": "Randy A. Schobinger", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "40", "division_id": "ocd-division/country:us/state:nd/sldl:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Randy A.", "family_name": "Schobinger", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rschobinger.jpg?itok=KRKLCqU9", "email": "rschobinger@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": []}, "created_at": "2018-10-18T14:53:04.708225+00:00", "updated_at": "2021-12-16T19:01:52.454651+00:00", "openstates_url": "https://openstates.org/person/randy-a-schobinger-4ECXYEDdcTcC5osDm63wbe/"}, {"id": "ocd-person/02d00f0b-b88e-444f-ab65-adb352d5ae69", "name": "Rick Becker", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:nd/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Rick C.", "family_name": "Becker", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rcbecker.jpg?itok=o3wKQLc0", "email": "rcbecker@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-527-6902"}, "created_at": "2018-10-18T14:53:11.205562+00:00", "updated_at": "2021-12-16T19:01:47.202601+00:00", "openstates_url": "https://openstates.org/person/rick-becker-5J4CXaLlXlOSkCwm7LR73/"}, {"id": "ocd-person/dc2e2d4c-3411-480c-9fd1-09c01512baaa", "name": "Robb Eckert", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "47", "division_id": "ocd-division/country:us/state:nd/sldl:47"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Robb", "family_name": "Eckert", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/reckert.jpg?itok=V5BHHeG5", "email": "reckert@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-220-3425"}, "created_at": "2022-02-19T10:02:43.192883+00:00", "updated_at": "2022-02-19T10:02:44.788047+00:00", "openstates_url": "https://openstates.org/person/robb-eckert-6hTPiics5wlml6DQMGgDIg/"}, {"id": "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda", "name": "Robin Weisz", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:nd/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Robin", "family_name": "Weisz", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rweisz.jpg?itok=OyE9eqvS", "email": "rweisz@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": []}, "created_at": "2018-10-18T14:53:11.530481+00:00", "updated_at": "2022-02-19T10:00:49.263882+00:00", "openstates_url": "https://openstates.org/person/robin-weisz-7af217JWCif4vMGbFZZ0ME/"}, {"id": "ocd-person/d8b201c1-2edb-459c-9aca-953dc7b7d626", "name": "Ron Guggisberg", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:nd/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Ron", "family_name": "Guggisberg", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rguggisberg.jpg?itok=d3PiESvp", "email": "rguggisberg@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-367-2478"}, "created_at": "2018-10-18T14:53:11.358138+00:00", "updated_at": "2022-02-19T10:01:53.709444+00:00", "openstates_url": "https://openstates.org/person/ron-guggisberg-6atgu0IQrs8Acp3BUM8LsU/"}, {"id": "ocd-person/06b98bda-f5b4-4a3e-bc2c-ce7d186c8d57", "name": "Ruth Buffalo", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:nd/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Ruth", "family_name": "Buffalo", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rbuffalo.jpg?itok=2NSgYJHN", "email": "rbuffalo@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-491-8175"}, "created_at": "2019-01-04T06:33:07.131532+00:00", "updated_at": "2022-02-19T10:00:27.482923+00:00", "openstates_url": "https://openstates.org/person/ruth-buffalo-CgkQctvKVjBYaMwSsyD2d/"}, {"id": "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a", "name": "Scott Louser", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:nd/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Scott", "family_name": "Louser", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sclouser.jpg?itok=PFIZMpnJ", "email": "sclouser@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-833-8489"}, "created_at": "2018-10-18T14:53:16.355200+00:00", "updated_at": "2022-02-19T10:00:26.254852+00:00", "openstates_url": "https://openstates.org/person/scott-louser-1laZCjm1QZOW6p1FWaDM30/"}, {"id": "ocd-person/0a9ff425-acff-403c-99fa-6a34720ac934", "name": "Sebastian Ertelt", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:nd/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Sebastian", "family_name": "Ertelt", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sertelt.jpg?itok=y3gg3bo-", "email": "sertelt@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-683-2194"}, "created_at": "2018-10-18T14:52:56.332447+00:00", "updated_at": "2022-02-19T10:02:32.248103+00:00", "openstates_url": "https://openstates.org/person/sebastian-ertelt-K31NmIGgXbTkcsDd7FOQm/"}, {"id": "ocd-person/24ca8591-ef4f-4d63-ba3f-43f645005f19", "name": "Shannon Roers Jones", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "46", "division_id": "ocd-division/country:us/state:nd/sldl:46"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Shannon M.", "family_name": "Roers Jones", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sroersjones.jpg?itok=_e8AfuiD", "email": "sroersjones@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-630-6746"}, "created_at": "2018-10-18T14:53:11.053188+00:00", "updated_at": "2022-02-19T10:02:27.434791+00:00", "openstates_url": "https://openstates.org/person/shannon-roers-jones-17QH8lP9EtDIAAMcHydUyn/"}, {"id": "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5", "name": "Steve Vetter", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:nd/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Steve", "family_name": "Vetter", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/smvetter.jpg?itok=wayATzmb", "email": "smvetter@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "612-770-8689", "Home phone": "612-770-8689"}, "created_at": "2018-10-18T14:53:01.144717+00:00", "updated_at": "2022-02-19T10:02:34.606697+00:00", "openstates_url": "https://openstates.org/person/steve-vetter-4nJh0htqU2jXwaiyndGHm1/"}, {"id": "ocd-person/47075318-11ad-425e-a390-a0a4248c73d7", "name": "Terry B. Jones", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:nd/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Terry B.", "family_name": "Jones", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tbjones.jpg?itok=C86kXZ2-", "email": "tbjones@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-627-3397"}, "created_at": "2018-10-18T14:53:11.830957+00:00", "updated_at": "2022-02-19T10:02:26.218665+00:00", "openstates_url": "https://openstates.org/person/terry-b-jones-2A1nl2oDNuHVZvVliu1mzP/"}, {"id": "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08", "name": "Todd Porter", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "34", "division_id": "ocd-division/country:us/state:nd/sldl:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Todd", "family_name": "Porter", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tkporter.jpg?itok=swU12qIi", "email": "tkporter@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Home phone": "701-667-2922"}, "created_at": "2018-10-18T14:53:07.723915+00:00", "updated_at": "2022-02-19T10:01:19.112854+00:00", "openstates_url": "https://openstates.org/person/todd-porter-4WZP2f3JDuEjPw6DxFfPGy/"}, {"id": "ocd-person/95efc72f-b5f0-407e-a975-40bbb09b3e3c", "name": "Tom Kading", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "45", "division_id": "ocd-division/country:us/state:nd/sldl:45"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Tom", "family_name": "Kading", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tkading.jpg?itok=1AXeUh3s", "email": "tkading@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-639-4849"}, "created_at": "2018-10-18T14:53:17.738656+00:00", "updated_at": "2022-02-19T10:01:41.695912+00:00", "openstates_url": "https://openstates.org/person/tom-kading-4YvR0T7hocBlQcQITOJ7t6/"}, {"id": "ocd-person/1a66ac3d-e556-4373-b563-4277081aa178", "name": "Tracy Boe", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:nd/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Tracy", "family_name": "Boe", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tboe.jpg?itok=gTOY0yOK", "email": "tboe@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-477-4005", "Home phone": "701-656-3427"}, "created_at": "2018-10-18T14:52:58.706004+00:00", "updated_at": "2022-02-19T10:01:16.736163+00:00", "openstates_url": "https://openstates.org/person/tracy-boe-noilnL17a6lZSpUCVVhUG/"}, {"id": "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c", "name": "Vicky Steiner", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "37", "division_id": "ocd-division/country:us/state:nd/sldl:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Vicky", "family_name": "Steiner", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/vsteiner.jpg?itok=WmwXecAw", "email": "vsteiner@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-290-1376"}, "created_at": "2018-10-18T14:53:14.791873+00:00", "updated_at": "2022-02-19T10:01:09.533809+00:00", "openstates_url": "https://openstates.org/person/vicky-steiner-32lDevfH9FqW7d14lblLxs/"}, {"id": "ocd-person/cba55406-5798-4abb-b8dd-8fd08d4371c4", "name": "Wayne A. Trottier", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:nd/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Wayne A.", "family_name": "Trottier", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/wtrottier.jpg?itok=fG3s3if0", "email": "wtrottier@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-238-0763"}, "created_at": "2018-10-18T14:53:15.112577+00:00", "updated_at": "2022-02-19T10:00:22.617741+00:00", "openstates_url": "https://openstates.org/person/wayne-a-trottier-6CGzqirzsFHBZbFv9gV3cy/"}, {"id": "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be", "name": "Zachary Ista", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "43", "division_id": "ocd-division/country:us/state:nd/sldl:43"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nd/government", "name": "North Dakota", "classification": "state"}, "given_name": "Zachary", "family_name": "Ista", "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/zmista.jpg?itok=ZqTWNeJb", "email": "zmista@nd.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"bio info": [], "Cell phone": "701-361-6671"}, "created_at": "2020-12-30T06:12:00.495740+00:00", "updated_at": "2022-02-19T10:01:52.501097+00:00", "openstates_url": "https://openstates.org/person/zachary-ista-7F1a8L6s0HjuO2wWCbHwdS/"}]
+[
+  {
+    "id": "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+    "name": "Alisa Mitskog",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "25",
+      "division_id": "ocd-division/country:us/state:nd/sldl:25"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Alisa",
+    "family_name": "Mitskog",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/amitskog.jpg?itok=f5Y8bmv_",
+    "email": "amitskog@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-642-9023" },
+    "created_at": "2018-10-18T14:53:02.294869+00:00",
+    "updated_at": "2022-02-19T10:01:38.055722+00:00",
+    "openstates_url": "https://openstates.org/person/alisa-mitskog-4kTkkKaWhkLlchhJfyGwsx/"
+  },
+  {
+    "id": "ocd-person/6fbb2691-956f-4427-8927-66309b08ed68",
+    "name": "Andrew Marschall",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "16",
+      "division_id": "ocd-division/country:us/state:nd/sldl:16"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Andrew",
+    "family_name": "Marschall",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/amarschall.jpg?itok=R0Srf1A1",
+    "email": "amarschall@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [] },
+    "created_at": "2018-10-18T14:52:56.970470+00:00",
+    "updated_at": "2022-02-19T10:02:14.012211+00:00",
+    "openstates_url": "https://openstates.org/person/andrew-marschall-3Opfw1eL495VfDCIz9vsSW/"
+  },
+  {
+    "id": "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+    "name": "Austen Schauer",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "13",
+      "division_id": "ocd-division/country:us/state:nd/sldl:13"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Austen",
+    "family_name": "Schauer",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/aschauer.jpg?itok=alVrk7GN",
+    "email": "aschauer@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-730-4474" },
+    "created_at": "2019-01-04T06:33:20.274516+00:00",
+    "updated_at": "2022-02-19T10:02:36.823562+00:00",
+    "openstates_url": "https://openstates.org/person/austen-schauer-44utAJwfLVL58nADPnbvrT/"
+  },
+  {
+    "id": "ocd-person/9335be7e-11ff-4577-af89-e61195143354",
+    "name": "Ben Koppelman",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "16",
+      "division_id": "ocd-division/country:us/state:nd/sldl:16"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Ben",
+    "family_name": "Koppelman",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bkoppelman.jpg?itok=Vo9eUxbE",
+    "email": "bkoppelman@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-491-0665" },
+    "created_at": "2018-10-18T14:53:09.008812+00:00",
+    "updated_at": "2022-02-19T10:02:39.253259+00:00",
+    "openstates_url": "https://openstates.org/person/ben-koppelman-4TmQrCNR7fxwb4LHWqvqgW/"
+  },
+  {
+    "id": "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+    "name": "Bernie Satrom",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "12",
+      "division_id": "ocd-division/country:us/state:nd/sldl:12"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bernie",
+    "family_name": "Satrom",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/blsatrom.jpg?itok=mYaCmf1w",
+    "email": "blsatrom@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-320-7239" },
+    "created_at": "2018-10-18T14:52:58.074686+00:00",
+    "updated_at": "2022-02-19T10:01:48.960933+00:00",
+    "openstates_url": "https://openstates.org/person/bernie-satrom-1vsq23CH5NEvAiuMvp8o4f/"
+  },
+  {
+    "id": "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+    "name": "Bert Anderson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "2",
+      "division_id": "ocd-division/country:us/state:nd/sldl:2"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bert",
+    "family_name": "Anderson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bertanderson.jpg?itok=lvbNifGi",
+    "email": "bertanderson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-641-1549",
+      "Home phone": "701-965-6973"
+    },
+    "created_at": "2018-10-18T14:52:56.493081+00:00",
+    "updated_at": "2022-02-19T10:02:12.833740+00:00",
+    "openstates_url": "https://openstates.org/person/bert-anderson-3lLNSU5M3RD6etZhoVcp1c/"
+  },
+  {
+    "id": "ocd-person/4deb8a5c-cd4c-4f1b-9fce-5b886a389cd3",
+    "name": "Bill Devlin",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "23",
+      "division_id": "ocd-division/country:us/state:nd/sldl:23"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bill",
+    "family_name": "Devlin",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bdevlin.jpg?itok=_8npxfnp",
+    "email": "bdevlin@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-524-2303" },
+    "created_at": "2018-10-18T14:53:17.427110+00:00",
+    "updated_at": "2022-02-19T10:01:59.522385+00:00",
+    "openstates_url": "https://openstates.org/person/bill-devlin-2N23BsXAfQTJ0hJLoJLYgN/"
+  },
+  {
+    "id": "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09",
+    "name": "Bill Tveit",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "33",
+      "division_id": "ocd-division/country:us/state:nd/sldl:33"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bill",
+    "family_name": "Tveit",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/btveit.jpg?itok=CIYTYFFx",
+    "email": "btveit@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-870-4014",
+      "Home phone": "701-748-2812"
+    },
+    "created_at": "2019-01-04T06:33:01.447195+00:00",
+    "updated_at": "2022-02-19T10:02:00.814870+00:00",
+    "openstates_url": "https://openstates.org/person/bill-tveit-2SdoyVN3EQw8B04bvak4Kn/"
+  },
+  {
+    "id": "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+    "name": "Bob Martinson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "35",
+      "division_id": "ocd-division/country:us/state:nd/sldl:35"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bob",
+    "family_name": "Martinson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bmartinson.jpg?itok=npRjwYvv",
+    "email": "bmartinson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-223-0835" },
+    "created_at": "2018-10-18T14:53:12.936806+00:00",
+    "updated_at": "2022-02-19T10:00:37.106898+00:00",
+    "openstates_url": "https://openstates.org/person/bob-martinson-7YoCA9J46xg6nGY1Rd919A/"
+  },
+  {
+    "id": "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696",
+    "name": "Bob Paulson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "3",
+      "division_id": "ocd-division/country:us/state:nd/sldl:3"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Bob",
+    "family_name": "Paulson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bpaulson.jpg?itok=36cu6Wrb",
+    "email": "bpaulson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-833-4752" },
+    "created_at": "2019-01-04T06:33:03.272032+00:00",
+    "updated_at": "2022-02-19T10:00:56.409836+00:00",
+    "openstates_url": "https://openstates.org/person/bob-paulson-4dHliglLw4nTFSRKN9kgHG/"
+  },
+  {
+    "id": "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+    "name": "Brandy Pyle",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "22",
+      "division_id": "ocd-division/country:us/state:nd/sldl:22"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Brandy",
+    "family_name": "Pyle",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/bpyle.jpg?itok=JJDNioja",
+    "email": "bpyle@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-388-2622" },
+    "created_at": "2018-10-18T14:53:13.094431+00:00",
+    "updated_at": "2022-02-19T10:03:07.661029+00:00",
+    "openstates_url": "https://openstates.org/person/brandy-pyle-M2Vw8BEYB6bXGWUhzh3mp/"
+  },
+  {
+    "id": "ocd-person/bb5b0c38-8178-42e1-b23e-034c55f4e29e",
+    "name": "Chet Pollert",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "29",
+      "division_id": "ocd-division/country:us/state:nd/sldl:29"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Chet",
+    "family_name": "Pollert",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cpollert.jpg?itok=g29Zw0nO",
+    "email": "cpollert@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-652-2494" },
+    "created_at": "2018-10-18T14:52:56.170728+00:00",
+    "updated_at": "2022-02-19T10:02:22.616254+00:00",
+    "openstates_url": "https://openstates.org/person/chet-pollert-5hXAn9pSL3Fa58Yh1oNh7u/"
+  },
+  {
+    "id": "ocd-person/fda9f750-66db-427e-83ef-f1aae1d6f7cb",
+    "name": "Chuck Damschen",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "10",
+      "division_id": "ocd-division/country:us/state:nd/sldl:10"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Chuck",
+    "family_name": "Damschen",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cdamschen.jpg?itok=licGuk9T",
+    "email": "cdamschen@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-370-1758",
+      "Home phone": "701-868-3281"
+    },
+    "created_at": "2018-10-18T14:53:08.550546+00:00",
+    "updated_at": "2022-02-19T10:00:33.540655+00:00",
+    "openstates_url": "https://openstates.org/person/chuck-damschen-7iejTL2oRNf69loCFzlp6J/"
+  },
+  {
+    "id": "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+    "name": "Claire Cory",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "42",
+      "division_id": "ocd-division/country:us/state:nd/sldl:42"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Claire",
+    "family_name": "Cory",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/clairecory.jpg?itok=lOocC4oU",
+    "email": "clairecory@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-213-6553" },
+    "created_at": "2020-12-30T06:12:00.572249+00:00",
+    "updated_at": "2022-02-19T10:01:33.333805+00:00",
+    "openstates_url": "https://openstates.org/person/claire-cory-1Y2tCFDKYYK8coWcU4JRh/"
+  },
+  {
+    "id": "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+    "name": "Clayton Fegley",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "4",
+      "division_id": "ocd-division/country:us/state:nd/sldl:4"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Clayton",
+    "family_name": "Fegley",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cfegley.jpg?itok=HMYRyWbV",
+    "email": "cfegley@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-263-1442",
+      "Home phone": "701-453-3151"
+    },
+    "created_at": "2019-01-04T06:33:00.637098+00:00",
+    "updated_at": "2022-02-19T10:00:25.026569+00:00",
+    "openstates_url": "https://openstates.org/person/clayton-fegley-R45ckD7exnEeJFrxdi5KU/"
+  },
+  {
+    "id": "ocd-person/7e68311f-8c99-40d6-b606-c287d09ff3e9",
+    "name": "Cole Christensen",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "24",
+      "division_id": "ocd-division/country:us/state:nd/sldl:24"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Cole",
+    "family_name": "Christensen",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/colechristensen.jpg?itok=vaxvkU7A",
+    "email": "colechristensen@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-659-1776" },
+    "created_at": "2020-12-30T06:12:04.805581+00:00",
+    "updated_at": "2022-02-19T10:02:11.647565+00:00",
+    "openstates_url": "https://openstates.org/person/cole-christensen-3qWeEr59V6bsEzC0ayYz3B/"
+  },
+  {
+    "id": "ocd-person/33add2cf-dc7a-4da0-b60d-95faaad1f261",
+    "name": "Corey Mock",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "18",
+      "division_id": "ocd-division/country:us/state:nd/sldl:18"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Corey",
+    "family_name": "Mock",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/crmock.jpg?itok=oibEbWx5",
+    "email": "crmock@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-732-0085" },
+    "created_at": "2018-10-18T14:53:13.252696+00:00",
+    "updated_at": "2022-02-19T10:03:06.378039+00:00",
+    "openstates_url": "https://openstates.org/person/corey-mock-1ZW2ri3HzhyybJYaedIIXx/"
+  },
+  {
+    "id": "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd",
+    "name": "Craig Headland",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "29",
+      "division_id": "ocd-division/country:us/state:nd/sldl:29"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Craig",
+    "family_name": "Headland",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cheadland.jpg?itok=uqevDd5-",
+    "email": "cheadland@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-489-3184" },
+    "created_at": "2018-10-18T14:53:06.603037+00:00",
+    "updated_at": "2022-02-19T10:01:01.261243+00:00",
+    "openstates_url": "https://openstates.org/person/craig-headland-3YZleZ6sem4b5EBfT1GIfN/"
+  },
+  {
+    "id": "ocd-person/edc83bb0-e49f-42e6-8c3d-559da1f2ea91",
+    "name": "Cynthia Schreiber-Beck",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "25",
+      "division_id": "ocd-division/country:us/state:nd/sldl:25"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Cynthia",
+    "family_name": "Schreiber-Beck",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/cschreiberbeck.jpg?itok=ggXH_Uvh",
+    "email": "cschreiberbeck@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-899-3232" },
+    "created_at": "2018-10-18T14:53:12.471377+00:00",
+    "updated_at": "2022-02-19T10:01:17.911857+00:00",
+    "openstates_url": "https://openstates.org/person/cynthia-schreiber-beck-7EggfrO3ITl5839yuNov9V/"
+  },
+  {
+    "id": "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381",
+    "name": "Dan Ruby",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "38",
+      "division_id": "ocd-division/country:us/state:nd/sldl:38"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dan",
+    "family_name": "Ruby",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/druby.jpg?itok=WlcMGYCa",
+    "email": "druby@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-720-7442" },
+    "created_at": "2018-10-18T14:53:00.169528+00:00",
+    "updated_at": "2022-02-19T10:02:56.900641+00:00",
+    "openstates_url": "https://openstates.org/person/dan-ruby-568qWRXd3nj0kiFmP8fmk5/"
+  },
+  {
+    "id": "ocd-person/f7e32b7c-2777-4aa6-890b-edb680eee1fc",
+    "name": "Dave Nehring",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "8",
+      "division_id": "ocd-division/country:us/state:nd/sldl:8"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dave",
+    "family_name": "Nehring",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dnehring.jpg?itok=ZDsNKm-t",
+    "email": "dnehring@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-214-3184" },
+    "created_at": "2020-12-30T06:12:01.225035+00:00",
+    "updated_at": "2022-02-19T10:01:00.017190+00:00",
+    "openstates_url": "https://openstates.org/person/dave-nehring-7Xkv8wwqKlCZgSCz0HMry0/"
+  },
+  {
+    "id": "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+    "name": "David Monson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "10",
+      "division_id": "ocd-division/country:us/state:nd/sldl:10"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "David",
+    "family_name": "Monson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dmonson.jpg?itok=6CTrMTOx",
+    "email": "dmonson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-496-3394" },
+    "created_at": "2018-10-18T14:53:05.349194+00:00",
+    "updated_at": "2022-02-19T10:02:03.275735+00:00",
+    "openstates_url": "https://openstates.org/person/david-monson-2pu5YuMFqhlNvb4Ath5guF/"
+  },
+  {
+    "id": "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+    "name": "David Richter",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "1",
+      "division_id": "ocd-division/country:us/state:nd/sldl:1"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "David",
+    "family_name": "Richter",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dwrichter.jpg?itok=AAkJSJAw",
+    "email": "dwrichter@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-572-1932" },
+    "created_at": "2019-01-04T06:33:08.343650+00:00",
+    "updated_at": "2022-02-19T10:00:21.351716+00:00",
+    "openstates_url": "https://openstates.org/person/david-richter-31Ev6LIktJWRLHakClI9N4/"
+  },
+  {
+    "id": "ocd-person/5d600d38-31f0-4a13-9ceb-9ed6630edb3c",
+    "name": "Dennis Johnson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "15",
+      "division_id": "ocd-division/country:us/state:nd/sldl:15"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dennis",
+    "family_name": "Johnson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/djohnson.jpg?itok=JSW04RNu",
+    "email": "djohnson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-739-9328",
+      "Home phone": "701-662-4998"
+    },
+    "created_at": "2018-10-18T14:53:14.014033+00:00",
+    "updated_at": "2022-02-19T10:01:44.138916+00:00",
+    "openstates_url": "https://openstates.org/person/dennis-johnson-2qCBI6zt0xNhluka014HXA/"
+  },
+  {
+    "id": "ocd-person/78f3279d-3218-4739-b87d-294a9a6e2c22",
+    "name": "Denton Zubke",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "39",
+      "division_id": "ocd-division/country:us/state:nd/sldl:39"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Denton",
+    "family_name": "Zubke",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dzubke.jpg?itok=xB4GXR1M",
+    "email": "dzubke@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-570-4043",
+      "Home phone": "701-842-3081"
+    },
+    "created_at": "2018-10-18T14:52:58.395190+00:00",
+    "updated_at": "2022-02-19T10:00:46.872950+00:00",
+    "openstates_url": "https://openstates.org/person/denton-zubke-3gECTfNbSi8jGN8GWiTBTO/"
+  },
+  {
+    "id": "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
+    "name": "Dick Anderson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "6",
+      "division_id": "ocd-division/country:us/state:nd/sldl:6"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dick",
+    "family_name": "Anderson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dickanderson.jpg?itok=2phUbEOH",
+    "email": "dickanderson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-228-4782",
+      "Home phone": "701-366-4625"
+    },
+    "created_at": "2018-10-18T14:52:55.594389+00:00",
+    "updated_at": "2022-02-19T10:01:22.730183+00:00",
+    "openstates_url": "https://openstates.org/person/dick-anderson-34zqiWXgQGjSoA0BkPIF19/"
+  },
+  {
+    "id": "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+    "name": "Don Vigesaa",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "23",
+      "division_id": "ocd-division/country:us/state:nd/sldl:23"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Don",
+    "family_name": "Vigesaa",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dwvigesaa.jpg?itok=FiTfzTsC",
+    "email": "dwvigesaa@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-797-2448" },
+    "created_at": "2018-10-18T14:53:03.284076+00:00",
+    "updated_at": "2022-02-19T10:01:23.923868+00:00",
+    "openstates_url": "https://openstates.org/person/don-vigesaa-4YqPRNg2Y9mQg3O87PhmRi/"
+  },
+  {
+    "id": "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+    "name": "Donald Longmuir",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "2",
+      "division_id": "ocd-division/country:us/state:nd/sldl:2"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Donald W.",
+    "family_name": "Longmuir",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dlongmuir.jpg?itok=ZvTPmhE_",
+    "email": "dlongmuir@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-629-1632",
+      "Home phone": "701-628-2617"
+    },
+    "created_at": "2018-10-18T14:53:02.454156+00:00",
+    "updated_at": "2022-02-19T10:00:28.714882+00:00",
+    "openstates_url": "https://openstates.org/person/donald-longmuir-6eEuzGIqYBg6NSlgwqtAdp/"
+  },
+  {
+    "id": "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+    "name": "Dori Hauck",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "36",
+      "division_id": "ocd-division/country:us/state:nd/sldl:36"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dori",
+    "family_name": "Hauck",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dorihauck.jpg?itok=Q1wEweP_",
+    "email": "dorihauck@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "218-790-1345" },
+    "created_at": "2022-02-19T10:02:53.338741+00:00",
+    "updated_at": "2022-02-19T10:02:54.868559+00:00",
+    "openstates_url": "https://openstates.org/person/dori-hauck-2vXtDiaHKKDqKyhJmvgzIe/"
+  },
+  {
+    "id": "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+    "name": "Dwight Kiefert",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "24",
+      "division_id": "ocd-division/country:us/state:nd/sldl:24"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Dwight",
+    "family_name": "Kiefert",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/dhkiefert.jpg?itok=3KWyrftz",
+    "email": "dhkiefert@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-490-0443",
+      "Home phone": "701-845-0760"
+    },
+    "created_at": "2018-10-18T14:53:08.401074+00:00",
+    "updated_at": "2022-02-19T10:01:03.475689+00:00",
+    "openstates_url": "https://openstates.org/person/dwight-kiefert-3mzxPkR805QXkL72V2aLNm/"
+  },
+  {
+    "id": "ocd-person/6e057049-e588-483b-bc2d-9e9f453284ba",
+    "name": "Emily O'Brien",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "42",
+      "division_id": "ocd-division/country:us/state:nd/sldl:42"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Emily",
+    "family_name": "O'Brien",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/eobrien.jpg?itok=hthdMczA",
+    "email": "eobrien@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "952-693-3109" },
+    "created_at": "2018-10-18T14:53:14.645365+00:00",
+    "updated_at": "2022-02-19T10:02:52.821980+00:00",
+    "openstates_url": "https://openstates.org/person/emily-o-brien-3LbdleJnn8XR6QPItAMGE6/"
+  },
+  {
+    "id": "ocd-person/f0938888-cc5c-4a00-a778-9d91efc07da4",
+    "name": "Gary Kreidt",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "33",
+      "division_id": "ocd-division/country:us/state:nd/sldl:33"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Gary",
+    "family_name": "Kreidt",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gkreidt.jpg?itok=TrOof242",
+    "email": "gkreidt@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-226-2169",
+      "Home phone": "701-843-7074"
+    },
+    "created_at": "2018-10-18T14:53:14.326450+00:00",
+    "updated_at": "2022-02-19T10:03:08.862333+00:00",
+    "openstates_url": "https://openstates.org/person/gary-kreidt-7Jxa2u01lPQrGqyEtYOwiK/"
+  },
+  {
+    "id": "ocd-person/830c77cc-1e70-45d1-96fc-829fd79f394f",
+    "name": "Gary Paur",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "19",
+      "division_id": "ocd-division/country:us/state:nd/sldl:19"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Gary",
+    "family_name": "Paur",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gpaur.jpg?itok=CPb3vbZy",
+    "email": "gpaur@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "218-791-0491",
+      "Home phone": "701-869-2892"
+    },
+    "created_at": "2018-10-18T14:53:05.501858+00:00",
+    "updated_at": "2022-02-19T10:00:29.937692+00:00",
+    "openstates_url": "https://openstates.org/person/gary-paur-3zHgwlkLdo5R9xmssftlOh/"
+  },
+  {
+    "id": "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+    "name": "Glenn Bosch",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "30",
+      "division_id": "ocd-division/country:us/state:nd/sldl:30"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Glenn",
+    "family_name": "Bosch",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gdbosch.jpg?itok=hu_eBi8_",
+    "email": "gdbosch@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-226-1886" },
+    "created_at": "2018-10-18T14:53:12.782945+00:00",
+    "updated_at": "2022-02-19T10:01:11.950728+00:00",
+    "openstates_url": "https://openstates.org/person/glenn-bosch-2D18pkZQ77VxsAUGenDzoz/"
+  },
+  {
+    "id": "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+    "name": "Greg Stemen",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "27",
+      "division_id": "ocd-division/country:us/state:nd/sldl:27"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Greg",
+    "family_name": "Stemen",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gstemen.jpg?itok=QtPi56aF",
+    "email": "gstemen@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "507-828-7836" },
+    "created_at": "2020-12-30T06:12:05.675866+00:00",
+    "updated_at": "2022-02-19T10:02:10.438754+00:00",
+    "openstates_url": "https://openstates.org/person/greg-stemen-1umhmXLz7dz0NPcmIWYSw5/"
+  },
+  {
+    "id": "ocd-person/37e93a0e-58a9-43a2-baac-dc3e19260a77",
+    "name": "Greg Westlind",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "15",
+      "division_id": "ocd-division/country:us/state:nd/sldl:15"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Greg",
+    "family_name": "Westlind",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gwestlind.jpg?itok=5tNl_aqS",
+    "email": "gwestlind@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-739-8275",
+      "Home phone": "701-968-4222"
+    },
+    "created_at": "2018-10-18T14:53:10.739087+00:00",
+    "updated_at": "2022-02-19T10:03:01.645319+00:00",
+    "openstates_url": "https://openstates.org/person/greg-westlind-1hVA6GhPNHn3olZbbbhN4B/"
+  },
+  {
+    "id": "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+    "name": "Gretchen Dobervich",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "11",
+      "division_id": "ocd-division/country:us/state:nd/sldl:11"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Gretchen",
+    "family_name": "Dobervich",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/gdobervich.jpg?itok=Erq9varC",
+    "email": "gdobervich@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-361-5627" },
+    "created_at": "2018-10-18T14:53:07.102158+00:00",
+    "updated_at": "2022-02-19T10:01:58.344548+00:00",
+    "openstates_url": "https://openstates.org/person/gretchen-dobervich-3Z63FcK7K9F62hmYnFq2gq/"
+  },
+  {
+    "id": "ocd-person/cbb1ed7b-ca03-4c1b-b119-a171263e7661",
+    "name": "Jared C. Hagert",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "20",
+      "division_id": "ocd-division/country:us/state:nd/sldl:20"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jhagert.jpg?itok=s6-ehTsT",
+    "email": "jhagert@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "218-779-8691" },
+    "created_at": "2020-12-30T06:11:58.402700+00:00",
+    "updated_at": "2022-02-19T10:03:02.821180+00:00",
+    "openstates_url": "https://openstates.org/person/jared-c-hagert-6CMkqKuZ0p0gPvSUjROhaj/"
+  },
+  {
+    "id": "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+    "name": "Jason Dockter",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "7",
+      "division_id": "ocd-division/country:us/state:nd/sldl:7"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jason",
+    "family_name": "Dockter",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jddockter.jpg?itok=mBqEFY1V",
+    "email": "jddockter@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-214-0486",
+      "Home phone": "701-214-0486"
+    },
+    "created_at": "2018-10-18T14:53:14.475297+00:00",
+    "updated_at": "2022-02-19T10:01:13.157784+00:00",
+    "openstates_url": "https://openstates.org/person/jason-dockter-LIFrqgAdASa5A00vQ1mns/"
+  },
+  {
+    "id": "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+    "name": "Jay Fisher",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "5",
+      "division_id": "ocd-division/country:us/state:nd/sldl:5"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jay",
+    "family_name": "Fisher",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jayfisher.jpg?itok=xJcu3ZNC",
+    "email": "jayfisher@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-852-6755" },
+    "created_at": "2019-01-04T06:33:20.543830+00:00",
+    "updated_at": "2022-02-19T10:03:03.996712+00:00",
+    "openstates_url": "https://openstates.org/person/jay-fisher-5sfeyqgR7EGOTRHhkmIvvV/"
+  },
+  {
+    "id": "ocd-person/4c53491d-adf0-4c18-a645-a63667f2c828",
+    "name": "Jeff A. Hoverson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "3",
+      "division_id": "ocd-division/country:us/state:nd/sldl:3"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jahoverson.jpg?itok=hm2OhUZw",
+    "email": "jahoverson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-340-8237" },
+    "created_at": "2019-01-04T06:33:13.865363+00:00",
+    "updated_at": "2022-02-19T10:02:06.853194+00:00",
+    "openstates_url": "https://openstates.org/person/jeff-a-hoverson-2K1TfHM7e6UtNVetsO07Mu/"
+  },
+  {
+    "id": "ocd-person/55fbd571-b96b-4465-8d1a-eb49a4b510dc",
+    "name": "Jeff Delzer",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "8",
+      "division_id": "ocd-division/country:us/state:nd/sldl:8"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jeff",
+    "family_name": "Delzer",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jdelzer.jpg?itok=EYIfSmXe",
+    "email": "jdelzer@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-442-5435" },
+    "created_at": "2018-10-18T14:53:05.009050+00:00",
+    "updated_at": "2022-02-19T10:02:45.623907+00:00",
+    "openstates_url": "https://openstates.org/person/jeff-delzer-2cFR2Y0IdkU5jIgytjfW2u/"
+  },
+  {
+    "id": "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+    "name": "Jeffery J. Magrum",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "28",
+      "division_id": "ocd-division/country:us/state:nd/sldl:28"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jeffery J.",
+    "family_name": "Magrum",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jmagrum.jpg?itok=tR0plIsn",
+    "email": "jmagrum@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-321-2224" },
+    "created_at": "2018-10-18T14:53:06.437807+00:00",
+    "updated_at": "2022-02-19T10:02:05.670716+00:00",
+    "openstates_url": "https://openstates.org/person/jeffery-j-magrum-4kbbE3wmEpnZgLUcSNBl16/"
+  },
+  {
+    "id": "ocd-person/af2974f4-4889-4ea5-9cfd-93d68e2d39a2",
+    "name": "Jim Kasper",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "46",
+      "division_id": "ocd-division/country:us/state:nd/sldl:46"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jim",
+    "family_name": "Kasper",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jkasper.jpg?itok=KFkmnNi8",
+    "email": "jkasper@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-799-9000",
+      "Home phone": "701-799-9000"
+    },
+    "created_at": "2018-10-18T14:53:02.620615+00:00",
+    "updated_at": "2022-02-19T10:00:50.452165+00:00",
+    "openstates_url": "https://openstates.org/person/jim-kasper-5KWbO9PmN80q1D20t1jTco/"
+  },
+  {
+    "id": "ocd-person/27b30276-7f7d-4c61-9bf1-bf6f40d7714e",
+    "name": "Jim Schmidt",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "31",
+      "division_id": "ocd-division/country:us/state:nd/sldl:31"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jim",
+    "family_name": "Schmidt",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jeschmidt.jpg?itok=2LyMU_Sb",
+    "email": "jeschmidt@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-426-2102" },
+    "created_at": "2018-10-18T14:53:08.853558+00:00",
+    "updated_at": "2022-02-19T10:02:41.643090+00:00",
+    "openstates_url": "https://openstates.org/person/jim-schmidt-1CuVWCeZSYYdqN1fJirbTy/"
+  },
+  {
+    "id": "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+    "name": "Jon O. Nelson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "14",
+      "division_id": "ocd-division/country:us/state:nd/sldl:14"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Jon O.",
+    "family_name": "Nelson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jonelson.jpg?itok=yWIDB4v9",
+    "email": "jonelson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-771-2193",
+      "Home phone": "701-776-6738"
+    },
+    "created_at": "2018-10-18T14:52:59.203681+00:00",
+    "updated_at": "2022-02-19T10:01:50.140239+00:00",
+    "openstates_url": "https://openstates.org/person/jon-o-nelson-5TXplI7ub88hXfzOJ5lDNC/"
+  },
+  {
+    "id": "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+    "name": "Joshua A. Boschee",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "44",
+      "division_id": "ocd-division/country:us/state:nd/sldl:44"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Joshua A.",
+    "family_name": "Boschee",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/jboschee.jpg?itok=JkT0nsS5",
+    "email": "jboschee@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-367-3513",
+      "Home phone": "701-367-3513"
+    },
+    "created_at": "2018-10-18T14:53:05.185064+00:00",
+    "updated_at": "2022-02-19T10:03:05.174403+00:00",
+    "openstates_url": "https://openstates.org/person/joshua-a-boschee-2SXOxms4Yt0phGE5UzlXpw/"
+  },
+  {
+    "id": "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
+    "name": "Karen Karls",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "35",
+      "division_id": "ocd-division/country:us/state:nd/sldl:35"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Karen",
+    "family_name": "Karls",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkarls.jpg?itok=XHQSNmih",
+    "email": "kkarls@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-258-6836" },
+    "created_at": "2018-10-18T14:53:13.855504+00:00",
+    "updated_at": "2022-02-19T10:01:27.502779+00:00",
+    "openstates_url": "https://openstates.org/person/karen-karls-4ulR1eUM4i8wdOF0Ku6YKJ/"
+  },
+  {
+    "id": "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+    "name": "Karen M. Rohr",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "31",
+      "division_id": "ocd-division/country:us/state:nd/sldl:31"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Karen M.",
+    "family_name": "Rohr",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kmrohr.jpg?itok=96299jIY",
+    "email": "kmrohr@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-202-1956",
+      "Home phone": "701-202-1956"
+    },
+    "created_at": "2018-10-18T14:53:07.413492+00:00",
+    "updated_at": "2022-02-19T10:00:32.336147+00:00",
+    "openstates_url": "https://openstates.org/person/karen-m-rohr-5KSzz3ZWu3wN9hT1sQpPB8/"
+  },
+  {
+    "id": "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+    "name": "Karla Rose Hanson",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "44",
+      "division_id": "ocd-division/country:us/state:nd/sldl:44"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Karla Rose",
+    "family_name": "Hanson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/krhanson.jpg?itok=WiFcqlvB",
+    "email": "krhanson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-793-9181" },
+    "created_at": "2018-10-18T14:53:10.116581+00:00",
+    "updated_at": "2022-02-19T10:01:14.356018+00:00",
+    "openstates_url": "https://openstates.org/person/karla-rose-hanson-42Pl9qEvAnFHAfDfkcmSZ3/"
+  },
+  {
+    "id": "ocd-person/d9bd764d-f08a-4056-ba7d-82bad9e9d17b",
+    "name": "Kathy Skroch",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "26",
+      "division_id": "ocd-division/country:us/state:nd/sldl:26"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Kathy",
+    "family_name": "Skroch",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kskroch.jpg?itok=QIurj_0Y",
+    "email": "kskroch@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-538-7396" },
+    "created_at": "2018-10-18T14:53:04.066804+00:00",
+    "updated_at": "2022-02-19T10:03:00.462193+00:00",
+    "openstates_url": "https://openstates.org/person/kathy-skroch-6crv08O6KhNRCaq2LmZBdL/"
+  },
+  {
+    "id": "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+    "name": "Keith Kempenich",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "39",
+      "division_id": "ocd-division/country:us/state:nd/sldl:39"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Keith",
+    "family_name": "Kempenich",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkempenich.jpg?itok=gc89NnG2",
+    "email": "kkempenich@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-523-2273",
+      "Home phone": "701-523-3858"
+    },
+    "created_at": "2018-10-18T14:52:55.887390+00:00",
+    "updated_at": "2022-02-19T10:00:39.547093+00:00",
+    "openstates_url": "https://openstates.org/person/keith-kempenich-1TRC26DrErGM44eMZVusHb/"
+  },
+  {
+    "id": "ocd-person/9799a03d-cd79-4fc3-92bd-655ff5cc55de",
+    "name": "Kim Koppelman",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "13",
+      "division_id": "ocd-division/country:us/state:nd/sldl:13"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Kim",
+    "family_name": "Koppelman",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kkoppelman.jpg?itok=NcNVr4Oi",
+    "email": "kkoppelman@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-282-9267" },
+    "created_at": "2018-10-18T14:53:01.965584+00:00",
+    "updated_at": "2022-02-19T10:02:50.465366+00:00",
+    "openstates_url": "https://openstates.org/person/kim-koppelman-4c430vDWpMOG86C292bum6/"
+  },
+  {
+    "id": "ocd-person/1e110d7c-5f6a-4964-86a0-19a87e025c90",
+    "name": "Larry Bellew",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "38",
+      "division_id": "ocd-division/country:us/state:nd/sldl:38"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Larry",
+    "family_name": "Bellew",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lbellew.jpg?itok=z8Q-yqb-",
+    "email": "lbellew@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-852-5786" },
+    "created_at": "2018-10-18T14:52:59.533874+00:00",
+    "updated_at": "2022-02-19T10:02:31.062442+00:00",
+    "openstates_url": "https://openstates.org/person/larry-bellew-ujYtoBi4XiDazIasf8Euu/"
+  },
+  {
+    "id": "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+    "name": "LaurieBeth Hager",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "21",
+      "division_id": "ocd-division/country:us/state:nd/sldl:21"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "LaurieBeth",
+    "family_name": "Hager",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lbhager.jpg?itok=8rbtqA5e",
+    "email": "lbhager@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-371-1407",
+      "Home phone": "701-280-2535"
+    },
+    "created_at": "2019-01-04T06:33:10.173521+00:00",
+    "updated_at": "2022-02-19T10:02:21.441669+00:00",
+    "openstates_url": "https://openstates.org/person/lauriebeth-hager-7N1nxedOxsrPJBDb6bd0hQ/"
+  },
+  {
+    "id": "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
+    "name": "Lawrence R. Klemin",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "47",
+      "division_id": "ocd-division/country:us/state:nd/sldl:47"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Lawrence R.",
+    "family_name": "Klemin",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lklemin.jpg?itok=-o6DsxAD",
+    "email": "lklemin@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-471-5802",
+      "Home phone": "701-222-2577"
+    },
+    "created_at": "2018-10-18T14:53:02.785234+00:00",
+    "updated_at": "2022-02-19T10:02:29.854793+00:00",
+    "openstates_url": "https://openstates.org/person/lawrence-r-klemin-1skvQqtdoSoqnbem6suTV0/"
+  },
+  {
+    "id": "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+    "name": "Lisa Meier",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "32",
+      "division_id": "ocd-division/country:us/state:nd/sldl:32"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Lisa",
+    "family_name": "Meier",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/lmeier.jpg?itok=M38CNbRk",
+    "email": "lmeier@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-202-7126",
+      "Home phone": "701-255-4166"
+    },
+    "created_at": "2018-10-18T14:53:03.109244+00:00",
+    "updated_at": "2022-02-19T10:00:45.678848+00:00",
+    "openstates_url": "https://openstates.org/person/lisa-meier-1lGH8JtYUN9cuYAHIoxX55/"
+  },
+  {
+    "id": "ocd-person/00bb47f8-3fbc-435f-897c-60385972e6f7",
+    "name": "Mark S. Owens",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "17",
+      "division_id": "ocd-division/country:us/state:nd/sldl:17"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mark S.",
+    "family_name": "Owens",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mowens.jpg?itok=0hDnOzwd",
+    "email": "mowens@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [] },
+    "created_at": "2018-10-18T14:53:00.983402+00:00",
+    "updated_at": "2022-02-19T10:02:33.426830+00:00",
+    "openstates_url": "https://openstates.org/person/mark-s-owens-1NaRBHBUiEaexZPy72UvH/"
+  },
+  {
+    "id": "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+    "name": "Mark Sanford",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "17",
+      "division_id": "ocd-division/country:us/state:nd/sldl:17"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mark",
+    "family_name": "Sanford",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/masanford.jpg?itok=D_yVPglg",
+    "email": "masanford@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-772-4236" },
+    "created_at": "2018-10-18T14:53:11.685710+00:00",
+    "updated_at": "2022-02-19T10:01:36.880470+00:00",
+    "openstates_url": "https://openstates.org/person/mark-sanford-7if4mO16qBvBx9LkGTmiAz/"
+  },
+  {
+    "id": "ocd-person/74bfa4e7-d21d-479b-ae5b-89e3c6d50193",
+    "name": "Marvin E. Nelson",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "9",
+      "division_id": "ocd-division/country:us/state:nd/sldl:9"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Marvin E.",
+    "family_name": "Nelson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/menelson.jpg?itok=zAA9TSAv",
+    "email": "menelson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-550-9731" },
+    "created_at": "2018-10-18T14:53:08.700756+00:00",
+    "updated_at": "2022-02-19T10:01:20.294330+00:00",
+    "openstates_url": "https://openstates.org/person/marvin-e-nelson-3YIgsLUgX8fdNHOzUbrBPn/"
+  },
+  {
+    "id": "ocd-person/0c6f9edd-4cd3-4049-9006-60cf273a5102",
+    "name": "Mary Adams",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "43",
+      "division_id": "ocd-division/country:us/state:nd/sldl:43"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mary",
+    "family_name": "Adams",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mkadams.jpg?itok=z9k4FuEg",
+    "email": "mkadams@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-739-5520" },
+    "created_at": "2019-01-04T06:33:04.133569+00:00",
+    "updated_at": "2022-02-19T10:02:55.691341+00:00",
+    "openstates_url": "https://openstates.org/person/mary-adams-NSuxLQ8I9TByWll8hGNwg/"
+  },
+  {
+    "id": "ocd-person/72377176-d5f1-40de-8a6d-afa3c0e6cf66",
+    "name": "Mary Johnson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "45",
+      "division_id": "ocd-division/country:us/state:nd/sldl:45"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mary",
+    "family_name": "Johnson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/marycjohnson.jpg?itok=9ashpc1s",
+    "email": "marycjohnson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-306-2037" },
+    "created_at": "2018-10-18T14:52:57.426746+00:00",
+    "updated_at": "2022-02-19T10:02:09.243075+00:00",
+    "openstates_url": "https://openstates.org/person/mary-johnson-3TWShNhe1AhK76Gwg3snvK/"
+  },
+  {
+    "id": "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+    "name": "Mary Schneider",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "21",
+      "division_id": "ocd-division/country:us/state:nd/sldl:21"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mary",
+    "family_name": "Schneider",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mschneider.jpg?itok=U0OtNqyN",
+    "email": "mschneider@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-306-0860",
+      "Home phone": "701-235-0316"
+    },
+    "created_at": "2018-10-18T14:53:10.429603+00:00",
+    "updated_at": "2022-02-19T10:01:10.729946+00:00",
+    "openstates_url": "https://openstates.org/person/mary-schneider-4AiqKjihZQmq8gL7bROcPy/"
+  },
+  {
+    "id": "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+    "name": "Matthew Ruby",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "40",
+      "division_id": "ocd-division/country:us/state:nd/sldl:40"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Matthew",
+    "family_name": "Ruby",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mruby.jpg?itok=mIPfahXg",
+    "email": "mruby@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-509-8149" },
+    "created_at": "2018-10-18T14:52:56.792070+00:00",
+    "updated_at": "2022-02-19T10:02:40.447162+00:00",
+    "openstates_url": "https://openstates.org/person/matthew-ruby-XdflUSolNUkp8DVzZRdwn/"
+  },
+  {
+    "id": "ocd-person/7d98fdaa-e045-4953-8865-e7c812c0390a",
+    "name": "Michael Howe",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "22",
+      "division_id": "ocd-division/country:us/state:nd/sldl:22"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Michael",
+    "family_name": "Howe",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mchowe.jpg?itok=LYLKni2P",
+    "email": "mchowe@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [] },
+    "created_at": "2018-10-18T14:52:55.738148+00:00",
+    "updated_at": "2022-02-19T10:02:17.706960+00:00",
+    "openstates_url": "https://openstates.org/person/michael-howe-3ozxOBXou54BO86mBDExbe/"
+  },
+  {
+    "id": "ocd-person/a6e733ce-ccdc-425a-bb9b-9010a09c3933",
+    "name": "Michelle Strinden",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "41",
+      "division_id": "ocd-division/country:us/state:nd/sldl:41"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Michelle",
+    "family_name": "Strinden",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mstrinden.jpg?itok=tHpp2G4m",
+    "email": "mstrinden@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-799-9799" },
+    "created_at": "2019-01-04T06:33:08.944500+00:00",
+    "updated_at": "2022-02-19T10:00:35.915569+00:00",
+    "openstates_url": "https://openstates.org/person/michelle-strinden-54wNw0wNGsXKGzBLQkcHqd/"
+  },
+  {
+    "id": "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+    "name": "Mike Beltz",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "20",
+      "division_id": "ocd-division/country:us/state:nd/sldl:20"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "Beltz",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mbeltz.jpg?itok=zK1ttSEE",
+    "email": "mbeltz@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-430-1209" },
+    "created_at": "2020-12-30T06:12:08.586027+00:00",
+    "updated_at": "2021-12-16T19:01:43.843018+00:00",
+    "openstates_url": "https://openstates.org/person/mike-beltz-1P0K8pOeMi3o6vt5XPbLOi/"
+  },
+  {
+    "id": "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+    "name": "Mike Brandenburg",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "28",
+      "division_id": "ocd-division/country:us/state:nd/sldl:28"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "Brandenburg",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mbrandenburg.jpg?itok=qF5aWQUM",
+    "email": "mbrandenburg@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-709-0237",
+      "Home phone": "701-493-2915"
+    },
+    "created_at": "2018-10-18T14:53:06.768366+00:00",
+    "updated_at": "2022-02-19T10:01:29.790972+00:00",
+    "openstates_url": "https://openstates.org/person/mike-brandenburg-2VLY6xkSkfglxCYSGoMWKU/"
+  },
+  {
+    "id": "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+    "name": "Mike Lefor",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "37",
+      "division_id": "ocd-division/country:us/state:nd/sldl:37"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "Lefor",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mlefor.jpg?itok=gPexLSiZ",
+    "email": "mlefor@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-290-0539" },
+    "created_at": "2018-10-18T14:52:59.990650+00:00",
+    "updated_at": "2022-02-19T10:01:25.112491+00:00",
+    "openstates_url": "https://openstates.org/person/mike-lefor-3vsVIRvnGacsZOXGJLmI8d/"
+  },
+  {
+    "id": "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+    "name": "Mike Nathe",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "30",
+      "division_id": "ocd-division/country:us/state:nd/sldl:30"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "Nathe",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mrnathe.jpg?itok=lDCRhvZi",
+    "email": "mrnathe@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-250-0645" },
+    "created_at": "2018-10-18T14:53:16.662538+00:00",
+    "updated_at": "2022-02-19T10:02:08.035332+00:00",
+    "openstates_url": "https://openstates.org/person/mike-nathe-4d1ldOTmOdZteSDBjG2t5O/"
+  },
+  {
+    "id": "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+    "name": "Mike Schatz",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "36",
+      "division_id": "ocd-division/country:us/state:nd/sldl:36"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mike",
+    "family_name": "Schatz",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mischatz.jpg?itok=lu_mxP4L",
+    "email": "mischatz@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-333-8610",
+      "Home phone": "701-579-4823"
+    },
+    "created_at": "2018-10-18T14:53:15.412074+00:00",
+    "updated_at": "2022-02-19T10:01:55.982640+00:00",
+    "openstates_url": "https://openstates.org/person/mike-schatz-58jZT7gWQLTjaT1HYcNtDv/"
+  },
+  {
+    "id": "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520",
+    "name": "Mitch Ostlie",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "12",
+      "division_id": "ocd-division/country:us/state:nd/sldl:12"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Mitch",
+    "family_name": "Ostlie",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/mostlie.jpg?itok=EQC7hszY",
+    "email": "mostlie@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-320-8822" },
+    "created_at": "2020-12-30T06:12:03.303194+00:00",
+    "updated_at": "2022-02-19T10:02:49.204921+00:00",
+    "openstates_url": "https://openstates.org/person/mitch-ostlie-5ADuKdbiCS44hjid2U6sGu/"
+  },
+  {
+    "id": "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f",
+    "name": "Nathan Toman",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "34",
+      "division_id": "ocd-division/country:us/state:nd/sldl:34"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Nathan",
+    "family_name": "Toman",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/nptoman.jpg?itok=w1R9T3hd",
+    "email": "nptoman@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-484-1906" },
+    "created_at": "2018-10-18T14:53:12.629158+00:00",
+    "updated_at": "2022-02-19T10:00:31.138607+00:00",
+    "openstates_url": "https://openstates.org/person/nathan-toman-5oZvqaRn3R9uSbQUjaf0gx/"
+  },
+  {
+    "id": "ocd-person/5e3b0f76-86ce-4162-9307-6fd8dcaaf91f",
+    "name": "Pamela Anderson",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "41",
+      "division_id": "ocd-division/country:us/state:nd/sldl:41"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Pamela",
+    "family_name": "Anderson",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/pkanderson.jpg?itok=3lUIkV3g",
+    "email": "pkanderson@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-306-3362" },
+    "created_at": "2018-10-18T14:53:13.404575+00:00",
+    "updated_at": "2022-02-19T10:00:54.005069+00:00",
+    "openstates_url": "https://openstates.org/person/pamela-anderson-2roGhdO0pjf8HPy5DLrjfr/"
+  },
+  {
+    "id": "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
+    "name": "Pat D. Heinert",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "32",
+      "division_id": "ocd-division/country:us/state:nd/sldl:32"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Pat D.",
+    "family_name": "Heinert",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/pdheinert.jpg?itok=Ih_rMu3c",
+    "email": "pdheinert@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-222-1354" },
+    "created_at": "2018-10-18T14:52:58.245921+00:00",
+    "updated_at": "2022-02-19T10:01:30.972756+00:00",
+    "openstates_url": "https://openstates.org/person/pat-d-heinert-xAeqjcTIfl5pfzuEAzY6G/"
+  },
+  {
+    "id": "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567",
+    "name": "Patrick Hatlestad",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "1",
+      "division_id": "ocd-division/country:us/state:nd/sldl:1"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Patrick",
+    "family_name": "Hatlestad",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/phatlestad.jpg?itok=vlun2ydv",
+    "email": "phatlestad@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-770-8899",
+      "Home phone": "701-577-6656"
+    },
+    "created_at": "2020-12-30T06:12:05.997379+00:00",
+    "updated_at": "2022-02-19T10:02:59.265227+00:00",
+    "openstates_url": "https://openstates.org/person/patrick-hatlestad-4NPqHU1sOHdrBftynrfEut/"
+  },
+  {
+    "id": "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+    "name": "Paul J. Thomas",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "6",
+      "division_id": "ocd-division/country:us/state:nd/sldl:6"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/paulthomas.jpg?itok=v4Mja5dV",
+    "email": "paulthomas@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-626-2777" },
+    "created_at": "2020-12-30T06:12:02.598694+00:00",
+    "updated_at": "2022-02-19T10:02:46.823727+00:00",
+    "openstates_url": "https://openstates.org/person/paul-j-thomas-4Z9mybU1jo0zqYrtBSPAAg/"
+  },
+  {
+    "id": "ocd-person/8af43362-097c-4898-a147-0bfc87d3b38e",
+    "name": "Randy A. Schobinger",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "40",
+      "division_id": "ocd-division/country:us/state:nd/sldl:40"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Randy A.",
+    "family_name": "Schobinger",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rschobinger.jpg?itok=KRKLCqU9",
+    "email": "rschobinger@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [] },
+    "created_at": "2018-10-18T14:53:04.708225+00:00",
+    "updated_at": "2021-12-16T19:01:52.454651+00:00",
+    "openstates_url": "https://openstates.org/person/randy-a-schobinger-4ECXYEDdcTcC5osDm63wbe/"
+  },
+  {
+    "id": "ocd-person/02d00f0b-b88e-444f-ab65-adb352d5ae69",
+    "name": "Rick Becker",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "7",
+      "division_id": "ocd-division/country:us/state:nd/sldl:7"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Rick C.",
+    "family_name": "Becker",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rcbecker.jpg?itok=o3wKQLc0",
+    "email": "rcbecker@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-527-6902" },
+    "created_at": "2018-10-18T14:53:11.205562+00:00",
+    "updated_at": "2021-12-16T19:01:47.202601+00:00",
+    "openstates_url": "https://openstates.org/person/rick-becker-5J4CXaLlXlOSkCwm7LR73/"
+  },
+  {
+    "id": "ocd-person/dc2e2d4c-3411-480c-9fd1-09c01512baaa",
+    "name": "Robb Eckert",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "47",
+      "division_id": "ocd-division/country:us/state:nd/sldl:47"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Robb",
+    "family_name": "Eckert",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/reckert.jpg?itok=V5BHHeG5",
+    "email": "reckert@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-220-3425" },
+    "created_at": "2022-02-19T10:02:43.192883+00:00",
+    "updated_at": "2022-02-19T10:02:44.788047+00:00",
+    "openstates_url": "https://openstates.org/person/robb-eckert-6hTPiics5wlml6DQMGgDIg/"
+  },
+  {
+    "id": "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+    "name": "Robin Weisz",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "14",
+      "division_id": "ocd-division/country:us/state:nd/sldl:14"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Robin",
+    "family_name": "Weisz",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rweisz.jpg?itok=OyE9eqvS",
+    "email": "rweisz@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [] },
+    "created_at": "2018-10-18T14:53:11.530481+00:00",
+    "updated_at": "2022-02-19T10:00:49.263882+00:00",
+    "openstates_url": "https://openstates.org/person/robin-weisz-7af217JWCif4vMGbFZZ0ME/"
+  },
+  {
+    "id": "ocd-person/d8b201c1-2edb-459c-9aca-953dc7b7d626",
+    "name": "Ron Guggisberg",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "11",
+      "division_id": "ocd-division/country:us/state:nd/sldl:11"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Ron",
+    "family_name": "Guggisberg",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rguggisberg.jpg?itok=d3PiESvp",
+    "email": "rguggisberg@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-367-2478" },
+    "created_at": "2018-10-18T14:53:11.358138+00:00",
+    "updated_at": "2022-02-19T10:01:53.709444+00:00",
+    "openstates_url": "https://openstates.org/person/ron-guggisberg-6atgu0IQrs8Acp3BUM8LsU/"
+  },
+  {
+    "id": "ocd-person/06b98bda-f5b4-4a3e-bc2c-ce7d186c8d57",
+    "name": "Ruth Buffalo",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "27",
+      "division_id": "ocd-division/country:us/state:nd/sldl:27"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Ruth",
+    "family_name": "Buffalo",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rbuffalo.jpg?itok=2NSgYJHN",
+    "email": "rbuffalo@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-491-8175" },
+    "created_at": "2019-01-04T06:33:07.131532+00:00",
+    "updated_at": "2022-02-19T10:00:27.482923+00:00",
+    "openstates_url": "https://openstates.org/person/ruth-buffalo-CgkQctvKVjBYaMwSsyD2d/"
+  },
+  {
+    "id": "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+    "name": "Scott Louser",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "5",
+      "division_id": "ocd-division/country:us/state:nd/sldl:5"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Scott",
+    "family_name": "Louser",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sclouser.jpg?itok=PFIZMpnJ",
+    "email": "sclouser@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-833-8489" },
+    "created_at": "2018-10-18T14:53:16.355200+00:00",
+    "updated_at": "2022-02-19T10:00:26.254852+00:00",
+    "openstates_url": "https://openstates.org/person/scott-louser-1laZCjm1QZOW6p1FWaDM30/"
+  },
+  {
+    "id": "ocd-person/0a9ff425-acff-403c-99fa-6a34720ac934",
+    "name": "Sebastian Ertelt",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "26",
+      "division_id": "ocd-division/country:us/state:nd/sldl:26"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Sebastian",
+    "family_name": "Ertelt",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sertelt.jpg?itok=y3gg3bo-",
+    "email": "sertelt@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-683-2194" },
+    "created_at": "2018-10-18T14:52:56.332447+00:00",
+    "updated_at": "2022-02-19T10:02:32.248103+00:00",
+    "openstates_url": "https://openstates.org/person/sebastian-ertelt-K31NmIGgXbTkcsDd7FOQm/"
+  },
+  {
+    "id": "ocd-person/24ca8591-ef4f-4d63-ba3f-43f645005f19",
+    "name": "Shannon Roers Jones",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "46",
+      "division_id": "ocd-division/country:us/state:nd/sldl:46"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Shannon M.",
+    "family_name": "Roers Jones",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/sroersjones.jpg?itok=_e8AfuiD",
+    "email": "sroersjones@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-630-6746" },
+    "created_at": "2018-10-18T14:53:11.053188+00:00",
+    "updated_at": "2022-02-19T10:02:27.434791+00:00",
+    "openstates_url": "https://openstates.org/person/shannon-roers-jones-17QH8lP9EtDIAAMcHydUyn/"
+  },
+  {
+    "id": "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5",
+    "name": "Steve Vetter",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "18",
+      "division_id": "ocd-division/country:us/state:nd/sldl:18"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Steve",
+    "family_name": "Vetter",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/smvetter.jpg?itok=wayATzmb",
+    "email": "smvetter@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "612-770-8689",
+      "Home phone": "612-770-8689"
+    },
+    "created_at": "2018-10-18T14:53:01.144717+00:00",
+    "updated_at": "2022-02-19T10:02:34.606697+00:00",
+    "openstates_url": "https://openstates.org/person/steve-vetter-4nJh0htqU2jXwaiyndGHm1/"
+  },
+  {
+    "id": "ocd-person/47075318-11ad-425e-a390-a0a4248c73d7",
+    "name": "Terry B. Jones",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "4",
+      "division_id": "ocd-division/country:us/state:nd/sldl:4"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Terry B.",
+    "family_name": "Jones",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tbjones.jpg?itok=C86kXZ2-",
+    "email": "tbjones@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-627-3397" },
+    "created_at": "2018-10-18T14:53:11.830957+00:00",
+    "updated_at": "2022-02-19T10:02:26.218665+00:00",
+    "openstates_url": "https://openstates.org/person/terry-b-jones-2A1nl2oDNuHVZvVliu1mzP/"
+  },
+  {
+    "id": "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08",
+    "name": "Todd Porter",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "34",
+      "division_id": "ocd-division/country:us/state:nd/sldl:34"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Todd",
+    "family_name": "Porter",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tkporter.jpg?itok=swU12qIi",
+    "email": "tkporter@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Home phone": "701-667-2922" },
+    "created_at": "2018-10-18T14:53:07.723915+00:00",
+    "updated_at": "2022-02-19T10:01:19.112854+00:00",
+    "openstates_url": "https://openstates.org/person/todd-porter-4WZP2f3JDuEjPw6DxFfPGy/"
+  },
+  {
+    "id": "ocd-person/95efc72f-b5f0-407e-a975-40bbb09b3e3c",
+    "name": "Tom Kading",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "45",
+      "division_id": "ocd-division/country:us/state:nd/sldl:45"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Tom",
+    "family_name": "Kading",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tkading.jpg?itok=1AXeUh3s",
+    "email": "tkading@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-639-4849" },
+    "created_at": "2018-10-18T14:53:17.738656+00:00",
+    "updated_at": "2022-02-19T10:01:41.695912+00:00",
+    "openstates_url": "https://openstates.org/person/tom-kading-4YvR0T7hocBlQcQITOJ7t6/"
+  },
+  {
+    "id": "ocd-person/1a66ac3d-e556-4373-b563-4277081aa178",
+    "name": "Tracy Boe",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "9",
+      "division_id": "ocd-division/country:us/state:nd/sldl:9"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Tracy",
+    "family_name": "Boe",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/tboe.jpg?itok=gTOY0yOK",
+    "email": "tboe@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "bio info": [],
+      "Cell phone": "701-477-4005",
+      "Home phone": "701-656-3427"
+    },
+    "created_at": "2018-10-18T14:52:58.706004+00:00",
+    "updated_at": "2022-02-19T10:01:16.736163+00:00",
+    "openstates_url": "https://openstates.org/person/tracy-boe-noilnL17a6lZSpUCVVhUG/"
+  },
+  {
+    "id": "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c",
+    "name": "Vicky Steiner",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "37",
+      "division_id": "ocd-division/country:us/state:nd/sldl:37"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Vicky",
+    "family_name": "Steiner",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/vsteiner.jpg?itok=WmwXecAw",
+    "email": "vsteiner@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-290-1376" },
+    "created_at": "2018-10-18T14:53:14.791873+00:00",
+    "updated_at": "2022-02-19T10:01:09.533809+00:00",
+    "openstates_url": "https://openstates.org/person/vicky-steiner-32lDevfH9FqW7d14lblLxs/"
+  },
+  {
+    "id": "ocd-person/cba55406-5798-4abb-b8dd-8fd08d4371c4",
+    "name": "Wayne A. Trottier",
+    "party": "Republican",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "19",
+      "division_id": "ocd-division/country:us/state:nd/sldl:19"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Wayne A.",
+    "family_name": "Trottier",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/wtrottier.jpg?itok=fG3s3if0",
+    "email": "wtrottier@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-238-0763" },
+    "created_at": "2018-10-18T14:53:15.112577+00:00",
+    "updated_at": "2022-02-19T10:00:22.617741+00:00",
+    "openstates_url": "https://openstates.org/person/wayne-a-trottier-6CGzqirzsFHBZbFv9gV3cy/"
+  },
+  {
+    "id": "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be",
+    "name": "Zachary Ista",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Representative",
+      "org_classification": "lower",
+      "district": "43",
+      "division_id": "ocd-division/country:us/state:nd/sldl:43"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nd/government",
+      "name": "North Dakota",
+      "classification": "state"
+    },
+    "given_name": "Zachary",
+    "family_name": "Ista",
+    "image": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/zmista.jpg?itok=ZqTWNeJb",
+    "email": "zmista@nd.gov",
+    "gender": "",
+    "birth_date": "",
+    "death_date": "",
+    "extras": { "bio info": [], "Cell phone": "701-361-6671" },
+    "created_at": "2020-12-30T06:12:00.495740+00:00",
+    "updated_at": "2022-02-19T10:01:52.501097+00:00",
+    "openstates_url": "https://openstates.org/person/zachary-ista-7F1a8L6s0HjuO2wWCbHwdS/"
+  }
+]

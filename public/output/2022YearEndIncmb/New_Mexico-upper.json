@@ -1,1 +1,1320 @@
-[{"id": "ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735", "name": "Antoinette Sedillo Lopez", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "16", "division_id": "ocd-division/country:us/state:nm/sldu:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Antoinette", "family_name": "Sedillo Lopez", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSEDI.jpg", "email": "a.sedillolopez@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2019", "occupation": "Retired Law Professor", "counties represented": "Bernalillo"}, "created_at": "2019-01-24T06:15:32.274894+00:00", "updated_at": "2022-10-17T20:10:18.790607+00:00", "openstates_url": "https://openstates.org/person/antoinette-sedillo-lopez-1sbCbfiaWFyLeMskKm6BLZ/"}, {"id": "ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048", "name": "Benny Shendo, Jr.", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "22", "division_id": "ocd-division/country:us/state:nm/sldu:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Benny", "family_name": "Shendo", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg", "email": "benny.shendo@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "occupation": "Community Development", "counties represented": "Bernalillo, McKinley, Rio Arriba, San Juan and Sandoval"}, "created_at": "2018-10-18T14:55:28.901818+00:00", "updated_at": "2022-10-17T20:10:21.409754+00:00", "openstates_url": "https://openstates.org/person/benny-shendo-jr-cPJAcSgKrbwvABn5y3dWa/"}, {"id": "ocd-person/f6772233-67ef-4094-9713-bdf4ddd96a5f", "name": "Bill B. O'Neill", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "13", "division_id": "ocd-division/country:us/state:nm/sldu:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Bill", "family_name": "O'Neill", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SONEI.jpg", "email": "oneillsd13@billoneillfornm.com", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2009-2012; Senator since 2013", "occupation": "Development Director- PEP", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:30.221349+00:00", "updated_at": "2022-10-17T20:10:19.204341+00:00", "openstates_url": "https://openstates.org/person/bill-b-o-neill-7V4YVk0fRA3zBvZsyOdcSt/"}, {"id": "ocd-person/37cc0bab-0119-4bd6-9794-3d3324cc34de", "name": "Bill Tallman", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "18", "division_id": "ocd-division/country:us/state:nm/sldu:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Bill", "family_name": "Tallman", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/STALL.jpg", "email": "bill.tallman@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2017", "home phone": "(505) 702-6828", "occupation": "Retired City Manager", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:34.859074+00:00", "updated_at": "2022-10-17T20:10:18.494926+00:00", "openstates_url": "https://openstates.org/person/bill-tallman-1hHpHGuLtB1AdiQ8sR593u/"}, {"id": "ocd-person/a30f836f-c05d-47d6-9566-29830f7cb4cc", "name": "Brenda G. McKenna", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "9", "division_id": "ocd-division/country:us/state:nm/sldu:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMCKE.jpg", "email": "brenda.mckenna@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "occupation": "Congressional Field Rep", "counties represented": "Bernalillo & Sandoval"}, "created_at": "2021-01-21T00:14:31.018184+00:00", "updated_at": "2022-10-17T20:10:20.234492+00:00", "openstates_url": "https://openstates.org/person/brenda-g-mckenna-4xgq0w55GrqUiMU2Xhq952/"}, {"id": "ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d", "name": "Carrie Hamblen", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "38", "division_id": "ocd-division/country:us/state:nm/sldu:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Carrie", "family_name": "Hamblen", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg", "email": "carrie.hamblen@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "home phone": "(575) 496-5242", "occupation": "CEO- LC Green COC", "counties represented": "Dona Ana"}, "created_at": "2021-01-21T00:14:28.766138+00:00", "updated_at": "2022-10-17T20:10:17.784139+00:00", "openstates_url": "https://openstates.org/person/carrie-hamblen-40pyOIBDDw46C0InuS86cH/"}, {"id": "ocd-person/4be1cfe1-f23c-41c3-a0f1-0e366d32cc1e", "name": "Cliff R. Pirtle", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "32", "division_id": "ocd-division/country:us/state:nm/sldu:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Cliff", "family_name": "Pirtle", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPIRT.jpg", "email": "cliff.pirtle@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "home phone": "(575) 626-7046", "occupation": "Farmer", "counties represented": "Chaves, Eddy and Otero"}, "created_at": "2018-10-18T14:55:22.687260+00:00", "updated_at": "2022-10-17T20:10:21.584458+00:00", "openstates_url": "https://openstates.org/person/cliff-r-pirtle-2JBcUnVulk2Hfwg4Tci5F8/"}, {"id": "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7", "name": "Craig W. Brandt", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "40", "division_id": "ocd-division/country:us/state:nm/sldu:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Craig", "family_name": "Brandt", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg", "email": "craig.brandt@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "occupation": "Clergy", "counties represented": "Sandoval"}, "created_at": "2018-10-18T14:55:19.659463+00:00", "updated_at": "2022-10-17T20:10:19.660548+00:00", "openstates_url": "https://openstates.org/person/craig-w-brandt-1eaXrdtowtTc0pkWqfdHyZ/"}, {"id": "ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882", "name": "Crystal R. Diamond", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "35", "division_id": "ocd-division/country:us/state:nm/sldu:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg", "email": "crystal.diamond@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "home phone": "(575) 740-1539", "occupation": "Outreach Director", "counties represented": "Dona Ana, Hidalgo, Luna & Sierra"}, "created_at": "2021-01-21T00:14:29.218533+00:00", "updated_at": "2022-10-17T20:10:18.868375+00:00", "openstates_url": "https://openstates.org/person/crystal-r-diamond-wBqvkEP2ISfesFXVoz7Hm/"}, {"id": "ocd-person/4fcfad95-7efe-4bea-93d0-026d28382c3d", "name": "Daniel A. Ivey-Soto", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "15", "division_id": "ocd-division/country:us/state:nm/sldu:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Daniel", "family_name": "Ivey-Soto", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SIVEY.jpg", "email": "daniel.ivey-soto@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "occupation": "Association Executive", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:17.659768+00:00", "updated_at": "2022-10-17T20:10:19.166140+00:00", "openstates_url": "https://openstates.org/person/daniel-a-ivey-soto-2QbImcdvUaYZvF4tOS3sKb/"}, {"id": "ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0", "name": "David M. Gallegos", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "41", "division_id": "ocd-division/country:us/state:nm/sldu:41"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "David", "family_name": "Gallegos", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg", "email": "david.rsi@hotmail.com", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2013-2020; Senator since 2021", "occupation": "Sr. Superintendent", "counties represented": "Eddy & Lea"}, "created_at": "2018-10-18T14:55:34.204013+00:00", "updated_at": "2022-10-17T20:10:19.240883+00:00", "openstates_url": "https://openstates.org/person/david-m-gallegos-4mrXNyuDCRGZjYb2hinrU0/"}, {"id": "ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03", "name": "Elizabeth \"Liz\" Stefanics", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "39", "division_id": "ocd-division/country:us/state:nm/sldu:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Elizabeth", "family_name": "Stefanics", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg", "email": "lstefanics@msn.com", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator from 1993-1996; Senator since 2017", "home phone": "(505) 471-7643", "occupation": "Consultant", "counties represented": "Bernalillo, Lincoln, San Miguel, Santa Fe, Torrance and Valencia"}, "created_at": "2018-10-18T14:55:25.564775+00:00", "updated_at": "2022-10-17T20:10:18.407552+00:00", "openstates_url": "https://openstates.org/person/elizabeth-liz-stefanics-wB3NoDpguynbE8KFzUJVr/"}, {"id": "ocd-person/e2e49e54-f289-4cf3-a996-68ed34f64b64", "name": "Gay G. Kernan", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "42", "division_id": "ocd-division/country:us/state:nm/sldu:42"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Gay", "family_name": "Kernan", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SKERN.jpg", "email": "gay.kernan@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2002", "occupation": "Educator", "counties represented": "Chaves, Eddy, and Lea"}, "created_at": "2018-10-18T14:55:25.889563+00:00", "updated_at": "2022-10-17T20:10:21.627683+00:00", "openstates_url": "https://openstates.org/person/gay-g-kernan-6u8kB9lGeaWXCIqNAp0H1o/"}, {"id": "ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7", "name": "George K. Munoz", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "4", "division_id": "ocd-division/country:us/state:nm/sldu:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "George", "family_name": "Munoz", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg", "email": "george.munoz@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2009", "home phone": "(505) 722-0191", "occupation": "Businessman", "counties represented": "Cibola, McKinley and San Juan"}, "created_at": "2018-10-18T14:55:25.398814+00:00", "updated_at": "2022-10-17T20:10:20.196180+00:00", "openstates_url": "https://openstates.org/person/george-k-munoz-5V5IO6a8tbN4ehpi9G8B2F/"}, {"id": "ocd-person/f2ef9d8b-fed9-43d3-a1e3-ac5a20d59265", "name": "Gerald Ortiz y Pino", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "12", "division_id": "ocd-division/country:us/state:nm/sldu:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Gerald", "family_name": "Ortiz y Pino", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SORTI.jpg", "email": "jortizyp@msn.com", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2005", "home phone": "(505) 250-1280", "occupation": "Social Worker", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:21.356734+00:00", "updated_at": "2022-10-17T20:10:18.714423+00:00", "openstates_url": "https://openstates.org/person/gerald-ortiz-y-pino-7OPe9gtZb7kXDbYSdnn5yX/"}, {"id": "ocd-person/de331065-d830-4877-a31d-25c6c20784cd", "name": "Gregg Schmedes", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "19", "division_id": "ocd-division/country:us/state:nm/sldu:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Gregg", "family_name": "Schmedes", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSCHM.jpg", "email": "gregg.schmedes@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2018-2020; Senator since 2021", "home phone": "(505) 506-6725", "occupation": "Surgeon", "counties represented": "Bernalillo, Sandovalj, Santa Fe & Torrance"}, "created_at": "2018-10-18T14:55:30.729943+00:00", "updated_at": "2022-10-17T20:10:19.547488+00:00", "openstates_url": "https://openstates.org/person/gregg-schmedes-6lHdEygsOhUYlOr5chLijl/"}, {"id": "ocd-person/33fb337d-0a2f-4a2c-9018-dcb6760917aa", "name": "Gregory A. Baca", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "29", "division_id": "ocd-division/country:us/state:nm/sldu:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Gregory", "family_name": "Baca", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBACA.jpg", "email": "greg.baca@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2017", "home phone": "(505) 227-6335", "counties represented": "Bernalillo & Valencia"}, "created_at": "2018-10-18T14:55:21.013515+00:00", "updated_at": "2022-10-17T20:10:21.017351+00:00", "openstates_url": "https://openstates.org/person/gregory-a-baca-1a5PI0ryhT6WpEj4SkqTWs/"}, {"id": "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91", "name": "Harold Pope", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "23", "division_id": "ocd-division/country:us/state:nm/sldu:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Harold", "family_name": "Pope", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPOPE.jpg", "email": "harold.popejr@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "home phone": "(505) 289-1087", "counties represented": "Bernalillo"}, "created_at": "2021-01-21T00:14:31.414134+00:00", "updated_at": "2022-10-17T20:10:19.624594+00:00", "openstates_url": "https://openstates.org/person/harold-pope-3RgXRD4Ic1x7KneYsXzb8b/"}, {"id": "ocd-person/2c3d2ab2-15dc-4236-8c62-eda7057779fb", "name": "Jacob R. Candelaria", "party": "Independent", "current_role": {"title": "Senator", "org_classification": "upper", "district": "26", "division_id": "ocd-division/country:us/state:nm/sldu:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Jacob", "family_name": "Candelaria", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAND.jpg", "email": "jacob.candelaria@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "occupation": "Attorney", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:18.980891+00:00", "updated_at": "2022-10-17T20:10:17.509371+00:00", "openstates_url": "https://openstates.org/person/jacob-r-candelaria-1LTcAgimEgNi97OHZjogTj/"}, {"id": "ocd-person/601202fc-f916-4be1-ae20-8c437293817e", "name": "Jeff Steinborn", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "36", "division_id": "ocd-division/country:us/state:nm/sldu:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Jeff", "family_name": "Steinborn", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEI.jpg", "email": "jeff.steinborn@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2007- 2010 and 2013-2016; Senator since 2017", "occupation": "Land Conservation", "counties represented": "Do\u00f1a Ana"}, "created_at": "2018-10-18T14:55:26.405611+00:00", "updated_at": "2022-10-17T20:10:18.444189+00:00", "openstates_url": "https://openstates.org/person/jeff-steinborn-2vHUfoJyD6KOVwjQyoJUzu/"}, {"id": "ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b", "name": "Joseph Cervantes", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "31", "division_id": "ocd-division/country:us/state:nm/sldu:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Joseph", "family_name": "Cervantes", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg", "email": "joseph.cervantes@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2001-2012; Senator since 2013", "occupation": "Attorney", "counties represented": "Do\u00f1a Ana"}, "created_at": "2018-10-18T14:55:34.366947+00:00", "updated_at": "2022-10-17T20:10:18.905447+00:00", "openstates_url": "https://openstates.org/person/joseph-cervantes-dVZMrAb5m6n47LVqwT0N1/"}, {"id": "ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7", "name": "Joshua A. Sanchez", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "30", "division_id": "ocd-division/country:us/state:nm/sldu:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg", "email": "jas4nm@gmail.com", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "occupation": "Small Business Owner", "counties represented": "Cibola, McKinley, Socorro & Valencia"}, "created_at": "2021-01-21T00:14:27.916802+00:00", "updated_at": "2022-10-17T20:10:17.974950+00:00", "openstates_url": "https://openstates.org/person/joshua-a-sanchez-3xuhyvlnl4Hp5Q5uuEZSGV/"}, {"id": "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db", "name": "Katy M. Duhigg", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "10", "division_id": "ocd-division/country:us/state:nm/sldu:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg", "email": "katy.duhigg@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "occupation": "Attorney", "counties represented": "Bernalillo & Sandoval"}, "created_at": "2021-01-21T00:14:32.555372+00:00", "updated_at": "2022-10-17T20:10:17.473463+00:00", "openstates_url": "https://openstates.org/person/katy-m-duhigg-6EeAuljO5tDrpwTvSSvpv9/"}, {"id": "ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d", "name": "Leo Jaramillo", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "5", "division_id": "ocd-division/country:us/state:nm/sldu:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Leo", "family_name": "Jaramillo", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SJARA.jpg", "email": "leo.jaramillo@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "home phone": "(505) 620-0800", "occupation": "Staff Operations Manager", "counties represented": "Los Alamos, Rio Arriba, Sandoval & Santa Fe"}, "created_at": "2021-01-21T00:14:26.647346+00:00", "updated_at": "2022-10-17T20:10:18.330106+00:00", "openstates_url": "https://openstates.org/person/leo-jaramillo-4iZwEYzcBMGs3TMlUKmeWT/"}, {"id": "ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e", "name": "Linda M. Lopez", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "11", "division_id": "ocd-division/country:us/state:nm/sldu:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Linda", "family_name": "Lopez", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg", "email": "linda.lopez@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 1997", "home phone": "(505) 831-4148", "occupation": "Consultant", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:20.668909+00:00", "updated_at": "2022-10-17T20:10:17.818286+00:00", "openstates_url": "https://openstates.org/person/linda-m-lopez-7CmhccyfKvj22uyq7pwrWA/"}, {"id": "ocd-person/0024fecf-b002-4f60-b3ab-57ebb1944de0", "name": "Mark Moores", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "21", "division_id": "ocd-division/country:us/state:nm/sldu:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Mark", "family_name": "Moores", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMOOR.jpg", "email": "mark.moores@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "home phone": "(505) 681-1975", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:26.568722+00:00", "updated_at": "2022-10-17T20:10:20.866009+00:00", "openstates_url": "https://openstates.org/person/mark-moores-GuEDfVdnRqhPKMIWRbG4/"}, {"id": "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46", "name": "Martin Hickey", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "20", "division_id": "ocd-division/country:us/state:nm/sldu:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Martin", "family_name": "Hickey", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg", "email": "martin.hickey@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "counties represented": "Bernalillo"}, "created_at": "2021-01-21T00:14:26.211229+00:00", "updated_at": "2022-10-17T20:10:20.705356+00:00", "openstates_url": "https://openstates.org/person/martin-hickey-4AUfk8rld3JGfIbdQuN2AA/"}, {"id": "ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba", "name": "Michael Padilla", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "14", "division_id": "ocd-division/country:us/state:nm/sldu:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Michael", "family_name": "Padilla", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg", "email": "michael.padilla@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "home phone": "(505) 977-6247", "occupation": "Business Owner", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:20.844904+00:00", "updated_at": "2022-10-17T20:10:18.530289+00:00", "openstates_url": "https://openstates.org/person/michael-padilla-6HipGFCH2ywIHOueIMrBL0/"}, {"id": "ocd-person/f1144347-0a16-43e4-97b9-01308a890631", "name": "Mimi Stewart", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "17", "division_id": "ocd-division/country:us/state:nm/sldu:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Mimi", "family_name": "Stewart", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg", "email": "https://bit.ly/ContactSenStewart", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 1995-2014; Senator since 2015", "occupation": "Retired Educator", "counties represented": "Bernalillo"}, "created_at": "2018-10-18T14:55:31.382195+00:00", "updated_at": "2022-10-17T20:10:21.054638+00:00", "openstates_url": "https://openstates.org/person/mimi-stewart-7KuPTcFLzeXzmIWAKW2n21/"}, {"id": "ocd-person/24a1452c-8cf1-4d5e-a49e-fb9c716381f5", "name": "Nancy Rodriguez", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "24", "division_id": "ocd-division/country:us/state:nm/sldu:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Nancy", "family_name": "Rodriguez", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SRODR.jpg", "email": "nancy.rodriguez@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 1996", "home phone": "(505) 983-8913", "occupation": "Consultant", "counties represented": "Santa Fe"}, "created_at": "2018-10-18T14:55:21.689167+00:00", "updated_at": "2022-10-17T20:10:20.470731+00:00", "openstates_url": "https://openstates.org/person/nancy-rodriguez-177QJddzhU4sED9cR4Z0D7/"}, {"id": "ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d", "name": "Pat Woods", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "7", "division_id": "ocd-division/country:us/state:nm/sldu:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Pat", "family_name": "Woods", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg", "email": "pat.woods@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2012", "home phone": "(575) 357-8594", "counties represented": "Curry, Quay and Union"}, "created_at": "2018-10-18T14:55:25.727135+00:00", "updated_at": "2022-10-17T20:10:18.123159+00:00", "openstates_url": "https://openstates.org/person/pat-woods-3EJdpPlNt0hRenk8lSQWmj/"}, {"id": "ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38", "name": "Pete Campos", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "8", "division_id": "ocd-division/country:us/state:nm/sldu:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Pete", "family_name": "Campos", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg", "email": "pete.campos@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 1991", "home phone": "(505) 425-0508", "occupation": "Education", "counties represented": "Colfax, Guadalupe, Harding, Mora, Quay, San Miguel and Taos"}, "created_at": "2018-10-18T14:55:31.551877+00:00", "updated_at": "2022-10-17T20:10:18.602714+00:00", "openstates_url": "https://openstates.org/person/pete-campos-6uHXVkTwMHn9BWo0MeNj68/"}, {"id": "ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d", "name": "Peter Wirth", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "25", "division_id": "ocd-division/country:us/state:nm/sldu:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Peter", "family_name": "Wirth", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg", "email": "peter.wirth@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 2004-2008; Senator since 2009", "occupation": "Attorney", "counties represented": "Santa Fe"}, "created_at": "2018-10-18T14:55:19.483405+00:00", "updated_at": "2022-10-17T20:10:19.891428+00:00", "openstates_url": "https://openstates.org/person/peter-wirth-3ZsWBgUvsam3VMZeYvxZ3F/"}, {"id": "ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78", "name": "Roberto \"Bobby\" J. Gonzales", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "6", "division_id": "ocd-division/country:us/state:nm/sldu:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Roberto", "family_name": "Gonzales", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg", "email": "roberto.gonzales@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Representative from 1995-2019; Senator since 2019", "home phone": "(575) 758-2674", "occupation": "Retired Educator", "counties represented": "Los Alamos, Rio Arriba, Santa Fe and Taos"}, "created_at": "2018-10-18T14:55:31.052464+00:00", "updated_at": "2022-10-17T20:10:18.203581+00:00", "openstates_url": "https://openstates.org/person/roberto-bobby-j-gonzales-2sVtB5iNOC6nSziRizAMUS/"}, {"id": "ocd-person/87448df9-e44d-421f-ac90-d7cb7f00df79", "name": "Ron Griggs", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "34", "division_id": "ocd-division/country:us/state:nm/sldu:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Ron", "family_name": "Griggs", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGRIG.jpg", "email": "ron.griggs@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2012", "occupation": "Business Owner", "counties represented": "Do\u00f1a Ana, Eddy and  Otero"}, "created_at": "2018-10-18T14:55:24.546980+00:00", "updated_at": "2022-10-17T20:10:17.434264+00:00", "openstates_url": "https://openstates.org/person/ron-griggs-47FICuFeBhJVP50gKiaE2b/"}, {"id": "ocd-person/fa98430a-5031-4c64-bd6d-8a6f0cc4043e", "name": "Shannon D. Pinto", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "3", "division_id": "ocd-division/country:us/state:nm/sldu:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Shannon", "family_name": "Pinto", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPINS.jpg", "email": "shannon.pinto@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2019", "counties represented": "McKinley & San Juan"}, "created_at": "2020-05-28T05:15:55.097117+00:00", "updated_at": "2022-10-17T20:10:18.288140+00:00", "openstates_url": "https://openstates.org/person/shannon-d-pinto-7crfGdX8bc7jnGjGBEWXBG/"}, {"id": "ocd-person/23ae490e-665a-4d01-b000-ad84ebd25b09", "name": "Siah Correa Hemphill", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "28", "division_id": "ocd-division/country:us/state:nm/sldu:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHEMP.jpg", "email": "siah.hemphill@nmlegis.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2021", "home phone": "(575) 654-0683", "occupation": "School Psychologist", "counties represented": "Catron, Grant & Socorro"}, "created_at": "2021-01-21T00:14:32.511097+00:00", "updated_at": "2022-10-17T20:10:17.709549+00:00", "openstates_url": "https://openstates.org/person/siah-correa-hemphill-15KNZ2eOpXSoUt6W6SNesD/"}, {"id": "ocd-person/b5e67085-d4de-4de1-bf25-00c53ee3ec39", "name": "Steven P. Neville", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "2", "division_id": "ocd-division/country:us/state:nm/sldu:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Steven", "family_name": "Neville", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SNEVI.jpg", "email": "steven.neville@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2005", "occupation": "Real Estate Appraiser", "counties represented": "San Juan"}, "created_at": "2018-10-18T14:55:29.567487+00:00", "updated_at": "2022-10-17T20:10:19.397941+00:00", "openstates_url": "https://openstates.org/person/steven-p-neville-5XEvBVkc3reXpyQYcGK7vl/"}, {"id": "ocd-person/c6adbbab-1351-4ada-8136-60d12a8e4a1d", "name": "Stuart Ingle", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "27", "division_id": "ocd-division/country:us/state:nm/sldu:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "Stuart", "family_name": "Ingle", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SINGL.jpg", "email": "stuart.ingle@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 1985", "home phone": "(575) 356-3088", "occupation": "Farmer", "counties represented": "Chaves, Curry, De Baca, Lea and Roosevelt"}, "created_at": "2018-10-18T14:55:26.896647+00:00", "updated_at": "2022-10-17T20:10:17.663352+00:00", "openstates_url": "https://openstates.org/person/stuart-ingle-62tsN7TEGYtdg0FCK1fjm1/"}, {"id": "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372", "name": "William E. Sharer", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "1", "division_id": "ocd-division/country:us/state:nm/sldu:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "William", "family_name": "Sharer", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg", "email": "bill@williamsharer.com", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2001", "occupation": "Small Business Owner", "counties represented": "San Juan"}, "created_at": "2018-10-18T14:55:19.149956+00:00", "updated_at": "2022-10-17T20:10:18.754948+00:00", "openstates_url": "https://openstates.org/person/william-e-sharer-3j7gBehN1yVcgcql39OXJa/"}, {"id": "ocd-person/0ee726a5-7015-46c1-a09d-401c19f7a7cf", "name": "William F. Burt", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "33", "division_id": "ocd-division/country:us/state:nm/sldu:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "William", "family_name": "Burt", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBURT.jpg", "email": "bill.burt@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2011", "home phone": "(575) 434-6140", "occupation": "Business Owner", "counties represented": "Chaves, Lincoln & Otero"}, "created_at": "2018-10-18T14:55:33.866034+00:00", "updated_at": "2022-10-17T20:10:17.934894+00:00", "openstates_url": "https://openstates.org/person/william-f-burt-S7Wmwm4FdU2fWgKmsw6wR/"}, {"id": "ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a", "name": "William P. Soules", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "37", "division_id": "ocd-division/country:us/state:nm/sldu:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nm/government", "name": "New Mexico", "classification": "state"}, "given_name": "William", "family_name": "Soules", "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg", "email": "bill.soules@nmlegis.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"service": "Senator since 2013", "home phone": "(575) 640-0409", "occupation": "Teacher", "counties represented": "Do\u00f1a Ana"}, "created_at": "2018-10-18T14:55:16.834895+00:00", "updated_at": "2022-10-17T20:10:18.941838+00:00", "openstates_url": "https://openstates.org/person/william-p-soules-1ZUZcbYamm4C0zayTogFdi/"}]
+[
+  {
+    "id": "ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735",
+    "name": "Antoinette Sedillo Lopez",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "16",
+      "division_id": "ocd-division/country:us/state:nm/sldu:16"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Antoinette",
+    "family_name": "Sedillo Lopez",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSEDI.jpg",
+    "email": "a.sedillolopez@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2019",
+      "occupation": "Retired Law Professor",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2019-01-24T06:15:32.274894+00:00",
+    "updated_at": "2022-10-17T20:10:18.790607+00:00",
+    "openstates_url": "https://openstates.org/person/antoinette-sedillo-lopez-1sbCbfiaWFyLeMskKm6BLZ/"
+  },
+  {
+    "id": "ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048",
+    "name": "Benny Shendo, Jr.",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "22",
+      "division_id": "ocd-division/country:us/state:nm/sldu:22"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Benny",
+    "family_name": "Shendo",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg",
+    "email": "benny.shendo@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "occupation": "Community Development",
+      "counties represented": "Bernalillo, McKinley, Rio Arriba, San Juan and Sandoval"
+    },
+    "created_at": "2018-10-18T14:55:28.901818+00:00",
+    "updated_at": "2022-10-17T20:10:21.409754+00:00",
+    "openstates_url": "https://openstates.org/person/benny-shendo-jr-cPJAcSgKrbwvABn5y3dWa/"
+  },
+  {
+    "id": "ocd-person/f6772233-67ef-4094-9713-bdf4ddd96a5f",
+    "name": "Bill B. O'Neill",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "13",
+      "division_id": "ocd-division/country:us/state:nm/sldu:13"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Bill",
+    "family_name": "O'Neill",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SONEI.jpg",
+    "email": "oneillsd13@billoneillfornm.com",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2009-2012; Senator since 2013",
+      "occupation": "Development Director- PEP",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:30.221349+00:00",
+    "updated_at": "2022-10-17T20:10:19.204341+00:00",
+    "openstates_url": "https://openstates.org/person/bill-b-o-neill-7V4YVk0fRA3zBvZsyOdcSt/"
+  },
+  {
+    "id": "ocd-person/37cc0bab-0119-4bd6-9794-3d3324cc34de",
+    "name": "Bill Tallman",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "18",
+      "division_id": "ocd-division/country:us/state:nm/sldu:18"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Bill",
+    "family_name": "Tallman",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/STALL.jpg",
+    "email": "bill.tallman@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2017",
+      "home phone": "(505) 702-6828",
+      "occupation": "Retired City Manager",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:34.859074+00:00",
+    "updated_at": "2022-10-17T20:10:18.494926+00:00",
+    "openstates_url": "https://openstates.org/person/bill-tallman-1hHpHGuLtB1AdiQ8sR593u/"
+  },
+  {
+    "id": "ocd-person/a30f836f-c05d-47d6-9566-29830f7cb4cc",
+    "name": "Brenda G. McKenna",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "9",
+      "division_id": "ocd-division/country:us/state:nm/sldu:9"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMCKE.jpg",
+    "email": "brenda.mckenna@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "occupation": "Congressional Field Rep",
+      "counties represented": "Bernalillo & Sandoval"
+    },
+    "created_at": "2021-01-21T00:14:31.018184+00:00",
+    "updated_at": "2022-10-17T20:10:20.234492+00:00",
+    "openstates_url": "https://openstates.org/person/brenda-g-mckenna-4xgq0w55GrqUiMU2Xhq952/"
+  },
+  {
+    "id": "ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d",
+    "name": "Carrie Hamblen",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "38",
+      "division_id": "ocd-division/country:us/state:nm/sldu:38"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Carrie",
+    "family_name": "Hamblen",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg",
+    "email": "carrie.hamblen@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "home phone": "(575) 496-5242",
+      "occupation": "CEO- LC Green COC",
+      "counties represented": "Dona Ana"
+    },
+    "created_at": "2021-01-21T00:14:28.766138+00:00",
+    "updated_at": "2022-10-17T20:10:17.784139+00:00",
+    "openstates_url": "https://openstates.org/person/carrie-hamblen-40pyOIBDDw46C0InuS86cH/"
+  },
+  {
+    "id": "ocd-person/4be1cfe1-f23c-41c3-a0f1-0e366d32cc1e",
+    "name": "Cliff R. Pirtle",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "32",
+      "division_id": "ocd-division/country:us/state:nm/sldu:32"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Cliff",
+    "family_name": "Pirtle",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPIRT.jpg",
+    "email": "cliff.pirtle@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "home phone": "(575) 626-7046",
+      "occupation": "Farmer",
+      "counties represented": "Chaves, Eddy and Otero"
+    },
+    "created_at": "2018-10-18T14:55:22.687260+00:00",
+    "updated_at": "2022-10-17T20:10:21.584458+00:00",
+    "openstates_url": "https://openstates.org/person/cliff-r-pirtle-2JBcUnVulk2Hfwg4Tci5F8/"
+  },
+  {
+    "id": "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
+    "name": "Craig W. Brandt",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "40",
+      "division_id": "ocd-division/country:us/state:nm/sldu:40"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Craig",
+    "family_name": "Brandt",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg",
+    "email": "craig.brandt@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "occupation": "Clergy",
+      "counties represented": "Sandoval"
+    },
+    "created_at": "2018-10-18T14:55:19.659463+00:00",
+    "updated_at": "2022-10-17T20:10:19.660548+00:00",
+    "openstates_url": "https://openstates.org/person/craig-w-brandt-1eaXrdtowtTc0pkWqfdHyZ/"
+  },
+  {
+    "id": "ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882",
+    "name": "Crystal R. Diamond",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "35",
+      "division_id": "ocd-division/country:us/state:nm/sldu:35"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg",
+    "email": "crystal.diamond@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "home phone": "(575) 740-1539",
+      "occupation": "Outreach Director",
+      "counties represented": "Dona Ana, Hidalgo, Luna & Sierra"
+    },
+    "created_at": "2021-01-21T00:14:29.218533+00:00",
+    "updated_at": "2022-10-17T20:10:18.868375+00:00",
+    "openstates_url": "https://openstates.org/person/crystal-r-diamond-wBqvkEP2ISfesFXVoz7Hm/"
+  },
+  {
+    "id": "ocd-person/4fcfad95-7efe-4bea-93d0-026d28382c3d",
+    "name": "Daniel A. Ivey-Soto",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "15",
+      "division_id": "ocd-division/country:us/state:nm/sldu:15"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Daniel",
+    "family_name": "Ivey-Soto",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SIVEY.jpg",
+    "email": "daniel.ivey-soto@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "occupation": "Association Executive",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:17.659768+00:00",
+    "updated_at": "2022-10-17T20:10:19.166140+00:00",
+    "openstates_url": "https://openstates.org/person/daniel-a-ivey-soto-2QbImcdvUaYZvF4tOS3sKb/"
+  },
+  {
+    "id": "ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0",
+    "name": "David M. Gallegos",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "41",
+      "division_id": "ocd-division/country:us/state:nm/sldu:41"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "David",
+    "family_name": "Gallegos",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg",
+    "email": "david.rsi@hotmail.com",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2013-2020; Senator since 2021",
+      "occupation": "Sr. Superintendent",
+      "counties represented": "Eddy & Lea"
+    },
+    "created_at": "2018-10-18T14:55:34.204013+00:00",
+    "updated_at": "2022-10-17T20:10:19.240883+00:00",
+    "openstates_url": "https://openstates.org/person/david-m-gallegos-4mrXNyuDCRGZjYb2hinrU0/"
+  },
+  {
+    "id": "ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03",
+    "name": "Elizabeth \"Liz\" Stefanics",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "39",
+      "division_id": "ocd-division/country:us/state:nm/sldu:39"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Elizabeth",
+    "family_name": "Stefanics",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg",
+    "email": "lstefanics@msn.com",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator from 1993-1996; Senator since 2017",
+      "home phone": "(505) 471-7643",
+      "occupation": "Consultant",
+      "counties represented": "Bernalillo, Lincoln, San Miguel, Santa Fe, Torrance and Valencia"
+    },
+    "created_at": "2018-10-18T14:55:25.564775+00:00",
+    "updated_at": "2022-10-17T20:10:18.407552+00:00",
+    "openstates_url": "https://openstates.org/person/elizabeth-liz-stefanics-wB3NoDpguynbE8KFzUJVr/"
+  },
+  {
+    "id": "ocd-person/e2e49e54-f289-4cf3-a996-68ed34f64b64",
+    "name": "Gay G. Kernan",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "42",
+      "division_id": "ocd-division/country:us/state:nm/sldu:42"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Gay",
+    "family_name": "Kernan",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SKERN.jpg",
+    "email": "gay.kernan@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2002",
+      "occupation": "Educator",
+      "counties represented": "Chaves, Eddy, and Lea"
+    },
+    "created_at": "2018-10-18T14:55:25.889563+00:00",
+    "updated_at": "2022-10-17T20:10:21.627683+00:00",
+    "openstates_url": "https://openstates.org/person/gay-g-kernan-6u8kB9lGeaWXCIqNAp0H1o/"
+  },
+  {
+    "id": "ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7",
+    "name": "George K. Munoz",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "4",
+      "division_id": "ocd-division/country:us/state:nm/sldu:4"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "George",
+    "family_name": "Munoz",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg",
+    "email": "george.munoz@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2009",
+      "home phone": "(505) 722-0191",
+      "occupation": "Businessman",
+      "counties represented": "Cibola, McKinley and San Juan"
+    },
+    "created_at": "2018-10-18T14:55:25.398814+00:00",
+    "updated_at": "2022-10-17T20:10:20.196180+00:00",
+    "openstates_url": "https://openstates.org/person/george-k-munoz-5V5IO6a8tbN4ehpi9G8B2F/"
+  },
+  {
+    "id": "ocd-person/f2ef9d8b-fed9-43d3-a1e3-ac5a20d59265",
+    "name": "Gerald Ortiz y Pino",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "12",
+      "division_id": "ocd-division/country:us/state:nm/sldu:12"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Gerald",
+    "family_name": "Ortiz y Pino",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SORTI.jpg",
+    "email": "jortizyp@msn.com",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2005",
+      "home phone": "(505) 250-1280",
+      "occupation": "Social Worker",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:21.356734+00:00",
+    "updated_at": "2022-10-17T20:10:18.714423+00:00",
+    "openstates_url": "https://openstates.org/person/gerald-ortiz-y-pino-7OPe9gtZb7kXDbYSdnn5yX/"
+  },
+  {
+    "id": "ocd-person/de331065-d830-4877-a31d-25c6c20784cd",
+    "name": "Gregg Schmedes",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "19",
+      "division_id": "ocd-division/country:us/state:nm/sldu:19"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Gregg",
+    "family_name": "Schmedes",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSCHM.jpg",
+    "email": "gregg.schmedes@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2018-2020; Senator since 2021",
+      "home phone": "(505) 506-6725",
+      "occupation": "Surgeon",
+      "counties represented": "Bernalillo, Sandovalj, Santa Fe & Torrance"
+    },
+    "created_at": "2018-10-18T14:55:30.729943+00:00",
+    "updated_at": "2022-10-17T20:10:19.547488+00:00",
+    "openstates_url": "https://openstates.org/person/gregg-schmedes-6lHdEygsOhUYlOr5chLijl/"
+  },
+  {
+    "id": "ocd-person/33fb337d-0a2f-4a2c-9018-dcb6760917aa",
+    "name": "Gregory A. Baca",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "29",
+      "division_id": "ocd-division/country:us/state:nm/sldu:29"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Gregory",
+    "family_name": "Baca",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBACA.jpg",
+    "email": "greg.baca@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2017",
+      "home phone": "(505) 227-6335",
+      "counties represented": "Bernalillo & Valencia"
+    },
+    "created_at": "2018-10-18T14:55:21.013515+00:00",
+    "updated_at": "2022-10-17T20:10:21.017351+00:00",
+    "openstates_url": "https://openstates.org/person/gregory-a-baca-1a5PI0ryhT6WpEj4SkqTWs/"
+  },
+  {
+    "id": "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91",
+    "name": "Harold Pope",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "23",
+      "division_id": "ocd-division/country:us/state:nm/sldu:23"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Harold",
+    "family_name": "Pope",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPOPE.jpg",
+    "email": "harold.popejr@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "home phone": "(505) 289-1087",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2021-01-21T00:14:31.414134+00:00",
+    "updated_at": "2022-10-17T20:10:19.624594+00:00",
+    "openstates_url": "https://openstates.org/person/harold-pope-3RgXRD4Ic1x7KneYsXzb8b/"
+  },
+  {
+    "id": "ocd-person/2c3d2ab2-15dc-4236-8c62-eda7057779fb",
+    "name": "Jacob R. Candelaria",
+    "party": "Independent",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "26",
+      "division_id": "ocd-division/country:us/state:nm/sldu:26"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Jacob",
+    "family_name": "Candelaria",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAND.jpg",
+    "email": "jacob.candelaria@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "occupation": "Attorney",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:18.980891+00:00",
+    "updated_at": "2022-10-17T20:10:17.509371+00:00",
+    "openstates_url": "https://openstates.org/person/jacob-r-candelaria-1LTcAgimEgNi97OHZjogTj/"
+  },
+  {
+    "id": "ocd-person/601202fc-f916-4be1-ae20-8c437293817e",
+    "name": "Jeff Steinborn",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "36",
+      "division_id": "ocd-division/country:us/state:nm/sldu:36"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Jeff",
+    "family_name": "Steinborn",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEI.jpg",
+    "email": "jeff.steinborn@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2007- 2010 and 2013-2016; Senator since 2017",
+      "occupation": "Land Conservation",
+      "counties represented": "Do\u00f1a Ana"
+    },
+    "created_at": "2018-10-18T14:55:26.405611+00:00",
+    "updated_at": "2022-10-17T20:10:18.444189+00:00",
+    "openstates_url": "https://openstates.org/person/jeff-steinborn-2vHUfoJyD6KOVwjQyoJUzu/"
+  },
+  {
+    "id": "ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b",
+    "name": "Joseph Cervantes",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "31",
+      "division_id": "ocd-division/country:us/state:nm/sldu:31"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Joseph",
+    "family_name": "Cervantes",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg",
+    "email": "joseph.cervantes@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2001-2012; Senator since 2013",
+      "occupation": "Attorney",
+      "counties represented": "Do\u00f1a Ana"
+    },
+    "created_at": "2018-10-18T14:55:34.366947+00:00",
+    "updated_at": "2022-10-17T20:10:18.905447+00:00",
+    "openstates_url": "https://openstates.org/person/joseph-cervantes-dVZMrAb5m6n47LVqwT0N1/"
+  },
+  {
+    "id": "ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7",
+    "name": "Joshua A. Sanchez",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "30",
+      "division_id": "ocd-division/country:us/state:nm/sldu:30"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg",
+    "email": "jas4nm@gmail.com",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "occupation": "Small Business Owner",
+      "counties represented": "Cibola, McKinley, Socorro & Valencia"
+    },
+    "created_at": "2021-01-21T00:14:27.916802+00:00",
+    "updated_at": "2022-10-17T20:10:17.974950+00:00",
+    "openstates_url": "https://openstates.org/person/joshua-a-sanchez-3xuhyvlnl4Hp5Q5uuEZSGV/"
+  },
+  {
+    "id": "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db",
+    "name": "Katy M. Duhigg",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "10",
+      "division_id": "ocd-division/country:us/state:nm/sldu:10"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg",
+    "email": "katy.duhigg@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "occupation": "Attorney",
+      "counties represented": "Bernalillo & Sandoval"
+    },
+    "created_at": "2021-01-21T00:14:32.555372+00:00",
+    "updated_at": "2022-10-17T20:10:17.473463+00:00",
+    "openstates_url": "https://openstates.org/person/katy-m-duhigg-6EeAuljO5tDrpwTvSSvpv9/"
+  },
+  {
+    "id": "ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d",
+    "name": "Leo Jaramillo",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "5",
+      "division_id": "ocd-division/country:us/state:nm/sldu:5"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Leo",
+    "family_name": "Jaramillo",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SJARA.jpg",
+    "email": "leo.jaramillo@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "home phone": "(505) 620-0800",
+      "occupation": "Staff Operations Manager",
+      "counties represented": "Los Alamos, Rio Arriba, Sandoval & Santa Fe"
+    },
+    "created_at": "2021-01-21T00:14:26.647346+00:00",
+    "updated_at": "2022-10-17T20:10:18.330106+00:00",
+    "openstates_url": "https://openstates.org/person/leo-jaramillo-4iZwEYzcBMGs3TMlUKmeWT/"
+  },
+  {
+    "id": "ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e",
+    "name": "Linda M. Lopez",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "11",
+      "division_id": "ocd-division/country:us/state:nm/sldu:11"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Linda",
+    "family_name": "Lopez",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg",
+    "email": "linda.lopez@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 1997",
+      "home phone": "(505) 831-4148",
+      "occupation": "Consultant",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:20.668909+00:00",
+    "updated_at": "2022-10-17T20:10:17.818286+00:00",
+    "openstates_url": "https://openstates.org/person/linda-m-lopez-7CmhccyfKvj22uyq7pwrWA/"
+  },
+  {
+    "id": "ocd-person/0024fecf-b002-4f60-b3ab-57ebb1944de0",
+    "name": "Mark Moores",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "21",
+      "division_id": "ocd-division/country:us/state:nm/sldu:21"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Mark",
+    "family_name": "Moores",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMOOR.jpg",
+    "email": "mark.moores@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "home phone": "(505) 681-1975",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:26.568722+00:00",
+    "updated_at": "2022-10-17T20:10:20.866009+00:00",
+    "openstates_url": "https://openstates.org/person/mark-moores-GuEDfVdnRqhPKMIWRbG4/"
+  },
+  {
+    "id": "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46",
+    "name": "Martin Hickey",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "20",
+      "division_id": "ocd-division/country:us/state:nm/sldu:20"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Martin",
+    "family_name": "Hickey",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg",
+    "email": "martin.hickey@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2021-01-21T00:14:26.211229+00:00",
+    "updated_at": "2022-10-17T20:10:20.705356+00:00",
+    "openstates_url": "https://openstates.org/person/martin-hickey-4AUfk8rld3JGfIbdQuN2AA/"
+  },
+  {
+    "id": "ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba",
+    "name": "Michael Padilla",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "14",
+      "division_id": "ocd-division/country:us/state:nm/sldu:14"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Michael",
+    "family_name": "Padilla",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg",
+    "email": "michael.padilla@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "home phone": "(505) 977-6247",
+      "occupation": "Business Owner",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:20.844904+00:00",
+    "updated_at": "2022-10-17T20:10:18.530289+00:00",
+    "openstates_url": "https://openstates.org/person/michael-padilla-6HipGFCH2ywIHOueIMrBL0/"
+  },
+  {
+    "id": "ocd-person/f1144347-0a16-43e4-97b9-01308a890631",
+    "name": "Mimi Stewart",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "17",
+      "division_id": "ocd-division/country:us/state:nm/sldu:17"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Mimi",
+    "family_name": "Stewart",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg",
+    "email": "https://bit.ly/ContactSenStewart",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 1995-2014; Senator since 2015",
+      "occupation": "Retired Educator",
+      "counties represented": "Bernalillo"
+    },
+    "created_at": "2018-10-18T14:55:31.382195+00:00",
+    "updated_at": "2022-10-17T20:10:21.054638+00:00",
+    "openstates_url": "https://openstates.org/person/mimi-stewart-7KuPTcFLzeXzmIWAKW2n21/"
+  },
+  {
+    "id": "ocd-person/24a1452c-8cf1-4d5e-a49e-fb9c716381f5",
+    "name": "Nancy Rodriguez",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "24",
+      "division_id": "ocd-division/country:us/state:nm/sldu:24"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Nancy",
+    "family_name": "Rodriguez",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SRODR.jpg",
+    "email": "nancy.rodriguez@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 1996",
+      "home phone": "(505) 983-8913",
+      "occupation": "Consultant",
+      "counties represented": "Santa Fe"
+    },
+    "created_at": "2018-10-18T14:55:21.689167+00:00",
+    "updated_at": "2022-10-17T20:10:20.470731+00:00",
+    "openstates_url": "https://openstates.org/person/nancy-rodriguez-177QJddzhU4sED9cR4Z0D7/"
+  },
+  {
+    "id": "ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d",
+    "name": "Pat Woods",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "7",
+      "division_id": "ocd-division/country:us/state:nm/sldu:7"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Pat",
+    "family_name": "Woods",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg",
+    "email": "pat.woods@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2012",
+      "home phone": "(575) 357-8594",
+      "counties represented": "Curry, Quay and Union"
+    },
+    "created_at": "2018-10-18T14:55:25.727135+00:00",
+    "updated_at": "2022-10-17T20:10:18.123159+00:00",
+    "openstates_url": "https://openstates.org/person/pat-woods-3EJdpPlNt0hRenk8lSQWmj/"
+  },
+  {
+    "id": "ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38",
+    "name": "Pete Campos",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "8",
+      "division_id": "ocd-division/country:us/state:nm/sldu:8"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Pete",
+    "family_name": "Campos",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg",
+    "email": "pete.campos@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 1991",
+      "home phone": "(505) 425-0508",
+      "occupation": "Education",
+      "counties represented": "Colfax, Guadalupe, Harding, Mora, Quay, San Miguel and Taos"
+    },
+    "created_at": "2018-10-18T14:55:31.551877+00:00",
+    "updated_at": "2022-10-17T20:10:18.602714+00:00",
+    "openstates_url": "https://openstates.org/person/pete-campos-6uHXVkTwMHn9BWo0MeNj68/"
+  },
+  {
+    "id": "ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d",
+    "name": "Peter Wirth",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "25",
+      "division_id": "ocd-division/country:us/state:nm/sldu:25"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Peter",
+    "family_name": "Wirth",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg",
+    "email": "peter.wirth@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 2004-2008; Senator since 2009",
+      "occupation": "Attorney",
+      "counties represented": "Santa Fe"
+    },
+    "created_at": "2018-10-18T14:55:19.483405+00:00",
+    "updated_at": "2022-10-17T20:10:19.891428+00:00",
+    "openstates_url": "https://openstates.org/person/peter-wirth-3ZsWBgUvsam3VMZeYvxZ3F/"
+  },
+  {
+    "id": "ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78",
+    "name": "Roberto \"Bobby\" J. Gonzales",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "6",
+      "division_id": "ocd-division/country:us/state:nm/sldu:6"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Roberto",
+    "family_name": "Gonzales",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg",
+    "email": "roberto.gonzales@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Representative from 1995-2019; Senator since 2019",
+      "home phone": "(575) 758-2674",
+      "occupation": "Retired Educator",
+      "counties represented": "Los Alamos, Rio Arriba, Santa Fe and Taos"
+    },
+    "created_at": "2018-10-18T14:55:31.052464+00:00",
+    "updated_at": "2022-10-17T20:10:18.203581+00:00",
+    "openstates_url": "https://openstates.org/person/roberto-bobby-j-gonzales-2sVtB5iNOC6nSziRizAMUS/"
+  },
+  {
+    "id": "ocd-person/87448df9-e44d-421f-ac90-d7cb7f00df79",
+    "name": "Ron Griggs",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "34",
+      "division_id": "ocd-division/country:us/state:nm/sldu:34"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Ron",
+    "family_name": "Griggs",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGRIG.jpg",
+    "email": "ron.griggs@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2012",
+      "occupation": "Business Owner",
+      "counties represented": "Do\u00f1a Ana, Eddy and  Otero"
+    },
+    "created_at": "2018-10-18T14:55:24.546980+00:00",
+    "updated_at": "2022-10-17T20:10:17.434264+00:00",
+    "openstates_url": "https://openstates.org/person/ron-griggs-47FICuFeBhJVP50gKiaE2b/"
+  },
+  {
+    "id": "ocd-person/fa98430a-5031-4c64-bd6d-8a6f0cc4043e",
+    "name": "Shannon D. Pinto",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "3",
+      "division_id": "ocd-division/country:us/state:nm/sldu:3"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Shannon",
+    "family_name": "Pinto",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPINS.jpg",
+    "email": "shannon.pinto@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2019",
+      "counties represented": "McKinley & San Juan"
+    },
+    "created_at": "2020-05-28T05:15:55.097117+00:00",
+    "updated_at": "2022-10-17T20:10:18.288140+00:00",
+    "openstates_url": "https://openstates.org/person/shannon-d-pinto-7crfGdX8bc7jnGjGBEWXBG/"
+  },
+  {
+    "id": "ocd-person/23ae490e-665a-4d01-b000-ad84ebd25b09",
+    "name": "Siah Correa Hemphill",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "28",
+      "division_id": "ocd-division/country:us/state:nm/sldu:28"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHEMP.jpg",
+    "email": "siah.hemphill@nmlegis.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2021",
+      "home phone": "(575) 654-0683",
+      "occupation": "School Psychologist",
+      "counties represented": "Catron, Grant & Socorro"
+    },
+    "created_at": "2021-01-21T00:14:32.511097+00:00",
+    "updated_at": "2022-10-17T20:10:17.709549+00:00",
+    "openstates_url": "https://openstates.org/person/siah-correa-hemphill-15KNZ2eOpXSoUt6W6SNesD/"
+  },
+  {
+    "id": "ocd-person/b5e67085-d4de-4de1-bf25-00c53ee3ec39",
+    "name": "Steven P. Neville",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "2",
+      "division_id": "ocd-division/country:us/state:nm/sldu:2"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Steven",
+    "family_name": "Neville",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SNEVI.jpg",
+    "email": "steven.neville@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2005",
+      "occupation": "Real Estate Appraiser",
+      "counties represented": "San Juan"
+    },
+    "created_at": "2018-10-18T14:55:29.567487+00:00",
+    "updated_at": "2022-10-17T20:10:19.397941+00:00",
+    "openstates_url": "https://openstates.org/person/steven-p-neville-5XEvBVkc3reXpyQYcGK7vl/"
+  },
+  {
+    "id": "ocd-person/c6adbbab-1351-4ada-8136-60d12a8e4a1d",
+    "name": "Stuart Ingle",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "27",
+      "division_id": "ocd-division/country:us/state:nm/sldu:27"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "Stuart",
+    "family_name": "Ingle",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SINGL.jpg",
+    "email": "stuart.ingle@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 1985",
+      "home phone": "(575) 356-3088",
+      "occupation": "Farmer",
+      "counties represented": "Chaves, Curry, De Baca, Lea and Roosevelt"
+    },
+    "created_at": "2018-10-18T14:55:26.896647+00:00",
+    "updated_at": "2022-10-17T20:10:17.663352+00:00",
+    "openstates_url": "https://openstates.org/person/stuart-ingle-62tsN7TEGYtdg0FCK1fjm1/"
+  },
+  {
+    "id": "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372",
+    "name": "William E. Sharer",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "1",
+      "division_id": "ocd-division/country:us/state:nm/sldu:1"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "William",
+    "family_name": "Sharer",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg",
+    "email": "bill@williamsharer.com",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2001",
+      "occupation": "Small Business Owner",
+      "counties represented": "San Juan"
+    },
+    "created_at": "2018-10-18T14:55:19.149956+00:00",
+    "updated_at": "2022-10-17T20:10:18.754948+00:00",
+    "openstates_url": "https://openstates.org/person/william-e-sharer-3j7gBehN1yVcgcql39OXJa/"
+  },
+  {
+    "id": "ocd-person/0ee726a5-7015-46c1-a09d-401c19f7a7cf",
+    "name": "William F. Burt",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "33",
+      "division_id": "ocd-division/country:us/state:nm/sldu:33"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "William",
+    "family_name": "Burt",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBURT.jpg",
+    "email": "bill.burt@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2011",
+      "home phone": "(575) 434-6140",
+      "occupation": "Business Owner",
+      "counties represented": "Chaves, Lincoln & Otero"
+    },
+    "created_at": "2018-10-18T14:55:33.866034+00:00",
+    "updated_at": "2022-10-17T20:10:17.934894+00:00",
+    "openstates_url": "https://openstates.org/person/william-f-burt-S7Wmwm4FdU2fWgKmsw6wR/"
+  },
+  {
+    "id": "ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a",
+    "name": "William P. Soules",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "37",
+      "division_id": "ocd-division/country:us/state:nm/sldu:37"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:nm/government",
+      "name": "New Mexico",
+      "classification": "state"
+    },
+    "given_name": "William",
+    "family_name": "Soules",
+    "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg",
+    "email": "bill.soules@nmlegis.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {
+      "service": "Senator since 2013",
+      "home phone": "(575) 640-0409",
+      "occupation": "Teacher",
+      "counties represented": "Do\u00f1a Ana"
+    },
+    "created_at": "2018-10-18T14:55:16.834895+00:00",
+    "updated_at": "2022-10-17T20:10:18.941838+00:00",
+    "openstates_url": "https://openstates.org/person/william-p-soules-1ZUZcbYamm4C0zayTogFdi/"
+  }
+]
