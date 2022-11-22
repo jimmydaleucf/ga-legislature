@@ -68,29 +68,13 @@
             <div class="bop-component"><BopBar {state} {chamber} /></div>
           {/each}
         {:else}
-          <div class="bop-component" style="width:100%">
+          <div class="bop-component">
             <BopBar {state} chamber="legislature" />
           </div>
         {/if}
       </div>
     </div>
   {/each}
-
-  <!-- <BopBar state="Florida" chamber="upper" />
-    <BopBar state="Florida" chamber="lower" />
-    <BopBar state="New York" chamber="upper" />
-    <BopBar state="New York" chamber="lower" />
-    <BopBar state="Idaho" chamber="upper" />
-    <BopBar state="Idaho" chamber="lower" />
-    <BopBar state="Nebraska" chamber="legislature" /> -->
-
-  <!-- <LegMap state="Florida" chamber="upper" /> -->
-  <!-- <LegMap state="Florida" chamber="upper" />
-    <LegMap state="Georgia" chamber="lower" />
-    <LegMap state="Georgia" chamber="upper" />
-    <LegMap state="California" chamber="upper" /> -->
-  <!-- <LegMap state="California" chamber="lower" /> -->
-  <!-- </div> -->
 </main>
 
 <style>

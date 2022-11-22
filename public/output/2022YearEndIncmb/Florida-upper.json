@@ -1,1 +1,1055 @@
-[{"id": "ocd-person/ed150829-99d1-497e-bc0b-91bf4e06c5e7", "name": "Aaron Bean", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "4", "division_id": "ocd-division/country:us/state:fl/sldu:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Aaron", "family_name": "Bean", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s04_5094.jpg", "email": "bean.aaron.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:29.922985+00:00", "updated_at": "2022-10-17T20:03:45.617216+00:00", "openstates_url": "https://openstates.org/person/aaron-bean-7DMnAeW8iVIQHm8uIxCwf1/"}, {"id": "ocd-person/c4c4b831-6a8a-4819-afe4-063decb1273c", "name": "Ana Maria Rodriguez", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "39", "division_id": "ocd-division/country:us/state:fl/sldu:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s39_5379.jpg", "email": "rodriguez.anamaria.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:09.294758+00:00", "updated_at": "2022-10-17T20:03:43.005725+00:00", "openstates_url": "https://openstates.org/person/ana-maria-rodriguez-5zIOceuueuRa6Ad4rdDgya/"}, {"id": "ocd-person/ea190b03-d1ca-4d75-89c7-dca745386db7", "name": "Annette Taddeo", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "40", "division_id": "ocd-division/country:us/state:fl/sldu:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Annette", "family_name": "Taddeo", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s40_5331.jpg", "email": "taddeo.annette.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:00.172829+00:00", "updated_at": "2022-10-17T20:03:42.897614+00:00", "openstates_url": "https://openstates.org/person/annette-taddeo-77jeFYyMVC4gDBFWLQWQml/"}, {"id": "ocd-person/96e8b5c1-6c40-4072-a9d0-f6b979bf013b", "name": "Audrey Gibson", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "6", "division_id": "ocd-division/country:us/state:fl/sldu:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Audrey", "family_name": "Gibson", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s06_4765.jpg", "email": "gibson.audrey.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:09.841289+00:00", "updated_at": "2022-10-17T20:03:45.288804+00:00", "openstates_url": "https://openstates.org/person/audrey-gibson-4alCGN1GbIuCAxiZJLw0YV/"}, {"id": "ocd-person/5c81dfe7-1cec-45e8-8044-6d9cd324f2e8", "name": "Ben Albritton", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "26", "division_id": "ocd-division/country:us/state:fl/sldu:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Ben", "family_name": "Albritton", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s26_5342.jpg", "email": "albritton.ben.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:06.954565+00:00", "updated_at": "2022-10-17T20:03:41.926451+00:00", "openstates_url": "https://openstates.org/person/ben-albritton-2oYe6sKJPblPg3Sf9T4gpM/"}, {"id": "ocd-person/efe6dfff-38e5-4a7f-822e-8cb4cfba7e71", "name": "Bobby Powell", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "30", "division_id": "ocd-division/country:us/state:fl/sldu:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Bobby", "family_name": "Powell", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s30_5201.jpg", "email": "powell.bobby.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:39.768617+00:00", "updated_at": "2022-10-17T20:03:45.914617+00:00", "openstates_url": "https://openstates.org/person/bobby-powell-7Igfvkd7dPtZxiussdPyXR/"}, {"id": "ocd-person/55815523-33b5-4d42-9864-28e00b805e68", "name": "Danny Burgess", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "20", "division_id": "ocd-division/country:us/state:fl/sldu:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Danny", "family_name": "Burgess", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s20_5169.jpg", "email": "burgess.danny.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:06.218402+00:00", "updated_at": "2022-10-17T20:03:40.319248+00:00", "openstates_url": "https://openstates.org/person/danny-burgess-2bLS56xFBKYZMuvEBQPHdw/"}, {"id": "ocd-person/3de11937-c291-4561-bee5-4f747665cb37", "name": "Darryl Ervin Rouson", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "19", "division_id": "ocd-division/country:us/state:fl/sldu:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Darryl Ervin", "family_name": "Rouson", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s19_5203.jpg", "email": "rouson.darryl.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:32.802234+00:00", "updated_at": "2022-10-17T20:03:40.555530+00:00", "openstates_url": "https://openstates.org/person/darryl-ervin-rouson-1slOwFmQ6yxQgbgmXjEgYJ/"}, {"id": "ocd-person/a41e2c13-be68-4af3-8229-3c657b8d980d", "name": "Debbie Mayfield", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "17", "division_id": "ocd-division/country:us/state:fl/sldu:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Debbie", "family_name": "Mayfield", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s17_5199.jpg", "email": "mayfield.debbie.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:59.789050+00:00", "updated_at": "2022-10-17T20:03:46.061457+00:00", "openstates_url": "https://openstates.org/person/debbie-mayfield-4zgWsezdPc3r0ENoQoWUFJ/"}, {"id": "ocd-person/8da77b3a-e4d7-4b04-80bd-403d1e56ff6c", "name": "Dennis Baxley", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "12", "division_id": "ocd-division/country:us/state:fl/sldu:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Dennis", "family_name": "Baxley", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s12_5192.jpg", "email": "baxley.dennis.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:41.224674+00:00", "updated_at": "2022-10-17T20:03:42.207199+00:00", "openstates_url": "https://openstates.org/person/dennis-baxley-4JISLsKjzWUnwIydfRW604/"}, {"id": "ocd-person/684ec9bf-65e9-4e43-850d-01ea9569d224", "name": "Doug Broxson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "1", "division_id": "ocd-division/country:us/state:fl/sldu:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Doug", "family_name": "Broxson", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s01_5194.jpg", "email": "broxson.doug.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:57.522926+00:00", "updated_at": "2022-10-17T20:03:44.560486+00:00", "openstates_url": "https://openstates.org/person/doug-broxson-3ApCuXmzHUqUnrxbDNo8CS/"}, {"id": "ocd-person/0e375630-02a4-4e59-ac80-869f9a199b2a", "name": "Ed Hooper", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "16", "division_id": "ocd-division/country:us/state:fl/sldu:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Ed", "family_name": "Hooper", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s16_5344.jpg", "email": "hooper.ed.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-24T06:05:05.689222+00:00", "updated_at": "2022-10-17T20:03:43.916437+00:00", "openstates_url": "https://openstates.org/person/ed-hooper-QpBFi8I4RRmoNiCwCkxD8/"}, {"id": "ocd-person/2580df40-6ce8-48fc-a9ad-6bb93bb85016", "name": "Gary M. Farmer, Jr.", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "34", "division_id": "ocd-division/country:us/state:fl/sldu:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Gary M", "family_name": "Farmer", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s34_5198.jpg", "email": "farmer.gary.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:53.606616+00:00", "updated_at": "2022-10-17T20:03:45.989848+00:00", "openstates_url": "https://openstates.org/person/gary-m-farmer-jr-18lbrvGjYm3uHRybFFgrY6/"}, {"id": "ocd-person/cd3ba8e7-7c51-444b-bff3-e0c29de30660", "name": "Gayle Harrell", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "25", "division_id": "ocd-division/country:us/state:fl/sldu:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Gayle", "family_name": "Harrell", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s25_5348.jpg", "email": "harrell.gayle.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-24T06:05:12.275879+00:00", "updated_at": "2022-10-17T20:03:43.423434+00:00", "openstates_url": "https://openstates.org/person/gayle-harrell-6FGgscXTUI7qUuaNqrNWKm/"}, {"id": "ocd-person/f38a27f3-a3c4-4614-a8ae-6b6048e97dab", "name": "George B. Gainer", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "2", "division_id": "ocd-division/country:us/state:fl/sldu:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "George B.", "family_name": "Gainer", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s02_5190.jpg", "email": "gainer.george.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:55.287703+00:00", "updated_at": "2022-10-17T20:03:43.534273+00:00", "openstates_url": "https://openstates.org/person/george-b-gainer-7PYGvEeE1j3UXfU5f4PBON/"}, {"id": "ocd-person/3b65ecb0-8a3d-469c-9db4-b70c8724610f", "name": "Ileana Garcia", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "37", "division_id": "ocd-division/country:us/state:fl/sldu:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Ileana", "family_name": "Garcia", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s37_5515.jpg", "email": "garcia.ileana.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:11.016414+00:00", "updated_at": "2022-10-17T20:03:43.347750+00:00", "openstates_url": "https://openstates.org/person/ileana-garcia-1o57rzopE4MZPBC9KeSgOt/"}, {"id": "ocd-person/5eb1ddc7-c88b-461d-9bd6-2e52e89133db", "name": "Janet Cruz", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "18", "division_id": "ocd-division/country:us/state:fl/sldu:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Janet", "family_name": "Cruz", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s18_5467.jpg", "email": "cruz.janet.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:56.768911+00:00", "updated_at": "2022-10-17T20:03:44.886866+00:00", "openstates_url": "https://openstates.org/person/janet-cruz-2sgYxXaDwnPLTG0t2MV9WF/"}, {"id": "ocd-person/cd669d62-d957-4a41-b7e7-9fe2bd6a94ab", "name": "Jason Brodeur", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "9", "division_id": "ocd-division/country:us/state:fl/sldu:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Jason", "family_name": "Brodeur", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s09_5077.jpg", "email": "brodeur.jason.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:12.620071+00:00", "updated_at": "2022-10-17T20:03:42.750319+00:00", "openstates_url": "https://openstates.org/person/jason-brodeur-6FaJyEjO2ZiTr6bd1LtfLv/"}, {"id": "ocd-person/882dc3ef-f5f4-450d-8fc7-0af7faec0d6f", "name": "Jason W. B. Pizzo", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "38", "division_id": "ocd-division/country:us/state:fl/sldu:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s38_5345.jpg", "email": "pizzo.jason.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-24T06:05:14.586942+00:00", "updated_at": "2022-10-17T20:03:44.073924+00:00", "openstates_url": "https://openstates.org/person/jason-w-b-pizzo-48xs1IxE3CVbVmfgKs5u3T/"}, {"id": "ocd-person/deeb44d6-dc41-48e7-a472-10cc12f03539", "name": "Jeff Brandes", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "24", "division_id": "ocd-division/country:us/state:fl/sldu:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Jeff", "family_name": "Brandes", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s24_5095.jpg", "email": "brandes.jeff.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:38.559801+00:00", "updated_at": "2022-10-17T20:03:40.637375+00:00", "openstates_url": "https://openstates.org/person/jeff-brandes-6mdoW0ziSZ9a6YeKDGzr7x/"}, {"id": "ocd-person/4fa3d065-c48d-46a7-9dca-ab85fad5c5f8", "name": "Jennifer Bradley", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "5", "division_id": "ocd-division/country:us/state:fl/sldu:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Jennifer", "family_name": "Bradley", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s05_5476.jpg", "email": "bradley.jennifer.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:11.890837+00:00", "updated_at": "2022-10-17T20:03:46.174304+00:00", "openstates_url": "https://openstates.org/person/jennifer-bradley-2QHFw9OGtUVO9AfWFpRXtg/"}, {"id": "ocd-person/c70f231f-92e2-4a55-a59b-fcf113ab51af", "name": "Jim Boyd", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "21", "division_id": "ocd-division/country:us/state:fl/sldu:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Jim", "family_name": "Boyd", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s21_5070.jpg", "email": "boyd.jim.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:07.777233+00:00", "updated_at": "2022-10-17T20:03:41.967118+00:00", "openstates_url": "https://openstates.org/person/jim-boyd-63cOECH7MgZlRcSzSXGKfX/"}, {"id": "ocd-person/24b4458a-bc61-42f8-805a-6bc43edf6acb", "name": "Joe Gruters", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "23", "division_id": "ocd-division/country:us/state:fl/sldu:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Joe", "family_name": "Gruters", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s23_5347.jpg", "email": "gruters.joe.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:04.762381+00:00", "updated_at": "2022-10-17T20:03:43.997129+00:00", "openstates_url": "https://openstates.org/person/joe-gruters-17G6hhytr2DEQSHHaiJ3Dn/"}, {"id": "ocd-person/ae123d54-1076-49b2-84f9-2897b7d60ebd", "name": "Kathleen Passidomo", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "28", "division_id": "ocd-division/country:us/state:fl/sldu:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Kathleen", "family_name": "Passidomo", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s28_5196.jpg", "email": "passidomo.kathleen.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:34.200917+00:00", "updated_at": "2022-10-17T20:03:41.647768+00:00", "openstates_url": "https://openstates.org/person/kathleen-passidomo-5IT01XGHDxww7A7YX8NcQn/"}, {"id": "ocd-person/5700b358-60e2-4058-91c3-18e14656d40c", "name": "Keith Perry", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "8", "division_id": "ocd-division/country:us/state:fl/sldu:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Keith", "family_name": "Perry", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s08_5200.jpg", "email": "perry.keith.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:08.500392+00:00", "updated_at": "2022-10-17T20:03:40.516833+00:00", "openstates_url": "https://openstates.org/person/keith-perry-2eAeSckwQvICSLo1QJzs7w/"}, {"id": "ocd-person/ad685327-7771-4e24-9b68-40f6a71182b9", "name": "Kelli Stargel", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "22", "division_id": "ocd-division/country:us/state:fl/sldu:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Kelli", "family_name": "Stargel", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s22_5105.jpg", "email": "stargel.kelli.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:07.562872+00:00", "updated_at": "2022-10-17T20:03:44.190134+00:00", "openstates_url": "https://openstates.org/person/kelli-stargel-5HDLe73hr8BZAnOCHEy4eP/"}, {"id": "ocd-person/565546dd-d03e-4062-85a4-ff095ad98c3b", "name": "Lauren Book", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "32", "division_id": "ocd-division/country:us/state:fl/sldu:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Lauren", "family_name": "Book", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s32_5189.jpg", "email": "book.lauren.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:30.254573+00:00", "updated_at": "2022-10-17T20:03:44.450042+00:00", "openstates_url": "https://openstates.org/person/lauren-book-2cuJKJljKaAQcPnzmofO5D/"}, {"id": "ocd-person/ece5c5bd-6ac1-4800-bd2b-1f1ab4a707e7", "name": "Linda Stewart", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "13", "division_id": "ocd-division/country:us/state:fl/sldu:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Linda", "family_name": "Stewart", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s13_5205.jpg", "email": "stewart.linda.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:25.233832+00:00", "updated_at": "2022-10-17T20:03:46.211173+00:00", "openstates_url": "https://openstates.org/person/linda-stewart-7D1C7LLWHnYPm6NdvN8yqF/"}, {"id": "ocd-person/75504e96-973f-4ae4-a5f5-89ef9b69de7a", "name": "Loranne Ausley", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "3", "division_id": "ocd-division/country:us/state:fl/sldu:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Loranne", "family_name": "Ausley", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s03_4663.jpg", "email": "ausley.loranne.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:12.876084+00:00", "updated_at": "2022-10-17T20:03:44.601771+00:00", "openstates_url": "https://openstates.org/person/loranne-ausley-3ZMnlOWGpWUYxeCcnssQbC/"}, {"id": "ocd-person/762d321c-5bbe-4513-b9f0-7e3d8a6972f5", "name": "Lori Berman", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "31", "division_id": "ocd-division/country:us/state:fl/sldu:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Lori", "family_name": "Berman", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s31_5339.jpg", "email": "berman.lori.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:59.442498+00:00", "updated_at": "2022-10-17T20:03:41.296453+00:00", "openstates_url": "https://openstates.org/person/lori-berman-3azkRWxa3076oE1tREvrsL/"}, {"id": "ocd-person/f876d4a8-eb53-43de-886c-07a10a63b9d6", "name": "Randolph Bracy", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "11", "division_id": "ocd-division/country:us/state:fl/sldu:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Randolph", "family_name": "Bracy", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s11_5193.jpg", "email": "bracy.randolph.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:36.313493+00:00", "updated_at": "2022-10-17T20:03:44.323292+00:00", "openstates_url": "https://openstates.org/person/randolph-bracy-7YqOyeW2he4EsPYS4W8VGw/"}, {"id": "ocd-person/e7abf8d0-2c63-4fdc-848b-eb1ce643eb85", "name": "Ray Wesley Rodrigues", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "27", "division_id": "ocd-division/country:us/state:fl/sldu:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Ray", "family_name": "Rodrigues", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s27_5437.jpg", "email": "rodrigues.ray.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:03.436936+00:00", "updated_at": "2022-10-17T20:03:40.827610+00:00", "openstates_url": "https://openstates.org/person/ray-wesley-rodrigues-739olwVqsc47roX2wopNBt/"}, {"id": "ocd-person/ba43e456-b4d3-408d-aeba-d4b7482dacd0", "name": "Rosalind Osgood", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "33", "division_id": "ocd-division/country:us/state:fl/sldu:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Rosalind", "family_name": "Osgood", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s33_5520.jpg", "email": "osgood.rosalind.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-03-21T19:08:44.873878+00:00", "updated_at": "2022-10-17T20:03:46.316756+00:00", "openstates_url": "https://openstates.org/person/rosalind-osgood-5fTbAZwr7ZPaDWda2Fney0/"}, {"id": "ocd-person/a8a2eaa4-449b-441f-96bb-d8a3e8191479", "name": "Shevrin D. \"Shev\" Jones", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "35", "division_id": "ocd-division/country:us/state:fl/sldu:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Shevrin", "family_name": "Jones", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s35_5453.jpg", "email": "jones.shevrin.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:52.194881+00:00", "updated_at": "2022-10-17T20:03:41.730317+00:00", "openstates_url": "https://openstates.org/person/shevrin-d-shev-jones-58DAAT6UKYBnGzIOckqwTB/"}, {"id": "ocd-person/f0abfae1-3634-4595-9260-d90fea4ccffa", "name": "Tina Scott Polsky", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "29", "division_id": "ocd-division/country:us/state:fl/sldu:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s29_5371.jpg", "email": "polsky.tina.web@flsenate.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-13T00:05:05.839040+00:00", "updated_at": "2022-10-17T20:03:43.874051+00:00", "openstates_url": "https://openstates.org/person/tina-scott-polsky-7K8kifUYMLAIfPTMiHVqu2/"}, {"id": "ocd-person/4ae2bacf-d265-42a5-888d-5050015a6602", "name": "Tom A. Wright", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "14", "division_id": "ocd-division/country:us/state:fl/sldu:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s14_5346.jpg", "email": "wright.tom.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-24T06:05:16.585300+00:00", "updated_at": "2022-10-17T20:03:43.158912+00:00", "openstates_url": "https://openstates.org/person/tom-a-wright-2HJ2yPkqYpQ7yrdtpMozDu/"}, {"id": "ocd-person/ab530396-3077-4806-acfe-5203a4109a23", "name": "Travis Hutson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "7", "division_id": "ocd-division/country:us/state:fl/sldu:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Travis", "family_name": "Hutson", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s07_5186.jpg", "email": "hutson.travis.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:39:10.168471+00:00", "updated_at": "2022-10-17T20:03:45.448634+00:00", "openstates_url": "https://openstates.org/person/travis-hutson-5DHcm7wG9vzmTjhRvs1pr9/"}, {"id": "ocd-person/a2009599-2f38-4f53-adac-466e2fa172ab", "name": "Victor M. Torres, Jr.", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "15", "division_id": "ocd-division/country:us/state:fl/sldu:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Victor", "family_name": "Torres", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s15_5206.jpg", "email": "torres.victor.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:39.460016+00:00", "updated_at": "2022-10-17T20:03:43.650656+00:00", "openstates_url": "https://openstates.org/person/victor-m-torres-jr-4vh1UMnWhhoZEqrQ0NZTvH/"}, {"id": "ocd-person/a3a79bb4-b7ac-4edf-bd12-7ff37b2117b0", "name": "Wilton Simpson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "10", "division_id": "ocd-division/country:us/state:fl/sldu:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:fl/government", "name": "Florida", "classification": "state"}, "given_name": "Wilton", "family_name": "Simpson", "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s10_5104.jpg", "email": "simpson.wilton.web@flsenate.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:38:40.681585+00:00", "updated_at": "2022-10-17T20:03:44.931530+00:00", "openstates_url": "https://openstates.org/person/wilton-simpson-4yoLTq3RIvvoltNyQTBgLw/"}]
+[
+  {
+    "id": "ocd-person/ed150829-99d1-497e-bc0b-91bf4e06c5e7",
+    "name": "Aaron Bean",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "4",
+      "division_id": "ocd-division/country:us/state:fl/sldu:4"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Aaron",
+    "family_name": "Bean",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s04_5094.jpg",
+    "email": "bean.aaron.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:29.922985+00:00",
+    "updated_at": "2022-10-17T20:03:45.617216+00:00",
+    "openstates_url": "https://openstates.org/person/aaron-bean-7DMnAeW8iVIQHm8uIxCwf1/"
+  },
+  {
+    "id": "ocd-person/c4c4b831-6a8a-4819-afe4-063decb1273c",
+    "name": "Ana Maria Rodriguez",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "39",
+      "division_id": "ocd-division/country:us/state:fl/sldu:39"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s39_5379.jpg",
+    "email": "rodriguez.anamaria.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:09.294758+00:00",
+    "updated_at": "2022-10-17T20:03:43.005725+00:00",
+    "openstates_url": "https://openstates.org/person/ana-maria-rodriguez-5zIOceuueuRa6Ad4rdDgya/"
+  },
+  {
+    "id": "ocd-person/ea190b03-d1ca-4d75-89c7-dca745386db7",
+    "name": "Annette Taddeo",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "40",
+      "division_id": "ocd-division/country:us/state:fl/sldu:40"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Annette",
+    "family_name": "Taddeo",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s40_5331.jpg",
+    "email": "taddeo.annette.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:00.172829+00:00",
+    "updated_at": "2022-10-17T20:03:42.897614+00:00",
+    "openstates_url": "https://openstates.org/person/annette-taddeo-77jeFYyMVC4gDBFWLQWQml/"
+  },
+  {
+    "id": "ocd-person/96e8b5c1-6c40-4072-a9d0-f6b979bf013b",
+    "name": "Audrey Gibson",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "6",
+      "division_id": "ocd-division/country:us/state:fl/sldu:6"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Audrey",
+    "family_name": "Gibson",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s06_4765.jpg",
+    "email": "gibson.audrey.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:09.841289+00:00",
+    "updated_at": "2022-10-17T20:03:45.288804+00:00",
+    "openstates_url": "https://openstates.org/person/audrey-gibson-4alCGN1GbIuCAxiZJLw0YV/"
+  },
+  {
+    "id": "ocd-person/5c81dfe7-1cec-45e8-8044-6d9cd324f2e8",
+    "name": "Ben Albritton",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "26",
+      "division_id": "ocd-division/country:us/state:fl/sldu:26"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Ben",
+    "family_name": "Albritton",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s26_5342.jpg",
+    "email": "albritton.ben.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:06.954565+00:00",
+    "updated_at": "2022-10-17T20:03:41.926451+00:00",
+    "openstates_url": "https://openstates.org/person/ben-albritton-2oYe6sKJPblPg3Sf9T4gpM/"
+  },
+  {
+    "id": "ocd-person/efe6dfff-38e5-4a7f-822e-8cb4cfba7e71",
+    "name": "Bobby Powell",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "30",
+      "division_id": "ocd-division/country:us/state:fl/sldu:30"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Bobby",
+    "family_name": "Powell",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s30_5201.jpg",
+    "email": "powell.bobby.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:39.768617+00:00",
+    "updated_at": "2022-10-17T20:03:45.914617+00:00",
+    "openstates_url": "https://openstates.org/person/bobby-powell-7Igfvkd7dPtZxiussdPyXR/"
+  },
+  {
+    "id": "ocd-person/55815523-33b5-4d42-9864-28e00b805e68",
+    "name": "Danny Burgess",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "20",
+      "division_id": "ocd-division/country:us/state:fl/sldu:20"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Danny",
+    "family_name": "Burgess",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s20_5169.jpg",
+    "email": "burgess.danny.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:06.218402+00:00",
+    "updated_at": "2022-10-17T20:03:40.319248+00:00",
+    "openstates_url": "https://openstates.org/person/danny-burgess-2bLS56xFBKYZMuvEBQPHdw/"
+  },
+  {
+    "id": "ocd-person/3de11937-c291-4561-bee5-4f747665cb37",
+    "name": "Darryl Ervin Rouson",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "19",
+      "division_id": "ocd-division/country:us/state:fl/sldu:19"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Darryl Ervin",
+    "family_name": "Rouson",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s19_5203.jpg",
+    "email": "rouson.darryl.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:32.802234+00:00",
+    "updated_at": "2022-10-17T20:03:40.555530+00:00",
+    "openstates_url": "https://openstates.org/person/darryl-ervin-rouson-1slOwFmQ6yxQgbgmXjEgYJ/"
+  },
+  {
+    "id": "ocd-person/a41e2c13-be68-4af3-8229-3c657b8d980d",
+    "name": "Debbie Mayfield",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "17",
+      "division_id": "ocd-division/country:us/state:fl/sldu:17"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Debbie",
+    "family_name": "Mayfield",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s17_5199.jpg",
+    "email": "mayfield.debbie.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:59.789050+00:00",
+    "updated_at": "2022-10-17T20:03:46.061457+00:00",
+    "openstates_url": "https://openstates.org/person/debbie-mayfield-4zgWsezdPc3r0ENoQoWUFJ/"
+  },
+  {
+    "id": "ocd-person/8da77b3a-e4d7-4b04-80bd-403d1e56ff6c",
+    "name": "Dennis Baxley",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "12",
+      "division_id": "ocd-division/country:us/state:fl/sldu:12"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Dennis",
+    "family_name": "Baxley",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s12_5192.jpg",
+    "email": "baxley.dennis.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:41.224674+00:00",
+    "updated_at": "2022-10-17T20:03:42.207199+00:00",
+    "openstates_url": "https://openstates.org/person/dennis-baxley-4JISLsKjzWUnwIydfRW604/"
+  },
+  {
+    "id": "ocd-person/684ec9bf-65e9-4e43-850d-01ea9569d224",
+    "name": "Doug Broxson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "1",
+      "division_id": "ocd-division/country:us/state:fl/sldu:1"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Doug",
+    "family_name": "Broxson",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s01_5194.jpg",
+    "email": "broxson.doug.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:57.522926+00:00",
+    "updated_at": "2022-10-17T20:03:44.560486+00:00",
+    "openstates_url": "https://openstates.org/person/doug-broxson-3ApCuXmzHUqUnrxbDNo8CS/"
+  },
+  {
+    "id": "ocd-person/0e375630-02a4-4e59-ac80-869f9a199b2a",
+    "name": "Ed Hooper",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "16",
+      "division_id": "ocd-division/country:us/state:fl/sldu:16"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Ed",
+    "family_name": "Hooper",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s16_5344.jpg",
+    "email": "hooper.ed.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-24T06:05:05.689222+00:00",
+    "updated_at": "2022-10-17T20:03:43.916437+00:00",
+    "openstates_url": "https://openstates.org/person/ed-hooper-QpBFi8I4RRmoNiCwCkxD8/"
+  },
+  {
+    "id": "ocd-person/2580df40-6ce8-48fc-a9ad-6bb93bb85016",
+    "name": "Gary M. Farmer, Jr.",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "34",
+      "division_id": "ocd-division/country:us/state:fl/sldu:34"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Gary M",
+    "family_name": "Farmer",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s34_5198.jpg",
+    "email": "farmer.gary.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:53.606616+00:00",
+    "updated_at": "2022-10-17T20:03:45.989848+00:00",
+    "openstates_url": "https://openstates.org/person/gary-m-farmer-jr-18lbrvGjYm3uHRybFFgrY6/"
+  },
+  {
+    "id": "ocd-person/cd3ba8e7-7c51-444b-bff3-e0c29de30660",
+    "name": "Gayle Harrell",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "25",
+      "division_id": "ocd-division/country:us/state:fl/sldu:25"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Gayle",
+    "family_name": "Harrell",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s25_5348.jpg",
+    "email": "harrell.gayle.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-24T06:05:12.275879+00:00",
+    "updated_at": "2022-10-17T20:03:43.423434+00:00",
+    "openstates_url": "https://openstates.org/person/gayle-harrell-6FGgscXTUI7qUuaNqrNWKm/"
+  },
+  {
+    "id": "ocd-person/f38a27f3-a3c4-4614-a8ae-6b6048e97dab",
+    "name": "George B. Gainer",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "2",
+      "division_id": "ocd-division/country:us/state:fl/sldu:2"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "George B.",
+    "family_name": "Gainer",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s02_5190.jpg",
+    "email": "gainer.george.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:55.287703+00:00",
+    "updated_at": "2022-10-17T20:03:43.534273+00:00",
+    "openstates_url": "https://openstates.org/person/george-b-gainer-7PYGvEeE1j3UXfU5f4PBON/"
+  },
+  {
+    "id": "ocd-person/3b65ecb0-8a3d-469c-9db4-b70c8724610f",
+    "name": "Ileana Garcia",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "37",
+      "division_id": "ocd-division/country:us/state:fl/sldu:37"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Ileana",
+    "family_name": "Garcia",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s37_5515.jpg",
+    "email": "garcia.ileana.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:11.016414+00:00",
+    "updated_at": "2022-10-17T20:03:43.347750+00:00",
+    "openstates_url": "https://openstates.org/person/ileana-garcia-1o57rzopE4MZPBC9KeSgOt/"
+  },
+  {
+    "id": "ocd-person/5eb1ddc7-c88b-461d-9bd6-2e52e89133db",
+    "name": "Janet Cruz",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "18",
+      "division_id": "ocd-division/country:us/state:fl/sldu:18"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Janet",
+    "family_name": "Cruz",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s18_5467.jpg",
+    "email": "cruz.janet.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:56.768911+00:00",
+    "updated_at": "2022-10-17T20:03:44.886866+00:00",
+    "openstates_url": "https://openstates.org/person/janet-cruz-2sgYxXaDwnPLTG0t2MV9WF/"
+  },
+  {
+    "id": "ocd-person/cd669d62-d957-4a41-b7e7-9fe2bd6a94ab",
+    "name": "Jason Brodeur",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "9",
+      "division_id": "ocd-division/country:us/state:fl/sldu:9"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Jason",
+    "family_name": "Brodeur",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s09_5077.jpg",
+    "email": "brodeur.jason.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:12.620071+00:00",
+    "updated_at": "2022-10-17T20:03:42.750319+00:00",
+    "openstates_url": "https://openstates.org/person/jason-brodeur-6FaJyEjO2ZiTr6bd1LtfLv/"
+  },
+  {
+    "id": "ocd-person/882dc3ef-f5f4-450d-8fc7-0af7faec0d6f",
+    "name": "Jason W. B. Pizzo",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "38",
+      "division_id": "ocd-division/country:us/state:fl/sldu:38"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s38_5345.jpg",
+    "email": "pizzo.jason.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-24T06:05:14.586942+00:00",
+    "updated_at": "2022-10-17T20:03:44.073924+00:00",
+    "openstates_url": "https://openstates.org/person/jason-w-b-pizzo-48xs1IxE3CVbVmfgKs5u3T/"
+  },
+  {
+    "id": "ocd-person/deeb44d6-dc41-48e7-a472-10cc12f03539",
+    "name": "Jeff Brandes",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "24",
+      "division_id": "ocd-division/country:us/state:fl/sldu:24"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Jeff",
+    "family_name": "Brandes",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s24_5095.jpg",
+    "email": "brandes.jeff.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:38.559801+00:00",
+    "updated_at": "2022-10-17T20:03:40.637375+00:00",
+    "openstates_url": "https://openstates.org/person/jeff-brandes-6mdoW0ziSZ9a6YeKDGzr7x/"
+  },
+  {
+    "id": "ocd-person/4fa3d065-c48d-46a7-9dca-ab85fad5c5f8",
+    "name": "Jennifer Bradley",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "5",
+      "division_id": "ocd-division/country:us/state:fl/sldu:5"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Jennifer",
+    "family_name": "Bradley",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s05_5476.jpg",
+    "email": "bradley.jennifer.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:11.890837+00:00",
+    "updated_at": "2022-10-17T20:03:46.174304+00:00",
+    "openstates_url": "https://openstates.org/person/jennifer-bradley-2QHFw9OGtUVO9AfWFpRXtg/"
+  },
+  {
+    "id": "ocd-person/c70f231f-92e2-4a55-a59b-fcf113ab51af",
+    "name": "Jim Boyd",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "21",
+      "division_id": "ocd-division/country:us/state:fl/sldu:21"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Jim",
+    "family_name": "Boyd",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s21_5070.jpg",
+    "email": "boyd.jim.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:07.777233+00:00",
+    "updated_at": "2022-10-17T20:03:41.967118+00:00",
+    "openstates_url": "https://openstates.org/person/jim-boyd-63cOECH7MgZlRcSzSXGKfX/"
+  },
+  {
+    "id": "ocd-person/24b4458a-bc61-42f8-805a-6bc43edf6acb",
+    "name": "Joe Gruters",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "23",
+      "division_id": "ocd-division/country:us/state:fl/sldu:23"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Joe",
+    "family_name": "Gruters",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s23_5347.jpg",
+    "email": "gruters.joe.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:04.762381+00:00",
+    "updated_at": "2022-10-17T20:03:43.997129+00:00",
+    "openstates_url": "https://openstates.org/person/joe-gruters-17G6hhytr2DEQSHHaiJ3Dn/"
+  },
+  {
+    "id": "ocd-person/ae123d54-1076-49b2-84f9-2897b7d60ebd",
+    "name": "Kathleen Passidomo",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "28",
+      "division_id": "ocd-division/country:us/state:fl/sldu:28"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Kathleen",
+    "family_name": "Passidomo",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s28_5196.jpg",
+    "email": "passidomo.kathleen.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:34.200917+00:00",
+    "updated_at": "2022-10-17T20:03:41.647768+00:00",
+    "openstates_url": "https://openstates.org/person/kathleen-passidomo-5IT01XGHDxww7A7YX8NcQn/"
+  },
+  {
+    "id": "ocd-person/5700b358-60e2-4058-91c3-18e14656d40c",
+    "name": "Keith Perry",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "8",
+      "division_id": "ocd-division/country:us/state:fl/sldu:8"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Keith",
+    "family_name": "Perry",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s08_5200.jpg",
+    "email": "perry.keith.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:08.500392+00:00",
+    "updated_at": "2022-10-17T20:03:40.516833+00:00",
+    "openstates_url": "https://openstates.org/person/keith-perry-2eAeSckwQvICSLo1QJzs7w/"
+  },
+  {
+    "id": "ocd-person/ad685327-7771-4e24-9b68-40f6a71182b9",
+    "name": "Kelli Stargel",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "22",
+      "division_id": "ocd-division/country:us/state:fl/sldu:22"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Kelli",
+    "family_name": "Stargel",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s22_5105.jpg",
+    "email": "stargel.kelli.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:07.562872+00:00",
+    "updated_at": "2022-10-17T20:03:44.190134+00:00",
+    "openstates_url": "https://openstates.org/person/kelli-stargel-5HDLe73hr8BZAnOCHEy4eP/"
+  },
+  {
+    "id": "ocd-person/565546dd-d03e-4062-85a4-ff095ad98c3b",
+    "name": "Lauren Book",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "32",
+      "division_id": "ocd-division/country:us/state:fl/sldu:32"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Lauren",
+    "family_name": "Book",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s32_5189.jpg",
+    "email": "book.lauren.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:30.254573+00:00",
+    "updated_at": "2022-10-17T20:03:44.450042+00:00",
+    "openstates_url": "https://openstates.org/person/lauren-book-2cuJKJljKaAQcPnzmofO5D/"
+  },
+  {
+    "id": "ocd-person/ece5c5bd-6ac1-4800-bd2b-1f1ab4a707e7",
+    "name": "Linda Stewart",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "13",
+      "division_id": "ocd-division/country:us/state:fl/sldu:13"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Linda",
+    "family_name": "Stewart",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s13_5205.jpg",
+    "email": "stewart.linda.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:25.233832+00:00",
+    "updated_at": "2022-10-17T20:03:46.211173+00:00",
+    "openstates_url": "https://openstates.org/person/linda-stewart-7D1C7LLWHnYPm6NdvN8yqF/"
+  },
+  {
+    "id": "ocd-person/75504e96-973f-4ae4-a5f5-89ef9b69de7a",
+    "name": "Loranne Ausley",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "3",
+      "division_id": "ocd-division/country:us/state:fl/sldu:3"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Loranne",
+    "family_name": "Ausley",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s03_4663.jpg",
+    "email": "ausley.loranne.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:12.876084+00:00",
+    "updated_at": "2022-10-17T20:03:44.601771+00:00",
+    "openstates_url": "https://openstates.org/person/loranne-ausley-3ZMnlOWGpWUYxeCcnssQbC/"
+  },
+  {
+    "id": "ocd-person/762d321c-5bbe-4513-b9f0-7e3d8a6972f5",
+    "name": "Lori Berman",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "31",
+      "division_id": "ocd-division/country:us/state:fl/sldu:31"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Lori",
+    "family_name": "Berman",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s31_5339.jpg",
+    "email": "berman.lori.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:59.442498+00:00",
+    "updated_at": "2022-10-17T20:03:41.296453+00:00",
+    "openstates_url": "https://openstates.org/person/lori-berman-3azkRWxa3076oE1tREvrsL/"
+  },
+  {
+    "id": "ocd-person/f876d4a8-eb53-43de-886c-07a10a63b9d6",
+    "name": "Randolph Bracy",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "11",
+      "division_id": "ocd-division/country:us/state:fl/sldu:11"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Randolph",
+    "family_name": "Bracy",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s11_5193.jpg",
+    "email": "bracy.randolph.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:36.313493+00:00",
+    "updated_at": "2022-10-17T20:03:44.323292+00:00",
+    "openstates_url": "https://openstates.org/person/randolph-bracy-7YqOyeW2he4EsPYS4W8VGw/"
+  },
+  {
+    "id": "ocd-person/e7abf8d0-2c63-4fdc-848b-eb1ce643eb85",
+    "name": "Ray Wesley Rodrigues",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "27",
+      "division_id": "ocd-division/country:us/state:fl/sldu:27"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Ray",
+    "family_name": "Rodrigues",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s27_5437.jpg",
+    "email": "rodrigues.ray.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:03.436936+00:00",
+    "updated_at": "2022-10-17T20:03:40.827610+00:00",
+    "openstates_url": "https://openstates.org/person/ray-wesley-rodrigues-739olwVqsc47roX2wopNBt/"
+  },
+  {
+    "id": "ocd-person/ba43e456-b4d3-408d-aeba-d4b7482dacd0",
+    "name": "Rosalind Osgood",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "33",
+      "division_id": "ocd-division/country:us/state:fl/sldu:33"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Rosalind",
+    "family_name": "Osgood",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s33_5520.jpg",
+    "email": "osgood.rosalind.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2022-03-21T19:08:44.873878+00:00",
+    "updated_at": "2022-10-17T20:03:46.316756+00:00",
+    "openstates_url": "https://openstates.org/person/rosalind-osgood-5fTbAZwr7ZPaDWda2Fney0/"
+  },
+  {
+    "id": "ocd-person/a8a2eaa4-449b-441f-96bb-d8a3e8191479",
+    "name": "Shevrin D. \"Shev\" Jones",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "35",
+      "division_id": "ocd-division/country:us/state:fl/sldu:35"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Shevrin",
+    "family_name": "Jones",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s35_5453.jpg",
+    "email": "jones.shevrin.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:52.194881+00:00",
+    "updated_at": "2022-10-17T20:03:41.730317+00:00",
+    "openstates_url": "https://openstates.org/person/shevrin-d-shev-jones-58DAAT6UKYBnGzIOckqwTB/"
+  },
+  {
+    "id": "ocd-person/f0abfae1-3634-4595-9260-d90fea4ccffa",
+    "name": "Tina Scott Polsky",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "29",
+      "division_id": "ocd-division/country:us/state:fl/sldu:29"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s29_5371.jpg",
+    "email": "polsky.tina.web@flsenate.gov",
+    "gender": "Female",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2021-01-13T00:05:05.839040+00:00",
+    "updated_at": "2022-10-17T20:03:43.874051+00:00",
+    "openstates_url": "https://openstates.org/person/tina-scott-polsky-7K8kifUYMLAIfPTMiHVqu2/"
+  },
+  {
+    "id": "ocd-person/4ae2bacf-d265-42a5-888d-5050015a6602",
+    "name": "Tom A. Wright",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "14",
+      "division_id": "ocd-division/country:us/state:fl/sldu:14"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "",
+    "family_name": "",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s14_5346.jpg",
+    "email": "wright.tom.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2019-01-24T06:05:16.585300+00:00",
+    "updated_at": "2022-10-17T20:03:43.158912+00:00",
+    "openstates_url": "https://openstates.org/person/tom-a-wright-2HJ2yPkqYpQ7yrdtpMozDu/"
+  },
+  {
+    "id": "ocd-person/ab530396-3077-4806-acfe-5203a4109a23",
+    "name": "Travis Hutson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "7",
+      "division_id": "ocd-division/country:us/state:fl/sldu:7"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Travis",
+    "family_name": "Hutson",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s07_5186.jpg",
+    "email": "hutson.travis.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:39:10.168471+00:00",
+    "updated_at": "2022-10-17T20:03:45.448634+00:00",
+    "openstates_url": "https://openstates.org/person/travis-hutson-5DHcm7wG9vzmTjhRvs1pr9/"
+  },
+  {
+    "id": "ocd-person/a2009599-2f38-4f53-adac-466e2fa172ab",
+    "name": "Victor M. Torres, Jr.",
+    "party": "Democratic",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "15",
+      "division_id": "ocd-division/country:us/state:fl/sldu:15"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Victor",
+    "family_name": "Torres",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s15_5206.jpg",
+    "email": "torres.victor.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:39.460016+00:00",
+    "updated_at": "2022-10-17T20:03:43.650656+00:00",
+    "openstates_url": "https://openstates.org/person/victor-m-torres-jr-4vh1UMnWhhoZEqrQ0NZTvH/"
+  },
+  {
+    "id": "ocd-person/a3a79bb4-b7ac-4edf-bd12-7ff37b2117b0",
+    "name": "Wilton Simpson",
+    "party": "Republican",
+    "current_role": {
+      "title": "Senator",
+      "org_classification": "upper",
+      "district": "10",
+      "division_id": "ocd-division/country:us/state:fl/sldu:10"
+    },
+    "jurisdiction": {
+      "id": "ocd-jurisdiction/country:us/state:fl/government",
+      "name": "Florida",
+      "classification": "state"
+    },
+    "given_name": "Wilton",
+    "family_name": "Simpson",
+    "image": "https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s10_5104.jpg",
+    "email": "simpson.wilton.web@flsenate.gov",
+    "gender": "Male",
+    "birth_date": "",
+    "death_date": "",
+    "extras": {},
+    "created_at": "2018-10-18T14:38:40.681585+00:00",
+    "updated_at": "2022-10-17T20:03:44.931530+00:00",
+    "openstates_url": "https://openstates.org/person/wilton-simpson-4yoLTq3RIvvoltNyQTBgLw/"
+  }
+]
