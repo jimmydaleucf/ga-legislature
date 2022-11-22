@@ -167,4 +167,7 @@
     background-color: #e3bb1c;
     align-items: right;
   }
+  main {
+    display: flex;
+  }
 </style>
