@@ -169,5 +169,7 @@
   }
   main {
     display: flex;
+    width: auto;
+    justify-content: center;
   }
 </style>

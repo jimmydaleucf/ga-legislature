@@ -54,18 +54,23 @@
     "Wisconsin",
     "Wyoming",
   ];
+
+  let stateListExperiment = ["California", "Florida", "Georgia"];
   let chamberList = ["upper", "lower"];
 </script>
 
 <main>
   <h1>Jimmy's Legislature Project</h1>
-  {#each stateList as state}
+  {#each stateListExperiment as state}
     <div class="state-container">
       <h2 class="state-name">{state}</h2>
       <div class="flex-container">
         {#if state != "Nebraska"}
           {#each chamberList as chamber}
-            <div class="bop-component"><BopBar {state} {chamber} /></div>
+            <div class="state-container spacer">
+              <LegMap {state} {chamber} />
+              <BopBar {state} {chamber} />
+            </div>
           {/each}
         {:else}
           <div class="bop-component">
@@ -82,23 +87,24 @@
     height: 100%;
   }
   .state-container {
-    flex-direction: column;
+    /* flex-direction: column;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
     justify-content: space-around;
     border-style: solid;
     border-color: black;
     padding: 15px;
     margin-top: 20px;
   }
+  .spacer {
+    width: 45%;
+  }
   .flex-container {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
   }
-  .bop-component {
-    width: 45%;
-  }
+
   .state-name {
     text-align: center;
     font-size: 40px;
