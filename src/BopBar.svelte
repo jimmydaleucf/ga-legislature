@@ -62,7 +62,10 @@
   {:else}
     <h2 class="bop-title">{chamberName}</h2>
   {/if}
+
   <div class="bar-container">
+    <div class="midpoint" />
+    <div class="midpoint">50%<br />|</div>
     <div id="{state}-{chamber}-bop" class="bop">
       {#if demSeats != 0}
         <div id="{state}-{chamber}-dem" class="dem">{demSeats}</div>{:else}{/if}
@@ -87,7 +90,9 @@
     border-color: black;
     border-style: solid;
     min-height: 20px;
-    margin: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -130,5 +135,10 @@
     background-color: grey;
     display: flex;
     justify-content: center;
+  }
+  .midpoint {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
   }
 </style>
