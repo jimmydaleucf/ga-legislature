@@ -11,7 +11,7 @@
   let stateString = state.replace(/\s/g, "_");
   //
   // onMount(() => {
-  fetch(`./assets/2012/${state}-${chamber}.svg`)
+  fetch(`./assets/2012/${stateString}-${chamber}.svg`)
     .then((res) => res.text())
     .then((res) => {
       svgMarkup = res;
@@ -31,7 +31,7 @@
         path.addEventListener("mouseout", mouseOut);
       }
       // svg.setAttribute("style", "max-height:500px");
-      svg.setAttribute("id", `${state}-${chamber}-map`);
+      svg.setAttribute("id", `${stateString}-${chamber}-map`);
       svgMarkup = map.innerHTML;
       getChamberInfo().then(getResults());
       console.log(stateString);
@@ -47,7 +47,9 @@
   }
 
   async function getResults() {
-    const res = await fetch(`./output/incumbents/${state}-${chamber}.json`);
+    const res = await fetch(
+      `./output/incumbents/${stateString}-${chamber}.json`
+    );
     const results = await res.json();
     // console.log(results);
     if (res.ok) {
@@ -86,8 +88,9 @@
     for (let i = 0; i < precinctData.length; i++) {
       let district = precinctData[i].current_role.district;
       let party = precinctData[i].party;
-      let map = document.getElementById(`${state}-${chamber}-map`);
+      let map = document.getElementById(`${stateString}-${chamber}-map`);
       const mapTarget = map.getElementById(`${district}`);
+      console.log(district + " " + party);
       // console.log(chamber + district + party);
       if (party == "Democratic") {
         mapTarget.style.fill = "#4165D2";
@@ -108,13 +111,13 @@
     const gopPercent = (gopCount / chamberSize) * 100;
     const thirdPercent = (thirdCount / chamberSize) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
     document.getElementById(
-      `${state}-${chamber}-dem`
+      `${stateString}-${chamber}-dem`
     ).style.width = `${demPercent}%`;
     document.getElementById(
-      `${state}-${chamber}-gop`
+      `${stateString}-${chamber}-gop`
     ).style.width = `${gopPercent}%`;
     document.getElementById(
-      `${state}-${chamber}-third`
+      `${stateString}-${chamber}-third`
     ).style.width = `${thirdPercent}%`;
   };
 </script>
@@ -126,14 +129,6 @@
       <div class="map">{@html svgMarkup}</div>
     {/if}
   </div>
-  <!-- <div id="{state}-{chamber}-bop" class="bop">
-    <div id="{state}-{chamber}-dem" class="dem" />
-    <div id="{state}-{chamber}-third" class="third" />
-    <div id="{state}-{chamber}-gop" class="gop" />
-  </div> -->
-  <!-- <Tooltip title="this is a greeting from component">
-    <h1>Hello world from component!</h1>
-  </Tooltip> -->
 </main>
 
 <style>
