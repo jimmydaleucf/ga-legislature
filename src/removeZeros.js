@@ -5,3 +5,9 @@ for (i = 0; i < paths.length; i++) {
   console.log(modId);
   paths[i].setAttribute("id", modId);
 }
+
+
+// MApshaper commands to remove leading zeros
+
+// ****  -each "new_field = parseFloat( DISTRICT )"
+// ****  -each "MDISTRICT = new_field"

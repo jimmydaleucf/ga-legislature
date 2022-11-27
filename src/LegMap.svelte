@@ -90,7 +90,7 @@
       let party = precinctData[i].party;
       let map = document.getElementById(`${stateString}-${chamber}-map`);
       const mapTarget = map.getElementById(`${district}`);
-      console.log(district + " " + party);
+      console.log(stateString + district + " " + party);
       // console.log(chamber + district + party);
       if (party == "Democratic") {
         mapTarget.style.fill = "#4165D2";

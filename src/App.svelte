@@ -56,6 +56,7 @@
   ];
 
   let stateListExperiment = ["California", "Florida", "Georgia", "New York"];
+
   let chamberList = ["upper", "lower"];
 </script>
 
