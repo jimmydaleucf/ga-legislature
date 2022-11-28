@@ -119,8 +119,9 @@
     justify-content: center;
   }
   .bar-container {
-    border-style: solid;
-    border-color: black;
+    /* border-style: solid;
+    border-color: black; */
+    /* border-width: 2px; */
   }
   .third {
     height: 20px;

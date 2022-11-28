@@ -62,19 +62,19 @@
 
 <main>
   <h1>Jimmy's Legislature Project</h1>
-  {#each stateListExperiment as state}
+  {#each stateList as state}
     <div class="state-container">
       <h2 class="state-name">{state}</h2>
       <div class="flex-container">
         {#if state != "Nebraska"}
           {#each chamberList as chamber}
             <div class="state-container spacer">
-              <LegMap {state} {chamber} />
+              <!-- <LegMap {state} {chamber} /> -->
               <BopBar {state} {chamber} />
             </div>
           {/each}
         {:else}
-          <div class="bop-component">
+          <div class="bop-component nebraska">
             <BopBar {state} chamber="legislature" />
           </div>
         {/if}
@@ -88,17 +88,19 @@
     height: 100%;
   }
   .state-container {
-    /* flex-direction: column;
-    display: flex;
-    flex-wrap: wrap; */
     justify-content: space-around;
     border-style: solid;
     border-color: black;
+    border-width: 2px;
     padding: 15px;
     margin-top: 20px;
   }
   .spacer {
     width: 45%;
+    border-style: none;
+  }
+  .nebraska {
+    width: 100%;
   }
   .flex-container {
     display: flex;
@@ -108,7 +110,20 @@
 
   .state-name {
     text-align: center;
-    font-size: 40px;
-    margin: 0px;
+    font-size: 30px;
+    margin-bottom: 0px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .flex-container {
+      flex-direction: column;
+      padding: 5px;
+    }
+    .spacer {
+      width: 100%;
+    }
+    .state-container {
+      padding: 0;
+    }
   }
 </style>
