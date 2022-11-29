@@ -136,7 +136,7 @@
     width: 35%;
   }
 
-  .active {
+  /* .active {
     border-color: white;
   }
   .bop {
@@ -161,7 +161,7 @@
     height: 20px;
     background-color: #e3bb1c;
     align-items: right;
-  }
+  } */
   main {
     display: flex;
     width: auto;

@@ -1,3 +1,8 @@
+# This file creates a rollup of the total members of each chamber in each state and compiles it into a single file.
+# It does not have to be run more than once as the total number of seats in a legilsative body do not change.  If any
+# state were to change the number of seats in one of their chambers, simply running this once would update this rollup. 
+
+
 import requests
 import json
 
