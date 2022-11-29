@@ -9,6 +9,7 @@
   let otherSeats;
   let totalIncumbents;
   let vacantSeats;
+  let totalSeats;
 
   async function getChamberInfo() {
     const res = await fetch(`./output/bopRollup.json`);
@@ -25,7 +26,7 @@
         ({ classification }) => classification === `${chamber}`
       );
       chamberName = organization.org;
-      const totalSeats = organization.totalSeats;
+      totalSeats = organization.totalSeats;
       demSeats = organization.dem;
       gopSeats = organization.gop;
       otherSeats = organization.other;
@@ -58,7 +59,9 @@
 
 <main>
   {#if state != "Nebraska"}
-    <h2 class="bop-title">{chamberName}</h2>
+    <h2 class="bop-title">
+      {chamberName}
+    </h2>
   {:else}
     <h2 class="bop-title">{chamberName}</h2>
   {/if}
@@ -79,6 +82,7 @@
           {gopSeats}
         </div>{:else}{/if}
     </div>
+    <div class="footnote"><span>(Total Seats {totalSeats})</span></div>
   </div>
 </main>
 
@@ -90,7 +94,7 @@
     border-color: black;
     border-style: solid;
     min-height: 20px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     margin-right: 20px;
     margin-left: 20px;
     display: flex;
@@ -109,6 +113,11 @@
     background-color: #4165d2;
     display: flex;
     justify-content: center;
+  }
+  .footnote {
+    font-size: 0.75em;
+    text-align: center;
+    padding: 5px;
   }
   .gop {
     color: white;
