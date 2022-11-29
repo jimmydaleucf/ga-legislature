@@ -1,7 +1,11 @@
+# This file generates a list of incumbents for each chamber in each state. 
+
 def getIncumbents(apiKey, stateList):
     import requests
     import json
     import time
+    import datetime
+
     path = './public/output/incumbents/'
     
     mainList = []
@@ -36,15 +40,15 @@ def getIncumbents(apiKey, stateList):
                 if page_count > 1:
                     pageNum = f'page={z+2}'
                     secondaryUrl= f'{baseURL}{state}&org_classification={chamber}&page=1&per_page=50{apiKey}&{pageNum}'
-                    # print(secondaryUrl)
                     response = requests.get(secondaryUrl).json()
-                    # print(response)
                     personList = response['results']
                     mainList = mainList + personList
                 else:
                     pass
+            now = datetime.datetime.now()
+            newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'incumbents': mainList}
             with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
-                json.dump(mainList, json_file)
-            print(f'/n  *** Condragulations, your file {state}-{chamber} has been updated! ***  /n')
+                json.dump(newJson, json_file)
+            print(f'✅ Condragulations, your file {state}-{chamber} has been updated! ***  \n')
             mainList=[]
 
