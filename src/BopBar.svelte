@@ -118,11 +118,11 @@
     display: flex;
     justify-content: center;
   }
-  .bar-container {
-    /* border-style: solid;
+  /* .bar-container { */
+  /* border-style: solid;
     border-color: black; */
-    /* border-width: 2px; */
-  }
+  /* border-width: 2px; */
+  /* } */
   .third {
     height: 20px;
     font-weight: bold;

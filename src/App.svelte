@@ -99,6 +99,7 @@
     width: 45%;
     border-style: none;
   }
+
   .nebraska {
     width: 100%;
   }
@@ -124,6 +125,9 @@
     }
     .state-container {
       padding: 0;
+    }
+    .state-container .spacer {
+      margin-top: 0;
     }
   }
 </style>
