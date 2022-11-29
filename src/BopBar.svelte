@@ -118,6 +118,9 @@
     display: flex;
     justify-content: center;
   }
+  h2 {
+    font-size: 1.2em;
+  }
   /* .bar-container { */
   /* border-style: solid;
     border-color: black; */

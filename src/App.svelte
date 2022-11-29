@@ -62,25 +62,27 @@
 
 <main>
   <h1>Jimmy's Legislature Project</h1>
-  {#each stateList as state}
-    <div class="state-container">
-      <h2 class="state-name">{state}</h2>
-      <div class="flex-container">
-        {#if state != "Nebraska"}
-          {#each chamberList as chamber}
-            <div class="state-container spacer">
-              <!-- <LegMap {state} {chamber} /> -->
-              <BopBar {state} {chamber} />
+  <div class="flexy-thing">
+    {#each stateList as state}
+      <div class="state-container">
+        <h2 class="state-name">{state}</h2>
+        <div class="flex-container">
+          {#if state != "Nebraska"}
+            {#each chamberList as chamber}
+              <div class="state-container spacer">
+                <!-- <LegMap {state} {chamber} /> -->
+                <BopBar {state} {chamber} />
+              </div>
+            {/each}
+          {:else}
+            <div class="bop-component nebraska">
+              <BopBar {state} chamber="legislature" />
             </div>
-          {/each}
-        {:else}
-          <div class="bop-component nebraska">
-            <BopBar {state} chamber="legislature" />
-          </div>
-        {/if}
+          {/if}
+        </div>
       </div>
-    </div>
-  {/each}
+    {/each}
+  </div>
 </main>
 
 <style>
@@ -92,12 +94,19 @@
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    padding: 15px;
+    /* padding: 15px; */
     margin-top: 20px;
+    min-width: 45%;
   }
   .spacer {
     width: 45%;
     border-style: none;
+  }
+
+  .flexy-thing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
   }
 
   .nebraska {
@@ -105,10 +114,13 @@
   }
   .flex-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
   }
-
+  .state-container .spacer {
+    width: 100%;
+    margin-top: 0;
+  }
   .state-name {
     text-align: center;
     font-size: 30px;
@@ -125,6 +137,8 @@
     }
     .state-container {
       padding: 0;
+      flex-direction: row;
+      width: 100%;
     }
     .state-container .spacer {
       margin-top: 0;
