@@ -18,7 +18,7 @@
     const stateName = `${state}`;
     if (res.ok) {
       //   debugger;
-      chamberData = results;
+      chamberData = results.states;
       const targetState = chamberData.find(
         ({ state }) => state === `${stateName}`
       );
