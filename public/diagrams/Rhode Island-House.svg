@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="360" height="185">
+    <!-- Created with the Wikimedia parliament diagram creator (http://parliamentdiagram.toolforge.org/parliamentinputform.html) -->
+    <g>
+        <text x="175" y="175" 
+              style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:sans-serif">
+            75
+        </text>
+        <g style="fill:#4165d2; stroke-width:0.00; stroke:#000000" 
+           id="0_Democrat"> 
+            <title>b'Democrat'</title>            <circle cx="15.19" cy="172.01" r="8.00"/> 
+            <circle cx="35.22" cy="172.01" r="8.00"/> 
+            <circle cx="55.26" cy="172.01" r="8.00"/> 
+            <circle cx="75.30" cy="172.02" r="8.00"/> 
+            <circle cx="95.38" cy="172.02" r="8.00"/> 
+            <circle cx="18.58" cy="145.81" r="8.00"/> 
+            <circle cx="39.32" cy="144.89" r="8.00"/> 
+            <circle cx="59.84" cy="145.55" r="8.00"/> 
+            <circle cx="80.50" cy="146.45" r="8.00"/> 
+            <circle cx="26.10" cy="120.49" r="8.00"/> 
+            <circle cx="102.46" cy="145.17" r="8.00"/> 
+            <circle cx="48.45" cy="119.02" r="8.00"/> 
+            <circle cx="69.97" cy="120.68" r="8.00"/> 
+            <circle cx="37.57" cy="96.70" r="8.00"/> 
+            <circle cx="91.85" cy="122.96" r="8.00"/> 
+            <circle cx="62.28" cy="95.34" r="8.00"/> 
+            <circle cx="52.69" cy="75.04" r="8.00"/> 
+            <circle cx="85.18" cy="98.54" r="8.00"/> 
+            <circle cx="117.83" cy="122.04" r="8.00"/> 
+            <circle cx="80.34" cy="74.68" r="8.00"/> 
+            <circle cx="108.63" cy="102.98" r="8.00"/> 
+            <circle cx="71.06" cy="56.07" r="8.00"/> 
+            <circle cx="104.77" cy="80.17" r="8.00"/> 
+            <circle cx="101.95" cy="57.80" r="8.00"/> 
+            <circle cx="92.23" cy="40.28" r="8.00"/> 
+            <circle cx="129.82" cy="87.76" r="8.00"/> 
+            <circle cx="139.83" cy="105.09" r="8.00"/> 
+            <circle cx="127.83" cy="66.41" r="8.00"/> 
+            <circle cx="115.65" cy="28.06" r="8.00"/> 
+            <circle cx="126.36" cy="45.29" r="8.00"/> 
+            <circle cx="154.11" cy="78.24" r="8.00"/> 
+            <circle cx="140.72" cy="19.74" r="8.00"/> 
+            <circle cx="153.30" cy="57.88" r="8.00"/> 
+            <circle cx="152.69" cy="37.59" r="8.00"/> 
+            <circle cx="166.11" cy="96.14" r="8.00"/> 
+            <circle cx="166.79" cy="15.53" r="8.00"/> 
+            <circle cx="180.00" cy="35.00" r="8.00"/> 
+            <circle cx="180.00" cy="55.00" r="8.00"/> 
+            <circle cx="180.00" cy="75.00" r="8.00"/> 
+            <circle cx="193.21" cy="15.53" r="8.00"/> 
+            <circle cx="193.89" cy="96.14" r="8.00"/> 
+            <circle cx="207.31" cy="37.59" r="8.00"/> 
+            <circle cx="206.70" cy="57.88" r="8.00"/> 
+            <circle cx="219.28" cy="19.74" r="8.00"/> 
+            <circle cx="205.89" cy="78.24" r="8.00"/> 
+            <circle cx="233.64" cy="45.29" r="8.00"/> 
+            <circle cx="244.35" cy="28.06" r="8.00"/> 
+            <circle cx="232.17" cy="66.41" r="8.00"/> 
+            <circle cx="220.17" cy="105.09" r="8.00"/> 
+            <circle cx="230.18" cy="87.76" r="8.00"/> 
+            <circle cx="267.77" cy="40.28" r="8.00"/> 
+            <circle cx="258.05" cy="57.80" r="8.00"/> 
+            <circle cx="255.23" cy="80.17" r="8.00"/> 
+            <circle cx="288.94" cy="56.07" r="8.00"/> 
+            <circle cx="251.37" cy="102.98" r="8.00"/> 
+            <circle cx="279.66" cy="74.68" r="8.00"/> 
+            <circle cx="242.17" cy="122.04" r="8.00"/> 
+            <circle cx="274.82" cy="98.54" r="8.00"/> 
+            <circle cx="307.31" cy="75.04" r="8.00"/> 
+            <circle cx="297.72" cy="95.34" r="8.00"/> 
+            <circle cx="268.15" cy="122.96" r="8.00"/> 
+            <circle cx="322.43" cy="96.70" r="8.00"/> 
+            <circle cx="290.03" cy="120.68" r="8.00"/> 
+            <circle cx="311.55" cy="119.02" r="8.00"/> 
+            <circle cx="257.54" cy="145.17" r="8.00"/> 
+        </g>
+        <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
+           id="1_Other"> 
+            <title>b'Other'</title>        </g>
+        <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
+           id="2_Republican"> 
+            <title>b'Republican'</title>            <circle cx="333.90" cy="120.49" r="8.00"/> 
+            <circle cx="279.50" cy="146.45" r="8.00"/> 
+            <circle cx="300.16" cy="145.55" r="8.00"/> 
+            <circle cx="320.68" cy="144.89" r="8.00"/> 
+            <circle cx="341.42" cy="145.81" r="8.00"/> 
+            <circle cx="264.62" cy="172.02" r="8.00"/> 
+            <circle cx="284.70" cy="172.02" r="8.00"/> 
+            <circle cx="304.74" cy="172.01" r="8.00"/> 
+            <circle cx="324.78" cy="172.01" r="8.00"/> 
+            <circle cx="344.81" cy="172.01" r="8.00"/> 
+        </g>
+    </g>
+</svg>
