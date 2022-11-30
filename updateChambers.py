@@ -17,7 +17,7 @@ for x in range(len(states)):
     for y in range(len(stateOrgs)):
         chamberName = stateOrgs[y]['org']
         chamberTotal =stateOrgs[y]['totalSeats']
-        filename = f'{stateName}-{chamberName}.svg'
+        filename = f'{stateName}-{chamberName}-diagram.svg'
         dem = stateOrgs[y]['dem']
         gop = stateOrgs[y]['gop']
         other = stateOrgs[y]['other']
@@ -47,7 +47,6 @@ for x in range(len(states)):
             ],
             'denser_rows': False
         }
-        print(input_list)
         chamberGenerator.chamberGenerator(input_list, filename)
 
 

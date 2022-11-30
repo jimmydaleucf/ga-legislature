@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="360" height="185">
+    <!-- Created with the Wikimedia parliament diagram creator (http://parliamentdiagram.toolforge.org/parliamentinputform.html) -->
+    <g>
+        <text x="175" y="175" 
+              style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:sans-serif">
+            40
+        </text>
+        <g style="fill:#4165d2; stroke-width:0.00; stroke:#000000" 
+           id="0_Democrat"> 
+            <title>b'Democrat'</title>            <circle cx="17.81" cy="170.01" r="10.00"/> 
+            <circle cx="42.86" cy="170.02" r="10.00"/> 
+            <circle cx="67.94" cy="170.03" r="10.00"/> 
+            <circle cx="93.07" cy="170.04" r="10.00"/> 
+            <circle cx="25.40" cy="129.96" r="10.00"/> 
+            <circle cx="51.92" cy="129.98" r="10.00"/> 
+            <circle cx="79.16" cy="130.13" r="10.00"/> 
+            <circle cx="42.72" cy="93.05" r="10.00"/> 
+            <circle cx="107.76" cy="130.62" r="10.00"/> 
+            <circle cx="72.39" cy="94.41" r="10.00"/> 
+            <circle cx="68.68" cy="61.62" r="10.00"/> 
+            <circle cx="104.06" cy="97.00" r="10.00"/> 
+            <circle cx="102.45" cy="66.46" r="10.00"/> 
+            <circle cx="101.65" cy="37.63" r="10.00"/> 
+            <circle cx="139.16" cy="102.61" r="10.00"/> 
+            <circle cx="139.27" cy="75.13" r="10.00"/> 
+            <circle cx="139.42" cy="48.63" r="10.00"/> 
+            <circle cx="139.55" cy="22.61" r="10.00"/> 
+            <circle cx="180.00" cy="17.50" r="10.00"/> 
+            <circle cx="180.00" cy="42.50" r="10.00"/> 
+            <circle cx="180.00" cy="67.50" r="10.00"/> 
+            <circle cx="180.00" cy="92.50" r="10.00"/> 
+            <circle cx="220.45" cy="22.61" r="10.00"/> 
+            <circle cx="220.58" cy="48.63" r="10.00"/> 
+            <circle cx="220.73" cy="75.13" r="10.00"/> 
+            <circle cx="220.84" cy="102.61" r="10.00"/> 
+            <circle cx="258.35" cy="37.63" r="10.00"/> 
+            <circle cx="257.55" cy="66.46" r="10.00"/> 
+            <circle cx="255.94" cy="97.00" r="10.00"/> 
+            <circle cx="291.32" cy="61.62" r="10.00"/> 
+            <circle cx="287.61" cy="94.41" r="10.00"/> 
+        </g>
+        <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
+           id="1_Other"> 
+            <title>b'Other'</title>        </g>
+        <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
+           id="2_Republican"> 
+            <title>b'Republican'</title>            <circle cx="252.24" cy="130.62" r="10.00"/> 
+            <circle cx="317.28" cy="93.05" r="10.00"/> 
+            <circle cx="280.84" cy="130.13" r="10.00"/> 
+            <circle cx="308.08" cy="129.98" r="10.00"/> 
+            <circle cx="334.60" cy="129.96" r="10.00"/> 
+            <circle cx="266.93" cy="170.04" r="10.00"/> 
+            <circle cx="292.06" cy="170.03" r="10.00"/> 
+            <circle cx="317.14" cy="170.02" r="10.00"/> 
+            <circle cx="342.19" cy="170.01" r="10.00"/> 
+        </g>
+    </g>
+</svg>
