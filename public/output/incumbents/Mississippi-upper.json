@@ -1,1 +1,1842 @@
-{"timestamp": "11-29-2022 15:48:04", "incumbents": [{"id": "ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d", "name": "Albert Butler", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "36", "division_id": "ocd-division/country:us/state:ms/sldu:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Albert", "family_name": "Butler", "image": "http://billstatus.ls.state.ms.us/members/senate/butler_(36th).jpg", "email": "abutler@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(601)683-6695", "education": ["Alcorn State University", "Jackson State University", "University of Arkansas at Conway"], "occupation": "Academic Manager Mississippi Job Corp", "other phone": "(601)415-1182", "counties represented": ["Claiborne", "Copiah", "Hinds", "Jefferson"]}, "created_at": "2018-10-18T14:50:56.664059+00:00", "updated_at": "2021-12-16T18:58:47.321255+00:00", "openstates_url": "https://openstates.org/person/albert-butler-5qRCsUx2H0hCdJxoyJW3ZN/"}, {"id": "ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4", "name": "Angela Burks Hill", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "40", "division_id": "ocd-division/country:us/state:ms/sldu:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Angela Burks", "family_name": "Hill", "image": "http://billstatus.ls.state.ms.us/members/senate/hill.jpg", "email": "ahill@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Southern Mississippi", "Pearl River Community College", "Picayune Memorial High School"], "occupation": "former Science Teacher", "counties represented": ["Marion", "Pearl River"]}, "created_at": "2018-10-18T14:51:03.129937+00:00", "updated_at": "2021-12-16T18:58:46.682669+00:00", "openstates_url": "https://openstates.org/person/angela-burks-hill-1wnhrlzhrOrQJTZTD7OmCy/"}, {"id": "ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf", "name": "Angela Turner-Ford", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "16", "division_id": "ocd-division/country:us/state:ms/sldu:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Angela", "family_name": "Turner-Ford", "image": "http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg", "email": "aturner@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(662)494-4814", "education": ["Hampton University", "Howard University", "Mississippi State University", "The University of Alabama at Birmingham", "The University of Mississippi"], "occupation": "Attorney", "other phone": "(662)494-6611", "counties represented": ["Clay", "Lowndes", "Noxubee", "Oktibbeha"]}, "created_at": "2018-10-18T14:51:12.441651+00:00", "updated_at": "2021-12-16T18:58:44.666446+00:00", "openstates_url": "https://openstates.org/person/angela-turner-ford-3YQWcvpBtkwWBWCLcJtwjP/"}, {"id": "ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631", "name": "Barbara Blackmon", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "21", "division_id": "ocd-division/country:us/state:ms/sldu:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Barbara", "family_name": "Blackmon", "image": "http://billstatus.ls.state.ms.us/members/senate/blackmon.jpg", "email": "bblackmon@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Jackson State University, B.S. Business Administration", "University of Alabama M.B.A.", "University of Mississippi, Juris Doctorate", "New York University, L.L.M. (Taxation)"], "occupation": "Attorney", "counties represented": ["Attala", "Holmes", "Leake", "Madison", "Yazoo"]}, "created_at": "2018-10-18T14:51:16.257978+00:00", "updated_at": "2021-12-16T18:58:53.192915+00:00", "openstates_url": "https://openstates.org/person/barbara-blackmon-1neJ0x8sMUkudyWysYfTZh/"}, {"id": "ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40", "name": "Bart Williams", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "15", "division_id": "ocd-division/country:us/state:ms/sldu:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Bart", "family_name": "Williams", "image": "http://billstatus.ls.state.ms.us/members/senate/williams.jpg", "email": "bwilliams@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Harding Academy; Memphis, TN", "Mississippi State University"], "occupation": "Owner, Security Solutions and Communications, Inc", "counties represented": ["Choctaw", "Montgomery", "Oktibbeha", "Webster"]}, "created_at": "2020-12-19T06:11:17.577936+00:00", "updated_at": "2021-12-16T18:58:43.353949+00:00", "openstates_url": "https://openstates.org/person/bart-williams-2u0rVrw301Uq1BAJVkEZI8/"}, {"id": "ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1", "name": "Benjamin Suber", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "8", "division_id": "ocd-division/country:us/state:ms/sldu:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Benjamin", "family_name": "Suber", "image": "http://billstatus.ls.state.ms.us/members/senate/suber.jpg", "email": "BSuber@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(662)983-3030", "education": ["Manila High School - Manila, AR", "Arkansas State University", "Mississippi State University", "Mississippi College School of Law"], "other phone": "(662)983-3000", "counties represented": ["Calhoun", "Chickasaw", "Lee", "Pontotoc", "Yalobusha"]}, "created_at": "2020-03-06T06:12:53.363810+00:00", "updated_at": "2021-12-16T18:59:00.678399+00:00", "openstates_url": "https://openstates.org/person/benjamin-suber-5f7GF2MKvN3I733ENeqoin/"}, {"id": "ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d", "name": "Brice Wiggins", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "52", "division_id": "ocd-division/country:us/state:ms/sldu:52"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Brice", "family_name": "Wiggins", "image": "http://billstatus.ls.state.ms.us/members/senate/wiggins.jpg", "email": "bwiggins@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(601)510-9378", "education": ["Tulane University", "Mississippi College School of Law", "Pascagoula High School"], "occupation": "Attorney", "other phone": "(228)324-3141", "counties represented": ["Jackson"]}, "created_at": "2018-10-18T14:51:15.936916+00:00", "updated_at": "2021-12-16T18:59:01.528797+00:00", "openstates_url": "https://openstates.org/person/brice-wiggins-3q3GyL46lJQZbMtctJl5VV/"}, {"id": "ocd-person/17a5d5bb-d52b-4d53-a6a0-bcaa7c5538d7", "name": "Chad McMahan", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "6", "division_id": "ocd-division/country:us/state:ms/sldu:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Chad", "family_name": "McMahan", "image": "http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg", "email": "cmcmahan@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Tupelo High School", "Union University"], "occupation": "Sales Representative/ Public Servant", "counties represented": ["Itawamba", "Lee"]}, "created_at": "2018-10-18T14:51:06.635514+00:00", "updated_at": "2021-12-16T18:58:55.270431+00:00", "openstates_url": "https://openstates.org/person/chad-mcmahan-icbpuxDtRZZvYK0QDJe11/"}, {"id": "ocd-person/ac7730d2-cf3b-44e4-aa6c-5f4dfd0d32e1", "name": "Chris Caughman", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "35", "division_id": "ocd-division/country:us/state:ms/sldu:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Chris", "family_name": "Caughman", "image": "http://billstatus.ls.state.ms.us/members/senate/caughman.jpg", "email": "ccaughman@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Simpson Academy", "Copiah Lincoln Jr College", "Belhaven University, BA"], "occupation": "Senior Vice President, People's Bank in Mendenhall.", "counties represented": ["Copiah", "Rankin", "Simpson"]}, "created_at": "2018-10-18T14:50:54.889310+00:00", "updated_at": "2021-12-16T18:58:44.345074+00:00", "openstates_url": "https://openstates.org/person/chris-caughman-5FR9KidFDISHaqCQAIazmD/"}, {"id": "ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9", "name": "Chris Johnson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "45", "division_id": "ocd-division/country:us/state:ms/sldu:45"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Chris", "family_name": "Johnson", "image": "http://billstatus.ls.state.ms.us/members/senate/johnson.jpg", "email": "chjohnson@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Southern MS, B.S.", "Pearl River C.C.", "Forrest County Agricultural H.S."], "occupation": "Business Owner", "other phone": "(601)270-1314", "counties represented": ["Forrest", "Perry"]}, "created_at": "2018-10-18T14:51:03.457876+00:00", "updated_at": "2021-12-16T18:58:53.997955+00:00", "openstates_url": "https://openstates.org/person/chris-johnson-yyn8D373QgHKurIFvyksj/"}, {"id": "ocd-person/4871dab1-570b-48ac-be4f-fd523c5c24fd", "name": "Chris McDaniel", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "42", "division_id": "ocd-division/country:us/state:ms/sldu:42"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Chris", "family_name": "McDaniel", "image": "http://billstatus.ls.state.ms.us/members/senate/mcdaniel.jpg", "email": "cmcdaniel@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(601)649-6062", "education": ["Jones County Junior College", "William Carey University", "University of Mississippi School of Law"], "occupation": "Attorney, Partner of Hortman, Harlow, Bassi, Robinson and McDaniel, PLLC.", "other phone": "(601)649-8611", "counties represented": ["Forrest", "Jones"]}, "created_at": "2018-10-18T14:51:00.338319+00:00", "updated_at": "2021-12-16T18:58:56.905621+00:00", "openstates_url": "https://openstates.org/person/chris-mcdaniel-2ChThcMVPvkHKbDNwLzz6j/"}, {"id": "ocd-person/c22d208a-59c7-4e90-bbe0-37b953a00b41", "name": "Chuck Younger", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "17", "division_id": "ocd-division/country:us/state:ms/sldu:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Chuck", "family_name": "Younger", "image": "http://billstatus.ls.state.ms.us/members/senate/younger.jpg", "email": "cyounger@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Heritage Academy", "East Mississippi Community College", "Mississippi State University"], "occupation": "Farmer/Rancher", "counties represented": ["Lowndes", "Monroe"]}, "created_at": "2018-10-18T14:51:02.013892+00:00", "updated_at": "2021-12-16T18:58:51.098514+00:00", "openstates_url": "https://openstates.org/person/chuck-younger-5uP8LKqpbx3dtRLaecZjBR/"}, {"id": "ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e", "name": "Daniel H. Sparks", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "5", "division_id": "ocd-division/country:us/state:ms/sldu:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "", "family_name": "Sparks", "image": "http://billstatus.ls.state.ms.us/members/senate/sparks.jpg", "email": "DSparks@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Belmont High School", "Northeast Mississippi Community College", "University of Mississippi"], "occupation": "Attorney", "other phone1": "(662)660-9800", "other phone2": "(662)234-4600", "counties represented": ["Itawamba", "Prentiss", "Tishomingo"]}, "created_at": "2020-03-06T06:12:51.522825+00:00", "updated_at": "2021-12-16T18:58:40.436024+00:00", "openstates_url": "https://openstates.org/person/daniel-h-sparks-1WVKCqUi3kwNMG8sPwUQjW/"}, {"id": "ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518", "name": "David Blount", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "29", "division_id": "ocd-division/country:us/state:ms/sldu:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "David", "family_name": "Blount", "image": "http://billstatus.ls.state.ms.us/members/senate/blount.jpg", "email": "dblount@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Davidson College", "University of Virginia"], "occupation": "Commercial Real Estate Broker", "counties represented": ["Hinds"]}, "created_at": "2018-10-18T14:51:09.145649+00:00", "updated_at": "2021-12-16T18:58:46.365080+00:00", "openstates_url": "https://openstates.org/person/david-blount-674z1u4OKIcmbZfFW8zyQ4/"}, {"id": "ocd-person/f2f61e1d-8d34-40c7-95ff-fb08cd2a4f75", "name": "David Jordan", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "24", "division_id": "ocd-division/country:us/state:ms/sldu:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "David", "family_name": "Jordan", "image": "http://billstatus.ls.state.ms.us/members/senate/jordan.jpg", "email": "djordan@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Mississippi Valley State University", "University of Wyoming"], "occupation": "Greenwood City Councilman", "other phone": "(662)453-2246", "counties represented": ["Grenada", "Holmes", "Humphreys", "Leflore", "Tallahatchie"]}, "created_at": "2018-10-18T14:51:04.805270+00:00", "updated_at": "2021-12-16T18:58:57.418501+00:00", "openstates_url": "https://openstates.org/person/david-jordan-7OScOE6NmoPpG6vcf2k6S5/"}, {"id": "ocd-person/18630d08-6afc-4892-ac2f-e13f0d9932f6", "name": "David Parker", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "2", "division_id": "ocd-division/country:us/state:ms/sldu:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "David", "family_name": "Parker", "image": "http://billstatus.ls.state.ms.us/members/senate/parker.jpg", "email": "dparker@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(662)893-3301", "education": ["Christian Brothers University, Memphis, TN", "Southern College of Optometry, Memphis, TN"], "occupation": "Optometrist", "other phone": "(662)893-3300", "counties represented": ["DeSoto"]}, "created_at": "2018-10-18T14:51:00.521158+00:00", "updated_at": "2021-12-16T18:58:44.137462+00:00", "openstates_url": "https://openstates.org/person/david-parker-k15684og1MhBJeluMevby/"}, {"id": "ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb", "name": "Dean Kirby", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "30", "division_id": "ocd-division/country:us/state:ms/sldu:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Dean", "family_name": "Kirby", "image": "http://billstatus.ls.state.ms.us/members/senate/kirby.jpg", "email": "dkirby@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "President Pro Tempore", "education": ["Mississippi College"], "occupation": "Insurance", "counties represented": ["Rankin"]}, "created_at": "2018-10-18T14:51:03.291559+00:00", "updated_at": "2021-12-16T18:58:49.566382+00:00", "openstates_url": "https://openstates.org/person/dean-kirby-6N1DXzxf3ghyZVh5MKJP2p/"}, {"id": "ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b", "name": "Dennis DeBar, Jr.", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "43", "division_id": "ocd-division/country:us/state:ms/sldu:43"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Dennis", "family_name": "DeBar", "image": "http://billstatus.ls.state.ms.us/members/senate/debar.jpg", "email": "ddebar@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["MS College School of Law JD", "Univ. of Central Florida,  BS"], "occupation": "Attorney", "other phone": "(601)394-4400", "counties represented": ["George", "Greene", "Wayne"]}, "created_at": "2018-10-18T14:51:11.478200+00:00", "updated_at": "2021-12-16T18:58:47.770504+00:00", "openstates_url": "https://openstates.org/person/dennis-debar-jr-4GJsn7eGWLcnh3o4hZunQx/"}, {"id": "ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f", "name": "Derrick T. Simmons", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "12", "division_id": "ocd-division/country:us/state:ms/sldu:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Derrick T.", "family_name": "Simmons", "image": "http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg", "email": "dsimmons@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Howard Law School, J.D.", "Howard Business School, M.B.A.", "Jackson State University, B.B.A."], "other phone": "(662)334-1666", "counties represented": ["Bolivar", "Coahoma", "Washington"]}, "created_at": "2018-10-18T14:50:58.518570+00:00", "updated_at": "2021-12-16T18:59:02.172886+00:00", "openstates_url": "https://openstates.org/person/derrick-t-simmons-1uBQxHTKaycjhYRb8dJQhr/"}, {"id": "ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b", "name": "Hillman Terome Frazier", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "27", "division_id": "ocd-division/country:us/state:ms/sldu:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Hillman Terome", "family_name": "Frazier", "image": "http://billstatus.ls.state.ms.us/members/senate/frazier.jpg", "email": "hfrazier@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Jackson State University", "George Washington University", "National Law Center", "Hinds Community College", "Harvard University's John F. Kennedy School of Government"], "occupation": "Consultant", "other phone": "(601)359-5957", "counties represented": ["Hinds"]}, "created_at": "2018-10-18T14:50:55.684352+00:00", "updated_at": "2021-12-16T18:59:03.350562+00:00", "openstates_url": "https://openstates.org/person/hillman-terome-frazier-4SFJMieQl58KdqdCgOANEx/"}, {"id": "ocd-person/717de4df-c8b0-4387-a767-4d37b577f370", "name": "Hob Bryan", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "7", "division_id": "ocd-division/country:us/state:ms/sldu:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Hob", "family_name": "Bryan", "image": "http://billstatus.ls.state.ms.us/members/senate/bryan.jpg", "email": "", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Mississippi State University", "The University of Virginia"], "occupation": "Attorney", "other phone": "(662)256-9601", "counties represented": ["Itawamba", "Lee", "Monroe"]}, "created_at": "2018-10-18T14:51:13.858238+00:00", "updated_at": "2021-12-16T18:58:58.448381+00:00", "openstates_url": "https://openstates.org/person/hob-bryan-3S9fKk2ecxaBqaDuMo2z6u/"}, {"id": "ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3", "name": "J. Walter Michel", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "25", "division_id": "ocd-division/country:us/state:ms/sldu:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "J. Walter", "family_name": "Michel", "image": "http://billstatus.ls.state.ms.us/members/senate/michel.jpg", "email": "wmichel@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Jackson Prep.", "The University of Mississippi"], "occupation": "Commercial Real Estate", "counties represented": ["Hinds", "Madison"]}, "created_at": "2018-10-18T14:51:08.989325+00:00", "updated_at": "2021-12-16T18:59:04.424076+00:00", "openstates_url": "https://openstates.org/person/j-walter-michel-2yUuQAa1LZV82bL7V4RVMR/"}, {"id": "ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31", "name": "Jason Barrett", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "39", "division_id": "ocd-division/country:us/state:ms/sldu:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Jason", "family_name": "Barrett", "image": "http://billstatus.ls.state.ms.us/members/senate/barrett.jpg", "email": "jbarrett@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Thomas County Central High School", "University of Georgia", "Mississippi College School of Law"], "occupation": "Attorney", "other phone": "(601)833-1177", "counties represented": ["Copiah", "Lawrence", "Lincoln", "Walthall"]}, "created_at": "2020-12-19T06:11:17.896547+00:00", "updated_at": "2021-12-16T18:58:50.333462+00:00", "openstates_url": "https://openstates.org/person/jason-barrett-62McpmPSccWjRpQtVVeFxR/"}, {"id": "ocd-person/9839c663-7ae3-4437-82d8-c985975309d8", "name": "Jeff Tate", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "33", "division_id": "ocd-division/country:us/state:ms/sldu:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Jeff", "family_name": "Tate", "image": "http://billstatus.ls.state.ms.us/members/senate/tate.jpg", "email": "JTate@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"occupation": "Self-Employeed", "counties represented": ["Clarke", "Lauderdale"]}, "created_at": "2020-03-06T06:12:47.419116+00:00", "updated_at": "2021-12-16T18:58:48.898621+00:00", "openstates_url": "https://openstates.org/person/jeff-tate-4dFEgl9JKBtfvbIovYanua/"}, {"id": "ocd-person/629badc7-5b63-4aae-b19f-d754dbe12e49", "name": "Jenifer B. Branning", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "18", "division_id": "ocd-division/country:us/state:ms/sldu:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Jenifer B.", "family_name": "Branning", "image": "http://billstatus.ls.state.ms.us/members/senate/branning.jpg", "email": "jbranning@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Leake Academy;", "MS State University; BA in Business Administration, attended MBA program", "MS College School of Law, Juris Doctor 2004"], "counties represented": ["Leake", "Neshoba", "Winston"]}, "created_at": "2018-10-18T14:51:13.386838+00:00", "updated_at": "2021-12-16T18:58:42.969535+00:00", "openstates_url": "https://openstates.org/person/jenifer-b-branning-304OOTu09AARxet3mIL3If/"}, {"id": "ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab", "name": "Jeremy England", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "51", "division_id": "ocd-division/country:us/state:ms/sldu:51"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Jeremy", "family_name": "England", "image": "http://billstatus.ls.state.ms.us/members/senate/england.jpg", "email": "JEngland@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Pascagoula High School", "Mississippi State University", "University of Mississippi School of Law"], "occupation": "Senior Attorney", "other phone": "(228)219-1180", "counties represented": ["Jackson"]}, "created_at": "2020-03-06T06:12:54.637465+00:00", "updated_at": "2021-12-16T18:59:00.095177+00:00", "openstates_url": "https://openstates.org/person/jeremy-england-1a7RYwzXu7QVXj2mqzksrT/"}, {"id": "ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f", "name": "Joel R.Carter, Jr.", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "49", "division_id": "ocd-division/country:us/state:ms/sldu:49"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Joel", "family_name": "Carter", "image": "http://billstatus.ls.state.ms.us/members/senate/carter.jpg", "email": "jcarter@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Gulfport High School", "University of Southern Mississippi - Hattiesburg"], "occupation": "Real Estate Broker", "other phone": "(228)731-3881", "counties represented": ["Harrison"]}, "created_at": "2018-10-18T14:51:17.741386+00:00", "updated_at": "2021-12-16T18:58:55.950441+00:00", "openstates_url": "https://openstates.org/person/joel-r-carter-jr-6DZVtol4H9U20ZFRqKlT15/"}, {"id": "ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e", "name": "Joey Fillingane", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "41", "division_id": "ocd-division/country:us/state:ms/sldu:41"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Joey", "family_name": "Fillingane", "image": "http://billstatus.ls.state.ms.us/members/senate/fillingane.jpg", "email": "jfillingane@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"fax": "(601)264-3323", "education": ["University of Southern Mississippi", "Mississippi College School Of Law"], "occupation": "Attorney", "other phone": "(601)264-3323", "counties represented": ["Covington", "Forrest", "Jefferson Davis", "Lamar", "Smith"]}, "created_at": "2018-10-18T14:51:05.296178+00:00", "updated_at": "2021-12-16T18:58:51.978261+00:00", "openstates_url": "https://openstates.org/person/joey-fillingane-5ipxw2pt10bMRBOreJkvpW/"}, {"id": "ocd-person/3594f477-2f29-4875-8352-eb8d01775a88", "name": "John A. Polk", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "44", "division_id": "ocd-division/country:us/state:ms/sldu:44"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "John A.", "family_name": "Polk", "image": "http://billstatus.ls.state.ms.us/members/senate/polk.jpg", "email": "jpolk@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Southern Mississippi", "Prentiss High School"], "occupation": "Business Executive", "other phone": "(601)467-5117", "counties represented": ["Lamar", "Pearl River"]}, "created_at": "2018-10-18T14:51:14.013381+00:00", "updated_at": "2021-12-16T18:58:59.814718+00:00", "openstates_url": "https://openstates.org/person/john-a-polk-1d6fHpiBzwnxkkE9WNf1js/"}, {"id": "ocd-person/b90d629d-9f8b-421a-88e3-9f72580cdd37", "name": "John Horhn", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "26", "division_id": "ocd-division/country:us/state:ms/sldu:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "John", "family_name": "Horhn", "image": "http://billstatus.ls.state.ms.us/members/senate/horhn.jpg", "email": "jhorhn@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Centre College of Kentucky", "Jackson State University", "Duke University"], "occupation": "Community Development Consultant; Motivational Speaker", "counties represented": ["Hinds", "Madison"]}, "created_at": "2018-10-18T14:51:16.586476+00:00", "updated_at": "2021-12-16T18:58:42.020890+00:00", "openstates_url": "https://openstates.org/person/john-horhn-5dBhFOfdpOCGCcY0agDoqV/"}, {"id": "ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6", "name": "Joseph M. Seymour", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "47", "division_id": "ocd-division/country:us/state:ms/sldu:47"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Joseph M.", "family_name": "Seymour", "image": "http://billstatus.ls.state.ms.us/members/senate/seymour.jpg", "email": "mseymour@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["St. Martin High School", "MGCCC, Attended"], "occupation": "Self-employed", "counties represented": ["Jackson", "Pearl River", "Stone"]}, "created_at": "2018-10-18T14:51:11.798102+00:00", "updated_at": "2021-12-16T18:58:50.009495+00:00", "openstates_url": "https://openstates.org/person/joseph-m-seymour-3QfYWWMvIaEnhF06LhFunW/"}, {"id": "ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06", "name": "Joseph Thomas", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "22", "division_id": "ocd-division/country:us/state:ms/sldu:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Joseph", "family_name": "Thomas", "image": "http://billstatus.ls.state.ms.us/members/senate/thomas.jpg", "email": "JThomas@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["N. D. Taylor High School", "Jackson State University"], "occupation": "Retired Vice President Regions Bank", "other phone": "(662)571-2987", "counties represented": ["Sunflower", "Humphreys", "Madison", "Sharkey", "Washington", "Yazoo"]}, "created_at": "2020-03-06T06:12:49.716080+00:00", "updated_at": "2021-12-16T18:58:46.162053+00:00", "openstates_url": "https://openstates.org/person/joseph-thomas-ZzaYQDSlnIi8pVBTyIAKs/"}, {"id": "ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a", "name": "Josh Harkins", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "20", "division_id": "ocd-division/country:us/state:ms/sldu:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Josh", "family_name": "Harkins", "image": "http://billstatus.ls.state.ms.us/members/senate/harkins.jpg", "email": "jharkins@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Mississippi State University"], "occupation": "Real Estate Brokerage", "other phone": "(601)209-8448", "counties represented": ["Rankin"]}, "created_at": "2018-10-18T14:51:09.466565+00:00", "updated_at": "2021-12-16T18:58:52.888987+00:00", "openstates_url": "https://openstates.org/person/josh-harkins-a10pRCoGJqLCG7MafORIo/"}, {"id": "ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb", "name": "Juan Barnett", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "34", "division_id": "ocd-division/country:us/state:ms/sldu:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Juan", "family_name": "Barnett", "image": "http://billstatus.ls.state.ms.us/members/senate/barnett.jpg", "email": "jtubb@house.ms.gov@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["K-12 Manhattan Academy", "BS Business Administration"], "occupation": "Commercial Realtor", "other phone": "(601)336-3660", "counties represented": ["Forrest", "Lamar"]}, "created_at": "2018-10-18T14:50:53.744979+00:00", "updated_at": "2021-12-16T18:58:48.747357+00:00", "openstates_url": "https://openstates.org/person/juan-barnett-7gq2QOcBf1BiBDGMxUDVFL/"}, {"id": "ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a", "name": "Kathy L. Chism", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "3", "division_id": "ocd-division/country:us/state:ms/sldu:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "", "family_name": "Chism", "image": "http://billstatus.ls.state.ms.us/members/senate/chism.jpg", "email": "KChism@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Myrtle High School", "Northeast Community College", "Itawamba Community College"], "occupation": "Realtor, Auctioneer, Business Owner", "counties represented": ["Benton", "Pontotoc", "Union"]}, "created_at": "2020-03-06T06:12:45.474318+00:00", "updated_at": "2021-12-16T18:58:48.092158+00:00", "openstates_url": "https://openstates.org/person/kathy-l-chism-6DquLcx3LS3UHD5lc06JUg/"}, {"id": "ocd-person/02de97f6-5b78-4211-9d7d-92d5a4c7375e", "name": "Kelvin Butler", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "38", "division_id": "ocd-division/country:us/state:ms/sldu:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Kelvin", "family_name": "Butler", "image": "http://billstatus.ls.state.ms.us/members/senate/butler_(38th).jpg", "email": "kbutler@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Mississippi Valley State University", "Meadow Draughon Business College, New Orleans, LA"], "occupation": "Retired", "counties represented": ["Adams", "Amite", "Pike", "Walthall", "Wilkinson"]}, "created_at": "2021-12-16T18:58:50.635037+00:00", "updated_at": "2021-12-16T18:58:50.814821+00:00", "openstates_url": "https://openstates.org/person/kelvin-butler-5Pi244VK8lHHxuhUnO6CE/"}, {"id": "ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c", "name": "Kevin Blackwell", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "19", "division_id": "ocd-division/country:us/state:ms/sldu:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Kevin", "family_name": "Blackwell", "image": "http://billstatus.ls.state.ms.us/members/senate/blackwell.jpg", "email": "kblackwell@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["San Diego Mesa College, AA", "National University, BBA (Health Service Management)", "Medical College of Virginia, MSHA (Health Administration)"], "counties represented": ["DeSoto", "Marshall"]}, "created_at": "2018-10-18T14:50:55.373994+00:00", "updated_at": "2021-12-16T18:58:53.648996+00:00", "openstates_url": "https://openstates.org/person/kevin-blackwell-5WZnBCN39sGMmc2bDHZfSu/"}, {"id": "ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59", "name": "Lydia Graves Chassaniol", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "14", "division_id": "ocd-division/country:us/state:ms/sldu:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Lydia Graves", "family_name": "Chassaniol", "image": "http://billstatus.ls.state.ms.us/members/senate/chassaniol.jpg", "email": "lchassaniol@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Winona High School", "University of Mississippi"], "occupation": "Restaurant Owner", "counties represented": ["Attala", "Carroll", "Grenada", "Leflore", "Montgomery", "Panola", "Tallahatchie", "Yalobusha"]}, "created_at": "2018-10-18T14:51:14.172045+00:00", "updated_at": "2021-12-16T18:59:04.002483+00:00", "openstates_url": "https://openstates.org/person/lydia-graves-chassaniol-HXfu54Xgup1wC5YSDikZt/"}, {"id": "ocd-person/e4145841-78f7-470c-bbc2-26ebd0af30f2", "name": "Melanie Sojourner", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "37", "division_id": "ocd-division/country:us/state:ms/sldu:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Melanie", "family_name": "Sojourner", "image": "http://billstatus.ls.state.ms.us/members/senate/sojourner.jpg", "email": "MSojourner@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Adams County Christian School", "Copiah-Lincoln Community College, A.A. Degree", "Louisiana State University, B. S. Degree"], "other phone": "(601)334-6729", "counties represented": ["Adams", "Amite", "Franklin", "Pike"]}, "created_at": "2020-03-06T06:12:51.421296+00:00", "updated_at": "2022-01-11T14:39:51.464953+00:00", "openstates_url": "https://openstates.org/person/melanie-sojourner-6wNXz0Y26IoGjkZO1TzLgg/"}, {"id": "ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55", "name": "Michael McLendon", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "1", "division_id": "ocd-division/country:us/state:ms/sldu:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Michael", "family_name": "McLendon", "image": "http://billstatus.ls.state.ms.us/members/senate/mclendon.jpg", "email": "MMcLendon@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Oakhaven Baptist Academy", "Northwest Junior College", "Memphis State University"], "occupation": "Insurance Producer", "counties represented": ["DeSoto"]}, "created_at": "2020-03-06T06:12:53.164667+00:00", "updated_at": "2021-12-16T18:58:43.165341+00:00", "openstates_url": "https://openstates.org/person/michael-mclendon-2oXSjc0RC0XVEaE6ZtG3Z/"}, {"id": "ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b", "name": "Mike Thompson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "48", "division_id": "ocd-division/country:us/state:ms/sldu:48"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Mike", "family_name": "Thompson", "image": "http://billstatus.ls.state.ms.us/members/senate/thompson.jpg", "email": "MThompson@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["St. Stanislaus", "Texas A and M University", "Loyola University"], "occupation": "Attorney", "other phone": "(228)265-5010", "counties represented": ["Harrison"]}, "created_at": "2020-03-06T06:12:46.682857+00:00", "updated_at": "2021-12-16T18:58:45.386396+00:00", "openstates_url": "https://openstates.org/person/mike-thompson-78ky8JKSUOaETEB8VGLAp1/"}, {"id": "ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67", "name": "Neil S. Whaley", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "10", "division_id": "ocd-division/country:us/state:ms/sldu:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Neil S.", "family_name": "Whaley", "image": "http://billstatus.ls.state.ms.us/members/senate/whaley.jpg", "email": "nwhaley@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["NWCC"], "occupation": "Business Owner/Cattleman", "counties represented": ["Marshall", "Tate"]}, "created_at": "2018-10-18T14:51:04.984069+00:00", "updated_at": "2021-12-16T18:58:47.110720+00:00", "openstates_url": "https://openstates.org/person/neil-s-whaley-2wfMz3W5QEepoTp98pMCrX/"}, {"id": "ocd-person/befe53fc-f95d-49df-93f4-9985e00151e6", "name": "Nicole Boyd", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "9", "division_id": "ocd-division/country:us/state:ms/sldu:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Nicole", "family_name": "Boyd", "image": "http://billstatus.ls.state.ms.us/members/senate/boyd.jpg", "email": "NBoyd@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Oxford High School", "Mississippi State University, B. S.", "University of Mississippi Law School, J. D."], "occupation": "Attorney", "other phone": "(601)345-1987", "counties represented": ["Lafayette", "Panola"]}, "created_at": "2020-03-06T06:12:48.748053+00:00", "updated_at": "2021-12-16T18:59:02.826710+00:00", "openstates_url": "https://openstates.org/person/nicole-boyd-5oOllM9tpUgYz0LDShrlKA/"}, {"id": "ocd-person/7c8428fb-7cb4-4653-9629-f41037af9669", "name": "Philip Moran", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "46", "division_id": "ocd-division/country:us/state:ms/sldu:46"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Philip", "family_name": "Moran", "image": "http://billstatus.ls.state.ms.us/members/senate/moran.jpg", "email": "pmoran@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Mississippi State University", "Pearl River Community College"], "occupation": "Owner, Philips Pest Control, LLC", "other phone": "(228)255-3700", "counties represented": ["Hancock", "Harrison"]}, "created_at": "2018-10-18T14:51:09.306928+00:00", "updated_at": "2021-12-16T18:58:42.334741+00:00", "openstates_url": "https://openstates.org/person/philip-moran-3mxRdwW9iU5q2D7yQowy3l/"}, {"id": "ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3", "name": "Rita Potts Parks", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "4", "division_id": "ocd-division/country:us/state:ms/sldu:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Rita Potts", "family_name": "Parks", "image": "http://billstatus.ls.state.ms.us/members/senate/parks.jpg", "email": "rparks@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Mississippi", "Alcorn Central High School"], "occupation": "Quality and Regulatory Manager", "other phone": "(662)415-4793", "counties represented": ["Alcorn", "Tippah"]}, "created_at": "2018-10-18T14:51:11.637063+00:00", "updated_at": "2021-12-16T18:59:03.145338+00:00", "openstates_url": "https://openstates.org/person/rita-potts-parks-6Vzce7C0G6TLGfm3IyuL7j/"}, {"id": "ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9", "name": "Robert L. Jackson", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "11", "division_id": "ocd-division/country:us/state:ms/sldu:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Robert L.", "family_name": "Jackson", "image": "http://billstatus.ls.state.ms.us/members/senate/jackson_(11th).jpg", "email": "rjackson@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Northwest Junior College University of Southern Mississippi"], "occupation": "Community Development Practitioner", "other phone": "(662)326-4000", "counties represented": ["Coahoma", "Panola", "Quitman", "Tunica"]}, "created_at": "2018-10-18T14:50:52.755077+00:00", "updated_at": "2021-12-16T18:59:04.738367+00:00", "openstates_url": "https://openstates.org/person/robert-l-jackson-TwaVFfzpmjUn9AmvQun1N/"}, {"id": "ocd-person/eb5bde8b-1497-4a27-9806-128cf68cb00d", "name": "Rod Hickman", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "32", "division_id": "ocd-division/country:us/state:ms/sldu:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Rod", "family_name": "Hickman", "image": "http://billstatus.ls.state.ms.us/members/senate/hickman.jpg", "email": "rhickman@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Noxubee County High School", "University of Mississippi"], "counties represented": ["Kemper", "Lauderdale", "Noxubee", "Winston"]}, "created_at": "2021-12-16T18:58:56.011398+00:00", "updated_at": "2021-12-16T18:58:56.197754+00:00", "openstates_url": "https://openstates.org/person/rod-hickman-7A7BEf4h1Fn3AEjxKvwumD/"}, {"id": "ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1", "name": "Sarita Simmons", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "13", "division_id": "ocd-division/country:us/state:ms/sldu:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Sarita", "family_name": "Simmons", "image": "http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg", "email": "SSimmons@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Cleveland High School", "Alcorn State University"], "counties represented": ["Bolivar", "Sunflower", "Tallahatchie"]}, "created_at": "2020-03-06T06:12:49.439588+00:00", "updated_at": "2021-12-16T18:58:56.463058+00:00", "openstates_url": "https://openstates.org/person/sarita-simmons-7Klga9Ft4M8EcbjjZysVW5/"}, {"id": "ocd-person/8467b994-f651-446b-b77f-0632ff790ff8", "name": "Scott DeLano", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "50", "division_id": "ocd-division/country:us/state:ms/sldu:50"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Scott", "family_name": "DeLano", "image": "http://billstatus.ls.state.ms.us/members/senate/delano.jpg", "email": "sdelano@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Southern Mississippi, B.A. Accounting"], "occupation": "Commercial Real Estate Developer", "other phone": "(228)806-7418", "counties represented": ["Harrison"]}, "created_at": "2018-10-18T14:51:01.044341+00:00", "updated_at": "2021-12-16T18:58:40.230306+00:00", "openstates_url": "https://openstates.org/person/scott-delano-41qO9Za7snwf8XKxzuteh6/"}, {"id": "ocd-person/4b5fb3d4-b284-4886-bb0b-4c00febb1724", "name": "Sollie B. Norwood", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "28", "division_id": "ocd-division/country:us/state:ms/sldu:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Sollie B.", "family_name": "Norwood", "image": "http://billstatus.ls.state.ms.us/members/senate/norwood.jpg", "email": "snorwood@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["B.A. - Sociology", "MS Ed. Guidance & Counseling", "Jackson State University", "McLaurin High School, Florence"], "occupation": "Realtor/Broker", "counties represented": ["Hinds"]}, "created_at": "2018-10-18T14:51:00.176025+00:00", "updated_at": "2021-12-16T18:58:48.413454+00:00", "openstates_url": "https://openstates.org/person/sollie-b-norwood-2IE9xcjQf7JzVSLt1yGgo0/"}, {"id": "ocd-person/bd335f00-4e41-4972-b8f4-f2249b410614", "name": "Tyler McCaughn", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "31", "division_id": "ocd-division/country:us/state:ms/sldu:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "Tyler", "family_name": "McCaughn", "image": "http://billstatus.ls.state.ms.us/members/senate/mccaughn.jpg", "email": "TMcCaughn@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["Morton High School", "Jones Junior College", "University of Mississippi", "Mississippi College School of Law"], "other phone": "(601)683-2382", "counties represented": ["Lauderdale", "Newton", "Scott"]}, "created_at": "2020-03-06T06:12:51.846868+00:00", "updated_at": "2021-12-16T18:58:42.769494+00:00", "openstates_url": "https://openstates.org/person/tyler-mccaughn-5l11dhhMMQB6CAg0uk1zPw/"}, {"id": "ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e", "name": "W. Briggs Hopson III", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "23", "division_id": "ocd-division/country:us/state:ms/sldu:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:ms/government", "name": "Mississippi", "classification": "state"}, "given_name": "W. Briggs", "family_name": "Hopson", "image": "http://billstatus.ls.state.ms.us/members/senate/hopson.jpg", "email": "bhopson@senate.ms.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"education": ["University of Mississippi"], "counties represented": ["Issaquena", "Warren", "Yazoo"]}, "created_at": "2018-10-18T14:50:55.853335+00:00", "updated_at": "2021-12-16T18:58:57.106449+00:00", "openstates_url": "https://openstates.org/person/w-briggs-hopson-iii-7NVr1aEJVPp8tnPiIJETeA/"}]}
+{
+  "timestamp": "11-29-2022 15:48:04",
+  "incumbents": [
+    {
+      "id": "ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d",
+      "name": "Albert Butler",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:ms/sldu:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Albert",
+      "family_name": "Butler",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/butler_(36th).jpg",
+      "email": "abutler@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(601)683-6695",
+        "education": [
+          "Alcorn State University",
+          "Jackson State University",
+          "University of Arkansas at Conway"
+        ],
+        "occupation": "Academic Manager Mississippi Job Corp",
+        "other phone": "(601)415-1182",
+        "counties represented": ["Claiborne", "Copiah", "Hinds", "Jefferson"]
+      },
+      "created_at": "2018-10-18T14:50:56.664059+00:00",
+      "updated_at": "2021-12-16T18:58:47.321255+00:00",
+      "openstates_url": "https://openstates.org/person/albert-butler-5qRCsUx2H0hCdJxoyJW3ZN/"
+    },
+    {
+      "id": "ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4",
+      "name": "Angela Burks Hill",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:ms/sldu:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Angela Burks",
+      "family_name": "Hill",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/hill.jpg",
+      "email": "ahill@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "University of Southern Mississippi",
+          "Pearl River Community College",
+          "Picayune Memorial High School"
+        ],
+        "occupation": "former Science Teacher",
+        "counties represented": ["Marion", "Pearl River"]
+      },
+      "created_at": "2018-10-18T14:51:03.129937+00:00",
+      "updated_at": "2021-12-16T18:58:46.682669+00:00",
+      "openstates_url": "https://openstates.org/person/angela-burks-hill-1wnhrlzhrOrQJTZTD7OmCy/"
+    },
+    {
+      "id": "ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf",
+      "name": "Angela Turner-Ford",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:ms/sldu:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Angela",
+      "family_name": "Turner-Ford",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg",
+      "email": "aturner@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(662)494-4814",
+        "education": [
+          "Hampton University",
+          "Howard University",
+          "Mississippi State University",
+          "The University of Alabama at Birmingham",
+          "The University of Mississippi"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(662)494-6611",
+        "counties represented": ["Clay", "Lowndes", "Noxubee", "Oktibbeha"]
+      },
+      "created_at": "2018-10-18T14:51:12.441651+00:00",
+      "updated_at": "2021-12-16T18:58:44.666446+00:00",
+      "openstates_url": "https://openstates.org/person/angela-turner-ford-3YQWcvpBtkwWBWCLcJtwjP/"
+    },
+    {
+      "id": "ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631",
+      "name": "Barbara Blackmon",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:ms/sldu:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Barbara",
+      "family_name": "Blackmon",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/blackmon.jpg",
+      "email": "bblackmon@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Jackson State University, B.S. Business Administration",
+          "University of Alabama M.B.A.",
+          "University of Mississippi, Juris Doctorate",
+          "New York University, L.L.M. (Taxation)"
+        ],
+        "occupation": "Attorney",
+        "counties represented": [
+          "Attala",
+          "Holmes",
+          "Leake",
+          "Madison",
+          "Yazoo"
+        ]
+      },
+      "created_at": "2018-10-18T14:51:16.257978+00:00",
+      "updated_at": "2021-12-16T18:58:53.192915+00:00",
+      "openstates_url": "https://openstates.org/person/barbara-blackmon-1neJ0x8sMUkudyWysYfTZh/"
+    },
+    {
+      "id": "ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40",
+      "name": "Bart Williams",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:ms/sldu:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Bart",
+      "family_name": "Williams",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/williams.jpg",
+      "email": "bwilliams@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Harding Academy; Memphis, TN",
+          "Mississippi State University"
+        ],
+        "occupation": "Owner, Security Solutions and Communications, Inc",
+        "counties represented": [
+          "Choctaw",
+          "Montgomery",
+          "Oktibbeha",
+          "Webster"
+        ]
+      },
+      "created_at": "2020-12-19T06:11:17.577936+00:00",
+      "updated_at": "2021-12-16T18:58:43.353949+00:00",
+      "openstates_url": "https://openstates.org/person/bart-williams-2u0rVrw301Uq1BAJVkEZI8/"
+    },
+    {
+      "id": "ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1",
+      "name": "Benjamin Suber",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:ms/sldu:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Benjamin",
+      "family_name": "Suber",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/suber.jpg",
+      "email": "BSuber@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(662)983-3030",
+        "education": [
+          "Manila High School - Manila, AR",
+          "Arkansas State University",
+          "Mississippi State University",
+          "Mississippi College School of Law"
+        ],
+        "other phone": "(662)983-3000",
+        "counties represented": [
+          "Calhoun",
+          "Chickasaw",
+          "Lee",
+          "Pontotoc",
+          "Yalobusha"
+        ]
+      },
+      "created_at": "2020-03-06T06:12:53.363810+00:00",
+      "updated_at": "2021-12-16T18:59:00.678399+00:00",
+      "openstates_url": "https://openstates.org/person/benjamin-suber-5f7GF2MKvN3I733ENeqoin/"
+    },
+    {
+      "id": "ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d",
+      "name": "Brice Wiggins",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "52",
+        "division_id": "ocd-division/country:us/state:ms/sldu:52"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Brice",
+      "family_name": "Wiggins",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/wiggins.jpg",
+      "email": "bwiggins@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(601)510-9378",
+        "education": [
+          "Tulane University",
+          "Mississippi College School of Law",
+          "Pascagoula High School"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(228)324-3141",
+        "counties represented": ["Jackson"]
+      },
+      "created_at": "2018-10-18T14:51:15.936916+00:00",
+      "updated_at": "2021-12-16T18:59:01.528797+00:00",
+      "openstates_url": "https://openstates.org/person/brice-wiggins-3q3GyL46lJQZbMtctJl5VV/"
+    },
+    {
+      "id": "ocd-person/17a5d5bb-d52b-4d53-a6a0-bcaa7c5538d7",
+      "name": "Chad McMahan",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:ms/sldu:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Chad",
+      "family_name": "McMahan",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg",
+      "email": "cmcmahan@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Tupelo High School", "Union University"],
+        "occupation": "Sales Representative/ Public Servant",
+        "counties represented": ["Itawamba", "Lee"]
+      },
+      "created_at": "2018-10-18T14:51:06.635514+00:00",
+      "updated_at": "2021-12-16T18:58:55.270431+00:00",
+      "openstates_url": "https://openstates.org/person/chad-mcmahan-icbpuxDtRZZvYK0QDJe11/"
+    },
+    {
+      "id": "ocd-person/ac7730d2-cf3b-44e4-aa6c-5f4dfd0d32e1",
+      "name": "Chris Caughman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:ms/sldu:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Chris",
+      "family_name": "Caughman",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/caughman.jpg",
+      "email": "ccaughman@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Simpson Academy",
+          "Copiah Lincoln Jr College",
+          "Belhaven University, BA"
+        ],
+        "occupation": "Senior Vice President, People's Bank in Mendenhall.",
+        "counties represented": ["Copiah", "Rankin", "Simpson"]
+      },
+      "created_at": "2018-10-18T14:50:54.889310+00:00",
+      "updated_at": "2021-12-16T18:58:44.345074+00:00",
+      "openstates_url": "https://openstates.org/person/chris-caughman-5FR9KidFDISHaqCQAIazmD/"
+    },
+    {
+      "id": "ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9",
+      "name": "Chris Johnson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "45",
+        "division_id": "ocd-division/country:us/state:ms/sldu:45"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Chris",
+      "family_name": "Johnson",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/johnson.jpg",
+      "email": "chjohnson@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "University of Southern MS, B.S.",
+          "Pearl River C.C.",
+          "Forrest County Agricultural H.S."
+        ],
+        "occupation": "Business Owner",
+        "other phone": "(601)270-1314",
+        "counties represented": ["Forrest", "Perry"]
+      },
+      "created_at": "2018-10-18T14:51:03.457876+00:00",
+      "updated_at": "2021-12-16T18:58:53.997955+00:00",
+      "openstates_url": "https://openstates.org/person/chris-johnson-yyn8D373QgHKurIFvyksj/"
+    },
+    {
+      "id": "ocd-person/4871dab1-570b-48ac-be4f-fd523c5c24fd",
+      "name": "Chris McDaniel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "42",
+        "division_id": "ocd-division/country:us/state:ms/sldu:42"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Chris",
+      "family_name": "McDaniel",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/mcdaniel.jpg",
+      "email": "cmcdaniel@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(601)649-6062",
+        "education": [
+          "Jones County Junior College",
+          "William Carey University",
+          "University of Mississippi School of Law"
+        ],
+        "occupation": "Attorney, Partner of Hortman, Harlow, Bassi, Robinson and McDaniel, PLLC.",
+        "other phone": "(601)649-8611",
+        "counties represented": ["Forrest", "Jones"]
+      },
+      "created_at": "2018-10-18T14:51:00.338319+00:00",
+      "updated_at": "2021-12-16T18:58:56.905621+00:00",
+      "openstates_url": "https://openstates.org/person/chris-mcdaniel-2ChThcMVPvkHKbDNwLzz6j/"
+    },
+    {
+      "id": "ocd-person/c22d208a-59c7-4e90-bbe0-37b953a00b41",
+      "name": "Chuck Younger",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:ms/sldu:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Chuck",
+      "family_name": "Younger",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/younger.jpg",
+      "email": "cyounger@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Heritage Academy",
+          "East Mississippi Community College",
+          "Mississippi State University"
+        ],
+        "occupation": "Farmer/Rancher",
+        "counties represented": ["Lowndes", "Monroe"]
+      },
+      "created_at": "2018-10-18T14:51:02.013892+00:00",
+      "updated_at": "2021-12-16T18:58:51.098514+00:00",
+      "openstates_url": "https://openstates.org/person/chuck-younger-5uP8LKqpbx3dtRLaecZjBR/"
+    },
+    {
+      "id": "ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e",
+      "name": "Daniel H. Sparks",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:ms/sldu:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "Sparks",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/sparks.jpg",
+      "email": "DSparks@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Belmont High School",
+          "Northeast Mississippi Community College",
+          "University of Mississippi"
+        ],
+        "occupation": "Attorney",
+        "other phone1": "(662)660-9800",
+        "other phone2": "(662)234-4600",
+        "counties represented": ["Itawamba", "Prentiss", "Tishomingo"]
+      },
+      "created_at": "2020-03-06T06:12:51.522825+00:00",
+      "updated_at": "2021-12-16T18:58:40.436024+00:00",
+      "openstates_url": "https://openstates.org/person/daniel-h-sparks-1WVKCqUi3kwNMG8sPwUQjW/"
+    },
+    {
+      "id": "ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518",
+      "name": "David Blount",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:ms/sldu:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Blount",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/blount.jpg",
+      "email": "dblount@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Davidson College", "University of Virginia"],
+        "occupation": "Commercial Real Estate Broker",
+        "counties represented": ["Hinds"]
+      },
+      "created_at": "2018-10-18T14:51:09.145649+00:00",
+      "updated_at": "2021-12-16T18:58:46.365080+00:00",
+      "openstates_url": "https://openstates.org/person/david-blount-674z1u4OKIcmbZfFW8zyQ4/"
+    },
+    {
+      "id": "ocd-person/f2f61e1d-8d34-40c7-95ff-fb08cd2a4f75",
+      "name": "David Jordan",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:ms/sldu:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Jordan",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/jordan.jpg",
+      "email": "djordan@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Mississippi Valley State University",
+          "University of Wyoming"
+        ],
+        "occupation": "Greenwood City Councilman",
+        "other phone": "(662)453-2246",
+        "counties represented": [
+          "Grenada",
+          "Holmes",
+          "Humphreys",
+          "Leflore",
+          "Tallahatchie"
+        ]
+      },
+      "created_at": "2018-10-18T14:51:04.805270+00:00",
+      "updated_at": "2021-12-16T18:58:57.418501+00:00",
+      "openstates_url": "https://openstates.org/person/david-jordan-7OScOE6NmoPpG6vcf2k6S5/"
+    },
+    {
+      "id": "ocd-person/18630d08-6afc-4892-ac2f-e13f0d9932f6",
+      "name": "David Parker",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:ms/sldu:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Parker",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/parker.jpg",
+      "email": "dparker@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(662)893-3301",
+        "education": [
+          "Christian Brothers University, Memphis, TN",
+          "Southern College of Optometry, Memphis, TN"
+        ],
+        "occupation": "Optometrist",
+        "other phone": "(662)893-3300",
+        "counties represented": ["DeSoto"]
+      },
+      "created_at": "2018-10-18T14:51:00.521158+00:00",
+      "updated_at": "2021-12-16T18:58:44.137462+00:00",
+      "openstates_url": "https://openstates.org/person/david-parker-k15684og1MhBJeluMevby/"
+    },
+    {
+      "id": "ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb",
+      "name": "Dean Kirby",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:ms/sldu:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Dean",
+      "family_name": "Kirby",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/kirby.jpg",
+      "email": "dkirby@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "title": "President Pro Tempore",
+        "education": ["Mississippi College"],
+        "occupation": "Insurance",
+        "counties represented": ["Rankin"]
+      },
+      "created_at": "2018-10-18T14:51:03.291559+00:00",
+      "updated_at": "2021-12-16T18:58:49.566382+00:00",
+      "openstates_url": "https://openstates.org/person/dean-kirby-6N1DXzxf3ghyZVh5MKJP2p/"
+    },
+    {
+      "id": "ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b",
+      "name": "Dennis DeBar, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "43",
+        "division_id": "ocd-division/country:us/state:ms/sldu:43"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Dennis",
+      "family_name": "DeBar",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/debar.jpg",
+      "email": "ddebar@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "MS College School of Law JD",
+          "Univ. of Central Florida,  BS"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(601)394-4400",
+        "counties represented": ["George", "Greene", "Wayne"]
+      },
+      "created_at": "2018-10-18T14:51:11.478200+00:00",
+      "updated_at": "2021-12-16T18:58:47.770504+00:00",
+      "openstates_url": "https://openstates.org/person/dennis-debar-jr-4GJsn7eGWLcnh3o4hZunQx/"
+    },
+    {
+      "id": "ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f",
+      "name": "Derrick T. Simmons",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:ms/sldu:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Derrick T.",
+      "family_name": "Simmons",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg",
+      "email": "dsimmons@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Howard Law School, J.D.",
+          "Howard Business School, M.B.A.",
+          "Jackson State University, B.B.A."
+        ],
+        "other phone": "(662)334-1666",
+        "counties represented": ["Bolivar", "Coahoma", "Washington"]
+      },
+      "created_at": "2018-10-18T14:50:58.518570+00:00",
+      "updated_at": "2021-12-16T18:59:02.172886+00:00",
+      "openstates_url": "https://openstates.org/person/derrick-t-simmons-1uBQxHTKaycjhYRb8dJQhr/"
+    },
+    {
+      "id": "ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b",
+      "name": "Hillman Terome Frazier",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:ms/sldu:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Hillman Terome",
+      "family_name": "Frazier",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/frazier.jpg",
+      "email": "hfrazier@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Jackson State University",
+          "George Washington University",
+          "National Law Center",
+          "Hinds Community College",
+          "Harvard University's John F. Kennedy School of Government"
+        ],
+        "occupation": "Consultant",
+        "other phone": "(601)359-5957",
+        "counties represented": ["Hinds"]
+      },
+      "created_at": "2018-10-18T14:50:55.684352+00:00",
+      "updated_at": "2021-12-16T18:59:03.350562+00:00",
+      "openstates_url": "https://openstates.org/person/hillman-terome-frazier-4SFJMieQl58KdqdCgOANEx/"
+    },
+    {
+      "id": "ocd-person/717de4df-c8b0-4387-a767-4d37b577f370",
+      "name": "Hob Bryan",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:ms/sldu:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Hob",
+      "family_name": "Bryan",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/bryan.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Mississippi State University",
+          "The University of Virginia"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(662)256-9601",
+        "counties represented": ["Itawamba", "Lee", "Monroe"]
+      },
+      "created_at": "2018-10-18T14:51:13.858238+00:00",
+      "updated_at": "2021-12-16T18:58:58.448381+00:00",
+      "openstates_url": "https://openstates.org/person/hob-bryan-3S9fKk2ecxaBqaDuMo2z6u/"
+    },
+    {
+      "id": "ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3",
+      "name": "J. Walter Michel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:ms/sldu:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "J. Walter",
+      "family_name": "Michel",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/michel.jpg",
+      "email": "wmichel@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Jackson Prep.", "The University of Mississippi"],
+        "occupation": "Commercial Real Estate",
+        "counties represented": ["Hinds", "Madison"]
+      },
+      "created_at": "2018-10-18T14:51:08.989325+00:00",
+      "updated_at": "2021-12-16T18:59:04.424076+00:00",
+      "openstates_url": "https://openstates.org/person/j-walter-michel-2yUuQAa1LZV82bL7V4RVMR/"
+    },
+    {
+      "id": "ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31",
+      "name": "Jason Barrett",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:ms/sldu:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Jason",
+      "family_name": "Barrett",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/barrett.jpg",
+      "email": "jbarrett@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Thomas County Central High School",
+          "University of Georgia",
+          "Mississippi College School of Law"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(601)833-1177",
+        "counties represented": ["Copiah", "Lawrence", "Lincoln", "Walthall"]
+      },
+      "created_at": "2020-12-19T06:11:17.896547+00:00",
+      "updated_at": "2021-12-16T18:58:50.333462+00:00",
+      "openstates_url": "https://openstates.org/person/jason-barrett-62McpmPSccWjRpQtVVeFxR/"
+    },
+    {
+      "id": "ocd-person/9839c663-7ae3-4437-82d8-c985975309d8",
+      "name": "Jeff Tate",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:ms/sldu:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Jeff",
+      "family_name": "Tate",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/tate.jpg",
+      "email": "JTate@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "occupation": "Self-Employeed",
+        "counties represented": ["Clarke", "Lauderdale"]
+      },
+      "created_at": "2020-03-06T06:12:47.419116+00:00",
+      "updated_at": "2021-12-16T18:58:48.898621+00:00",
+      "openstates_url": "https://openstates.org/person/jeff-tate-4dFEgl9JKBtfvbIovYanua/"
+    },
+    {
+      "id": "ocd-person/629badc7-5b63-4aae-b19f-d754dbe12e49",
+      "name": "Jenifer B. Branning",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:ms/sldu:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Jenifer B.",
+      "family_name": "Branning",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/branning.jpg",
+      "email": "jbranning@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Leake Academy;",
+          "MS State University; BA in Business Administration, attended MBA program",
+          "MS College School of Law, Juris Doctor 2004"
+        ],
+        "counties represented": ["Leake", "Neshoba", "Winston"]
+      },
+      "created_at": "2018-10-18T14:51:13.386838+00:00",
+      "updated_at": "2021-12-16T18:58:42.969535+00:00",
+      "openstates_url": "https://openstates.org/person/jenifer-b-branning-304OOTu09AARxet3mIL3If/"
+    },
+    {
+      "id": "ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab",
+      "name": "Jeremy England",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "51",
+        "division_id": "ocd-division/country:us/state:ms/sldu:51"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Jeremy",
+      "family_name": "England",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/england.jpg",
+      "email": "JEngland@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Pascagoula High School",
+          "Mississippi State University",
+          "University of Mississippi School of Law"
+        ],
+        "occupation": "Senior Attorney",
+        "other phone": "(228)219-1180",
+        "counties represented": ["Jackson"]
+      },
+      "created_at": "2020-03-06T06:12:54.637465+00:00",
+      "updated_at": "2021-12-16T18:59:00.095177+00:00",
+      "openstates_url": "https://openstates.org/person/jeremy-england-1a7RYwzXu7QVXj2mqzksrT/"
+    },
+    {
+      "id": "ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f",
+      "name": "Joel R.Carter, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "49",
+        "division_id": "ocd-division/country:us/state:ms/sldu:49"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Joel",
+      "family_name": "Carter",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/carter.jpg",
+      "email": "jcarter@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Gulfport High School",
+          "University of Southern Mississippi - Hattiesburg"
+        ],
+        "occupation": "Real Estate Broker",
+        "other phone": "(228)731-3881",
+        "counties represented": ["Harrison"]
+      },
+      "created_at": "2018-10-18T14:51:17.741386+00:00",
+      "updated_at": "2021-12-16T18:58:55.950441+00:00",
+      "openstates_url": "https://openstates.org/person/joel-r-carter-jr-6DZVtol4H9U20ZFRqKlT15/"
+    },
+    {
+      "id": "ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e",
+      "name": "Joey Fillingane",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "41",
+        "division_id": "ocd-division/country:us/state:ms/sldu:41"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Joey",
+      "family_name": "Fillingane",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/fillingane.jpg",
+      "email": "jfillingane@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "fax": "(601)264-3323",
+        "education": [
+          "University of Southern Mississippi",
+          "Mississippi College School Of Law"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(601)264-3323",
+        "counties represented": [
+          "Covington",
+          "Forrest",
+          "Jefferson Davis",
+          "Lamar",
+          "Smith"
+        ]
+      },
+      "created_at": "2018-10-18T14:51:05.296178+00:00",
+      "updated_at": "2021-12-16T18:58:51.978261+00:00",
+      "openstates_url": "https://openstates.org/person/joey-fillingane-5ipxw2pt10bMRBOreJkvpW/"
+    },
+    {
+      "id": "ocd-person/3594f477-2f29-4875-8352-eb8d01775a88",
+      "name": "John A. Polk",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "44",
+        "division_id": "ocd-division/country:us/state:ms/sldu:44"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "John A.",
+      "family_name": "Polk",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/polk.jpg",
+      "email": "jpolk@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "University of Southern Mississippi",
+          "Prentiss High School"
+        ],
+        "occupation": "Business Executive",
+        "other phone": "(601)467-5117",
+        "counties represented": ["Lamar", "Pearl River"]
+      },
+      "created_at": "2018-10-18T14:51:14.013381+00:00",
+      "updated_at": "2021-12-16T18:58:59.814718+00:00",
+      "openstates_url": "https://openstates.org/person/john-a-polk-1d6fHpiBzwnxkkE9WNf1js/"
+    },
+    {
+      "id": "ocd-person/b90d629d-9f8b-421a-88e3-9f72580cdd37",
+      "name": "John Horhn",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:ms/sldu:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Horhn",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/horhn.jpg",
+      "email": "jhorhn@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Centre College of Kentucky",
+          "Jackson State University",
+          "Duke University"
+        ],
+        "occupation": "Community Development Consultant; Motivational Speaker",
+        "counties represented": ["Hinds", "Madison"]
+      },
+      "created_at": "2018-10-18T14:51:16.586476+00:00",
+      "updated_at": "2021-12-16T18:58:42.020890+00:00",
+      "openstates_url": "https://openstates.org/person/john-horhn-5dBhFOfdpOCGCcY0agDoqV/"
+    },
+    {
+      "id": "ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6",
+      "name": "Joseph M. Seymour",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "47",
+        "division_id": "ocd-division/country:us/state:ms/sldu:47"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Joseph M.",
+      "family_name": "Seymour",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/seymour.jpg",
+      "email": "mseymour@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["St. Martin High School", "MGCCC, Attended"],
+        "occupation": "Self-employed",
+        "counties represented": ["Jackson", "Pearl River", "Stone"]
+      },
+      "created_at": "2018-10-18T14:51:11.798102+00:00",
+      "updated_at": "2021-12-16T18:58:50.009495+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-m-seymour-3QfYWWMvIaEnhF06LhFunW/"
+    },
+    {
+      "id": "ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06",
+      "name": "Joseph Thomas",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:ms/sldu:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Joseph",
+      "family_name": "Thomas",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/thomas.jpg",
+      "email": "JThomas@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["N. D. Taylor High School", "Jackson State University"],
+        "occupation": "Retired Vice President Regions Bank",
+        "other phone": "(662)571-2987",
+        "counties represented": [
+          "Sunflower",
+          "Humphreys",
+          "Madison",
+          "Sharkey",
+          "Washington",
+          "Yazoo"
+        ]
+      },
+      "created_at": "2020-03-06T06:12:49.716080+00:00",
+      "updated_at": "2021-12-16T18:58:46.162053+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-thomas-ZzaYQDSlnIi8pVBTyIAKs/"
+    },
+    {
+      "id": "ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a",
+      "name": "Josh Harkins",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:ms/sldu:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Josh",
+      "family_name": "Harkins",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/harkins.jpg",
+      "email": "jharkins@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Mississippi State University"],
+        "occupation": "Real Estate Brokerage",
+        "other phone": "(601)209-8448",
+        "counties represented": ["Rankin"]
+      },
+      "created_at": "2018-10-18T14:51:09.466565+00:00",
+      "updated_at": "2021-12-16T18:58:52.888987+00:00",
+      "openstates_url": "https://openstates.org/person/josh-harkins-a10pRCoGJqLCG7MafORIo/"
+    },
+    {
+      "id": "ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb",
+      "name": "Juan Barnett",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:ms/sldu:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Juan",
+      "family_name": "Barnett",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/barnett.jpg",
+      "email": "jtubb@house.ms.gov@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["K-12 Manhattan Academy", "BS Business Administration"],
+        "occupation": "Commercial Realtor",
+        "other phone": "(601)336-3660",
+        "counties represented": ["Forrest", "Lamar"]
+      },
+      "created_at": "2018-10-18T14:50:53.744979+00:00",
+      "updated_at": "2021-12-16T18:58:48.747357+00:00",
+      "openstates_url": "https://openstates.org/person/juan-barnett-7gq2QOcBf1BiBDGMxUDVFL/"
+    },
+    {
+      "id": "ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a",
+      "name": "Kathy L. Chism",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:ms/sldu:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "Chism",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/chism.jpg",
+      "email": "KChism@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Myrtle High School",
+          "Northeast Community College",
+          "Itawamba Community College"
+        ],
+        "occupation": "Realtor, Auctioneer, Business Owner",
+        "counties represented": ["Benton", "Pontotoc", "Union"]
+      },
+      "created_at": "2020-03-06T06:12:45.474318+00:00",
+      "updated_at": "2021-12-16T18:58:48.092158+00:00",
+      "openstates_url": "https://openstates.org/person/kathy-l-chism-6DquLcx3LS3UHD5lc06JUg/"
+    },
+    {
+      "id": "ocd-person/02de97f6-5b78-4211-9d7d-92d5a4c7375e",
+      "name": "Kelvin Butler",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:ms/sldu:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Kelvin",
+      "family_name": "Butler",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/butler_(38th).jpg",
+      "email": "kbutler@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Mississippi Valley State University",
+          "Meadow Draughon Business College, New Orleans, LA"
+        ],
+        "occupation": "Retired",
+        "counties represented": [
+          "Adams",
+          "Amite",
+          "Pike",
+          "Walthall",
+          "Wilkinson"
+        ]
+      },
+      "created_at": "2021-12-16T18:58:50.635037+00:00",
+      "updated_at": "2021-12-16T18:58:50.814821+00:00",
+      "openstates_url": "https://openstates.org/person/kelvin-butler-5Pi244VK8lHHxuhUnO6CE/"
+    },
+    {
+      "id": "ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c",
+      "name": "Kevin Blackwell",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:ms/sldu:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Kevin",
+      "family_name": "Blackwell",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/blackwell.jpg",
+      "email": "kblackwell@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "San Diego Mesa College, AA",
+          "National University, BBA (Health Service Management)",
+          "Medical College of Virginia, MSHA (Health Administration)"
+        ],
+        "counties represented": ["DeSoto", "Marshall"]
+      },
+      "created_at": "2018-10-18T14:50:55.373994+00:00",
+      "updated_at": "2021-12-16T18:58:53.648996+00:00",
+      "openstates_url": "https://openstates.org/person/kevin-blackwell-5WZnBCN39sGMmc2bDHZfSu/"
+    },
+    {
+      "id": "ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59",
+      "name": "Lydia Graves Chassaniol",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:ms/sldu:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Lydia Graves",
+      "family_name": "Chassaniol",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/chassaniol.jpg",
+      "email": "lchassaniol@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Winona High School", "University of Mississippi"],
+        "occupation": "Restaurant Owner",
+        "counties represented": [
+          "Attala",
+          "Carroll",
+          "Grenada",
+          "Leflore",
+          "Montgomery",
+          "Panola",
+          "Tallahatchie",
+          "Yalobusha"
+        ]
+      },
+      "created_at": "2018-10-18T14:51:14.172045+00:00",
+      "updated_at": "2021-12-16T18:59:04.002483+00:00",
+      "openstates_url": "https://openstates.org/person/lydia-graves-chassaniol-HXfu54Xgup1wC5YSDikZt/"
+    },
+    {
+      "id": "ocd-person/e4145841-78f7-470c-bbc2-26ebd0af30f2",
+      "name": "Melanie Sojourner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:ms/sldu:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Melanie",
+      "family_name": "Sojourner",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/sojourner.jpg",
+      "email": "MSojourner@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Adams County Christian School",
+          "Copiah-Lincoln Community College, A.A. Degree",
+          "Louisiana State University, B. S. Degree"
+        ],
+        "other phone": "(601)334-6729",
+        "counties represented": ["Adams", "Amite", "Franklin", "Pike"]
+      },
+      "created_at": "2020-03-06T06:12:51.421296+00:00",
+      "updated_at": "2022-01-11T14:39:51.464953+00:00",
+      "openstates_url": "https://openstates.org/person/melanie-sojourner-6wNXz0Y26IoGjkZO1TzLgg/"
+    },
+    {
+      "id": "ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55",
+      "name": "Michael McLendon",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:ms/sldu:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "McLendon",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/mclendon.jpg",
+      "email": "MMcLendon@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Oakhaven Baptist Academy",
+          "Northwest Junior College",
+          "Memphis State University"
+        ],
+        "occupation": "Insurance Producer",
+        "counties represented": ["DeSoto"]
+      },
+      "created_at": "2020-03-06T06:12:53.164667+00:00",
+      "updated_at": "2021-12-16T18:58:43.165341+00:00",
+      "openstates_url": "https://openstates.org/person/michael-mclendon-2oXSjc0RC0XVEaE6ZtG3Z/"
+    },
+    {
+      "id": "ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b",
+      "name": "Mike Thompson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "48",
+        "division_id": "ocd-division/country:us/state:ms/sldu:48"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Thompson",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/thompson.jpg",
+      "email": "MThompson@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "St. Stanislaus",
+          "Texas A and M University",
+          "Loyola University"
+        ],
+        "occupation": "Attorney",
+        "other phone": "(228)265-5010",
+        "counties represented": ["Harrison"]
+      },
+      "created_at": "2020-03-06T06:12:46.682857+00:00",
+      "updated_at": "2021-12-16T18:58:45.386396+00:00",
+      "openstates_url": "https://openstates.org/person/mike-thompson-78ky8JKSUOaETEB8VGLAp1/"
+    },
+    {
+      "id": "ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67",
+      "name": "Neil S. Whaley",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:ms/sldu:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Neil S.",
+      "family_name": "Whaley",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/whaley.jpg",
+      "email": "nwhaley@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["NWCC"],
+        "occupation": "Business Owner/Cattleman",
+        "counties represented": ["Marshall", "Tate"]
+      },
+      "created_at": "2018-10-18T14:51:04.984069+00:00",
+      "updated_at": "2021-12-16T18:58:47.110720+00:00",
+      "openstates_url": "https://openstates.org/person/neil-s-whaley-2wfMz3W5QEepoTp98pMCrX/"
+    },
+    {
+      "id": "ocd-person/befe53fc-f95d-49df-93f4-9985e00151e6",
+      "name": "Nicole Boyd",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:ms/sldu:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Nicole",
+      "family_name": "Boyd",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/boyd.jpg",
+      "email": "NBoyd@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Oxford High School",
+          "Mississippi State University, B. S.",
+          "University of Mississippi Law School, J. D."
+        ],
+        "occupation": "Attorney",
+        "other phone": "(601)345-1987",
+        "counties represented": ["Lafayette", "Panola"]
+      },
+      "created_at": "2020-03-06T06:12:48.748053+00:00",
+      "updated_at": "2021-12-16T18:59:02.826710+00:00",
+      "openstates_url": "https://openstates.org/person/nicole-boyd-5oOllM9tpUgYz0LDShrlKA/"
+    },
+    {
+      "id": "ocd-person/7c8428fb-7cb4-4653-9629-f41037af9669",
+      "name": "Philip Moran",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "46",
+        "division_id": "ocd-division/country:us/state:ms/sldu:46"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Philip",
+      "family_name": "Moran",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/moran.jpg",
+      "email": "pmoran@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Mississippi State University",
+          "Pearl River Community College"
+        ],
+        "occupation": "Owner, Philips Pest Control, LLC",
+        "other phone": "(228)255-3700",
+        "counties represented": ["Hancock", "Harrison"]
+      },
+      "created_at": "2018-10-18T14:51:09.306928+00:00",
+      "updated_at": "2021-12-16T18:58:42.334741+00:00",
+      "openstates_url": "https://openstates.org/person/philip-moran-3mxRdwW9iU5q2D7yQowy3l/"
+    },
+    {
+      "id": "ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3",
+      "name": "Rita Potts Parks",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:ms/sldu:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Rita Potts",
+      "family_name": "Parks",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/parks.jpg",
+      "email": "rparks@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "University of Mississippi",
+          "Alcorn Central High School"
+        ],
+        "occupation": "Quality and Regulatory Manager",
+        "other phone": "(662)415-4793",
+        "counties represented": ["Alcorn", "Tippah"]
+      },
+      "created_at": "2018-10-18T14:51:11.637063+00:00",
+      "updated_at": "2021-12-16T18:59:03.145338+00:00",
+      "openstates_url": "https://openstates.org/person/rita-potts-parks-6Vzce7C0G6TLGfm3IyuL7j/"
+    },
+    {
+      "id": "ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9",
+      "name": "Robert L. Jackson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:ms/sldu:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Robert L.",
+      "family_name": "Jackson",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/jackson_(11th).jpg",
+      "email": "rjackson@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Northwest Junior College University of Southern Mississippi"
+        ],
+        "occupation": "Community Development Practitioner",
+        "other phone": "(662)326-4000",
+        "counties represented": ["Coahoma", "Panola", "Quitman", "Tunica"]
+      },
+      "created_at": "2018-10-18T14:50:52.755077+00:00",
+      "updated_at": "2021-12-16T18:59:04.738367+00:00",
+      "openstates_url": "https://openstates.org/person/robert-l-jackson-TwaVFfzpmjUn9AmvQun1N/"
+    },
+    {
+      "id": "ocd-person/eb5bde8b-1497-4a27-9806-128cf68cb00d",
+      "name": "Rod Hickman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:ms/sldu:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Rod",
+      "family_name": "Hickman",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/hickman.jpg",
+      "email": "rhickman@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Noxubee County High School",
+          "University of Mississippi"
+        ],
+        "counties represented": ["Kemper", "Lauderdale", "Noxubee", "Winston"]
+      },
+      "created_at": "2021-12-16T18:58:56.011398+00:00",
+      "updated_at": "2021-12-16T18:58:56.197754+00:00",
+      "openstates_url": "https://openstates.org/person/rod-hickman-7A7BEf4h1Fn3AEjxKvwumD/"
+    },
+    {
+      "id": "ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1",
+      "name": "Sarita Simmons",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:ms/sldu:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Sarita",
+      "family_name": "Simmons",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg",
+      "email": "SSimmons@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["Cleveland High School", "Alcorn State University"],
+        "counties represented": ["Bolivar", "Sunflower", "Tallahatchie"]
+      },
+      "created_at": "2020-03-06T06:12:49.439588+00:00",
+      "updated_at": "2021-12-16T18:58:56.463058+00:00",
+      "openstates_url": "https://openstates.org/person/sarita-simmons-7Klga9Ft4M8EcbjjZysVW5/"
+    },
+    {
+      "id": "ocd-person/8467b994-f651-446b-b77f-0632ff790ff8",
+      "name": "Scott DeLano",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "50",
+        "division_id": "ocd-division/country:us/state:ms/sldu:50"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Scott",
+      "family_name": "DeLano",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/delano.jpg",
+      "email": "sdelano@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["University of Southern Mississippi, B.A. Accounting"],
+        "occupation": "Commercial Real Estate Developer",
+        "other phone": "(228)806-7418",
+        "counties represented": ["Harrison"]
+      },
+      "created_at": "2018-10-18T14:51:01.044341+00:00",
+      "updated_at": "2021-12-16T18:58:40.230306+00:00",
+      "openstates_url": "https://openstates.org/person/scott-delano-41qO9Za7snwf8XKxzuteh6/"
+    },
+    {
+      "id": "ocd-person/4b5fb3d4-b284-4886-bb0b-4c00febb1724",
+      "name": "Sollie B. Norwood",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:ms/sldu:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Sollie B.",
+      "family_name": "Norwood",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/norwood.jpg",
+      "email": "snorwood@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "B.A. - Sociology",
+          "MS Ed. Guidance & Counseling",
+          "Jackson State University",
+          "McLaurin High School, Florence"
+        ],
+        "occupation": "Realtor/Broker",
+        "counties represented": ["Hinds"]
+      },
+      "created_at": "2018-10-18T14:51:00.176025+00:00",
+      "updated_at": "2021-12-16T18:58:48.413454+00:00",
+      "openstates_url": "https://openstates.org/person/sollie-b-norwood-2IE9xcjQf7JzVSLt1yGgo0/"
+    },
+    {
+      "id": "ocd-person/bd335f00-4e41-4972-b8f4-f2249b410614",
+      "name": "Tyler McCaughn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:ms/sldu:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "Tyler",
+      "family_name": "McCaughn",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/mccaughn.jpg",
+      "email": "TMcCaughn@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": [
+          "Morton High School",
+          "Jones Junior College",
+          "University of Mississippi",
+          "Mississippi College School of Law"
+        ],
+        "other phone": "(601)683-2382",
+        "counties represented": ["Lauderdale", "Newton", "Scott"]
+      },
+      "created_at": "2020-03-06T06:12:51.846868+00:00",
+      "updated_at": "2021-12-16T18:58:42.769494+00:00",
+      "openstates_url": "https://openstates.org/person/tyler-mccaughn-5l11dhhMMQB6CAg0uk1zPw/"
+    },
+    {
+      "id": "ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e",
+      "name": "W. Briggs Hopson III",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:ms/sldu:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "given_name": "W. Briggs",
+      "family_name": "Hopson",
+      "image": "http://billstatus.ls.state.ms.us/members/senate/hopson.jpg",
+      "email": "bhopson@senate.ms.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": ["University of Mississippi"],
+        "counties represented": ["Issaquena", "Warren", "Yazoo"]
+      },
+      "created_at": "2018-10-18T14:50:55.853335+00:00",
+      "updated_at": "2021-12-16T18:58:57.106449+00:00",
+      "openstates_url": "https://openstates.org/person/w-briggs-hopson-iii-7NVr1aEJVPp8tnPiIJETeA/"
+    }
+  ]
+}

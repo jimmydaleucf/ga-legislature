@@ -2,6 +2,7 @@
 # This file takes all the individual files of incumbets saved in /public/output/incumbents/ 
 # and creates a rollup by counting all the repubs, the dems, and the others.  It creates a lightweight
 # rollup by state.  
+
 import json
 from pathlib import Path
 import collections
@@ -12,12 +13,11 @@ directory = './public/output/incumbents/'
 directoryTwo = 'public/output/ChambersTotal.json'
 path = './public/output/'
 
-
-
 files = Path(directory).glob('*')
 for file in files:
   f = open(file)  
-  data = json.load(f)
+  datafile = json.load(f)
+  data = datafile['incumbents']
   gop = 0
   dem = 0
   other = 0

@@ -1,1 +1,572 @@
-{"timestamp": "11-29-2022 14:56:52", "incumbents": [{"id": "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b", "name": "Brian Pettyjohn", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "19", "division_id": "ocd-division/country:us/state:de/sldu:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Brian", "family_name": "Pettyjohn", "image": "https://legis.delaware.gov/images/default-source/Legislators/BrianPettyjohn.jpg?sfvrsn=2", "email": "Brian.Pettyjohn@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "Senate Minority Whip"}, "created_at": "2018-10-18T14:37:46.431584+00:00", "updated_at": "2021-12-16T18:43:52.270150+00:00", "openstates_url": "https://openstates.org/person/brian-pettyjohn-4EzWSRQl2uqefDVM5tOntb/"}, {"id": "ocd-person/f49021dc-a166-4d18-a410-7ec099ef5415", "name": "Bruce C. Ennis", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "14", "division_id": "ocd-division/country:us/state:de/sldu:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Bruce C.", "family_name": "Ennis", "image": "https://legis.delaware.gov/images/default-source/Legislators/BruceCEnnis.jpg?sfvrsn=2", "email": "Bruce.Ennis@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:56.010862+00:00", "updated_at": "2021-12-16T18:43:48.526369+00:00", "openstates_url": "https://openstates.org/person/bruce-c-ennis-7RTzmEC2SHLbpablOYWdbZ/"}, {"id": "ocd-person/f35b571a-d734-4086-b358-ff21382d802f", "name": "Bryan Townsend", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "11", "division_id": "ocd-division/country:us/state:de/sldu:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Bryan", "family_name": "Townsend", "image": "https://legis.delaware.gov/images/default-source/Legislators/BryanTowsend.jpg?sfvrsn=2", "email": "Bryan.Townsend@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "Senate Majority Leader"}, "created_at": "2018-10-18T14:37:57.190033+00:00", "updated_at": "2021-12-16T18:43:50.816913+00:00", "openstates_url": "https://openstates.org/person/bryan-townsend-7PCsRIi9bRgHH8wVTHrj3v/"}, {"id": "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727", "name": "Bryant L. Richardson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "21", "division_id": "ocd-division/country:us/state:de/sldu:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Bryant L.", "family_name": "Richardson", "image": "https://legis.delaware.gov/images/default-source/Legislators/BryantRichardson.jpg?sfvrsn=2", "email": "Bryant.Richardson@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:47.903873+00:00", "updated_at": "2021-12-16T18:43:44.808354+00:00", "openstates_url": "https://openstates.org/person/bryant-l-richardson-2k8RdgHS3ubbCaRWPKXDt9/"}, {"id": "ocd-person/d8f2f52a-08fe-4179-ae60-665caf38838c", "name": "Colin Bonini", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "16", "division_id": "ocd-division/country:us/state:de/sldu:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Colin", "family_name": "Bonini", "image": "https://legis.delaware.gov/images/default-source/Legislators/ColinBonini.jpg?sfvrsn=2", "email": "Colin.Bonini@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:47.592695+00:00", "updated_at": "2021-12-16T18:43:52.446066+00:00", "openstates_url": "https://openstates.org/person/colin-bonini-6bNNDwgAl2jM2MU8u1CKtw/"}, {"id": "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da", "name": "Darius J. Brown", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "2", "division_id": "ocd-division/country:us/state:de/sldu:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png", "email": "Darius.Brown@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-10T04:00:02.623220+00:00", "updated_at": "2021-12-16T18:43:52.088429+00:00", "openstates_url": "https://openstates.org/person/darius-j-brown-4Gsm3oVyKGCu3Eh4C5lUy2/"}, {"id": "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3", "name": "Dave G. Lawson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "15", "division_id": "ocd-division/country:us/state:de/sldu:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Dave G.", "family_name": "Lawson", "image": "https://legis.delaware.gov/images/default-source/default-album/DavidLawson.jpg?sfvrsn=0", "email": "Dave.Lawson@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:51.075681+00:00", "updated_at": "2021-12-16T18:43:53.366291+00:00", "openstates_url": "https://openstates.org/person/dave-g-lawson-25zSF7be9fsOIyEsU02lhD/"}, {"id": "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63", "name": "David L. Wilson", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "18", "division_id": "ocd-division/country:us/state:de/sldu:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "David L.", "family_name": "Wilson", "image": "https://legis.delaware.gov/images/default-source/Legislators/DavidWilson.jpg?sfvrsn=2", "email": "David.L.Wilson@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:41.137753+00:00", "updated_at": "2021-12-16T18:43:43.362222+00:00", "openstates_url": "https://openstates.org/person/david-l-wilson-LNEyLRa6KWqXChgVSMnIJ/"}, {"id": "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d", "name": "David P. Sokola", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "8", "division_id": "ocd-division/country:us/state:de/sldu:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "David P.", "family_name": "Sokola", "image": "https://legis.delaware.gov/images/default-source/Legislators/DavidPSokola.jpg?sfvrsn=2", "email": "David.Sokola@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "President Pro Tempore"}, "created_at": "2018-10-18T14:37:56.260716+00:00", "updated_at": "2021-12-16T18:43:47.987005+00:00", "openstates_url": "https://openstates.org/person/david-p-sokola-17rxiOMBUCZsif4APMOpcj/"}, {"id": "ocd-person/25a1a205-1a7b-4a81-8574-b6d4a98d62da", "name": "Ernesto B. Lopez", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "6", "division_id": "ocd-division/country:us/state:de/sldu:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Ernesto B", "family_name": "Lopez", "image": "https://legis.delaware.gov/images/default-source/default-album/ErnestLopez.jpg?sfvrsn=0", "email": "Ernesto.Lopez@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:42.941658+00:00", "updated_at": "2022-01-11T14:07:39.343378+00:00", "openstates_url": "https://openstates.org/person/ernesto-b-lopez-190a7GbaXY99TnXFzqOmKY/"}, {"id": "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69", "name": "Gerald W. Hocker", "party": "Republican", "current_role": {"title": "Senator", "org_classification": "upper", "district": "20", "division_id": "ocd-division/country:us/state:de/sldu:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Gerald W.", "family_name": "Hocker", "image": "https://legis.delaware.gov/images/default-source/Legislators/GeraldHocker.jpg?sfvrsn=2", "email": "Gerald.Hocker@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "Senate Minority Leader"}, "created_at": "2018-10-18T14:37:49.925744+00:00", "updated_at": "2021-12-16T18:43:46.925972+00:00", "openstates_url": "https://openstates.org/person/gerald-w-hocker-3oZma8IwMxKXGmjDvLnnDN/"}, {"id": "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4", "name": "John \"Jack\" Walsh", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "9", "division_id": "ocd-division/country:us/state:de/sldu:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "John", "family_name": "Walsh", "image": "https://legis.delaware.gov/images/default-source/default-album/JohnWalsh.jpg?sfvrsn=0", "email": "John.Walsh@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:41.841802+00:00", "updated_at": "2021-12-16T18:43:51.362580+00:00", "openstates_url": "https://openstates.org/person/john-jack-walsh-3SEZwvXeYxkeuYm2pzRpRs/"}, {"id": "ocd-person/96f29b7f-bd5a-4a83-8ed0-7a5c6d3c6036", "name": "Kyle Evans Gay", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "5", "division_id": "ocd-division/country:us/state:de/sldu:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "", "family_name": "", "image": "", "email": "Kyle.Gay@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-12-30T06:04:31.446102+00:00", "updated_at": "2021-12-16T18:43:46.403160+00:00", "openstates_url": "https://openstates.org/person/kyle-evans-gay-4apihK3qveCWoakIz0s5jC/"}, {"id": "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03", "name": "Laura V. Sturgeon", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "4", "division_id": "ocd-division/country:us/state:de/sldu:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png", "email": "Laura.Sturgeon@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-10T03:59:46.012323+00:00", "updated_at": "2021-12-16T18:43:49.125531+00:00", "openstates_url": "https://openstates.org/person/laura-v-sturgeon-6q4vBcdqG9FS1o1Zlt7HPP/"}, {"id": "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7", "name": "Marie Pinkney", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "13", "division_id": "ocd-division/country:us/state:de/sldu:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Marie", "family_name": "Pinkney", "image": "", "email": "Marie.Pinkney@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-12-30T06:04:30.822853+00:00", "updated_at": "2021-12-16T18:43:47.129947+00:00", "openstates_url": "https://openstates.org/person/marie-pinkney-7Gnq2DfP7Lax8iosY9U7eB/"}, {"id": "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc", "name": "Nicole Poore", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "12", "division_id": "ocd-division/country:us/state:de/sldu:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Nicole", "family_name": "Poore", "image": "https://legis.delaware.gov/images/default-source/Legislators/NicolePoore.jpg?sfvrsn=2", "email": "Nicole.Poore@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:54.036354+00:00", "updated_at": "2021-12-16T18:43:49.290142+00:00", "openstates_url": "https://openstates.org/person/nicole-poore-2s03CqjAgpbtMuM8MSOmWS/"}, {"id": "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5", "name": "S. Elizabeth Lockman", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "3", "division_id": "ocd-division/country:us/state:de/sldu:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "", "family_name": "", "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png", "email": "Elizabeth.Lockman@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {"title": "Senate Majority Whip"}, "created_at": "2019-01-10T03:59:44.323285+00:00", "updated_at": "2021-12-16T18:43:43.138165+00:00", "openstates_url": "https://openstates.org/person/s-elizabeth-lockman-6AAziEDRqXmPcaqR71DDWf/"}, {"id": "ocd-person/26a4ec3d-4193-47f0-afe3-207e4a15210d", "name": "Sarah McBride", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "1", "division_id": "ocd-division/country:us/state:de/sldu:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Sarah", "family_name": "McBride", "image": "", "email": "Sarah.McBride@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-12-30T06:04:32.036186+00:00", "updated_at": "2021-12-16T18:43:48.365661+00:00", "openstates_url": "https://openstates.org/person/sarah-mcbride-1Av4rDQKEq4UnSuhblGVKf/"}, {"id": "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb", "name": "Spiros Mantzavinos", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "7", "division_id": "ocd-division/country:us/state:de/sldu:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Spiros", "family_name": "Mantzavinos", "image": "", "email": "Spiros.Mantzavinos@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-12-30T06:04:32.725564+00:00", "updated_at": "2021-12-16T18:43:48.912803+00:00", "openstates_url": "https://openstates.org/person/spiros-mantzavinos-4zhudcgcezcYT9Dn8uHSpv/"}, {"id": "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b", "name": "Stephanie L. Hansen", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "10", "division_id": "ocd-division/country:us/state:de/sldu:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Stephanie L.", "family_name": "Hansen", "image": "https://legis.delaware.gov/images/default-source/default-album/Hansen.jpg?sfvrsn=0", "email": "Stephanie.Hansen@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:39.680746+00:00", "updated_at": "2021-12-16T18:43:51.545878+00:00", "openstates_url": "https://openstates.org/person/stephanie-l-hansen-17a5tqMrKUVUpJ5CwvNAjr/"}, {"id": "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d", "name": "Trey Paradee", "party": "Democratic", "current_role": {"title": "Senator", "org_classification": "upper", "district": "17", "division_id": "ocd-division/country:us/state:de/sldu:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:de/government", "name": "Delaware", "classification": "state"}, "given_name": "Trey Charles", "family_name": "Paradee", "image": "https://legis.delaware.gov/images/default-source/default-album/TreyParadee.jpg?sfvrsn=0", "email": "Trey.Paradee@delaware.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:37:51.463640+00:00", "updated_at": "2021-12-16T18:43:49.884497+00:00", "openstates_url": "https://openstates.org/person/trey-paradee-4BumZ63CeCuz10wVdTWfNd/"}]}
+{
+  "timestamp": "11-29-2022 14:56:52",
+  "incumbents": [
+    {
+      "id": "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "name": "Brian Pettyjohn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:de/sldu:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Pettyjohn",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/BrianPettyjohn.jpg?sfvrsn=2",
+      "email": "Brian.Pettyjohn@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Senate Minority Whip" },
+      "created_at": "2018-10-18T14:37:46.431584+00:00",
+      "updated_at": "2021-12-16T18:43:52.270150+00:00",
+      "openstates_url": "https://openstates.org/person/brian-pettyjohn-4EzWSRQl2uqefDVM5tOntb/"
+    },
+    {
+      "id": "ocd-person/f49021dc-a166-4d18-a410-7ec099ef5415",
+      "name": "Bruce C. Ennis",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:de/sldu:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Bruce C.",
+      "family_name": "Ennis",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/BruceCEnnis.jpg?sfvrsn=2",
+      "email": "Bruce.Ennis@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:56.010862+00:00",
+      "updated_at": "2021-12-16T18:43:48.526369+00:00",
+      "openstates_url": "https://openstates.org/person/bruce-c-ennis-7RTzmEC2SHLbpablOYWdbZ/"
+    },
+    {
+      "id": "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "name": "Bryan Townsend",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:de/sldu:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Bryan",
+      "family_name": "Townsend",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/BryanTowsend.jpg?sfvrsn=2",
+      "email": "Bryan.Townsend@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Senate Majority Leader" },
+      "created_at": "2018-10-18T14:37:57.190033+00:00",
+      "updated_at": "2021-12-16T18:43:50.816913+00:00",
+      "openstates_url": "https://openstates.org/person/bryan-townsend-7PCsRIi9bRgHH8wVTHrj3v/"
+    },
+    {
+      "id": "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "name": "Bryant L. Richardson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:de/sldu:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Bryant L.",
+      "family_name": "Richardson",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/BryantRichardson.jpg?sfvrsn=2",
+      "email": "Bryant.Richardson@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:47.903873+00:00",
+      "updated_at": "2021-12-16T18:43:44.808354+00:00",
+      "openstates_url": "https://openstates.org/person/bryant-l-richardson-2k8RdgHS3ubbCaRWPKXDt9/"
+    },
+    {
+      "id": "ocd-person/d8f2f52a-08fe-4179-ae60-665caf38838c",
+      "name": "Colin Bonini",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:de/sldu:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Colin",
+      "family_name": "Bonini",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/ColinBonini.jpg?sfvrsn=2",
+      "email": "Colin.Bonini@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:47.592695+00:00",
+      "updated_at": "2021-12-16T18:43:52.446066+00:00",
+      "openstates_url": "https://openstates.org/person/colin-bonini-6bNNDwgAl2jM2MU8u1CKtw/"
+    },
+    {
+      "id": "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "name": "Darius J. Brown",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:de/sldu:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png",
+      "email": "Darius.Brown@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-10T04:00:02.623220+00:00",
+      "updated_at": "2021-12-16T18:43:52.088429+00:00",
+      "openstates_url": "https://openstates.org/person/darius-j-brown-4Gsm3oVyKGCu3Eh4C5lUy2/"
+    },
+    {
+      "id": "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "name": "Dave G. Lawson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:de/sldu:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Dave G.",
+      "family_name": "Lawson",
+      "image": "https://legis.delaware.gov/images/default-source/default-album/DavidLawson.jpg?sfvrsn=0",
+      "email": "Dave.Lawson@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:51.075681+00:00",
+      "updated_at": "2021-12-16T18:43:53.366291+00:00",
+      "openstates_url": "https://openstates.org/person/dave-g-lawson-25zSF7be9fsOIyEsU02lhD/"
+    },
+    {
+      "id": "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "name": "David L. Wilson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:de/sldu:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "David L.",
+      "family_name": "Wilson",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/DavidWilson.jpg?sfvrsn=2",
+      "email": "David.L.Wilson@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:41.137753+00:00",
+      "updated_at": "2021-12-16T18:43:43.362222+00:00",
+      "openstates_url": "https://openstates.org/person/david-l-wilson-LNEyLRa6KWqXChgVSMnIJ/"
+    },
+    {
+      "id": "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "name": "David P. Sokola",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:de/sldu:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "David P.",
+      "family_name": "Sokola",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/DavidPSokola.jpg?sfvrsn=2",
+      "email": "David.Sokola@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "President Pro Tempore" },
+      "created_at": "2018-10-18T14:37:56.260716+00:00",
+      "updated_at": "2021-12-16T18:43:47.987005+00:00",
+      "openstates_url": "https://openstates.org/person/david-p-sokola-17rxiOMBUCZsif4APMOpcj/"
+    },
+    {
+      "id": "ocd-person/25a1a205-1a7b-4a81-8574-b6d4a98d62da",
+      "name": "Ernesto B. Lopez",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:de/sldu:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Ernesto B",
+      "family_name": "Lopez",
+      "image": "https://legis.delaware.gov/images/default-source/default-album/ErnestLopez.jpg?sfvrsn=0",
+      "email": "Ernesto.Lopez@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:42.941658+00:00",
+      "updated_at": "2022-01-11T14:07:39.343378+00:00",
+      "openstates_url": "https://openstates.org/person/ernesto-b-lopez-190a7GbaXY99TnXFzqOmKY/"
+    },
+    {
+      "id": "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "name": "Gerald W. Hocker",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:de/sldu:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Gerald W.",
+      "family_name": "Hocker",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/GeraldHocker.jpg?sfvrsn=2",
+      "email": "Gerald.Hocker@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Senate Minority Leader" },
+      "created_at": "2018-10-18T14:37:49.925744+00:00",
+      "updated_at": "2021-12-16T18:43:46.925972+00:00",
+      "openstates_url": "https://openstates.org/person/gerald-w-hocker-3oZma8IwMxKXGmjDvLnnDN/"
+    },
+    {
+      "id": "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "name": "John \"Jack\" Walsh",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:de/sldu:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Walsh",
+      "image": "https://legis.delaware.gov/images/default-source/default-album/JohnWalsh.jpg?sfvrsn=0",
+      "email": "John.Walsh@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:41.841802+00:00",
+      "updated_at": "2021-12-16T18:43:51.362580+00:00",
+      "openstates_url": "https://openstates.org/person/john-jack-walsh-3SEZwvXeYxkeuYm2pzRpRs/"
+    },
+    {
+      "id": "ocd-person/96f29b7f-bd5a-4a83-8ed0-7a5c6d3c6036",
+      "name": "Kyle Evans Gay",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:de/sldu:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "",
+      "email": "Kyle.Gay@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-12-30T06:04:31.446102+00:00",
+      "updated_at": "2021-12-16T18:43:46.403160+00:00",
+      "openstates_url": "https://openstates.org/person/kyle-evans-gay-4apihK3qveCWoakIz0s5jC/"
+    },
+    {
+      "id": "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "name": "Laura V. Sturgeon",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:de/sldu:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png",
+      "email": "Laura.Sturgeon@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-10T03:59:46.012323+00:00",
+      "updated_at": "2021-12-16T18:43:49.125531+00:00",
+      "openstates_url": "https://openstates.org/person/laura-v-sturgeon-6q4vBcdqG9FS1o1Zlt7HPP/"
+    },
+    {
+      "id": "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "name": "Marie Pinkney",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:de/sldu:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Marie",
+      "family_name": "Pinkney",
+      "image": "",
+      "email": "Marie.Pinkney@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-12-30T06:04:30.822853+00:00",
+      "updated_at": "2021-12-16T18:43:47.129947+00:00",
+      "openstates_url": "https://openstates.org/person/marie-pinkney-7Gnq2DfP7Lax8iosY9U7eB/"
+    },
+    {
+      "id": "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "name": "Nicole Poore",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:de/sldu:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Nicole",
+      "family_name": "Poore",
+      "image": "https://legis.delaware.gov/images/default-source/Legislators/NicolePoore.jpg?sfvrsn=2",
+      "email": "Nicole.Poore@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:54.036354+00:00",
+      "updated_at": "2021-12-16T18:43:49.290142+00:00",
+      "openstates_url": "https://openstates.org/person/nicole-poore-2s03CqjAgpbtMuM8MSOmWS/"
+    },
+    {
+      "id": "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+      "name": "S. Elizabeth Lockman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:de/sldu:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://legis.delaware.gov/Content/images/placeholder_leg.png",
+      "email": "Elizabeth.Lockman@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Senate Majority Whip" },
+      "created_at": "2019-01-10T03:59:44.323285+00:00",
+      "updated_at": "2021-12-16T18:43:43.138165+00:00",
+      "openstates_url": "https://openstates.org/person/s-elizabeth-lockman-6AAziEDRqXmPcaqR71DDWf/"
+    },
+    {
+      "id": "ocd-person/26a4ec3d-4193-47f0-afe3-207e4a15210d",
+      "name": "Sarah McBride",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:de/sldu:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Sarah",
+      "family_name": "McBride",
+      "image": "",
+      "email": "Sarah.McBride@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-12-30T06:04:32.036186+00:00",
+      "updated_at": "2021-12-16T18:43:48.365661+00:00",
+      "openstates_url": "https://openstates.org/person/sarah-mcbride-1Av4rDQKEq4UnSuhblGVKf/"
+    },
+    {
+      "id": "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+      "name": "Spiros Mantzavinos",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:de/sldu:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Spiros",
+      "family_name": "Mantzavinos",
+      "image": "",
+      "email": "Spiros.Mantzavinos@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-12-30T06:04:32.725564+00:00",
+      "updated_at": "2021-12-16T18:43:48.912803+00:00",
+      "openstates_url": "https://openstates.org/person/spiros-mantzavinos-4zhudcgcezcYT9Dn8uHSpv/"
+    },
+    {
+      "id": "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b",
+      "name": "Stephanie L. Hansen",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:de/sldu:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Stephanie L.",
+      "family_name": "Hansen",
+      "image": "https://legis.delaware.gov/images/default-source/default-album/Hansen.jpg?sfvrsn=0",
+      "email": "Stephanie.Hansen@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:39.680746+00:00",
+      "updated_at": "2021-12-16T18:43:51.545878+00:00",
+      "openstates_url": "https://openstates.org/person/stephanie-l-hansen-17a5tqMrKUVUpJ5CwvNAjr/"
+    },
+    {
+      "id": "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
+      "name": "Trey Paradee",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:de/sldu:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "given_name": "Trey Charles",
+      "family_name": "Paradee",
+      "image": "https://legis.delaware.gov/images/default-source/default-album/TreyParadee.jpg?sfvrsn=0",
+      "email": "Trey.Paradee@delaware.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:37:51.463640+00:00",
+      "updated_at": "2021-12-16T18:43:49.884497+00:00",
+      "openstates_url": "https://openstates.org/person/trey-paradee-4BumZ63CeCuz10wVdTWfNd/"
+    }
+  ]
+}

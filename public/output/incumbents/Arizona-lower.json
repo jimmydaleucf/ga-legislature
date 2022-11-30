@@ -1,1 +1,1625 @@
-{"timestamp": "11-29-2022 14:52:07", "incumbents": [{"id": "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee", "name": "Alma Hernandez", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:az/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Alma", "family_name": "Hernandez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg", "email": "ahernandez@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:25:02.576862+00:00", "updated_at": "2022-10-17T20:02:28.476704+00:00", "openstates_url": "https://openstates.org/person/alma-hernandez-3L3M7kOTW4kkD5VRliuXOw/"}, {"id": "ocd-person/6143aa75-8c8e-4e34-9c6c-810169a81333", "name": "Amish Shah", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:az/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Amish", "family_name": "Shah", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SHAH.jpg", "email": "ashah@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:30.165005+00:00", "updated_at": "2022-10-17T20:02:27.921035+00:00", "openstates_url": "https://openstates.org/person/amish-shah-2xXB6Sdg6fcw6o26ulK0MF/"}, {"id": "ocd-person/cfdc1ced-f218-4381-b6ec-347bc963fd5d", "name": "Andrea Dalessandro", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:az/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Andrea", "family_name": "Dalessandro", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DALESSANDRO.jpg", "email": "adalessandro@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:57.181544+00:00", "updated_at": "2022-10-17T20:02:27.617227+00:00", "openstates_url": "https://openstates.org/person/andrea-dalessandro-6KE0DsbgfqimTnfIrIvnzR/"}, {"id": "ocd-person/bf8c0b1e-77ff-49b8-8837-a82bfec24654", "name": "Andr\u00e9s Cano", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:az/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Andres", "family_name": "Cano", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CANO.jpg", "email": "acano@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:49.917395+00:00", "updated_at": "2022-10-17T20:02:27.880872+00:00", "openstates_url": "https://openstates.org/person/andres-cano-5pRX8Y9EmuGtCuBweZfSvk/"}, {"id": "ocd-person/226f30cc-1c58-49e3-bbf3-5f3713d988a5", "name": "Athena Salman", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:az/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Athena", "family_name": "Salman", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SALMAN.jpg", "email": "asalman@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:46.509480+00:00", "updated_at": "2022-10-17T20:02:28.292793+00:00", "openstates_url": "https://openstates.org/person/athena-salman-12yYJ9emoLOg62dkNl0Vs5/"}, {"id": "ocd-person/6d71c8d3-c677-4f4b-96eb-411fbc464c2c", "name": "Ben Toma", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:az/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Ben", "family_name": "Toma", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/TOMA.jpg", "email": "btoma@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Majority Leader"}, "created_at": "2018-10-18T14:34:48.219811+00:00", "updated_at": "2022-10-17T20:02:27.283770+00:00", "openstates_url": "https://openstates.org/person/ben-toma-3KWA7hkHgsyC3ZxDzTXJGO/"}, {"id": "ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98", "name": "Beverly Pingerelli", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:az/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Beverly", "family_name": "Pingerelli", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PINGERELLI.jpg", "email": "bpingerelli@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:33.120574+00:00", "updated_at": "2022-10-17T20:02:29.670292+00:00", "openstates_url": "https://openstates.org/person/beverly-pingerelli-3dwwTfIvbZM8Gre1coraw4/"}, {"id": "ocd-person/df90b258-b808-46bc-bd70-0cc63a0bb619", "name": "Brenda Barton", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:az/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Brenda", "family_name": "Barton", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BARTON.jpg", "email": "bbarton@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:45.181066+00:00", "updated_at": "2022-10-17T20:02:28.185522+00:00", "openstates_url": "https://openstates.org/person/brenda-barton-6nrPl6M2FZfGP2W0BfZhkn/"}, {"id": "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b", "name": "Brian Fernandez", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:az/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Brian", "family_name": "Fernandez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FERNANDEZ_B.jpg", "email": "bfernandez@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:23.243550+00:00", "updated_at": "2022-10-17T20:02:28.040078+00:00", "openstates_url": "https://openstates.org/person/brian-fernandez-2YmR9bFPbqgI6DgEbzZRk3/"}, {"id": "ocd-person/eb25f84b-434c-440f-8e32-30b870185ef7", "name": "Christian Solorio", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:az/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Christian", "family_name": "Solorio", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SOLORIO.jpg", "email": "csolorio@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:26.029446+00:00", "updated_at": "2022-10-17T20:02:29.558015+00:00", "openstates_url": "https://openstates.org/person/christian-solorio-79iY2rzfXGK5XSOTxEFOkh/"}, {"id": "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd", "name": "Christopher Mathis", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:az/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Christopher", "family_name": "Mathis", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MATHIS.jpg", "email": "cmathis@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:21.242450+00:00", "updated_at": "2022-10-17T20:02:29.430660+00:00", "openstates_url": "https://openstates.org/person/christopher-mathis-5Rd4XIlDSNrB2W1P47txPB/"}, {"id": "ocd-person/ef2d267c-6c9a-4a1b-aa93-d7c942514a5c", "name": "C\u00e9sar Ch\u00e1vez", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:az/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "C\u00e9sar", "family_name": "Ch\u00e1vez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CH\u00c1VEZ.jpg", "email": "cchavez@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:42.718473+00:00", "updated_at": "2022-10-17T20:02:30.685235+00:00", "openstates_url": "https://openstates.org/person/cesar-chavez-7HJnarCfTsLCRsUSJVYxnI/"}, {"id": "ocd-person/bd6b8ff6-3e5d-47bf-be70-1a7df7f5caa6", "name": "Daniel Hernandez, Jr.", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:az/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Daniel", "family_name": "Hernandez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_D.jpg", "email": "dhernandez@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:56.394424+00:00", "updated_at": "2022-10-17T20:02:30.989132+00:00", "openstates_url": "https://openstates.org/person/daniel-hernandez-jr-5lQhlbRNW8g1LfhuyhS2ic/"}, {"id": "ocd-person/b7d285d8-63a8-4e65-8889-2aa064eda4ff", "name": "David L. Cook", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:az/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "David", "family_name": "Cook", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/COOK.jpg", "email": "dcook@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:43.955936+00:00", "updated_at": "2022-10-17T20:02:27.805000+00:00", "openstates_url": "https://openstates.org/person/david-l-cook-5arnua5lJ7FOc7KeIc1qff/"}, {"id": "ocd-person/dbed9b56-00bd-4f80-99a4-38965c13caa8", "name": "Diego Espinoza", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:az/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Diego", "family_name": "Espinoza", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ESPINOZA.jpg", "email": "despinoza@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:51.074617+00:00", "updated_at": "2022-10-17T20:02:29.273817+00:00", "openstates_url": "https://openstates.org/person/diego-espinoza-6gzuBToadmyNytZ81rXkka/"}, {"id": "ocd-person/b4d08028-9e26-4e14-88ea-837ca9c0fdeb", "name": "Domingo DeGrazia", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:az/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Domingo", "family_name": "DeGrazia", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DEGRAZIA.jpg", "email": "ddegrazia@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Minority Whip"}, "created_at": "2019-01-05T07:24:40.635076+00:00", "updated_at": "2022-10-17T20:02:28.733333+00:00", "openstates_url": "https://openstates.org/person/domingo-degrazia-5VBu2cNq3kr6GiMTlPm6tH/"}, {"id": "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d", "name": "Frank P Carroll", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:az/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Frank", "family_name": "Carroll", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARROLL.jpg", "email": "fcarroll@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:25:10.454506+00:00", "updated_at": "2022-10-17T20:02:30.089933+00:00", "openstates_url": "https://openstates.org/person/frank-p-carroll-7dEOYHKVsfPKTQ89jHVvZd/"}, {"id": "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed", "name": "Gail Griffin", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:az/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Gail", "family_name": "Griffin", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg", "email": "ggriffin@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:51.652538+00:00", "updated_at": "2022-10-17T20:02:30.251301+00:00", "openstates_url": "https://openstates.org/person/gail-griffin-v280V1XoGdXFQd17GVkgX/"}, {"id": "ocd-person/02d71038-e99b-4bbc-babd-d1de68f189f1", "name": "Jacqueline Parker", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:az/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jacqueline", "family_name": "Parker", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PARKER.jpg", "email": "jparker@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:29.307233+00:00", "updated_at": "2022-10-17T20:02:30.536776+00:00", "openstates_url": "https://openstates.org/person/jacqueline-parker-5MGfbXzvvDHFDXMwcEMC1/"}, {"id": "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05", "name": "Jake Hoffman", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:az/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jake", "family_name": "Hoffman", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HOFFMAN.jpg", "email": "jake.hoffman@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:32.135977+00:00", "updated_at": "2022-10-17T20:02:30.015953+00:00", "openstates_url": "https://openstates.org/person/jake-hoffman-1dpTu4VyOpI61la6NgurmH/"}, {"id": "ocd-person/ddfb82b8-181f-4901-b453-ec910f062de5", "name": "Jasmine Blackwater-Nygren", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:az/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jasmine", "family_name": "Blackwater-Nygren", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKWATER-NYGR.jpg", "email": "jblackwater-nygren@azleg.gov", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:24.803066+00:00", "updated_at": "2022-01-05T22:10:24.943127+00:00", "openstates_url": "https://openstates.org/person/jasmine-blackwater-nygren-6ksFBXuExuPwE4dyoWS8l3/"}, {"id": "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce", "name": "Jeff Weninger", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:az/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jeff", "family_name": "Weninger", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WENINGER.jpg", "email": "jweninger@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:58.951878+00:00", "updated_at": "2022-10-17T20:02:29.804168+00:00", "openstates_url": "https://openstates.org/person/jeff-weninger-6lvWNbZdiBCNHCaDVo49kc/"}, {"id": "ocd-person/96b48d34-f7a5-49bb-990b-99c318e19d64", "name": "Jennifer Jermaine", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:az/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jennifer", "family_name": "Jermaine", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/JERMAINE.jpg", "email": "jjermaine@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:24.673188+00:00", "updated_at": "2022-10-17T20:02:27.538806+00:00", "openstates_url": "https://openstates.org/person/jennifer-jermaine-4aNMP30xXLCZDVxzcAqK0K/"}, {"id": "ocd-person/b4ba9e54-93fb-4fa2-899a-8eb47b615215", "name": "Jennifer L. Longdon", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:az/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jennifer", "family_name": "Longdon", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LONGDON.jpg", "email": "jlongdon@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"title": "Assistant Minority Leader"}, "created_at": "2019-01-05T07:25:21.673109+00:00", "updated_at": "2022-10-17T20:02:29.236802+00:00", "openstates_url": "https://openstates.org/person/jennifer-l-longdon-5V1u1yeOPXpxcDHQ4PvWon/"}, {"id": "ocd-person/3bdf978d-8979-4379-95b3-7a4d4cc770ce", "name": "Jennifer Pawlik", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:az/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Jennifer", "family_name": "Pawlik", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAWLIK.jpg", "email": "jpawlik@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:25:08.621828+00:00", "updated_at": "2022-10-17T20:02:29.312869+00:00", "openstates_url": "https://openstates.org/person/jennifer-pawlik-1oyjCkVyDVuUV7GL0MnUsg/"}, {"id": "ocd-person/dff5bfa2-8685-46cd-a9df-b310f7924c3d", "name": "Joanne Osborne", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:az/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Joanne", "family_name": "Osborne", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/OSBORNE.jpg", "email": "josborne@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:46.806143+00:00", "updated_at": "2022-10-17T20:02:27.379052+00:00", "openstates_url": "https://openstates.org/person/joanne-osborne-6obayI9sou28WISojIFUsf/"}, {"id": "ocd-person/9309001a-abdc-405b-a911-c3d26c016462", "name": "Joel John", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:az/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Joel", "family_name": "John", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/JOHN.jpg", "email": "jjohn@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:32.733620+00:00", "updated_at": "2022-10-17T20:02:29.087872+00:00", "openstates_url": "https://openstates.org/person/joel-john-4TRz5M7dhA9UJhrHOAJ6Mk/"}, {"id": "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea", "name": "John Kavanagh", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:az/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "John", "family_name": "Kavanagh", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg", "email": "jkavanagh@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:50.293285+00:00", "updated_at": "2022-10-17T20:02:30.212079+00:00", "openstates_url": "https://openstates.org/person/john-kavanagh-5XZrRnjM7pNi9assO4Lmry/"}, {"id": "ocd-person/bb0869c0-43d2-4a04-8199-143e80f9e6b2", "name": "John M. Fillmore", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:az/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "John", "family_name": "Fillmore", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FILLMORE.jpg", "email": "jfillmore@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:55.272067+00:00", "updated_at": "2022-10-17T20:02:30.495242+00:00", "openstates_url": "https://openstates.org/person/john-m-fillmore-5gvPPo1vnVKw8W1y56ye70/"}, {"id": "ocd-person/2cfee9f0-0fab-418e-b14e-0e001a1414fa", "name": "Joseph Chaplik", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:az/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Joseph", "family_name": "Chaplik", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CHAPLIK.jpg", "email": "jchaplik@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:27.209409+00:00", "updated_at": "2022-10-17T20:02:29.054561+00:00", "openstates_url": "https://openstates.org/person/joseph-chaplik-1Mu9oc64oXmmLrVfgNMDxy/"}, {"id": "ocd-person/e467055b-a818-4f9a-b2ea-3c6502f4ba22", "name": "Judy M. Burges", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:az/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Judy", "family_name": "Burges", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BURGES.jpg", "email": "jburges@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:56.982250+00:00", "updated_at": "2022-10-17T20:02:29.159596+00:00", "openstates_url": "https://openstates.org/person/judy-m-burges-6wzKXK1YSW4xe7uHCZYxko/"}, {"id": "ocd-person/8e5bee66-d53d-4167-b9a8-de8f54145bf2", "name": "Judy Schwiebert", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:az/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Judy", "family_name": "Schwiebert", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SCHWIEBERT.jpg", "email": "jschwiebert@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:31.270806+00:00", "updated_at": "2022-10-17T20:02:29.520132+00:00", "openstates_url": "https://openstates.org/person/judy-schwiebert-4KcvEWdBxICp50OVRdCHY2/"}, {"id": "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869", "name": "Justin Wilmeth", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:az/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Justin", "family_name": "Wilmeth", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg", "email": "jwilmeth@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:26.474099+00:00", "updated_at": "2022-10-17T20:02:30.647190+00:00", "openstates_url": "https://openstates.org/person/justin-wilmeth-1Bdr30mM3xikh22nH1S54D/"}, {"id": "ocd-person/5dfd7510-6a5f-430c-a552-0e81227f0735", "name": "Kelli Butler", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:az/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Kelli", "family_name": "Butler", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BUTLER.jpg", "email": "kbutler@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:47.434443+00:00", "updated_at": "2022-10-17T20:02:30.339117+00:00", "openstates_url": "https://openstates.org/person/kelli-butler-2rM7EdYeCb7S0w5oemt4vF/"}, {"id": "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff", "name": "Kevin Payne", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:az/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Kevin", "family_name": "Payne", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg", "email": "kpayne@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:59.788545+00:00", "updated_at": "2022-10-17T20:02:29.391992+00:00", "openstates_url": "https://openstates.org/person/kevin-payne-2Htuawha9kvWDU4z7pFmLH/"}, {"id": "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022", "name": "Leo Biasiucci", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:az/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Leo", "family_name": "Biasiucci", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BIASIUCCI.jpg", "email": "lbiasiucci@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Majority Whip"}, "created_at": "2019-01-05T07:24:47.491362+00:00", "updated_at": "2022-10-17T20:02:27.499441+00:00", "openstates_url": "https://openstates.org/person/leo-biasiucci-22rIT6emzbDZ1QsuRyX1Fa/"}, {"id": "ocd-person/4507941a-0263-4f8a-8fb2-13a9ab049fac", "name": "Lorenzo Sierra", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:az/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Lorenzo", "family_name": "Sierra", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SIERRA.jpg", "email": "lsierra@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:58.058327+00:00", "updated_at": "2022-10-17T20:02:28.944841+00:00", "openstates_url": "https://openstates.org/person/lorenzo-sierra-26Fvu7vR34tYkKxA9CMME0/"}, {"id": "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5", "name": "Lupe Diaz", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:az/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Lupe", "family_name": "Diaz", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg", "email": "ldiaz@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:22.893857+00:00", "updated_at": "2022-10-17T20:02:30.292532+00:00", "openstates_url": "https://openstates.org/person/lupe-diaz-5jMT5DnBxQnibCSE0xDssn/"}, {"id": "ocd-person/5b93277b-9bb5-47e6-93e0-f75cb742b2d7", "name": "Marcelino Qui\u00f1onez", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:az/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Marcelino", "family_name": "Qui\u00f1onez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/QUI\u00d1ONEZ.jpg", "email": "mquinonez@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:14.341124+00:00", "updated_at": "2022-10-17T20:02:27.461457+00:00", "openstates_url": "https://openstates.org/person/marcelino-quinonez-2mnYBgRZK7SF3Lt3b032oh/"}, {"id": "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08", "name": "Mark W. Finchem", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:az/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Mark", "family_name": "Finchem", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FINCHEM.jpg", "email": "mfinchem@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:59.153127+00:00", "updated_at": "2022-10-17T20:02:28.596709+00:00", "openstates_url": "https://openstates.org/person/mark-w-finchem-3d1xAGBvCJ24J1nVX8StUe/"}, {"id": "ocd-person/6f247e22-b02f-45f9-9b2c-27e507928c0e", "name": "Melody Hernandez", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:az/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Melody", "family_name": "Hernandez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_M.jpg", "email": "mhernandez@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:26.988897+00:00", "updated_at": "2022-10-17T20:02:28.690279+00:00", "openstates_url": "https://openstates.org/person/melody-hernandez-3NipBH1wxaSz3ZrNkKtogI/"}, {"id": "ocd-person/3f186f00-1fbe-4491-8987-637a7fd59677", "name": "Michelle Udall", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:az/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Michelle", "family_name": "Udall", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/UDALL.jpg", "email": "mudall@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:43.042541+00:00", "updated_at": "2022-10-17T20:02:30.051379+00:00", "openstates_url": "https://openstates.org/person/michelle-udall-1v3gKcgKbSJGRlGruPQ6QJ/"}, {"id": "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d", "name": "Mitzi Epstein", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:az/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Mitzi", "family_name": "Epstein", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/EPSTEIN.jpg", "email": "mepstein@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:45.575222+00:00", "updated_at": "2022-10-17T20:02:29.593869+00:00", "openstates_url": "https://openstates.org/person/mitzi-epstein-7J2pagnP5Iqypo4Ysv58gf/"}, {"id": "ocd-person/f1f94d3e-134b-4f6d-8917-29e66228383b", "name": "Morgan Abraham", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:az/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Morgan", "family_name": "Abraham", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ABRAHAM.jpg", "email": "mabraham@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:17.121921+00:00", "updated_at": "2022-10-17T20:02:28.114551+00:00", "openstates_url": "https://openstates.org/person/morgan-abraham-7Mb55FmbpbWjc85BvofGvr/"}, {"id": "ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87", "name": "Myron Tsosie", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:az/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Myron", "family_name": "Tsosie", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/TSOSIE.jpg", "email": "mtsosie@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:36.843360+00:00", "updated_at": "2022-10-17T20:02:28.901777+00:00", "openstates_url": "https://openstates.org/person/myron-tsosie-4zsAU62dgrmET15TT1LFyx/"}, {"id": "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd", "name": "Neal Carter", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:az/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Neal", "family_name": "Carter", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARTER.jpg", "email": "ncarter@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:20.845631+00:00", "updated_at": "2022-10-17T20:02:28.649934+00:00", "openstates_url": "https://openstates.org/person/neal-carter-jBzrpTvlfLrrV19PatlXR/"}, {"id": "ocd-person/8a2ae29c-b83a-4f0f-8920-168b3b16ff64", "name": "Pamela Powers Hannley", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:az/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Pamela", "family_name": "Powers Hannley", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/POWERS_HANNLEY.jpg", "email": "ppowershannley@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:43.221198+00:00", "updated_at": "2022-10-17T20:02:30.719557+00:00", "openstates_url": "https://openstates.org/person/pamela-powers-hannley-4CiXSfhBEWOOyAe5gcyQAG/"}, {"id": "ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668", "name": "Quang H. Nguyen", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:az/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Quang", "family_name": "Nguyen", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg", "email": "qnguyen@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:28.797887+00:00", "updated_at": "2022-10-17T20:02:30.375400+00:00", "openstates_url": "https://openstates.org/person/quang-h-nguyen-51IirSS8xm5gizZbdcNr0C/"}, {"id": "ocd-person/c1216de5-2070-43b3-8398-7cf074dbf336", "name": "Regina E. Cobb", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:az/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Regina", "family_name": "Cobb", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/COBB.jpg", "email": "rcobb@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:52.254705+00:00", "updated_at": "2022-10-17T20:02:28.416673+00:00", "openstates_url": "https://openstates.org/person/regina-e-cobb-5sQnN5xEDsO018uz6Eh4PG/"}, {"id": "ocd-person/97d71f2f-9518-43fa-8076-5a78809563ff", "name": "Reginald Bolding, Jr.", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:az/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Reginald", "family_name": "Bolding", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLDING.jpg", "email": "rbolding@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Minority Leader"}, "created_at": "2018-10-18T14:34:51.264142+00:00", "updated_at": "2022-10-17T20:02:28.228886+00:00", "openstates_url": "https://openstates.org/person/reginald-bolding-jr-4cW9RWSJqGG1SdcMkvAyw3/"}, {"id": "ocd-person/1d93637d-3a04-4e84-99f0-e137297314cb", "name": "Richard C. Andrade", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:az/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Richard", "family_name": "Andrade", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ANDRADE.jpg", "email": "randrade@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:46.316862+00:00", "updated_at": "2022-10-17T20:02:30.416705+00:00", "openstates_url": "https://openstates.org/person/richard-c-andrade-to8K9OIR7RccaPiVwnG3P/"}, {"id": "ocd-person/2c613dd5-3f19-46ab-b095-be2ba2a9d44a", "name": "Robert Meza", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:az/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Robert", "family_name": "Meza", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MEZA.jpg", "email": "rmeza@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:49.581496+00:00", "updated_at": "2022-10-17T20:02:28.856899+00:00", "openstates_url": "https://openstates.org/person/robert-meza-1Lk6Jfzn42toDOqwoi1auo/"}, {"id": "ocd-person/b9343c4d-9f9b-4bbd-ba02-06fbb1b09a22", "name": "Russell \"Rusty\" Bowers", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:az/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Russell", "family_name": "Bowers", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOWERS.jpg", "email": "rbowers@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Speaker"}, "created_at": "2018-10-18T14:34:58.540448+00:00", "updated_at": "2022-10-17T20:02:30.458714+00:00", "openstates_url": "https://openstates.org/person/russell-rusty-bowers-5dTS2IHgyWMJkhKwZGfodG/"}, {"id": "ocd-person/f62fec81-65ec-4893-aa8a-ea6b7c8b8df8", "name": "Sarah Liguori", "party": "Democratic", "current_role": {"title": "Representative", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:az/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Sarah", "family_name": "Liguori", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LIGUORI.jpg", "email": "sliguori@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:24.658471+00:00", "updated_at": "2022-10-17T20:02:30.753140+00:00", "openstates_url": "https://openstates.org/person/sarah-liguori-7UY0qet2YnjMNVUlDx0rQ8/"}, {"id": "ocd-person/33c76d31-65d6-4072-9d30-c1b292a7bb52", "name": "Shawnna Bolick", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:az/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Shawnna", "family_name": "Bolick", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg", "email": "sbolick@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:55.965068+00:00", "updated_at": "2022-10-17T20:02:30.571063+00:00", "openstates_url": "https://openstates.org/person/shawnna-bolick-1ZhkIv3yQiMBogHtD8WBrm/"}, {"id": "ocd-person/8750015c-a9dc-4eac-951d-7f7b51abd3e7", "name": "Steve Kaiser", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:az/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Steve", "family_name": "Kaiser", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAISER.jpg", "email": "skaiser@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-01-12T00:04:30.610848+00:00", "updated_at": "2022-10-17T20:02:28.148827+00:00", "openstates_url": "https://openstates.org/person/steve-kaiser-47KWeXo5nsPi1tc0yIFD2F/"}, {"id": "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe", "name": "Teresa Martinez", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:az/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Teresa", "family_name": "Martinez", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MARTINEZ.jpg", "email": "tmartinez@azleg.gov", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-05T22:10:18.047750+00:00", "updated_at": "2022-10-17T20:02:28.002789+00:00", "openstates_url": "https://openstates.org/person/teresa-martinez-TXruHAQJ9vsIgr2PfCBNm/"}, {"id": "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd", "name": "Tim Dunn", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:az/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Timothy", "family_name": "Dunn", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg", "email": "tdunn@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:34:44.541571+00:00", "updated_at": "2022-10-17T20:02:29.198746+00:00", "openstates_url": "https://openstates.org/person/tim-dunn-LnAWMAUeGss3wAQz5NIXF/"}, {"id": "ocd-person/f94da191-f569-4d35-a9d4-edb04a1efc02", "name": "Travis Grantham", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:az/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Travis", "family_name": "Grantham", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRANTHAM.jpg", "email": "tgrantham@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"title": "Speaker Pro Tempore"}, "created_at": "2018-10-18T14:34:55.607183+00:00", "updated_at": "2022-10-17T20:02:30.174095+00:00", "openstates_url": "https://openstates.org/person/travis-grantham-7aQZ9LISS4usA358TNHJnG/"}, {"id": "ocd-person/1ae813e7-9fa6-4940-bfc1-4997dbbc7918", "name": "Walter \"Walt\" Blackman", "party": "Republican", "current_role": {"title": "Representative", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:az/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:az/government", "name": "Arizona", "classification": "state"}, "given_name": "Walter", "family_name": "Blackman", "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKMAN.jpg", "email": "wblackman@azleg.gov", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2019-01-05T07:24:28.899525+00:00", "updated_at": "2022-10-17T20:02:30.914319+00:00", "openstates_url": "https://openstates.org/person/walter-walt-blackman-olrL71Gyz2dLF0DemAO3E/"}]}
+{
+  "timestamp": "11-29-2022 14:52:07",
+  "incumbents": [
+    {
+      "id": "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee",
+      "name": "Alma Hernandez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:az/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Alma",
+      "family_name": "Hernandez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg",
+      "email": "ahernandez@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:25:02.576862+00:00",
+      "updated_at": "2022-10-17T20:02:28.476704+00:00",
+      "openstates_url": "https://openstates.org/person/alma-hernandez-3L3M7kOTW4kkD5VRliuXOw/"
+    },
+    {
+      "id": "ocd-person/6143aa75-8c8e-4e34-9c6c-810169a81333",
+      "name": "Amish Shah",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:az/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Amish",
+      "family_name": "Shah",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SHAH.jpg",
+      "email": "ashah@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:30.165005+00:00",
+      "updated_at": "2022-10-17T20:02:27.921035+00:00",
+      "openstates_url": "https://openstates.org/person/amish-shah-2xXB6Sdg6fcw6o26ulK0MF/"
+    },
+    {
+      "id": "ocd-person/cfdc1ced-f218-4381-b6ec-347bc963fd5d",
+      "name": "Andrea Dalessandro",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:az/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Andrea",
+      "family_name": "Dalessandro",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DALESSANDRO.jpg",
+      "email": "adalessandro@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:57.181544+00:00",
+      "updated_at": "2022-10-17T20:02:27.617227+00:00",
+      "openstates_url": "https://openstates.org/person/andrea-dalessandro-6KE0DsbgfqimTnfIrIvnzR/"
+    },
+    {
+      "id": "ocd-person/bf8c0b1e-77ff-49b8-8837-a82bfec24654",
+      "name": "Andr\u00e9s Cano",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:az/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Andres",
+      "family_name": "Cano",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CANO.jpg",
+      "email": "acano@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:49.917395+00:00",
+      "updated_at": "2022-10-17T20:02:27.880872+00:00",
+      "openstates_url": "https://openstates.org/person/andres-cano-5pRX8Y9EmuGtCuBweZfSvk/"
+    },
+    {
+      "id": "ocd-person/226f30cc-1c58-49e3-bbf3-5f3713d988a5",
+      "name": "Athena Salman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:az/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Athena",
+      "family_name": "Salman",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SALMAN.jpg",
+      "email": "asalman@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:46.509480+00:00",
+      "updated_at": "2022-10-17T20:02:28.292793+00:00",
+      "openstates_url": "https://openstates.org/person/athena-salman-12yYJ9emoLOg62dkNl0Vs5/"
+    },
+    {
+      "id": "ocd-person/6d71c8d3-c677-4f4b-96eb-411fbc464c2c",
+      "name": "Ben Toma",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:az/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Ben",
+      "family_name": "Toma",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/TOMA.jpg",
+      "email": "btoma@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Majority Leader" },
+      "created_at": "2018-10-18T14:34:48.219811+00:00",
+      "updated_at": "2022-10-17T20:02:27.283770+00:00",
+      "openstates_url": "https://openstates.org/person/ben-toma-3KWA7hkHgsyC3ZxDzTXJGO/"
+    },
+    {
+      "id": "ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98",
+      "name": "Beverly Pingerelli",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:az/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Beverly",
+      "family_name": "Pingerelli",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PINGERELLI.jpg",
+      "email": "bpingerelli@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:33.120574+00:00",
+      "updated_at": "2022-10-17T20:02:29.670292+00:00",
+      "openstates_url": "https://openstates.org/person/beverly-pingerelli-3dwwTfIvbZM8Gre1coraw4/"
+    },
+    {
+      "id": "ocd-person/df90b258-b808-46bc-bd70-0cc63a0bb619",
+      "name": "Brenda Barton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:az/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Brenda",
+      "family_name": "Barton",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BARTON.jpg",
+      "email": "bbarton@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:45.181066+00:00",
+      "updated_at": "2022-10-17T20:02:28.185522+00:00",
+      "openstates_url": "https://openstates.org/person/brenda-barton-6nrPl6M2FZfGP2W0BfZhkn/"
+    },
+    {
+      "id": "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "name": "Brian Fernandez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:az/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Fernandez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FERNANDEZ_B.jpg",
+      "email": "bfernandez@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:23.243550+00:00",
+      "updated_at": "2022-10-17T20:02:28.040078+00:00",
+      "openstates_url": "https://openstates.org/person/brian-fernandez-2YmR9bFPbqgI6DgEbzZRk3/"
+    },
+    {
+      "id": "ocd-person/eb25f84b-434c-440f-8e32-30b870185ef7",
+      "name": "Christian Solorio",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:az/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Christian",
+      "family_name": "Solorio",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SOLORIO.jpg",
+      "email": "csolorio@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:26.029446+00:00",
+      "updated_at": "2022-10-17T20:02:29.558015+00:00",
+      "openstates_url": "https://openstates.org/person/christian-solorio-79iY2rzfXGK5XSOTxEFOkh/"
+    },
+    {
+      "id": "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "name": "Christopher Mathis",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:az/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Christopher",
+      "family_name": "Mathis",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MATHIS.jpg",
+      "email": "cmathis@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:21.242450+00:00",
+      "updated_at": "2022-10-17T20:02:29.430660+00:00",
+      "openstates_url": "https://openstates.org/person/christopher-mathis-5Rd4XIlDSNrB2W1P47txPB/"
+    },
+    {
+      "id": "ocd-person/ef2d267c-6c9a-4a1b-aa93-d7c942514a5c",
+      "name": "C\u00e9sar Ch\u00e1vez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:az/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "C\u00e9sar",
+      "family_name": "Ch\u00e1vez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CH\u00c1VEZ.jpg",
+      "email": "cchavez@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:42.718473+00:00",
+      "updated_at": "2022-10-17T20:02:30.685235+00:00",
+      "openstates_url": "https://openstates.org/person/cesar-chavez-7HJnarCfTsLCRsUSJVYxnI/"
+    },
+    {
+      "id": "ocd-person/bd6b8ff6-3e5d-47bf-be70-1a7df7f5caa6",
+      "name": "Daniel Hernandez, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:az/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Daniel",
+      "family_name": "Hernandez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_D.jpg",
+      "email": "dhernandez@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:56.394424+00:00",
+      "updated_at": "2022-10-17T20:02:30.989132+00:00",
+      "openstates_url": "https://openstates.org/person/daniel-hernandez-jr-5lQhlbRNW8g1LfhuyhS2ic/"
+    },
+    {
+      "id": "ocd-person/b7d285d8-63a8-4e65-8889-2aa064eda4ff",
+      "name": "David L. Cook",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:az/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Cook",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/COOK.jpg",
+      "email": "dcook@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:43.955936+00:00",
+      "updated_at": "2022-10-17T20:02:27.805000+00:00",
+      "openstates_url": "https://openstates.org/person/david-l-cook-5arnua5lJ7FOc7KeIc1qff/"
+    },
+    {
+      "id": "ocd-person/dbed9b56-00bd-4f80-99a4-38965c13caa8",
+      "name": "Diego Espinoza",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:az/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Diego",
+      "family_name": "Espinoza",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ESPINOZA.jpg",
+      "email": "despinoza@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:51.074617+00:00",
+      "updated_at": "2022-10-17T20:02:29.273817+00:00",
+      "openstates_url": "https://openstates.org/person/diego-espinoza-6gzuBToadmyNytZ81rXkka/"
+    },
+    {
+      "id": "ocd-person/b4d08028-9e26-4e14-88ea-837ca9c0fdeb",
+      "name": "Domingo DeGrazia",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:az/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Domingo",
+      "family_name": "DeGrazia",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DEGRAZIA.jpg",
+      "email": "ddegrazia@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Minority Whip" },
+      "created_at": "2019-01-05T07:24:40.635076+00:00",
+      "updated_at": "2022-10-17T20:02:28.733333+00:00",
+      "openstates_url": "https://openstates.org/person/domingo-degrazia-5VBu2cNq3kr6GiMTlPm6tH/"
+    },
+    {
+      "id": "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "name": "Frank P Carroll",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:az/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Frank",
+      "family_name": "Carroll",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARROLL.jpg",
+      "email": "fcarroll@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:25:10.454506+00:00",
+      "updated_at": "2022-10-17T20:02:30.089933+00:00",
+      "openstates_url": "https://openstates.org/person/frank-p-carroll-7dEOYHKVsfPKTQ89jHVvZd/"
+    },
+    {
+      "id": "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "name": "Gail Griffin",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:az/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Gail",
+      "family_name": "Griffin",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg",
+      "email": "ggriffin@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:51.652538+00:00",
+      "updated_at": "2022-10-17T20:02:30.251301+00:00",
+      "openstates_url": "https://openstates.org/person/gail-griffin-v280V1XoGdXFQd17GVkgX/"
+    },
+    {
+      "id": "ocd-person/02d71038-e99b-4bbc-babd-d1de68f189f1",
+      "name": "Jacqueline Parker",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:az/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jacqueline",
+      "family_name": "Parker",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PARKER.jpg",
+      "email": "jparker@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:29.307233+00:00",
+      "updated_at": "2022-10-17T20:02:30.536776+00:00",
+      "openstates_url": "https://openstates.org/person/jacqueline-parker-5MGfbXzvvDHFDXMwcEMC1/"
+    },
+    {
+      "id": "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05",
+      "name": "Jake Hoffman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:az/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jake",
+      "family_name": "Hoffman",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HOFFMAN.jpg",
+      "email": "jake.hoffman@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:32.135977+00:00",
+      "updated_at": "2022-10-17T20:02:30.015953+00:00",
+      "openstates_url": "https://openstates.org/person/jake-hoffman-1dpTu4VyOpI61la6NgurmH/"
+    },
+    {
+      "id": "ocd-person/ddfb82b8-181f-4901-b453-ec910f062de5",
+      "name": "Jasmine Blackwater-Nygren",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:az/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jasmine",
+      "family_name": "Blackwater-Nygren",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKWATER-NYGR.jpg",
+      "email": "jblackwater-nygren@azleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:24.803066+00:00",
+      "updated_at": "2022-01-05T22:10:24.943127+00:00",
+      "openstates_url": "https://openstates.org/person/jasmine-blackwater-nygren-6ksFBXuExuPwE4dyoWS8l3/"
+    },
+    {
+      "id": "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "name": "Jeff Weninger",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:az/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jeff",
+      "family_name": "Weninger",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WENINGER.jpg",
+      "email": "jweninger@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:58.951878+00:00",
+      "updated_at": "2022-10-17T20:02:29.804168+00:00",
+      "openstates_url": "https://openstates.org/person/jeff-weninger-6lvWNbZdiBCNHCaDVo49kc/"
+    },
+    {
+      "id": "ocd-person/96b48d34-f7a5-49bb-990b-99c318e19d64",
+      "name": "Jennifer Jermaine",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:az/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jennifer",
+      "family_name": "Jermaine",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/JERMAINE.jpg",
+      "email": "jjermaine@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:24.673188+00:00",
+      "updated_at": "2022-10-17T20:02:27.538806+00:00",
+      "openstates_url": "https://openstates.org/person/jennifer-jermaine-4aNMP30xXLCZDVxzcAqK0K/"
+    },
+    {
+      "id": "ocd-person/b4ba9e54-93fb-4fa2-899a-8eb47b615215",
+      "name": "Jennifer L. Longdon",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:az/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jennifer",
+      "family_name": "Longdon",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LONGDON.jpg",
+      "email": "jlongdon@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Assistant Minority Leader" },
+      "created_at": "2019-01-05T07:25:21.673109+00:00",
+      "updated_at": "2022-10-17T20:02:29.236802+00:00",
+      "openstates_url": "https://openstates.org/person/jennifer-l-longdon-5V1u1yeOPXpxcDHQ4PvWon/"
+    },
+    {
+      "id": "ocd-person/3bdf978d-8979-4379-95b3-7a4d4cc770ce",
+      "name": "Jennifer Pawlik",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:az/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Jennifer",
+      "family_name": "Pawlik",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAWLIK.jpg",
+      "email": "jpawlik@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:25:08.621828+00:00",
+      "updated_at": "2022-10-17T20:02:29.312869+00:00",
+      "openstates_url": "https://openstates.org/person/jennifer-pawlik-1oyjCkVyDVuUV7GL0MnUsg/"
+    },
+    {
+      "id": "ocd-person/dff5bfa2-8685-46cd-a9df-b310f7924c3d",
+      "name": "Joanne Osborne",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:az/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Joanne",
+      "family_name": "Osborne",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/OSBORNE.jpg",
+      "email": "josborne@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:46.806143+00:00",
+      "updated_at": "2022-10-17T20:02:27.379052+00:00",
+      "openstates_url": "https://openstates.org/person/joanne-osborne-6obayI9sou28WISojIFUsf/"
+    },
+    {
+      "id": "ocd-person/9309001a-abdc-405b-a911-c3d26c016462",
+      "name": "Joel John",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:az/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Joel",
+      "family_name": "John",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/JOHN.jpg",
+      "email": "jjohn@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:32.733620+00:00",
+      "updated_at": "2022-10-17T20:02:29.087872+00:00",
+      "openstates_url": "https://openstates.org/person/joel-john-4TRz5M7dhA9UJhrHOAJ6Mk/"
+    },
+    {
+      "id": "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "name": "John Kavanagh",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:az/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Kavanagh",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg",
+      "email": "jkavanagh@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:50.293285+00:00",
+      "updated_at": "2022-10-17T20:02:30.212079+00:00",
+      "openstates_url": "https://openstates.org/person/john-kavanagh-5XZrRnjM7pNi9assO4Lmry/"
+    },
+    {
+      "id": "ocd-person/bb0869c0-43d2-4a04-8199-143e80f9e6b2",
+      "name": "John M. Fillmore",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:az/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Fillmore",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FILLMORE.jpg",
+      "email": "jfillmore@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:55.272067+00:00",
+      "updated_at": "2022-10-17T20:02:30.495242+00:00",
+      "openstates_url": "https://openstates.org/person/john-m-fillmore-5gvPPo1vnVKw8W1y56ye70/"
+    },
+    {
+      "id": "ocd-person/2cfee9f0-0fab-418e-b14e-0e001a1414fa",
+      "name": "Joseph Chaplik",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:az/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Joseph",
+      "family_name": "Chaplik",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CHAPLIK.jpg",
+      "email": "jchaplik@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:27.209409+00:00",
+      "updated_at": "2022-10-17T20:02:29.054561+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-chaplik-1Mu9oc64oXmmLrVfgNMDxy/"
+    },
+    {
+      "id": "ocd-person/e467055b-a818-4f9a-b2ea-3c6502f4ba22",
+      "name": "Judy M. Burges",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:az/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Judy",
+      "family_name": "Burges",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BURGES.jpg",
+      "email": "jburges@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:56.982250+00:00",
+      "updated_at": "2022-10-17T20:02:29.159596+00:00",
+      "openstates_url": "https://openstates.org/person/judy-m-burges-6wzKXK1YSW4xe7uHCZYxko/"
+    },
+    {
+      "id": "ocd-person/8e5bee66-d53d-4167-b9a8-de8f54145bf2",
+      "name": "Judy Schwiebert",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:az/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Judy",
+      "family_name": "Schwiebert",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SCHWIEBERT.jpg",
+      "email": "jschwiebert@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:31.270806+00:00",
+      "updated_at": "2022-10-17T20:02:29.520132+00:00",
+      "openstates_url": "https://openstates.org/person/judy-schwiebert-4KcvEWdBxICp50OVRdCHY2/"
+    },
+    {
+      "id": "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "name": "Justin Wilmeth",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:az/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Justin",
+      "family_name": "Wilmeth",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg",
+      "email": "jwilmeth@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:26.474099+00:00",
+      "updated_at": "2022-10-17T20:02:30.647190+00:00",
+      "openstates_url": "https://openstates.org/person/justin-wilmeth-1Bdr30mM3xikh22nH1S54D/"
+    },
+    {
+      "id": "ocd-person/5dfd7510-6a5f-430c-a552-0e81227f0735",
+      "name": "Kelli Butler",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:az/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Kelli",
+      "family_name": "Butler",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BUTLER.jpg",
+      "email": "kbutler@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:47.434443+00:00",
+      "updated_at": "2022-10-17T20:02:30.339117+00:00",
+      "openstates_url": "https://openstates.org/person/kelli-butler-2rM7EdYeCb7S0w5oemt4vF/"
+    },
+    {
+      "id": "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff",
+      "name": "Kevin Payne",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:az/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Kevin",
+      "family_name": "Payne",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg",
+      "email": "kpayne@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:59.788545+00:00",
+      "updated_at": "2022-10-17T20:02:29.391992+00:00",
+      "openstates_url": "https://openstates.org/person/kevin-payne-2Htuawha9kvWDU4z7pFmLH/"
+    },
+    {
+      "id": "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "name": "Leo Biasiucci",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:az/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Leo",
+      "family_name": "Biasiucci",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BIASIUCCI.jpg",
+      "email": "lbiasiucci@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Majority Whip" },
+      "created_at": "2019-01-05T07:24:47.491362+00:00",
+      "updated_at": "2022-10-17T20:02:27.499441+00:00",
+      "openstates_url": "https://openstates.org/person/leo-biasiucci-22rIT6emzbDZ1QsuRyX1Fa/"
+    },
+    {
+      "id": "ocd-person/4507941a-0263-4f8a-8fb2-13a9ab049fac",
+      "name": "Lorenzo Sierra",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:az/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Lorenzo",
+      "family_name": "Sierra",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SIERRA.jpg",
+      "email": "lsierra@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:58.058327+00:00",
+      "updated_at": "2022-10-17T20:02:28.944841+00:00",
+      "openstates_url": "https://openstates.org/person/lorenzo-sierra-26Fvu7vR34tYkKxA9CMME0/"
+    },
+    {
+      "id": "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5",
+      "name": "Lupe Diaz",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:az/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Lupe",
+      "family_name": "Diaz",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg",
+      "email": "ldiaz@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:22.893857+00:00",
+      "updated_at": "2022-10-17T20:02:30.292532+00:00",
+      "openstates_url": "https://openstates.org/person/lupe-diaz-5jMT5DnBxQnibCSE0xDssn/"
+    },
+    {
+      "id": "ocd-person/5b93277b-9bb5-47e6-93e0-f75cb742b2d7",
+      "name": "Marcelino Qui\u00f1onez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:az/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Marcelino",
+      "family_name": "Qui\u00f1onez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/QUI\u00d1ONEZ.jpg",
+      "email": "mquinonez@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:14.341124+00:00",
+      "updated_at": "2022-10-17T20:02:27.461457+00:00",
+      "openstates_url": "https://openstates.org/person/marcelino-quinonez-2mnYBgRZK7SF3Lt3b032oh/"
+    },
+    {
+      "id": "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "name": "Mark W. Finchem",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:az/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Mark",
+      "family_name": "Finchem",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FINCHEM.jpg",
+      "email": "mfinchem@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:59.153127+00:00",
+      "updated_at": "2022-10-17T20:02:28.596709+00:00",
+      "openstates_url": "https://openstates.org/person/mark-w-finchem-3d1xAGBvCJ24J1nVX8StUe/"
+    },
+    {
+      "id": "ocd-person/6f247e22-b02f-45f9-9b2c-27e507928c0e",
+      "name": "Melody Hernandez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:az/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Melody",
+      "family_name": "Hernandez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_M.jpg",
+      "email": "mhernandez@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:26.988897+00:00",
+      "updated_at": "2022-10-17T20:02:28.690279+00:00",
+      "openstates_url": "https://openstates.org/person/melody-hernandez-3NipBH1wxaSz3ZrNkKtogI/"
+    },
+    {
+      "id": "ocd-person/3f186f00-1fbe-4491-8987-637a7fd59677",
+      "name": "Michelle Udall",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:az/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Michelle",
+      "family_name": "Udall",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/UDALL.jpg",
+      "email": "mudall@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:43.042541+00:00",
+      "updated_at": "2022-10-17T20:02:30.051379+00:00",
+      "openstates_url": "https://openstates.org/person/michelle-udall-1v3gKcgKbSJGRlGruPQ6QJ/"
+    },
+    {
+      "id": "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "name": "Mitzi Epstein",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:az/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Mitzi",
+      "family_name": "Epstein",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/EPSTEIN.jpg",
+      "email": "mepstein@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:45.575222+00:00",
+      "updated_at": "2022-10-17T20:02:29.593869+00:00",
+      "openstates_url": "https://openstates.org/person/mitzi-epstein-7J2pagnP5Iqypo4Ysv58gf/"
+    },
+    {
+      "id": "ocd-person/f1f94d3e-134b-4f6d-8917-29e66228383b",
+      "name": "Morgan Abraham",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:az/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Morgan",
+      "family_name": "Abraham",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ABRAHAM.jpg",
+      "email": "mabraham@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:17.121921+00:00",
+      "updated_at": "2022-10-17T20:02:28.114551+00:00",
+      "openstates_url": "https://openstates.org/person/morgan-abraham-7Mb55FmbpbWjc85BvofGvr/"
+    },
+    {
+      "id": "ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87",
+      "name": "Myron Tsosie",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:az/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Myron",
+      "family_name": "Tsosie",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/TSOSIE.jpg",
+      "email": "mtsosie@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:36.843360+00:00",
+      "updated_at": "2022-10-17T20:02:28.901777+00:00",
+      "openstates_url": "https://openstates.org/person/myron-tsosie-4zsAU62dgrmET15TT1LFyx/"
+    },
+    {
+      "id": "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd",
+      "name": "Neal Carter",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:az/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Neal",
+      "family_name": "Carter",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARTER.jpg",
+      "email": "ncarter@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:20.845631+00:00",
+      "updated_at": "2022-10-17T20:02:28.649934+00:00",
+      "openstates_url": "https://openstates.org/person/neal-carter-jBzrpTvlfLrrV19PatlXR/"
+    },
+    {
+      "id": "ocd-person/8a2ae29c-b83a-4f0f-8920-168b3b16ff64",
+      "name": "Pamela Powers Hannley",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:az/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Pamela",
+      "family_name": "Powers Hannley",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/POWERS_HANNLEY.jpg",
+      "email": "ppowershannley@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:43.221198+00:00",
+      "updated_at": "2022-10-17T20:02:30.719557+00:00",
+      "openstates_url": "https://openstates.org/person/pamela-powers-hannley-4CiXSfhBEWOOyAe5gcyQAG/"
+    },
+    {
+      "id": "ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668",
+      "name": "Quang H. Nguyen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:az/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Quang",
+      "family_name": "Nguyen",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg",
+      "email": "qnguyen@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:28.797887+00:00",
+      "updated_at": "2022-10-17T20:02:30.375400+00:00",
+      "openstates_url": "https://openstates.org/person/quang-h-nguyen-51IirSS8xm5gizZbdcNr0C/"
+    },
+    {
+      "id": "ocd-person/c1216de5-2070-43b3-8398-7cf074dbf336",
+      "name": "Regina E. Cobb",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:az/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Regina",
+      "family_name": "Cobb",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/COBB.jpg",
+      "email": "rcobb@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:52.254705+00:00",
+      "updated_at": "2022-10-17T20:02:28.416673+00:00",
+      "openstates_url": "https://openstates.org/person/regina-e-cobb-5sQnN5xEDsO018uz6Eh4PG/"
+    },
+    {
+      "id": "ocd-person/97d71f2f-9518-43fa-8076-5a78809563ff",
+      "name": "Reginald Bolding, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:az/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Reginald",
+      "family_name": "Bolding",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLDING.jpg",
+      "email": "rbolding@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Minority Leader" },
+      "created_at": "2018-10-18T14:34:51.264142+00:00",
+      "updated_at": "2022-10-17T20:02:28.228886+00:00",
+      "openstates_url": "https://openstates.org/person/reginald-bolding-jr-4cW9RWSJqGG1SdcMkvAyw3/"
+    },
+    {
+      "id": "ocd-person/1d93637d-3a04-4e84-99f0-e137297314cb",
+      "name": "Richard C. Andrade",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:az/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Richard",
+      "family_name": "Andrade",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/ANDRADE.jpg",
+      "email": "randrade@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:46.316862+00:00",
+      "updated_at": "2022-10-17T20:02:30.416705+00:00",
+      "openstates_url": "https://openstates.org/person/richard-c-andrade-to8K9OIR7RccaPiVwnG3P/"
+    },
+    {
+      "id": "ocd-person/2c613dd5-3f19-46ab-b095-be2ba2a9d44a",
+      "name": "Robert Meza",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:az/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Meza",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MEZA.jpg",
+      "email": "rmeza@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:49.581496+00:00",
+      "updated_at": "2022-10-17T20:02:28.856899+00:00",
+      "openstates_url": "https://openstates.org/person/robert-meza-1Lk6Jfzn42toDOqwoi1auo/"
+    },
+    {
+      "id": "ocd-person/b9343c4d-9f9b-4bbd-ba02-06fbb1b09a22",
+      "name": "Russell \"Rusty\" Bowers",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:az/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Russell",
+      "family_name": "Bowers",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOWERS.jpg",
+      "email": "rbowers@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Speaker" },
+      "created_at": "2018-10-18T14:34:58.540448+00:00",
+      "updated_at": "2022-10-17T20:02:30.458714+00:00",
+      "openstates_url": "https://openstates.org/person/russell-rusty-bowers-5dTS2IHgyWMJkhKwZGfodG/"
+    },
+    {
+      "id": "ocd-person/f62fec81-65ec-4893-aa8a-ea6b7c8b8df8",
+      "name": "Sarah Liguori",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:az/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Sarah",
+      "family_name": "Liguori",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LIGUORI.jpg",
+      "email": "sliguori@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:24.658471+00:00",
+      "updated_at": "2022-10-17T20:02:30.753140+00:00",
+      "openstates_url": "https://openstates.org/person/sarah-liguori-7UY0qet2YnjMNVUlDx0rQ8/"
+    },
+    {
+      "id": "ocd-person/33c76d31-65d6-4072-9d30-c1b292a7bb52",
+      "name": "Shawnna Bolick",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:az/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Shawnna",
+      "family_name": "Bolick",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg",
+      "email": "sbolick@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:55.965068+00:00",
+      "updated_at": "2022-10-17T20:02:30.571063+00:00",
+      "openstates_url": "https://openstates.org/person/shawnna-bolick-1ZhkIv3yQiMBogHtD8WBrm/"
+    },
+    {
+      "id": "ocd-person/8750015c-a9dc-4eac-951d-7f7b51abd3e7",
+      "name": "Steve Kaiser",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:az/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Steve",
+      "family_name": "Kaiser",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAISER.jpg",
+      "email": "skaiser@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-12T00:04:30.610848+00:00",
+      "updated_at": "2022-10-17T20:02:28.148827+00:00",
+      "openstates_url": "https://openstates.org/person/steve-kaiser-47KWeXo5nsPi1tc0yIFD2F/"
+    },
+    {
+      "id": "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe",
+      "name": "Teresa Martinez",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:az/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Teresa",
+      "family_name": "Martinez",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MARTINEZ.jpg",
+      "email": "tmartinez@azleg.gov",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-05T22:10:18.047750+00:00",
+      "updated_at": "2022-10-17T20:02:28.002789+00:00",
+      "openstates_url": "https://openstates.org/person/teresa-martinez-TXruHAQJ9vsIgr2PfCBNm/"
+    },
+    {
+      "id": "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd",
+      "name": "Tim Dunn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:az/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Timothy",
+      "family_name": "Dunn",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg",
+      "email": "tdunn@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:34:44.541571+00:00",
+      "updated_at": "2022-10-17T20:02:29.198746+00:00",
+      "openstates_url": "https://openstates.org/person/tim-dunn-LnAWMAUeGss3wAQz5NIXF/"
+    },
+    {
+      "id": "ocd-person/f94da191-f569-4d35-a9d4-edb04a1efc02",
+      "name": "Travis Grantham",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:az/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Travis",
+      "family_name": "Grantham",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRANTHAM.jpg",
+      "email": "tgrantham@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "title": "Speaker Pro Tempore" },
+      "created_at": "2018-10-18T14:34:55.607183+00:00",
+      "updated_at": "2022-10-17T20:02:30.174095+00:00",
+      "openstates_url": "https://openstates.org/person/travis-grantham-7aQZ9LISS4usA358TNHJnG/"
+    },
+    {
+      "id": "ocd-person/1ae813e7-9fa6-4940-bfc1-4997dbbc7918",
+      "name": "Walter \"Walt\" Blackman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:az/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "given_name": "Walter",
+      "family_name": "Blackman",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKMAN.jpg",
+      "email": "wblackman@azleg.gov",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-05T07:24:28.899525+00:00",
+      "updated_at": "2022-10-17T20:02:30.914319+00:00",
+      "openstates_url": "https://openstates.org/person/walter-walt-blackman-olrL71Gyz2dLF0DemAO3E/"
+    }
+  ]
+}

@@ -1,1 +1,2165 @@
-{"timestamp": "11-29-2022 15:53:32", "incumbents": [{"id": "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45", "name": "Angela V. McKnight", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "31", "division_id": "ocd-division/country:us/state:nj/sldl:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Angela", "family_name": "McKnight", "image": "https://www.njleg.state.nj.us/members/memberphotos/mcknight_color.jpg", "email": "AswMcKnight@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:05.230021+00:00", "updated_at": "2022-01-12T21:01:38.156403+00:00", "openstates_url": "https://openstates.org/person/angela-v-mcknight-6b3oLg9bh5dOgof91Hsayj/"}, {"id": "ocd-person/2845eb57-3b9a-4d8d-9ee3-55bda4967805", "name": "Angelica M. Jimenez", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "32", "division_id": "ocd-division/country:us/state:nj/sldl:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Angelica", "family_name": "Jimenez", "image": "https://www.njleg.state.nj.us/members/memberphotos/jimenez_color.jpg", "email": "AswJimenez@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker"}, "created_at": "2018-10-18T14:54:56.567796+00:00", "updated_at": "2022-01-12T21:01:23.051047+00:00", "openstates_url": "https://openstates.org/person/angelica-m-jimenez-1Dze4KiK3JvKosKMpfLj1B/"}, {"id": "ocd-person/a0281bb5-d164-48ca-959b-4cb52e389cc7", "name": "Annette Chaparro", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "33", "division_id": "ocd-division/country:us/state:nj/sldl:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Annette", "family_name": "Chaparro", "image": "https://www.njleg.state.nj.us/members/memberphotos/chaparro_annette_2020.jpg", "email": "AswChaparro@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:00.815251+00:00", "updated_at": "2022-01-12T21:00:52.652459+00:00", "openstates_url": "https://openstates.org/person/annette-chaparro-4sD6JSPcm6YLbGq5Y4aUg3/"}, {"id": "ocd-person/ec370db8-c51e-4022-9868-5cad9c38e97d", "name": "Annette Quijano", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:nj/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Annette", "family_name": "Quijano", "image": "https://www.njleg.state.nj.us/members/memberphotos/quijano_annette_2020.jpg", "email": "AswQuijano@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"position": "Majority Conference Leader"}, "created_at": "2018-10-18T14:54:58.366685+00:00", "updated_at": "2022-01-12T21:01:50.202253+00:00", "openstates_url": "https://openstates.org/person/annette-quijano-7BjLcXERQxhRS7ebgmMQFZ/"}, {"id": "ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0", "name": "Anthony S. Verrelli", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:nj/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Anthony", "family_name": "Verrelli", "image": "https://www.njleg.state.nj.us/members/memberphotos/verrelli_anthony_2020.jpg", "email": "AsmVerrelli@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:49.322745+00:00", "updated_at": "2022-01-12T21:01:40.215572+00:00", "openstates_url": "https://openstates.org/person/anthony-s-verrelli-63CKBSl16eIBFgkQxTx5aC/"}, {"id": "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab", "name": "Antwan L. McClellan", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:nj/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Antwan", "family_name": "McClellan", "image": "http://www.njleg.state.nj.us/members/memberphotos/mcclellan_antwan_2020.jpg", "email": "AsmMcClellan@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Minority Whip"}, "created_at": "2020-01-28T06:11:53.360853+00:00", "updated_at": "2022-01-12T21:01:07.514950+00:00", "openstates_url": "https://openstates.org/person/antwan-l-mcclellan-2OaU1MkiAUAzaG9sRTCBh5/"}, {"id": "ocd-person/03aa8bec-9d7e-41e7-ad20-b5ba1991cab6", "name": "Aura Dunn", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:nj/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Aura", "family_name": "Dunn", "image": "https://www.njleg.state.nj.us/members/memberphotos/dunn_aura_2020.jpg", "email": "AswDunn@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-03-04T06:15:33.474236+00:00", "updated_at": "2022-01-12T21:02:05.624133+00:00", "openstates_url": "https://openstates.org/person/aura-dunn-6uuqtJoeCSsFCGF7CruSM/"}, {"id": "ocd-person/18fa38fc-954e-43d9-a294-a2068828216e", "name": "Benjie E. Wimberly", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "35", "division_id": "ocd-division/country:us/state:nj/sldl:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Benjie", "family_name": "Wimberly", "image": "https://www.njleg.state.nj.us/members/memberphotos/wimberly_color.jpg", "email": "AsmWimberly@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Speaker Pro Tempore"}, "created_at": "2018-10-18T14:55:06.084390+00:00", "updated_at": "2022-01-12T21:01:51.421409+00:00", "openstates_url": "https://openstates.org/person/benjie-e-wimberly-l8APOdumNO2fj4vxedy9e/"}, {"id": "ocd-person/4275f171-9920-464e-a395-b4deab10c6b2", "name": "Beth Sawyer", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:nj/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Beth", "family_name": "Sawyer", "image": "", "email": "AswSawyer@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:24.681383+00:00", "updated_at": "2022-10-17T20:10:07.786140+00:00", "openstates_url": "https://openstates.org/person/beth-sawyer-21POPYpgLW9AC2sBalxTn8/"}, {"id": "ocd-person/6f117492-e010-46fe-8356-2b38516c22be", "name": "Bethanne McCarthy Patrick", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "3", "division_id": "ocd-division/country:us/state:nj/sldl:3"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Bethanne", "family_name": "Patrick", "image": "", "email": "AswMcCarthyPatrick@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:34.097874+00:00", "updated_at": "2022-10-17T20:10:09.554607+00:00", "openstates_url": "https://openstates.org/person/bethanne-mccarthy-patrick-3Na7m789CXGh7PKg0yXuqE/"}, {"id": "ocd-person/16e93ae3-7fc5-450e-9a84-90459aa18338", "name": "Brandon Umba", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:nj/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Brandon", "family_name": "Umba", "image": "", "email": "AsmUmba@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:26.652012+00:00", "updated_at": "2022-10-17T20:10:06.176209+00:00", "openstates_url": "https://openstates.org/person/brandon-umba-hEPtJqLnBRmQD4lNnxJWK/"}, {"id": "ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149", "name": "Brian Bergen", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "25", "division_id": "ocd-division/country:us/state:nj/sldl:25"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Brian", "family_name": "Bergen", "image": "https://www.njleg.state.nj.us/members/memberphotos/bergen_brian_2020.jpg", "email": "AsmBergen@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-01-28T06:11:56.354252+00:00", "updated_at": "2022-01-12T21:01:53.737533+00:00", "openstates_url": "https://openstates.org/person/brian-bergen-nPA65aatPkHFD7jjZlPd/"}, {"id": "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3", "name": "Brian E. Rumpf", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:nj/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Brian", "family_name": "Rumpf", "image": "https://www.njleg.state.nj.us/members/memberphotos/rumpf_brian_2020.jpg", "email": "AsmRumpf@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Policy Co-Chair"}, "created_at": "2018-10-18T14:55:00.018344+00:00", "updated_at": "2022-01-12T21:00:59.268170+00:00", "openstates_url": "https://openstates.org/person/brian-e-rumpf-6WexXsT1Jh1ymkLfdBe2pH/"}, {"id": "ocd-person/707e3027-d06f-4346-8c11-3ff1becbe725", "name": "Britnee N. Timberlake", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "34", "division_id": "ocd-division/country:us/state:nj/sldl:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Britnee", "family_name": "Timberlake", "image": "https://www.njleg.state.nj.us/members/memberphotos/timberlake_britnee_2018.jpg", "email": "AswTimberlake@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:02.792436+00:00", "updated_at": "2022-01-12T21:01:08.757663+00:00", "openstates_url": "https://openstates.org/person/britnee-n-timberlake-3QGo8pUJrBDgbyCuDS7tgr/"}, {"id": "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095", "name": "Carol A. Murphy", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:nj/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Carol", "family_name": "Murphy", "image": "https://www.njleg.state.nj.us/members/memberphotos/murphy_carol_2021.jpg", "email": "AswMurphy@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Majority Leader"}, "created_at": "2018-10-18T14:55:06.244542+00:00", "updated_at": "2022-01-12T21:01:49.116534+00:00", "openstates_url": "https://openstates.org/person/carol-a-murphy-5wOdTa7fxaMfxOiuJSge7p/"}, {"id": "ocd-person/09c6e805-6356-4bcb-a7d3-6be479d41e9a", "name": "Christian E. Barranco", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:nj/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Christian", "family_name": "Barranco", "image": "", "email": "AsmBarranco.njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:56.646226+00:00", "updated_at": "2022-10-17T20:10:08.099550+00:00", "openstates_url": "https://openstates.org/person/christian-e-barranco-IRpXrhGnLd6LS8YrQBWWo/"}, {"id": "ocd-person/33050562-f29d-4c4f-9e21-022822792a5c", "name": "Christopher P. DePhillips", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "40", "division_id": "ocd-division/country:us/state:nj/sldl:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Christopher", "family_name": "DePhillips", "image": "https://www.njleg.state.nj.us/members/memberphotos/dephillips_christopher_2020.jpg", "email": "AsmDePhillips@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:55.937570+00:00", "updated_at": "2022-01-12T21:02:24.606786+00:00", "openstates_url": "https://openstates.org/person/christopher-p-dephillips-1YGu0HKCCF0gG5rAe8TAuC/"}, {"id": "ocd-person/3525b57b-adb4-4cae-b3a3-6bf2b22a5419", "name": "Claire Swift", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:nj/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Claire", "family_name": "Swift", "image": "", "email": "AswSwift@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:22.514216+00:00", "updated_at": "2022-10-17T20:10:08.575923+00:00", "openstates_url": "https://openstates.org/person/claire-swift-1cHpEVL4JLa5xPrEIY43Dd/"}, {"id": "ocd-person/c5469bd6-29bd-4054-9ac0-3577d17422d4", "name": "Cleopatra G. Tucker", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:nj/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Cleopatra", "family_name": "Tucker", "image": "https://www.njleg.state.nj.us/members/memberphotos/tucker_cleopatra_2017.jpg", "email": "AswTucker@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:03.592272+00:00", "updated_at": "2022-01-12T21:02:26.391938+00:00", "openstates_url": "https://openstates.org/person/cleopatra-g-tucker-60Fkukba5dhrILJN99uv00/"}, {"id": "ocd-person/5475b510-25ec-4354-abb5-f1f03c3ea2c3", "name": "Clinton Calabrese", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "36", "division_id": "ocd-division/country:us/state:nj/sldl:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Clinton", "family_name": "Calabrese", "image": "https://www.njleg.state.nj.us/members/memberphotos/calabrese_clinton_2018.jpg", "email": "AsmCalabrese@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:08.040879+00:00", "updated_at": "2022-01-12T21:01:42.521626+00:00", "openstates_url": "https://openstates.org/person/clinton-calabrese-2ZN9AJ9W7Ck1Q4VnmwnW9z/"}, {"id": "ocd-person/9d1ae08a-66b3-4d68-bafe-956d4eaeb57f", "name": "Craig J. Coughlin", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:nj/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Craig", "family_name": "Coughlin", "image": "https://www.njleg.state.nj.us/members/memberphotos/coughlin_craig_2017.jpg", "email": "AsmCoughlin@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Assembly Speaker"}, "created_at": "2018-10-18T14:55:00.662119+00:00", "updated_at": "2022-01-12T21:01:25.079765+00:00", "openstates_url": "https://openstates.org/person/craig-j-coughlin-4mS4qdx7NZl9wivCKmJPiB/"}, {"id": "ocd-person/a0bdc29a-2ff2-42b1-b53a-36f598f99b52", "name": "Daniel R. Benson", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:nj/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Daniel", "family_name": "Benson", "image": "https://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg", "email": "AsmBenson@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Conference Leader"}, "created_at": "2018-10-18T14:54:52.406096+00:00", "updated_at": "2022-01-12T21:01:56.039763+00:00", "openstates_url": "https://openstates.org/person/daniel-r-benson-4tJUYv9lNgReeuWBmbegSI/"}, {"id": "ocd-person/19909928-4081-4f6f-956c-7ea68be8f260", "name": "DeAnne C. DeFuccio", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "39", "division_id": "ocd-division/country:us/state:nj/sldl:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "DeAnne", "family_name": "DeFuccio", "image": "https://www.njleg.state.nj.us/members/memberphotos/defuccio_deanne_2021.jpg", "email": "AswDeFuccio@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-03T18:44:52.020509+00:00", "updated_at": "2022-10-17T20:10:08.905677+00:00", "openstates_url": "https://openstates.org/person/deanne-c-defuccio-mEtAGr2UUaQgGvpbOublA/"}, {"id": "ocd-person/0fdc52e3-8772-4466-a19c-93a6c39eae65", "name": "DiAnne C. Gove", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "9", "division_id": "ocd-division/country:us/state:nj/sldl:9"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "DiAnne", "family_name": "Gove", "image": "https://www.njleg.state.nj.us/members/memberphotos/gove_dianne_2020.jpg", "email": "AswGove@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Policy Co-Chair"}, "created_at": "2018-10-18T14:54:51.587050+00:00", "updated_at": "2022-01-12T21:02:43.374105+00:00", "openstates_url": "https://openstates.org/person/dianne-c-gove-TvZXD2TyoUjqHikyxU6In/"}, {"id": "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32", "name": "Don Guardian", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "2", "division_id": "ocd-division/country:us/state:nj/sldl:2"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Don", "family_name": "Guardian", "image": "", "email": "AsmGuardian@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:11.061769+00:00", "updated_at": "2022-10-17T20:10:08.723407+00:00", "openstates_url": "https://openstates.org/person/don-guardian-6nnSal49h7crdrkAaJgz9m/"}, {"id": "ocd-person/e6d7f07e-8f68-49b5-8e8e-970817a6c8c4", "name": "Edward H. Thomson", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:nj/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Edward", "family_name": "Thomson", "image": "https://www.njleg.state.nj.us/members/memberphotos/thomson_edward_2018.jpg", "email": "AsmThomson@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Republican Conference Leader"}, "created_at": "2018-10-18T14:55:04.724535+00:00", "updated_at": "2022-01-12T21:01:35.889414+00:00", "openstates_url": "https://openstates.org/person/edward-h-thomson-71av1il4ciBopbouQuBkbk/"}, {"id": "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e", "name": "Eliana Pintor Marin", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:nj/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Eliana", "family_name": "Pintor Marin", "image": "https://www.njleg.state.nj.us/members/memberphotos/pintormarin_eliana_2017.jpg", "email": "AswPintorMarin@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Budget Chair"}, "created_at": "2018-10-18T14:54:54.320030+00:00", "updated_at": "2022-01-12T21:02:01.977457+00:00", "openstates_url": "https://openstates.org/person/eliana-pintor-marin-2vmgXHhPsNOJ7dE0KcB8v8/"}, {"id": "ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4", "name": "Ellen J. Park", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "37", "division_id": "ocd-division/country:us/state:nj/sldl:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Ellen", "family_name": "Park", "image": "", "email": "AswPark@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:13.642167+00:00", "updated_at": "2022-10-17T20:10:08.835300+00:00", "openstates_url": "https://openstates.org/person/ellen-j-park-6zisQJ2kjDVAIxpLceNwP6/"}, {"id": "ocd-person/df6d2d1f-3fb0-4e93-93cf-26665cae9a23", "name": "Erik Peterson", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:nj/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Erik", "family_name": "Peterson", "image": "https://www.njleg.state.nj.us/members/memberphotos/peterson_erik_2020.jpg", "email": "AsmPeterson@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Parliamentarian"}, "created_at": "2018-10-18T14:54:49.636523+00:00", "updated_at": "2022-01-12T21:02:56.374753+00:00", "openstates_url": "https://openstates.org/person/erik-peterson-6nbBJwSW1HZe8msLwYCdW7/"}, {"id": "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d", "name": "Erik Simonsen", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "1", "division_id": "ocd-division/country:us/state:nj/sldl:1"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Erik", "family_name": "Simonsen", "image": "http://www.njleg.state.nj.us/members/memberphotos/simonsen_erik_2020.jpg", "email": "AsmSimonsen@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-01-28T06:11:55.772064+00:00", "updated_at": "2022-01-12T21:01:58.313959+00:00", "openstates_url": "https://openstates.org/person/erik-simonsen-3soZPLhC0YD8LtsPSdnm8L/"}, {"id": "ocd-person/b74b5f86-8982-4852-a2da-c1007a991156", "name": "Gabriela M. Mosquera", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:nj/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Gabriela", "family_name": "Mosquera", "image": "https://www.njleg.state.nj.us/members/memberphotos/mosquera_color.jpg", "email": "AswMosquera@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:01.969315+00:00", "updated_at": "2022-01-12T21:00:53.817379+00:00", "openstates_url": "https://openstates.org/person/gabriela-m-mosquera-5Zs2ZNksCgDG3Vih0stcgg/"}, {"id": "ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4", "name": "Gary S. Schaer", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "36", "division_id": "ocd-division/country:us/state:nj/sldl:36"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Gary", "family_name": "Schaer", "image": "https://www.njleg.state.nj.us/members/memberphotos/schaer_color.jpg", "email": "AsmSchaer@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Policy Chair / Deputy Speaker"}, "created_at": "2018-10-18T14:54:53.369293+00:00", "updated_at": "2022-01-12T21:01:17.049278+00:00", "openstates_url": "https://openstates.org/person/gary-s-schaer-4UZjz58DAzG24TkH915Ilo/"}, {"id": "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf", "name": "Gerry Scharfenberger", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:nj/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Gerard", "family_name": "Scharfenberger", "image": "http://www.njleg.state.nj.us/members/memberphotos/scharfenberger_gerard_2020a.jpg", "email": "AsmScharfenberger@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-01-28T06:11:55.495211+00:00", "updated_at": "2022-01-12T21:02:38.254664+00:00", "openstates_url": "https://openstates.org/person/gerry-scharfenberger-22goxXqr9Rq3WT26ohqaSN/"}, {"id": "ocd-person/2ac520a3-ae36-4936-a9c3-6842401b6c83", "name": "Gregory P. McGuckin", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:nj/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Gregory", "family_name": "McGuckin", "image": "https://www.njleg.state.nj.us/members/memberphotos/mcguckin_gregory_2020.jpg", "email": "AsmMcGuckin@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:04.881360+00:00", "updated_at": "2022-01-12T21:02:00.643502+00:00", "openstates_url": "https://openstates.org/person/gregory-p-mcguckin-1IhlRct1NtrdM6O3kgYY5r/"}, {"id": "ocd-person/ccd54a2a-c814-469f-a415-e2e667c5caed", "name": "Harold J. Wirths", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:nj/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Harold", "family_name": "Wirths", "image": "https://www.njleg.state.nj.us/members/memberphotos/wirths_harold_2020.jpg", "email": "AsmWirths@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Republican Budget Officer"}, "created_at": "2018-10-18T14:55:05.062803+00:00", "updated_at": "2022-01-12T21:00:57.153125+00:00", "openstates_url": "https://openstates.org/person/harold-j-wirths-6EVuJnogXmvXGTwMlY5l2T/"}, {"id": "ocd-person/6b67938b-adbf-488a-a3c1-3de2c3bc3b8f", "name": "Herb Conaway, Jr.", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "7", "division_id": "ocd-division/country:us/state:nj/sldl:7"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Herb", "family_name": "Conaway", "image": "", "email": "AsmConaway@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:50.602642+00:00", "updated_at": "2022-10-17T20:10:06.850804+00:00", "openstates_url": "https://openstates.org/person/herb-conaway-jr-3GfVpwFjM4Q6MONxueLDTz/"}, {"id": "ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27", "name": "James J. Kennedy", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:nj/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "James", "family_name": "Kennedy", "image": "https://www.njleg.state.nj.us/members/memberphotos/kennedy_color.jpg", "email": "AsmKennedy@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:59.833371+00:00", "updated_at": "2022-01-12T21:01:45.573399+00:00", "openstates_url": "https://openstates.org/person/james-j-kennedy-6ZhDnSmAqIH9zk6oNpK9v5/"}, {"id": "ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0", "name": "Jay Webber", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "26", "division_id": "ocd-division/country:us/state:nj/sldl:26"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Jay", "family_name": "Webber", "image": "https://www.njleg.state.nj.us/members/memberphotos/webber_jay_2019.jpg", "email": "AsmWebber@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Appropriations Officer"}, "created_at": "2018-10-18T14:54:58.198405+00:00", "updated_at": "2022-01-12T21:01:05.217535+00:00", "openstates_url": "https://openstates.org/person/jay-webber-6gwe002sh6sqH9zEIxTWBU/"}, {"id": "ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48", "name": "Joe Danielsen", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:nj/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Joe", "family_name": "Danielsen", "image": "https://www.njleg.state.nj.us/members/memberphotos/danielsen_joe_2021.jpg", "email": "AsmDanielsen@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Whip"}, "created_at": "2018-10-18T14:54:52.889613+00:00", "updated_at": "2022-01-12T21:01:01.601613+00:00", "openstates_url": "https://openstates.org/person/joe-danielsen-6vvGTqLcCUOO02Kf0RQK0/"}, {"id": "ocd-person/022c6b02-77d3-416e-9ddf-cdfa2ca46add", "name": "John Catalano", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "10", "division_id": "ocd-division/country:us/state:nj/sldl:10"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "John", "family_name": "Catalano", "image": "https://www.njleg.state.nj.us/members/memberphotos/catalano_john_2020.jpg", "email": "AsmCatalano@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-01-28T06:11:57.511781+00:00", "updated_at": "2022-01-12T21:02:37.801575+00:00", "openstates_url": "https://openstates.org/person/john-catalano-46Hah6DUx6TuohGQxO8R3/"}, {"id": "ocd-person/dce6ec3a-7d62-4b33-8693-259364c85285", "name": "John DiMaio", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "23", "division_id": "ocd-division/country:us/state:nj/sldl:23"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "John", "family_name": "DiMaio", "image": "https://www.njleg.state.nj.us/members/memberphotos/dimaio_john_2020.jpg", "email": "AsmDiMaio@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Minority Leader"}, "created_at": "2018-10-18T14:54:54.950817+00:00", "updated_at": "2022-01-12T21:02:31.138018+00:00", "openstates_url": "https://openstates.org/person/john-dimaio-6ipqK5lAk5uZsm9FKGD48j/"}, {"id": "ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2", "name": "John F. McKeon", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:nj/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "John", "family_name": "McKeon", "image": "https://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg", "email": "AsmMcKeon@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:50.104228+00:00", "updated_at": "2022-01-12T21:01:31.546231+00:00", "openstates_url": "https://openstates.org/person/john-f-mckeon-yEcr4mpFEVPFKGW9T6rty/"}, {"id": "ocd-person/1ef49582-10ab-4e05-b699-74a6956d24ea", "name": "Joseph V. Egan", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "17", "division_id": "ocd-division/country:us/state:nj/sldl:17"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Joseph", "family_name": "Egan", "image": "https://www.njleg.state.nj.us/members/memberphotos/egan_color.jpg", "email": "AsmEgan@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Majority Leader"}, "created_at": "2018-10-18T14:54:51.093131+00:00", "updated_at": "2022-01-12T21:02:45.423013+00:00", "openstates_url": "https://openstates.org/person/joseph-v-egan-wPXn2sEepRtwIACWNapS6/"}, {"id": "ocd-person/0aca0d16-9cf3-46f8-acd9-155f739badaa", "name": "Kevin J. Rooney", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "40", "division_id": "ocd-division/country:us/state:nj/sldl:40"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Kevin", "family_name": "Rooney", "image": "https://www.njleg.state.nj.us/members/memberphotos/rooney_kevin_2020.jpg", "email": "AsmRooney@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:05.910917+00:00", "updated_at": "2022-01-12T21:00:54.989737+00:00", "openstates_url": "https://openstates.org/person/kevin-j-rooney-KMGAs1eRLTvdrPV4cKAna/"}, {"id": "ocd-person/346f7ba5-73f5-4bcb-bd58-101e7eda1451", "name": "Kimberly Eulner", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:nj/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Kimberly", "family_name": "Eulner", "image": "", "email": "AswEulner@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:18.510029+00:00", "updated_at": "2022-10-17T20:10:06.424298+00:00", "openstates_url": "https://openstates.org/person/kimberly-eulner-1awY1rxlGOiHzJoYBvjnof/"}, {"id": "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98", "name": "Linda S. Carter", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "22", "division_id": "ocd-division/country:us/state:nj/sldl:22"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Linda", "family_name": "Carter", "image": "https://www.njleg.state.nj.us/members/memberphotos/carter_linda_2018a.jpg", "email": "AswCarter@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Whip"}, "created_at": "2018-10-18T14:55:06.742998+00:00", "updated_at": "2022-01-12T21:01:32.686027+00:00", "openstates_url": "https://openstates.org/person/linda-s-carter-mKwDYaovc0K8Mo3IrTxFY/"}, {"id": "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299", "name": "Lisa Swain", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "38", "division_id": "ocd-division/country:us/state:nj/sldl:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Lisa", "family_name": "Swain", "image": "https://www.njleg.state.nj.us/members/memberphotos/swain_lisa_2018a.jpg", "email": "AswSwain@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:00.505077+00:00", "updated_at": "2022-01-12T21:02:54.105514+00:00", "openstates_url": "https://openstates.org/person/lisa-swain-1EoJDk0lQoXOOAoLXAyMUT/"}, {"id": "ocd-person/a27823aa-f5a9-4d6c-8089-1d8ceee6f8e0", "name": "Louis D. Greenwald", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:nj/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Louis", "family_name": "Greenwald", "image": "https://www.njleg.state.nj.us/members/memberphotos/greenwald_color.jpg", "email": "AsmGreenwald@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"position": "Majority Leader"}, "created_at": "2018-10-18T14:54:50.262555+00:00", "updated_at": "2022-01-12T21:02:50.277258+00:00", "openstates_url": "https://openstates.org/person/louis-d-greenwald-4wZey6dvzynXX1A9HpGHJo/"}, {"id": "ocd-person/9418e11d-41b6-4718-af26-5d2bf751e35a", "name": "Marilyn Piperno", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "11", "division_id": "ocd-division/country:us/state:nj/sldl:11"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Marilyn", "family_name": "Piperno", "image": "", "email": "AswPiperno@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:03.417973+00:00", "updated_at": "2022-10-17T20:10:06.387868+00:00", "openstates_url": "https://openstates.org/person/marilyn-piperno-4VSEWbrPWEIwtkX2Aoi37S/"}, {"id": "ocd-person/71bb6c1c-60ba-4dc8-8534-b07524695d6e", "name": "Michael Torrissi, Jr.", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "8", "division_id": "ocd-division/country:us/state:nj/sldl:8"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Michael", "family_name": "Torrissi", "image": "", "email": "AsmTorrissi@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:14.098300+00:00", "updated_at": "2022-10-17T20:10:06.607955+00:00", "openstates_url": "https://openstates.org/person/michael-torrissi-jr-3SbmgFFP2r4WwW0Q58Qrvy/"}, {"id": "ocd-person/c3f2aa37-3c3c-4786-8ece-54acab035f35", "name": "Michele Matsikoudis", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:nj/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Michele", "family_name": "Matsikoudis", "image": "", "email": "AswMatsikoudis@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:18.325143+00:00", "updated_at": "2022-10-17T20:10:08.501502+00:00", "openstates_url": "https://openstates.org/person/michele-matsikoudis-5xkOv297rdiBCDqJvlvBsj/"}, {"id": "ocd-person/5e50bdd3-07c1-481f-8dc8-c59dbae85f4d", "name": "Mila M. Jasey", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "27", "division_id": "ocd-division/country:us/state:nj/sldl:27"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Mila", "family_name": "Jasey", "image": "https://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg", "email": "AswJasey@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker"}, "created_at": "2018-10-18T14:54:52.240425+00:00", "updated_at": "2022-01-12T21:01:29.311228+00:00", "openstates_url": "https://openstates.org/person/mila-m-jasey-2ryB16JFzBPJSRXo5QKd9Z/"}, {"id": "ocd-person/f553c0d7-7c53-4197-9a83-b0a1d2b56dd3", "name": "Nancy F. Munoz", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "21", "division_id": "ocd-division/country:us/state:nj/sldl:21"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Nancy", "family_name": "Munoz", "image": "https://www.njleg.state.nj.us/members/memberphotos/munoz_nancy_2020.jpg", "email": "AswMunoz@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Conference Leader"}, "created_at": "2018-10-18T14:54:49.473986+00:00", "updated_at": "2022-01-12T21:01:54.874166+00:00", "openstates_url": "https://openstates.org/person/nancy-f-munoz-7SvOWBtYGPqifvOVrkxCUt/"}, {"id": "ocd-person/934c3022-709b-4768-b2df-635d25579128", "name": "P. Christopher Tully", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "38", "division_id": "ocd-division/country:us/state:nj/sldl:38"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "P.", "family_name": "Tully", "image": "https://www.njleg.state.nj.us/members/memberphotos/tully_christopher_2018b.jpg", "email": "AsmTully@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Majority Leader"}, "created_at": "2018-10-18T14:54:59.514553+00:00", "updated_at": "2022-01-12T21:02:03.147370+00:00", "openstates_url": "https://openstates.org/person/p-christopher-tully-4TwgmiFSRT92qwxgyglnmS/"}, {"id": "ocd-person/279cf9a8-0a51-45cd-b79f-b174f6f1cbc0", "name": "Pamela R. Lampitt", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "6", "division_id": "ocd-division/country:us/state:nj/sldl:6"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Pamela", "family_name": "Lampitt", "image": "https://www.njleg.state.nj.us/members/memberphotos/lampitt_pamela_2017.jpg", "email": "AswLampitt@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker"}, "created_at": "2018-10-18T14:55:07.557623+00:00", "updated_at": "2022-01-12T21:02:12.929312+00:00", "openstates_url": "https://openstates.org/person/pamela-r-lampitt-1CkRC5UkDmhQjwXwojxzw8/"}, {"id": "ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c", "name": "Parker Space", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "24", "division_id": "ocd-division/country:us/state:nj/sldl:24"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Parker", "family_name": "Space", "image": "https://www.njleg.state.nj.us/members/memberphotos/space_parker_2020.jpg", "email": "AsmSpace@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:55.461374+00:00", "updated_at": "2022-01-12T21:02:15.807296+00:00", "openstates_url": "https://openstates.org/person/parker-space-uMNHAAVC5MhpfwSCpRdaG/"}, {"id": "ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0", "name": "Paul D. Moriarty", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "4", "division_id": "ocd-division/country:us/state:nj/sldl:4"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Paul", "family_name": "Moriarty", "image": "https://www.njleg.state.nj.us/members/memberphotos/moriarty_color.jpg", "email": "AsmMoriarty@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker"}, "created_at": "2018-10-18T14:55:05.400205+00:00", "updated_at": "2022-01-12T21:01:13.363710+00:00", "openstates_url": "https://openstates.org/person/paul-d-moriarty-7LSoWeHOTDMgOHCsuwzOk4/"}, {"id": "ocd-person/fd2836af-d444-48b7-9518-c8843d30c41d", "name": "Pedro Mejia", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "32", "division_id": "ocd-division/country:us/state:nj/sldl:32"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Pedro", "family_name": "Mejia", "image": "https://www.njleg.state.nj.us/members/memberphotos/mejia_pedro_2018.jpg", "email": "AsmMejia@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:51.255242+00:00", "updated_at": "2022-01-12T21:01:30.418365+00:00", "openstates_url": "https://openstates.org/person/pedro-mejia-7hhR3XBEp0bcBYg4I4t1Fl/"}, {"id": "ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea", "name": "Raj Mukherji", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "33", "division_id": "ocd-division/country:us/state:nj/sldl:33"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Raj", "family_name": "Mukherji", "image": "https://www.njleg.state.nj.us/members/memberphotos/mukherji_color.jpg", "email": "AsmMukherji@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker Pro Tempore"}, "created_at": "2018-10-18T14:55:02.455438+00:00", "updated_at": "2022-01-12T21:01:09.928702+00:00", "openstates_url": "https://openstates.org/person/raj-mukherji-7kK0ohb6TSbbSD26lTVmqQ/"}, {"id": "ocd-person/3dcf1086-76e4-4e2e-b765-8230439056c3", "name": "Ralph R. Caputo", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "28", "division_id": "ocd-division/country:us/state:nj/sldl:28"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Ralph", "family_name": "Caputo", "image": "https://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg", "email": "AsmCaputo@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:55.621958+00:00", "updated_at": "2022-01-12T21:01:28.195232+00:00", "openstates_url": "https://openstates.org/person/ralph-r-caputo-1sd9xlt9DQIcOMaxGgbPPP/"}, {"id": "ocd-person/1093b785-2805-428f-8e50-cf38620ec5d6", "name": "Reginald Atkins", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "20", "division_id": "ocd-division/country:us/state:nj/sldl:20"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Reginald", "family_name": "Atkins", "image": "", "email": "AsmAtkins@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:38.418114+00:00", "updated_at": "2022-10-17T20:10:09.518590+00:00", "openstates_url": "https://openstates.org/person/reginald-atkins-VHNoDicdhA914usv0CXx8/"}, {"id": "ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77", "name": "Robert Auth", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "39", "division_id": "ocd-division/country:us/state:nj/sldl:39"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Robert", "family_name": "Auth", "image": "https://www.njleg.state.nj.us/members/memberphotos/auth_robert_2017.jpg", "email": "AsmAuth@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:54.638917+00:00", "updated_at": "2022-01-12T21:02:47.711825+00:00", "openstates_url": "https://openstates.org/person/robert-auth-5GRDlNmNSXQ91P9OetHkHv/"}, {"id": "ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e", "name": "Robert D. Clifton", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:nj/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Robert", "family_name": "Clifton", "image": "https://www.njleg.state.nj.us/members/memberphotos/clifton_robert_2020.jpg", "email": "AsmClifton@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:55.300229+00:00", "updated_at": "2022-01-12T21:02:36.902844+00:00", "openstates_url": "https://openstates.org/person/robert-d-clifton-5df5hEhn2wQOcG7Eq5Uqy6/"}, {"id": "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976", "name": "Robert J. Karabinchak", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:nj/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Robert", "family_name": "Karabinchak", "image": "https://www.njleg.state.nj.us/members/memberphotos/karabinchak_color.jpg", "email": "AsmKarabinchak@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:51.903748+00:00", "updated_at": "2022-01-12T21:01:37.017509+00:00", "openstates_url": "https://openstates.org/person/robert-j-karabinchak-6Wezrkprb8sSwDw2cJCzaw/"}, {"id": "ocd-person/e06080db-abc0-40ab-ae4b-43fd3d0a5430", "name": "Ronald S. Dancer", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "12", "division_id": "ocd-division/country:us/state:nj/sldl:12"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Ronald", "family_name": "Dancer", "image": "https://www.njleg.state.nj.us/members/memberphotos/dancer_ronald_2020.jpg", "email": "AsmDancer@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Republican Leader"}, "created_at": "2018-10-18T14:54:56.885606+00:00", "updated_at": "2022-01-12T21:01:22.058022+00:00", "openstates_url": "https://openstates.org/person/ronald-s-dancer-6pONlmyiAaLd7L05oummEC/"}, {"id": "ocd-person/77b80e3f-bfdd-4c81-b92e-866c17abd398", "name": "Roy Freiman", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:nj/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Roy", "family_name": "Freiman", "image": "https://www.njleg.state.nj.us/members/memberphotos/freiman_roy_2020.jpg", "email": "AsmFreiman@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:56.409704+00:00", "updated_at": "2022-01-12T21:01:59.446562+00:00", "openstates_url": "https://openstates.org/person/roy-freiman-3duCR2bI7cB56NoSk3SSq0/"}, {"id": "ocd-person/5e2657b1-ab6e-4dc7-bb25-143df86ca18f", "name": "Sadaf F. Jaffer", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "16", "division_id": "ocd-division/country:us/state:nj/sldl:16"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Sadaf", "family_name": "Jaffer", "image": "", "email": "AswJaffer@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:42.797933+00:00", "updated_at": "2022-10-17T20:10:09.397565+00:00", "openstates_url": "https://openstates.org/person/sadaf-f-jaffer-2rengK9Oett3UJzJ7LjXRv/"}, {"id": "ocd-person/ac95c4e3-057b-43bc-8bee-752137bb2d12", "name": "Sean T. Kean", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "30", "division_id": "ocd-division/country:us/state:nj/sldl:30"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Sean", "family_name": "Kean", "image": "https://www.njleg.state.nj.us/members/memberphotos/kean_sean_2020.jpg", "email": "AsmSKean@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:06.404364+00:00", "updated_at": "2022-01-12T21:01:18.222575+00:00", "openstates_url": "https://openstates.org/person/sean-t-kean-5Ff7k8lXjkHc9obGdsdOKI/"}, {"id": "ocd-person/49be7512-9343-4189-8769-4497ed129a92", "name": "Shama A. Haider", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "37", "division_id": "ocd-division/country:us/state:nj/sldl:37"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Shama", "family_name": "Haider", "image": "", "email": "AswHaider@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:13.202329+00:00", "updated_at": "2022-10-17T20:10:08.540266+00:00", "openstates_url": "https://openstates.org/person/shama-a-haider-2F9ThgOpQBQDjKVjby0nvW/"}, {"id": "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff", "name": "Shanique Speight", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "29", "division_id": "ocd-division/country:us/state:nj/sldl:29"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Shanique", "family_name": "Speight", "image": "https://www.njleg.state.nj.us/members/memberphotos/speight_shanique_2017.jpg", "email": "AswSpeight@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:53.047418+00:00", "updated_at": "2022-01-12T21:01:57.205542+00:00", "openstates_url": "https://openstates.org/person/shanique-speight-1T8ZXVVHPYwen17G0K72EB/"}, {"id": "ocd-person/6cab3e19-7a7c-4488-877f-a6a167306ba5", "name": "Shavonda E. Sumter", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "35", "division_id": "ocd-division/country:us/state:nj/sldl:35"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Shavonda", "family_name": "Sumter", "image": "https://www.njleg.state.nj.us/members/memberphotos/sumter_color.jpg", "email": "AswSumter@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:54:54.480351+00:00", "updated_at": "2022-01-12T21:02:08.961391+00:00", "openstates_url": "https://openstates.org/person/shavonda-e-sumter-3J3QcZoPWa2kmFfZcPOM8D/"}, {"id": "ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f", "name": "Sterley Stanley", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "18", "division_id": "ocd-division/country:us/state:nj/sldl:18"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Sterley", "family_name": "Stanley", "image": "https://www.njleg.state.nj.us/members/memberphotos/stanley_sterley_2021.jpg", "email": "na", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2021-02-19T20:45:25.203287+00:00", "updated_at": "2022-10-17T20:10:05.648548+00:00", "openstates_url": "https://openstates.org/person/sterley-stanley-4NxIeBGvkQ2J2Hv2Yg2cxj/"}, {"id": "ocd-person/1277b3fe-c85b-41af-ada7-e01cc910c397", "name": "Thomas P. Giblin", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "34", "division_id": "ocd-division/country:us/state:nj/sldl:34"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Thomas", "family_name": "Giblin", "image": "https://www.njleg.state.nj.us/members/memberphotos/giblin_color.jpg", "email": "AsmGiblin@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Majority Leader"}, "created_at": "2018-10-18T14:55:02.955133+00:00", "updated_at": "2022-01-12T21:02:28.322525+00:00", "openstates_url": "https://openstates.org/person/thomas-p-giblin-YqZ752PsDcXOLvV9ZDDZ1/"}, {"id": "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf", "name": "Verlina Reynolds-Jackson", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "15", "division_id": "ocd-division/country:us/state:nj/sldl:15"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Verlina", "family_name": "Reynolds-Jackson", "image": "https://www.njleg.state.nj.us/members/memberphotos/reynolds-jackson_verlina_2018.jpg", "email": "AswReynoldsJackson@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Majority Leader"}, "created_at": "2018-10-18T14:55:03.758448+00:00", "updated_at": "2022-01-12T21:01:02.785493+00:00", "openstates_url": "https://openstates.org/person/verlina-reynolds-jackson-5U1tFmWVWT3Oz9sG4ypksx/"}, {"id": "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6", "name": "Vicky Flynn", "party": "Republican", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "13", "division_id": "ocd-division/country:us/state:nj/sldl:13"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Vicky", "family_name": "Flynn", "image": "", "email": "AswFlynn@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:01:26.513231+00:00", "updated_at": "2022-10-17T20:10:06.644551+00:00", "openstates_url": "https://openstates.org/person/vicky-flynn-1gucgkZdNzJH6vIQIBW5BO/"}, {"id": "ocd-person/08016f74-f5d6-4554-91b4-385fdbd558a7", "name": "Wayne P. DeAngelo", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "14", "division_id": "ocd-division/country:us/state:nj/sldl:14"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Wayne", "family_name": "DeAngelo", "image": "https://www.njleg.state.nj.us/members/memberphotos/deangelo_color.jpg", "email": "AsmDeAngelo@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Speaker"}, "created_at": "2018-10-18T14:54:57.722011+00:00", "updated_at": "2022-01-12T21:02:55.245486+00:00", "openstates_url": "https://openstates.org/person/wayne-p-deangelo-F6araPZwBTGizkiGkbbt9/"}, {"id": "ocd-person/d624fdfb-366e-41f1-83a7-2a8421350d3c", "name": "William B. Sampson, IV", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "31", "division_id": "ocd-division/country:us/state:nj/sldl:31"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "William", "family_name": "Sampson", "image": "", "email": "AsmSampson@njleg.org", "gender": "", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2022-01-12T21:02:10.148635+00:00", "updated_at": "2022-01-12T21:02:10.984586+00:00", "openstates_url": "https://openstates.org/person/william-b-sampson-iv-6W5GKa3EX65UuY4QSii1O8/"}, {"id": "ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841", "name": "William F. Moen, Jr.", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:nj/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "William", "family_name": "Moen", "image": "", "email": "AsmMoen@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2020-01-28T06:11:57.472719+00:00", "updated_at": "2022-10-17T20:10:07.749685+00:00", "openstates_url": "https://openstates.org/person/william-f-moen-jr-vlRF4P2Hoe3a7so0FVDEn/"}, {"id": "ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561", "name": "William W. Spearman", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "5", "division_id": "ocd-division/country:us/state:nj/sldl:5"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "William", "family_name": "Spearman", "image": "https://www.njleg.state.nj.us/members/memberphotos/spearman_william_2018a.jpg", "email": "AsmSpearman@njleg.org", "gender": "Male", "birth_date": "", "death_date": "", "extras": {"role": "Deputy Whip"}, "created_at": "2018-10-18T14:54:54.160270+00:00", "updated_at": "2022-01-12T21:01:00.389315+00:00", "openstates_url": "https://openstates.org/person/william-w-spearman-1rn8h1uRmdQs1yBogKWFXd/"}, {"id": "ocd-person/a0d9e9ac-6ede-4e36-8c9e-f7bd83cc704a", "name": "Yvonne Lopez", "party": "Democratic", "current_role": {"title": "Assembly Member", "org_classification": "lower", "district": "19", "division_id": "ocd-division/country:us/state:nj/sldl:19"}, "jurisdiction": {"id": "ocd-jurisdiction/country:us/state:nj/government", "name": "New Jersey", "classification": "state"}, "given_name": "Yvonne", "family_name": "Lopez", "image": "https://www.njleg.state.nj.us/members/memberphotos/lopez_yvonne_2017.jpg", "email": "AswLopez@njleg.org", "gender": "Female", "birth_date": "", "death_date": "", "extras": {}, "created_at": "2018-10-18T14:55:01.647458+00:00", "updated_at": "2022-01-12T21:02:29.517549+00:00", "openstates_url": "https://openstates.org/person/yvonne-lopez-4tWMEznGrQMOMR18nTeH8c/"}]}
+{
+  "timestamp": "11-29-2022 15:53:32",
+  "incumbents": [
+    {
+      "id": "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45",
+      "name": "Angela V. McKnight",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:nj/sldl:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Angela",
+      "family_name": "McKnight",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mcknight_color.jpg",
+      "email": "AswMcKnight@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:05.230021+00:00",
+      "updated_at": "2022-01-12T21:01:38.156403+00:00",
+      "openstates_url": "https://openstates.org/person/angela-v-mcknight-6b3oLg9bh5dOgof91Hsayj/"
+    },
+    {
+      "id": "ocd-person/2845eb57-3b9a-4d8d-9ee3-55bda4967805",
+      "name": "Angelica M. Jimenez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:nj/sldl:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Angelica",
+      "family_name": "Jimenez",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/jimenez_color.jpg",
+      "email": "AswJimenez@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker" },
+      "created_at": "2018-10-18T14:54:56.567796+00:00",
+      "updated_at": "2022-01-12T21:01:23.051047+00:00",
+      "openstates_url": "https://openstates.org/person/angelica-m-jimenez-1Dze4KiK3JvKosKMpfLj1B/"
+    },
+    {
+      "id": "ocd-person/a0281bb5-d164-48ca-959b-4cb52e389cc7",
+      "name": "Annette Chaparro",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:nj/sldl:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Annette",
+      "family_name": "Chaparro",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/chaparro_annette_2020.jpg",
+      "email": "AswChaparro@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:00.815251+00:00",
+      "updated_at": "2022-01-12T21:00:52.652459+00:00",
+      "openstates_url": "https://openstates.org/person/annette-chaparro-4sD6JSPcm6YLbGq5Y4aUg3/"
+    },
+    {
+      "id": "ocd-person/ec370db8-c51e-4022-9868-5cad9c38e97d",
+      "name": "Annette Quijano",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:nj/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Annette",
+      "family_name": "Quijano",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/quijano_annette_2020.jpg",
+      "email": "AswQuijano@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Majority Conference Leader" },
+      "created_at": "2018-10-18T14:54:58.366685+00:00",
+      "updated_at": "2022-01-12T21:01:50.202253+00:00",
+      "openstates_url": "https://openstates.org/person/annette-quijano-7BjLcXERQxhRS7ebgmMQFZ/"
+    },
+    {
+      "id": "ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0",
+      "name": "Anthony S. Verrelli",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:nj/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Anthony",
+      "family_name": "Verrelli",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/verrelli_anthony_2020.jpg",
+      "email": "AsmVerrelli@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:49.322745+00:00",
+      "updated_at": "2022-01-12T21:01:40.215572+00:00",
+      "openstates_url": "https://openstates.org/person/anthony-s-verrelli-63CKBSl16eIBFgkQxTx5aC/"
+    },
+    {
+      "id": "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "name": "Antwan L. McClellan",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:nj/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Antwan",
+      "family_name": "McClellan",
+      "image": "http://www.njleg.state.nj.us/members/memberphotos/mcclellan_antwan_2020.jpg",
+      "email": "AsmMcClellan@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Minority Whip" },
+      "created_at": "2020-01-28T06:11:53.360853+00:00",
+      "updated_at": "2022-01-12T21:01:07.514950+00:00",
+      "openstates_url": "https://openstates.org/person/antwan-l-mcclellan-2OaU1MkiAUAzaG9sRTCBh5/"
+    },
+    {
+      "id": "ocd-person/03aa8bec-9d7e-41e7-ad20-b5ba1991cab6",
+      "name": "Aura Dunn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:nj/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Aura",
+      "family_name": "Dunn",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/dunn_aura_2020.jpg",
+      "email": "AswDunn@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-03-04T06:15:33.474236+00:00",
+      "updated_at": "2022-01-12T21:02:05.624133+00:00",
+      "openstates_url": "https://openstates.org/person/aura-dunn-6uuqtJoeCSsFCGF7CruSM/"
+    },
+    {
+      "id": "ocd-person/18fa38fc-954e-43d9-a294-a2068828216e",
+      "name": "Benjie E. Wimberly",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:nj/sldl:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Benjie",
+      "family_name": "Wimberly",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/wimberly_color.jpg",
+      "email": "AsmWimberly@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Speaker Pro Tempore" },
+      "created_at": "2018-10-18T14:55:06.084390+00:00",
+      "updated_at": "2022-01-12T21:01:51.421409+00:00",
+      "openstates_url": "https://openstates.org/person/benjie-e-wimberly-l8APOdumNO2fj4vxedy9e/"
+    },
+    {
+      "id": "ocd-person/4275f171-9920-464e-a395-b4deab10c6b2",
+      "name": "Beth Sawyer",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:nj/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Beth",
+      "family_name": "Sawyer",
+      "image": "",
+      "email": "AswSawyer@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:24.681383+00:00",
+      "updated_at": "2022-10-17T20:10:07.786140+00:00",
+      "openstates_url": "https://openstates.org/person/beth-sawyer-21POPYpgLW9AC2sBalxTn8/"
+    },
+    {
+      "id": "ocd-person/6f117492-e010-46fe-8356-2b38516c22be",
+      "name": "Bethanne McCarthy Patrick",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:nj/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Bethanne",
+      "family_name": "Patrick",
+      "image": "",
+      "email": "AswMcCarthyPatrick@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:34.097874+00:00",
+      "updated_at": "2022-10-17T20:10:09.554607+00:00",
+      "openstates_url": "https://openstates.org/person/bethanne-mccarthy-patrick-3Na7m789CXGh7PKg0yXuqE/"
+    },
+    {
+      "id": "ocd-person/16e93ae3-7fc5-450e-9a84-90459aa18338",
+      "name": "Brandon Umba",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:nj/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Brandon",
+      "family_name": "Umba",
+      "image": "",
+      "email": "AsmUmba@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:26.652012+00:00",
+      "updated_at": "2022-10-17T20:10:06.176209+00:00",
+      "openstates_url": "https://openstates.org/person/brandon-umba-hEPtJqLnBRmQD4lNnxJWK/"
+    },
+    {
+      "id": "ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149",
+      "name": "Brian Bergen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:nj/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Bergen",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/bergen_brian_2020.jpg",
+      "email": "AsmBergen@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-28T06:11:56.354252+00:00",
+      "updated_at": "2022-01-12T21:01:53.737533+00:00",
+      "openstates_url": "https://openstates.org/person/brian-bergen-nPA65aatPkHFD7jjZlPd/"
+    },
+    {
+      "id": "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3",
+      "name": "Brian E. Rumpf",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:nj/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Rumpf",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/rumpf_brian_2020.jpg",
+      "email": "AsmRumpf@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Policy Co-Chair" },
+      "created_at": "2018-10-18T14:55:00.018344+00:00",
+      "updated_at": "2022-01-12T21:00:59.268170+00:00",
+      "openstates_url": "https://openstates.org/person/brian-e-rumpf-6WexXsT1Jh1ymkLfdBe2pH/"
+    },
+    {
+      "id": "ocd-person/707e3027-d06f-4346-8c11-3ff1becbe725",
+      "name": "Britnee N. Timberlake",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:nj/sldl:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Britnee",
+      "family_name": "Timberlake",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/timberlake_britnee_2018.jpg",
+      "email": "AswTimberlake@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:02.792436+00:00",
+      "updated_at": "2022-01-12T21:01:08.757663+00:00",
+      "openstates_url": "https://openstates.org/person/britnee-n-timberlake-3QGo8pUJrBDgbyCuDS7tgr/"
+    },
+    {
+      "id": "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095",
+      "name": "Carol A. Murphy",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:nj/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Carol",
+      "family_name": "Murphy",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/murphy_carol_2021.jpg",
+      "email": "AswMurphy@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Majority Leader" },
+      "created_at": "2018-10-18T14:55:06.244542+00:00",
+      "updated_at": "2022-01-12T21:01:49.116534+00:00",
+      "openstates_url": "https://openstates.org/person/carol-a-murphy-5wOdTa7fxaMfxOiuJSge7p/"
+    },
+    {
+      "id": "ocd-person/09c6e805-6356-4bcb-a7d3-6be479d41e9a",
+      "name": "Christian E. Barranco",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:nj/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Christian",
+      "family_name": "Barranco",
+      "image": "",
+      "email": "AsmBarranco.njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:56.646226+00:00",
+      "updated_at": "2022-10-17T20:10:08.099550+00:00",
+      "openstates_url": "https://openstates.org/person/christian-e-barranco-IRpXrhGnLd6LS8YrQBWWo/"
+    },
+    {
+      "id": "ocd-person/33050562-f29d-4c4f-9e21-022822792a5c",
+      "name": "Christopher P. DePhillips",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:nj/sldl:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Christopher",
+      "family_name": "DePhillips",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/dephillips_christopher_2020.jpg",
+      "email": "AsmDePhillips@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:55.937570+00:00",
+      "updated_at": "2022-01-12T21:02:24.606786+00:00",
+      "openstates_url": "https://openstates.org/person/christopher-p-dephillips-1YGu0HKCCF0gG5rAe8TAuC/"
+    },
+    {
+      "id": "ocd-person/3525b57b-adb4-4cae-b3a3-6bf2b22a5419",
+      "name": "Claire Swift",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:nj/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Claire",
+      "family_name": "Swift",
+      "image": "",
+      "email": "AswSwift@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:22.514216+00:00",
+      "updated_at": "2022-10-17T20:10:08.575923+00:00",
+      "openstates_url": "https://openstates.org/person/claire-swift-1cHpEVL4JLa5xPrEIY43Dd/"
+    },
+    {
+      "id": "ocd-person/c5469bd6-29bd-4054-9ac0-3577d17422d4",
+      "name": "Cleopatra G. Tucker",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:nj/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Cleopatra",
+      "family_name": "Tucker",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/tucker_cleopatra_2017.jpg",
+      "email": "AswTucker@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:03.592272+00:00",
+      "updated_at": "2022-01-12T21:02:26.391938+00:00",
+      "openstates_url": "https://openstates.org/person/cleopatra-g-tucker-60Fkukba5dhrILJN99uv00/"
+    },
+    {
+      "id": "ocd-person/5475b510-25ec-4354-abb5-f1f03c3ea2c3",
+      "name": "Clinton Calabrese",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:nj/sldl:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Clinton",
+      "family_name": "Calabrese",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/calabrese_clinton_2018.jpg",
+      "email": "AsmCalabrese@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:08.040879+00:00",
+      "updated_at": "2022-01-12T21:01:42.521626+00:00",
+      "openstates_url": "https://openstates.org/person/clinton-calabrese-2ZN9AJ9W7Ck1Q4VnmwnW9z/"
+    },
+    {
+      "id": "ocd-person/9d1ae08a-66b3-4d68-bafe-956d4eaeb57f",
+      "name": "Craig J. Coughlin",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:nj/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Craig",
+      "family_name": "Coughlin",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/coughlin_craig_2017.jpg",
+      "email": "AsmCoughlin@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Assembly Speaker" },
+      "created_at": "2018-10-18T14:55:00.662119+00:00",
+      "updated_at": "2022-01-12T21:01:25.079765+00:00",
+      "openstates_url": "https://openstates.org/person/craig-j-coughlin-4mS4qdx7NZl9wivCKmJPiB/"
+    },
+    {
+      "id": "ocd-person/a0bdc29a-2ff2-42b1-b53a-36f598f99b52",
+      "name": "Daniel R. Benson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:nj/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Daniel",
+      "family_name": "Benson",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg",
+      "email": "AsmBenson@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Conference Leader" },
+      "created_at": "2018-10-18T14:54:52.406096+00:00",
+      "updated_at": "2022-01-12T21:01:56.039763+00:00",
+      "openstates_url": "https://openstates.org/person/daniel-r-benson-4tJUYv9lNgReeuWBmbegSI/"
+    },
+    {
+      "id": "ocd-person/19909928-4081-4f6f-956c-7ea68be8f260",
+      "name": "DeAnne C. DeFuccio",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:nj/sldl:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "DeAnne",
+      "family_name": "DeFuccio",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/defuccio_deanne_2021.jpg",
+      "email": "AswDeFuccio@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-03T18:44:52.020509+00:00",
+      "updated_at": "2022-10-17T20:10:08.905677+00:00",
+      "openstates_url": "https://openstates.org/person/deanne-c-defuccio-mEtAGr2UUaQgGvpbOublA/"
+    },
+    {
+      "id": "ocd-person/0fdc52e3-8772-4466-a19c-93a6c39eae65",
+      "name": "DiAnne C. Gove",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:nj/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "DiAnne",
+      "family_name": "Gove",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/gove_dianne_2020.jpg",
+      "email": "AswGove@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Policy Co-Chair" },
+      "created_at": "2018-10-18T14:54:51.587050+00:00",
+      "updated_at": "2022-01-12T21:02:43.374105+00:00",
+      "openstates_url": "https://openstates.org/person/dianne-c-gove-TvZXD2TyoUjqHikyxU6In/"
+    },
+    {
+      "id": "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32",
+      "name": "Don Guardian",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:nj/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Don",
+      "family_name": "Guardian",
+      "image": "",
+      "email": "AsmGuardian@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:11.061769+00:00",
+      "updated_at": "2022-10-17T20:10:08.723407+00:00",
+      "openstates_url": "https://openstates.org/person/don-guardian-6nnSal49h7crdrkAaJgz9m/"
+    },
+    {
+      "id": "ocd-person/e6d7f07e-8f68-49b5-8e8e-970817a6c8c4",
+      "name": "Edward H. Thomson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:nj/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Edward",
+      "family_name": "Thomson",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/thomson_edward_2018.jpg",
+      "email": "AsmThomson@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Republican Conference Leader" },
+      "created_at": "2018-10-18T14:55:04.724535+00:00",
+      "updated_at": "2022-01-12T21:01:35.889414+00:00",
+      "openstates_url": "https://openstates.org/person/edward-h-thomson-71av1il4ciBopbouQuBkbk/"
+    },
+    {
+      "id": "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e",
+      "name": "Eliana Pintor Marin",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:nj/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Eliana",
+      "family_name": "Pintor Marin",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/pintormarin_eliana_2017.jpg",
+      "email": "AswPintorMarin@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Budget Chair" },
+      "created_at": "2018-10-18T14:54:54.320030+00:00",
+      "updated_at": "2022-01-12T21:02:01.977457+00:00",
+      "openstates_url": "https://openstates.org/person/eliana-pintor-marin-2vmgXHhPsNOJ7dE0KcB8v8/"
+    },
+    {
+      "id": "ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4",
+      "name": "Ellen J. Park",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:nj/sldl:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Ellen",
+      "family_name": "Park",
+      "image": "",
+      "email": "AswPark@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:13.642167+00:00",
+      "updated_at": "2022-10-17T20:10:08.835300+00:00",
+      "openstates_url": "https://openstates.org/person/ellen-j-park-6zisQJ2kjDVAIxpLceNwP6/"
+    },
+    {
+      "id": "ocd-person/df6d2d1f-3fb0-4e93-93cf-26665cae9a23",
+      "name": "Erik Peterson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:nj/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Erik",
+      "family_name": "Peterson",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/peterson_erik_2020.jpg",
+      "email": "AsmPeterson@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Parliamentarian" },
+      "created_at": "2018-10-18T14:54:49.636523+00:00",
+      "updated_at": "2022-01-12T21:02:56.374753+00:00",
+      "openstates_url": "https://openstates.org/person/erik-peterson-6nbBJwSW1HZe8msLwYCdW7/"
+    },
+    {
+      "id": "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d",
+      "name": "Erik Simonsen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:nj/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Erik",
+      "family_name": "Simonsen",
+      "image": "http://www.njleg.state.nj.us/members/memberphotos/simonsen_erik_2020.jpg",
+      "email": "AsmSimonsen@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-28T06:11:55.772064+00:00",
+      "updated_at": "2022-01-12T21:01:58.313959+00:00",
+      "openstates_url": "https://openstates.org/person/erik-simonsen-3soZPLhC0YD8LtsPSdnm8L/"
+    },
+    {
+      "id": "ocd-person/b74b5f86-8982-4852-a2da-c1007a991156",
+      "name": "Gabriela M. Mosquera",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:nj/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Gabriela",
+      "family_name": "Mosquera",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mosquera_color.jpg",
+      "email": "AswMosquera@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:01.969315+00:00",
+      "updated_at": "2022-01-12T21:00:53.817379+00:00",
+      "openstates_url": "https://openstates.org/person/gabriela-m-mosquera-5Zs2ZNksCgDG3Vih0stcgg/"
+    },
+    {
+      "id": "ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4",
+      "name": "Gary S. Schaer",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:nj/sldl:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Gary",
+      "family_name": "Schaer",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/schaer_color.jpg",
+      "email": "AsmSchaer@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Policy Chair / Deputy Speaker" },
+      "created_at": "2018-10-18T14:54:53.369293+00:00",
+      "updated_at": "2022-01-12T21:01:17.049278+00:00",
+      "openstates_url": "https://openstates.org/person/gary-s-schaer-4UZjz58DAzG24TkH915Ilo/"
+    },
+    {
+      "id": "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf",
+      "name": "Gerry Scharfenberger",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:nj/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Gerard",
+      "family_name": "Scharfenberger",
+      "image": "http://www.njleg.state.nj.us/members/memberphotos/scharfenberger_gerard_2020a.jpg",
+      "email": "AsmScharfenberger@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-28T06:11:55.495211+00:00",
+      "updated_at": "2022-01-12T21:02:38.254664+00:00",
+      "openstates_url": "https://openstates.org/person/gerry-scharfenberger-22goxXqr9Rq3WT26ohqaSN/"
+    },
+    {
+      "id": "ocd-person/2ac520a3-ae36-4936-a9c3-6842401b6c83",
+      "name": "Gregory P. McGuckin",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:nj/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Gregory",
+      "family_name": "McGuckin",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mcguckin_gregory_2020.jpg",
+      "email": "AsmMcGuckin@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:04.881360+00:00",
+      "updated_at": "2022-01-12T21:02:00.643502+00:00",
+      "openstates_url": "https://openstates.org/person/gregory-p-mcguckin-1IhlRct1NtrdM6O3kgYY5r/"
+    },
+    {
+      "id": "ocd-person/ccd54a2a-c814-469f-a415-e2e667c5caed",
+      "name": "Harold J. Wirths",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:nj/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Harold",
+      "family_name": "Wirths",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/wirths_harold_2020.jpg",
+      "email": "AsmWirths@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Republican Budget Officer" },
+      "created_at": "2018-10-18T14:55:05.062803+00:00",
+      "updated_at": "2022-01-12T21:00:57.153125+00:00",
+      "openstates_url": "https://openstates.org/person/harold-j-wirths-6EVuJnogXmvXGTwMlY5l2T/"
+    },
+    {
+      "id": "ocd-person/6b67938b-adbf-488a-a3c1-3de2c3bc3b8f",
+      "name": "Herb Conaway, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:nj/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Herb",
+      "family_name": "Conaway",
+      "image": "",
+      "email": "AsmConaway@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:50.602642+00:00",
+      "updated_at": "2022-10-17T20:10:06.850804+00:00",
+      "openstates_url": "https://openstates.org/person/herb-conaway-jr-3GfVpwFjM4Q6MONxueLDTz/"
+    },
+    {
+      "id": "ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27",
+      "name": "James J. Kennedy",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:nj/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "James",
+      "family_name": "Kennedy",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/kennedy_color.jpg",
+      "email": "AsmKennedy@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:59.833371+00:00",
+      "updated_at": "2022-01-12T21:01:45.573399+00:00",
+      "openstates_url": "https://openstates.org/person/james-j-kennedy-6ZhDnSmAqIH9zk6oNpK9v5/"
+    },
+    {
+      "id": "ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0",
+      "name": "Jay Webber",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:nj/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Jay",
+      "family_name": "Webber",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/webber_jay_2019.jpg",
+      "email": "AsmWebber@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Appropriations Officer" },
+      "created_at": "2018-10-18T14:54:58.198405+00:00",
+      "updated_at": "2022-01-12T21:01:05.217535+00:00",
+      "openstates_url": "https://openstates.org/person/jay-webber-6gwe002sh6sqH9zEIxTWBU/"
+    },
+    {
+      "id": "ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48",
+      "name": "Joe Danielsen",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:nj/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Joe",
+      "family_name": "Danielsen",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/danielsen_joe_2021.jpg",
+      "email": "AsmDanielsen@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Whip" },
+      "created_at": "2018-10-18T14:54:52.889613+00:00",
+      "updated_at": "2022-01-12T21:01:01.601613+00:00",
+      "openstates_url": "https://openstates.org/person/joe-danielsen-6vvGTqLcCUOO02Kf0RQK0/"
+    },
+    {
+      "id": "ocd-person/022c6b02-77d3-416e-9ddf-cdfa2ca46add",
+      "name": "John Catalano",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:nj/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Catalano",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/catalano_john_2020.jpg",
+      "email": "AsmCatalano@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-28T06:11:57.511781+00:00",
+      "updated_at": "2022-01-12T21:02:37.801575+00:00",
+      "openstates_url": "https://openstates.org/person/john-catalano-46Hah6DUx6TuohGQxO8R3/"
+    },
+    {
+      "id": "ocd-person/dce6ec3a-7d62-4b33-8693-259364c85285",
+      "name": "John DiMaio",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:nj/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "DiMaio",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/dimaio_john_2020.jpg",
+      "email": "AsmDiMaio@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Minority Leader" },
+      "created_at": "2018-10-18T14:54:54.950817+00:00",
+      "updated_at": "2022-01-12T21:02:31.138018+00:00",
+      "openstates_url": "https://openstates.org/person/john-dimaio-6ipqK5lAk5uZsm9FKGD48j/"
+    },
+    {
+      "id": "ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2",
+      "name": "John F. McKeon",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:nj/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "McKeon",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg",
+      "email": "AsmMcKeon@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:50.104228+00:00",
+      "updated_at": "2022-01-12T21:01:31.546231+00:00",
+      "openstates_url": "https://openstates.org/person/john-f-mckeon-yEcr4mpFEVPFKGW9T6rty/"
+    },
+    {
+      "id": "ocd-person/1ef49582-10ab-4e05-b699-74a6956d24ea",
+      "name": "Joseph V. Egan",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:nj/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Joseph",
+      "family_name": "Egan",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/egan_color.jpg",
+      "email": "AsmEgan@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Majority Leader" },
+      "created_at": "2018-10-18T14:54:51.093131+00:00",
+      "updated_at": "2022-01-12T21:02:45.423013+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-v-egan-wPXn2sEepRtwIACWNapS6/"
+    },
+    {
+      "id": "ocd-person/0aca0d16-9cf3-46f8-acd9-155f739badaa",
+      "name": "Kevin J. Rooney",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:nj/sldl:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Kevin",
+      "family_name": "Rooney",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/rooney_kevin_2020.jpg",
+      "email": "AsmRooney@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:05.910917+00:00",
+      "updated_at": "2022-01-12T21:00:54.989737+00:00",
+      "openstates_url": "https://openstates.org/person/kevin-j-rooney-KMGAs1eRLTvdrPV4cKAna/"
+    },
+    {
+      "id": "ocd-person/346f7ba5-73f5-4bcb-bd58-101e7eda1451",
+      "name": "Kimberly Eulner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:nj/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Kimberly",
+      "family_name": "Eulner",
+      "image": "",
+      "email": "AswEulner@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:18.510029+00:00",
+      "updated_at": "2022-10-17T20:10:06.424298+00:00",
+      "openstates_url": "https://openstates.org/person/kimberly-eulner-1awY1rxlGOiHzJoYBvjnof/"
+    },
+    {
+      "id": "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98",
+      "name": "Linda S. Carter",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:nj/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Linda",
+      "family_name": "Carter",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/carter_linda_2018a.jpg",
+      "email": "AswCarter@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Whip" },
+      "created_at": "2018-10-18T14:55:06.742998+00:00",
+      "updated_at": "2022-01-12T21:01:32.686027+00:00",
+      "openstates_url": "https://openstates.org/person/linda-s-carter-mKwDYaovc0K8Mo3IrTxFY/"
+    },
+    {
+      "id": "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299",
+      "name": "Lisa Swain",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:nj/sldl:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Lisa",
+      "family_name": "Swain",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/swain_lisa_2018a.jpg",
+      "email": "AswSwain@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:00.505077+00:00",
+      "updated_at": "2022-01-12T21:02:54.105514+00:00",
+      "openstates_url": "https://openstates.org/person/lisa-swain-1EoJDk0lQoXOOAoLXAyMUT/"
+    },
+    {
+      "id": "ocd-person/a27823aa-f5a9-4d6c-8089-1d8ceee6f8e0",
+      "name": "Louis D. Greenwald",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:nj/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Louis",
+      "family_name": "Greenwald",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/greenwald_color.jpg",
+      "email": "AsmGreenwald@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "position": "Majority Leader" },
+      "created_at": "2018-10-18T14:54:50.262555+00:00",
+      "updated_at": "2022-01-12T21:02:50.277258+00:00",
+      "openstates_url": "https://openstates.org/person/louis-d-greenwald-4wZey6dvzynXX1A9HpGHJo/"
+    },
+    {
+      "id": "ocd-person/9418e11d-41b6-4718-af26-5d2bf751e35a",
+      "name": "Marilyn Piperno",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:nj/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Marilyn",
+      "family_name": "Piperno",
+      "image": "",
+      "email": "AswPiperno@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:03.417973+00:00",
+      "updated_at": "2022-10-17T20:10:06.387868+00:00",
+      "openstates_url": "https://openstates.org/person/marilyn-piperno-4VSEWbrPWEIwtkX2Aoi37S/"
+    },
+    {
+      "id": "ocd-person/71bb6c1c-60ba-4dc8-8534-b07524695d6e",
+      "name": "Michael Torrissi, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:nj/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Torrissi",
+      "image": "",
+      "email": "AsmTorrissi@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:14.098300+00:00",
+      "updated_at": "2022-10-17T20:10:06.607955+00:00",
+      "openstates_url": "https://openstates.org/person/michael-torrissi-jr-3SbmgFFP2r4WwW0Q58Qrvy/"
+    },
+    {
+      "id": "ocd-person/c3f2aa37-3c3c-4786-8ece-54acab035f35",
+      "name": "Michele Matsikoudis",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:nj/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Michele",
+      "family_name": "Matsikoudis",
+      "image": "",
+      "email": "AswMatsikoudis@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:18.325143+00:00",
+      "updated_at": "2022-10-17T20:10:08.501502+00:00",
+      "openstates_url": "https://openstates.org/person/michele-matsikoudis-5xkOv297rdiBCDqJvlvBsj/"
+    },
+    {
+      "id": "ocd-person/5e50bdd3-07c1-481f-8dc8-c59dbae85f4d",
+      "name": "Mila M. Jasey",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:nj/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Mila",
+      "family_name": "Jasey",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg",
+      "email": "AswJasey@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker" },
+      "created_at": "2018-10-18T14:54:52.240425+00:00",
+      "updated_at": "2022-01-12T21:01:29.311228+00:00",
+      "openstates_url": "https://openstates.org/person/mila-m-jasey-2ryB16JFzBPJSRXo5QKd9Z/"
+    },
+    {
+      "id": "ocd-person/f553c0d7-7c53-4197-9a83-b0a1d2b56dd3",
+      "name": "Nancy F. Munoz",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:nj/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Nancy",
+      "family_name": "Munoz",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/munoz_nancy_2020.jpg",
+      "email": "AswMunoz@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Conference Leader" },
+      "created_at": "2018-10-18T14:54:49.473986+00:00",
+      "updated_at": "2022-01-12T21:01:54.874166+00:00",
+      "openstates_url": "https://openstates.org/person/nancy-f-munoz-7SvOWBtYGPqifvOVrkxCUt/"
+    },
+    {
+      "id": "ocd-person/934c3022-709b-4768-b2df-635d25579128",
+      "name": "P. Christopher Tully",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:nj/sldl:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "P.",
+      "family_name": "Tully",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/tully_christopher_2018b.jpg",
+      "email": "AsmTully@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Majority Leader" },
+      "created_at": "2018-10-18T14:54:59.514553+00:00",
+      "updated_at": "2022-01-12T21:02:03.147370+00:00",
+      "openstates_url": "https://openstates.org/person/p-christopher-tully-4TwgmiFSRT92qwxgyglnmS/"
+    },
+    {
+      "id": "ocd-person/279cf9a8-0a51-45cd-b79f-b174f6f1cbc0",
+      "name": "Pamela R. Lampitt",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:nj/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Pamela",
+      "family_name": "Lampitt",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/lampitt_pamela_2017.jpg",
+      "email": "AswLampitt@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker" },
+      "created_at": "2018-10-18T14:55:07.557623+00:00",
+      "updated_at": "2022-01-12T21:02:12.929312+00:00",
+      "openstates_url": "https://openstates.org/person/pamela-r-lampitt-1CkRC5UkDmhQjwXwojxzw8/"
+    },
+    {
+      "id": "ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c",
+      "name": "Parker Space",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:nj/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Parker",
+      "family_name": "Space",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/space_parker_2020.jpg",
+      "email": "AsmSpace@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:55.461374+00:00",
+      "updated_at": "2022-01-12T21:02:15.807296+00:00",
+      "openstates_url": "https://openstates.org/person/parker-space-uMNHAAVC5MhpfwSCpRdaG/"
+    },
+    {
+      "id": "ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0",
+      "name": "Paul D. Moriarty",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:nj/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Paul",
+      "family_name": "Moriarty",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/moriarty_color.jpg",
+      "email": "AsmMoriarty@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker" },
+      "created_at": "2018-10-18T14:55:05.400205+00:00",
+      "updated_at": "2022-01-12T21:01:13.363710+00:00",
+      "openstates_url": "https://openstates.org/person/paul-d-moriarty-7LSoWeHOTDMgOHCsuwzOk4/"
+    },
+    {
+      "id": "ocd-person/fd2836af-d444-48b7-9518-c8843d30c41d",
+      "name": "Pedro Mejia",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:nj/sldl:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Pedro",
+      "family_name": "Mejia",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mejia_pedro_2018.jpg",
+      "email": "AsmMejia@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:51.255242+00:00",
+      "updated_at": "2022-01-12T21:01:30.418365+00:00",
+      "openstates_url": "https://openstates.org/person/pedro-mejia-7hhR3XBEp0bcBYg4I4t1Fl/"
+    },
+    {
+      "id": "ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea",
+      "name": "Raj Mukherji",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:nj/sldl:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Raj",
+      "family_name": "Mukherji",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/mukherji_color.jpg",
+      "email": "AsmMukherji@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker Pro Tempore" },
+      "created_at": "2018-10-18T14:55:02.455438+00:00",
+      "updated_at": "2022-01-12T21:01:09.928702+00:00",
+      "openstates_url": "https://openstates.org/person/raj-mukherji-7kK0ohb6TSbbSD26lTVmqQ/"
+    },
+    {
+      "id": "ocd-person/3dcf1086-76e4-4e2e-b765-8230439056c3",
+      "name": "Ralph R. Caputo",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:nj/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Ralph",
+      "family_name": "Caputo",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg",
+      "email": "AsmCaputo@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:55.621958+00:00",
+      "updated_at": "2022-01-12T21:01:28.195232+00:00",
+      "openstates_url": "https://openstates.org/person/ralph-r-caputo-1sd9xlt9DQIcOMaxGgbPPP/"
+    },
+    {
+      "id": "ocd-person/1093b785-2805-428f-8e50-cf38620ec5d6",
+      "name": "Reginald Atkins",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:nj/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Reginald",
+      "family_name": "Atkins",
+      "image": "",
+      "email": "AsmAtkins@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:38.418114+00:00",
+      "updated_at": "2022-10-17T20:10:09.518590+00:00",
+      "openstates_url": "https://openstates.org/person/reginald-atkins-VHNoDicdhA914usv0CXx8/"
+    },
+    {
+      "id": "ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77",
+      "name": "Robert Auth",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:nj/sldl:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Auth",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/auth_robert_2017.jpg",
+      "email": "AsmAuth@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:54.638917+00:00",
+      "updated_at": "2022-01-12T21:02:47.711825+00:00",
+      "openstates_url": "https://openstates.org/person/robert-auth-5GRDlNmNSXQ91P9OetHkHv/"
+    },
+    {
+      "id": "ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e",
+      "name": "Robert D. Clifton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:nj/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Clifton",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/clifton_robert_2020.jpg",
+      "email": "AsmClifton@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:55.300229+00:00",
+      "updated_at": "2022-01-12T21:02:36.902844+00:00",
+      "openstates_url": "https://openstates.org/person/robert-d-clifton-5df5hEhn2wQOcG7Eq5Uqy6/"
+    },
+    {
+      "id": "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976",
+      "name": "Robert J. Karabinchak",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:nj/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Karabinchak",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/karabinchak_color.jpg",
+      "email": "AsmKarabinchak@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:51.903748+00:00",
+      "updated_at": "2022-01-12T21:01:37.017509+00:00",
+      "openstates_url": "https://openstates.org/person/robert-j-karabinchak-6Wezrkprb8sSwDw2cJCzaw/"
+    },
+    {
+      "id": "ocd-person/e06080db-abc0-40ab-ae4b-43fd3d0a5430",
+      "name": "Ronald S. Dancer",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:nj/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Ronald",
+      "family_name": "Dancer",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/dancer_ronald_2020.jpg",
+      "email": "AsmDancer@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Republican Leader" },
+      "created_at": "2018-10-18T14:54:56.885606+00:00",
+      "updated_at": "2022-01-12T21:01:22.058022+00:00",
+      "openstates_url": "https://openstates.org/person/ronald-s-dancer-6pONlmyiAaLd7L05oummEC/"
+    },
+    {
+      "id": "ocd-person/77b80e3f-bfdd-4c81-b92e-866c17abd398",
+      "name": "Roy Freiman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:nj/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Roy",
+      "family_name": "Freiman",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/freiman_roy_2020.jpg",
+      "email": "AsmFreiman@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:56.409704+00:00",
+      "updated_at": "2022-01-12T21:01:59.446562+00:00",
+      "openstates_url": "https://openstates.org/person/roy-freiman-3duCR2bI7cB56NoSk3SSq0/"
+    },
+    {
+      "id": "ocd-person/5e2657b1-ab6e-4dc7-bb25-143df86ca18f",
+      "name": "Sadaf F. Jaffer",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:nj/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Sadaf",
+      "family_name": "Jaffer",
+      "image": "",
+      "email": "AswJaffer@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:42.797933+00:00",
+      "updated_at": "2022-10-17T20:10:09.397565+00:00",
+      "openstates_url": "https://openstates.org/person/sadaf-f-jaffer-2rengK9Oett3UJzJ7LjXRv/"
+    },
+    {
+      "id": "ocd-person/ac95c4e3-057b-43bc-8bee-752137bb2d12",
+      "name": "Sean T. Kean",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:nj/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Sean",
+      "family_name": "Kean",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/kean_sean_2020.jpg",
+      "email": "AsmSKean@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:06.404364+00:00",
+      "updated_at": "2022-01-12T21:01:18.222575+00:00",
+      "openstates_url": "https://openstates.org/person/sean-t-kean-5Ff7k8lXjkHc9obGdsdOKI/"
+    },
+    {
+      "id": "ocd-person/49be7512-9343-4189-8769-4497ed129a92",
+      "name": "Shama A. Haider",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:nj/sldl:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Shama",
+      "family_name": "Haider",
+      "image": "",
+      "email": "AswHaider@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:13.202329+00:00",
+      "updated_at": "2022-10-17T20:10:08.540266+00:00",
+      "openstates_url": "https://openstates.org/person/shama-a-haider-2F9ThgOpQBQDjKVjby0nvW/"
+    },
+    {
+      "id": "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff",
+      "name": "Shanique Speight",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:nj/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Shanique",
+      "family_name": "Speight",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/speight_shanique_2017.jpg",
+      "email": "AswSpeight@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:53.047418+00:00",
+      "updated_at": "2022-01-12T21:01:57.205542+00:00",
+      "openstates_url": "https://openstates.org/person/shanique-speight-1T8ZXVVHPYwen17G0K72EB/"
+    },
+    {
+      "id": "ocd-person/6cab3e19-7a7c-4488-877f-a6a167306ba5",
+      "name": "Shavonda E. Sumter",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:nj/sldl:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Shavonda",
+      "family_name": "Sumter",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/sumter_color.jpg",
+      "email": "AswSumter@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:54:54.480351+00:00",
+      "updated_at": "2022-01-12T21:02:08.961391+00:00",
+      "openstates_url": "https://openstates.org/person/shavonda-e-sumter-3J3QcZoPWa2kmFfZcPOM8D/"
+    },
+    {
+      "id": "ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f",
+      "name": "Sterley Stanley",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:nj/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Sterley",
+      "family_name": "Stanley",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/stanley_sterley_2021.jpg",
+      "email": "na",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-02-19T20:45:25.203287+00:00",
+      "updated_at": "2022-10-17T20:10:05.648548+00:00",
+      "openstates_url": "https://openstates.org/person/sterley-stanley-4NxIeBGvkQ2J2Hv2Yg2cxj/"
+    },
+    {
+      "id": "ocd-person/1277b3fe-c85b-41af-ada7-e01cc910c397",
+      "name": "Thomas P. Giblin",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:nj/sldl:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Thomas",
+      "family_name": "Giblin",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/giblin_color.jpg",
+      "email": "AsmGiblin@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Majority Leader" },
+      "created_at": "2018-10-18T14:55:02.955133+00:00",
+      "updated_at": "2022-01-12T21:02:28.322525+00:00",
+      "openstates_url": "https://openstates.org/person/thomas-p-giblin-YqZ752PsDcXOLvV9ZDDZ1/"
+    },
+    {
+      "id": "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf",
+      "name": "Verlina Reynolds-Jackson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:nj/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Verlina",
+      "family_name": "Reynolds-Jackson",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/reynolds-jackson_verlina_2018.jpg",
+      "email": "AswReynoldsJackson@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Majority Leader" },
+      "created_at": "2018-10-18T14:55:03.758448+00:00",
+      "updated_at": "2022-01-12T21:01:02.785493+00:00",
+      "openstates_url": "https://openstates.org/person/verlina-reynolds-jackson-5U1tFmWVWT3Oz9sG4ypksx/"
+    },
+    {
+      "id": "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6",
+      "name": "Vicky Flynn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:nj/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Vicky",
+      "family_name": "Flynn",
+      "image": "",
+      "email": "AswFlynn@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:01:26.513231+00:00",
+      "updated_at": "2022-10-17T20:10:06.644551+00:00",
+      "openstates_url": "https://openstates.org/person/vicky-flynn-1gucgkZdNzJH6vIQIBW5BO/"
+    },
+    {
+      "id": "ocd-person/08016f74-f5d6-4554-91b4-385fdbd558a7",
+      "name": "Wayne P. DeAngelo",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:nj/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Wayne",
+      "family_name": "DeAngelo",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/deangelo_color.jpg",
+      "email": "AsmDeAngelo@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Speaker" },
+      "created_at": "2018-10-18T14:54:57.722011+00:00",
+      "updated_at": "2022-01-12T21:02:55.245486+00:00",
+      "openstates_url": "https://openstates.org/person/wayne-p-deangelo-F6araPZwBTGizkiGkbbt9/"
+    },
+    {
+      "id": "ocd-person/d624fdfb-366e-41f1-83a7-2a8421350d3c",
+      "name": "William B. Sampson, IV",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:nj/sldl:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "William",
+      "family_name": "Sampson",
+      "image": "",
+      "email": "AsmSampson@njleg.org",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2022-01-12T21:02:10.148635+00:00",
+      "updated_at": "2022-01-12T21:02:10.984586+00:00",
+      "openstates_url": "https://openstates.org/person/william-b-sampson-iv-6W5GKa3EX65UuY4QSii1O8/"
+    },
+    {
+      "id": "ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841",
+      "name": "William F. Moen, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:nj/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "William",
+      "family_name": "Moen",
+      "image": "",
+      "email": "AsmMoen@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-28T06:11:57.472719+00:00",
+      "updated_at": "2022-10-17T20:10:07.749685+00:00",
+      "openstates_url": "https://openstates.org/person/william-f-moen-jr-vlRF4P2Hoe3a7so0FVDEn/"
+    },
+    {
+      "id": "ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561",
+      "name": "William W. Spearman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:nj/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "William",
+      "family_name": "Spearman",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/spearman_william_2018a.jpg",
+      "email": "AsmSpearman@njleg.org",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "role": "Deputy Whip" },
+      "created_at": "2018-10-18T14:54:54.160270+00:00",
+      "updated_at": "2022-01-12T21:01:00.389315+00:00",
+      "openstates_url": "https://openstates.org/person/william-w-spearman-1rn8h1uRmdQs1yBogKWFXd/"
+    },
+    {
+      "id": "ocd-person/a0d9e9ac-6ede-4e36-8c9e-f7bd83cc704a",
+      "name": "Yvonne Lopez",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Assembly Member",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:nj/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "given_name": "Yvonne",
+      "family_name": "Lopez",
+      "image": "https://www.njleg.state.nj.us/members/memberphotos/lopez_yvonne_2017.jpg",
+      "email": "AswLopez@njleg.org",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:55:01.647458+00:00",
+      "updated_at": "2022-01-12T21:02:29.517549+00:00",
+      "openstates_url": "https://openstates.org/person/yvonne-lopez-4tWMEznGrQMOMR18nTeH8c/"
+    }
+  ]
+}
