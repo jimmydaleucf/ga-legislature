@@ -1,6 +1,7 @@
 <script>
   import LegMap from "./LegMap.svelte";
   import BopBar from "./BopBar.svelte";
+  import Diagram from "./Diagram.svelte";
 
   let stateList = [
     "Alabama",
@@ -71,6 +72,7 @@
             {#each chamberList as chamber}
               <div class="state-container spacer">
                 <!-- <LegMap {state} {chamber} /> -->
+                <Diagram {state} {chamber} />
                 <BopBar {state} {chamber} />
               </div>
             {/each}

@@ -5,7 +5,7 @@ import os
 
 
 
-
+bopRollup.bopRollup()
 f = open('public/output/bopRollup.json')
 file = json.load(f)
 os.chdir('./public/diagrams/')
@@ -15,12 +15,15 @@ for x in range(len(states)):
     stateName = states[x]['state']
     stateOrgs =states[x]['organizations']
     for y in range(len(stateOrgs)):
-        chamberName = stateOrgs[y]['org']
+        chamber = stateOrgs[y]['classification']
         chamberTotal =stateOrgs[y]['totalSeats']
-        filename = f'{stateName}-{chamberName}-diagram.svg'
+        filename = f'{stateName}-{chamber}-diagram.svg'
         dem = stateOrgs[y]['dem']
         gop = stateOrgs[y]['gop']
         other = stateOrgs[y]['other']
+        totalIncumbents = dem + gop + other
+        vacant = chamberTotal - totalIncumbents
+        print(vacant)
         input_list = {
             'parties': [
                 {
@@ -41,6 +44,13 @@ for x in range(len(states)):
                     'name': 'Republican',
                     'nb_seats': int(gop),
                     'color': '#dc3d3d' ,
+                    'border_size': 0,
+                    'border_color': '#000000'
+                },
+                {
+                    'name': 'Vacant',
+                    'nb_seats': int(vacant),
+                    'color': '#808080' ,
                     'border_size': 0,
                     'border_color': '#000000'
                 }

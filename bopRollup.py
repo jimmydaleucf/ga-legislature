@@ -37,10 +37,6 @@ def bopRollup():
       else:
         pass
     incumbentTotal = gop + dem + other
-    incumbentObj = {'incumbentTotal':incumbentTotal}
-    gopObj = {'gop': gop}
-    demObj = {'dem':dem}
-    otherObj = {'other': other}
     chamberObj ={'classification':chamberName,'incubmentTotal':incumbentTotal, 'gop':gop, 'dem':dem, 'other':other}
     stateObj = {'state':stateName,  'organizations':[chamberObj]}
     bopRollup.append(stateObj)
