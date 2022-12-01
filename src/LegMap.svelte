@@ -34,7 +34,7 @@
       svg.setAttribute("id", `${stateString}-${chamber}-map`);
       svgMarkup = map.innerHTML;
       getChamberInfo().then(getResults());
-      console.log(stateString);
+      // console.log(stateString);
     });
   // });
 
