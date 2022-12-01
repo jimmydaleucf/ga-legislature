@@ -138,7 +138,7 @@
   }
   .state-name {
     text-align: center;
-    font-size: 30px;
+    font-size: 36px;
     margin-bottom: 0px;
   }
 
