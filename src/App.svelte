@@ -78,7 +78,12 @@
             {/each}
           {:else}
             <div class="bop-component nebraska">
+              <Diagram {state} chamber="legislature" />
               <BopBar {state} chamber="legislature" />
+              <p>
+                Nebraska's Legislature is unicameral (only one chamber) and its
+                members run as non-partisan.
+              </p>
             </div>
           {/if}
         </div>
@@ -91,14 +96,22 @@
   main {
     height: 100%;
   }
+
+  p {
+    margin: 10px;
+    text-align: center;
+  }
   .state-container {
-    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* justify-content: space-around; */
     border-style: solid;
     border-color: black;
     border-width: 2px;
     /* padding: 15px; */
     margin-top: 20px;
-    min-width: 45%;
+    width: 45%;
   }
   .spacer {
     width: 45%;
@@ -138,6 +151,7 @@
       width: 100%;
     }
     .state-container {
+      display: block;
       padding: 0;
       flex-direction: row;
       width: 100%;
