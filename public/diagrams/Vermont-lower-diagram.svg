@@ -118,8 +118,11 @@
             <circle cx="272.40" cy="39.86" r="5.71"/> 
             <circle cx="258.49" cy="64.93" r="5.71"/> 
         </g>
+        <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
+           id="2_Vacant"> 
+            <title>b'Vacant'</title>        </g>
         <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
-           id="2_Republican"> 
+           id="3_Republican"> 
             <title>b'Republican'</title>            <circle cx="251.61" cy="77.55" r="5.71"/> 
             <circle cx="275.94" cy="60.08" r="5.71"/> 
             <circle cx="249.20" cy="93.58" r="5.71"/> 
@@ -167,8 +170,5 @@
             <circle cx="333.47" cy="174.29" r="5.71"/> 
             <circle cx="347.76" cy="174.29" r="5.71"/> 
         </g>
-        <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
-           id="3_Vacant"> 
-            <title>b'Vacant'</title>        </g>
     </g>
 </svg>

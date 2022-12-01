@@ -25,8 +25,11 @@
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
             <title>b'Other'</title>        </g>
+        <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
+           id="2_Vacant"> 
+            <title>b'Vacant'</title>        </g>
         <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
-           id="2_Republican"> 
+           id="3_Republican"> 
             <title>b'Republican'</title>            <circle cx="104.06" cy="97.00" r="10.00"/> 
             <circle cx="102.45" cy="66.46" r="10.00"/> 
             <circle cx="101.65" cy="37.63" r="10.00"/> 
@@ -57,8 +60,5 @@
             <circle cx="317.14" cy="170.02" r="10.00"/> 
             <circle cx="342.19" cy="170.01" r="10.00"/> 
         </g>
-        <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
-           id="3_Vacant"> 
-            <title>b'Vacant'</title>        </g>
     </g>
 </svg>

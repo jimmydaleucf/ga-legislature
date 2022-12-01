@@ -16,11 +16,16 @@
 </script>
 
 <main>
-  <div>{@html svgMarkup}</div>
+  <div class="diagram-container">{@html svgMarkup}</div>
 </main>
 
 <style>
   main {
     color: blue;
+  }
+  .diagram-container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
   }
 </style>

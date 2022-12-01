@@ -23,7 +23,6 @@ for x in range(len(states)):
         other = stateOrgs[y]['other']
         totalIncumbents = dem + gop + other
         vacant = chamberTotal - totalIncumbents
-        print(vacant)
         input_list = {
             'parties': [
                 {
@@ -41,16 +40,16 @@ for x in range(len(states)):
                     'border_color': '#000000'
                 },
                 {
-                    'name': 'Republican',
-                    'nb_seats': int(gop),
-                    'color': '#dc3d3d' ,
+                    'name': 'Vacant',
+                    'nb_seats': int(vacant),
+                    'color': '#808080' ,
                     'border_size': 0,
                     'border_color': '#000000'
                 },
                 {
-                    'name': 'Vacant',
-                    'nb_seats': int(vacant),
-                    'color': '#808080' ,
+                    'name': 'Republican',
+                    'nb_seats': int(gop),
+                    'color': '#dc3d3d' ,
                     'border_size': 0,
                     'border_color': '#000000'
                 }
