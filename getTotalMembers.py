@@ -98,6 +98,7 @@ for x in range(len(stateList)):
                 "organizations":chamberArray}
     output.append(combined)
     print(f'\n ✅ Request information from {state} complete!')
+ChambersTotal = {'states':output}
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
-    json.dump(output, json_file)
+    json.dump(ChambersTotal, json_file)
 print('\n ✅ Your file "ChambersTotal.json" has been created Jimmy!')
