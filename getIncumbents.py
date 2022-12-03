@@ -1,4 +1,6 @@
-# This file generates a list of incumbents for each chamber in each state. 
+# This file generates a list of incumbents for each chamber in each state. The api returns a 
+# max of 50 per page so for many chambers/states, it loops through to collect all the pages 
+# and then mushes them togther.
 
 def getIncumbents(apiKey, stateList):
     import requests
@@ -14,15 +16,14 @@ def getIncumbents(apiKey, stateList):
     for x in range(len(stateList)):
         state = stateList[x]
         stateString= state.replace(" ", "_")
-        if state == 'Nebraska':
+        if state == 'Nebraska':  ## Nebraska is an edge case.  It has a single chamber legislature
             chamberList = ['legislature']
             classifier = 'classification'
         else:
             chamberList = ['lower','upper']
             classifier = 'org_classification'
-        for y in range(len(chamberList)):
+        for y in range(len(chamberList)): ## loops through for each chamber
             print(f'\n** Initiating inital request for {state} {chamberList[y]} chamber in 20 seconds **')
-            # time.sleep(20)
             for i in range(20,0,-1):
                 print(f"{i}", end=" \r", flush=True)
                 time.sleep(1)

@@ -5,8 +5,8 @@
 
 import requests
 import json
-
 import time
+import datetime
 
 path = './public/output/'
 
@@ -98,7 +98,8 @@ for x in range(len(stateList)):
                 "organizations":chamberArray}
     output.append(combined)
     print(f'\n ✅ Request information from {state} complete!')
-ChambersTotal = {'states':output}
+now = datetime.datetime.now()
+ChambersTotal = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':output}
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
     json.dump(ChambersTotal, json_file)
 print('\n ✅ Your file "ChambersTotal.json" has been created Jimmy!')

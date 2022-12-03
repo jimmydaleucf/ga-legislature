@@ -14,7 +14,6 @@ def bopRollup():
   path = './public/output/'
 
   combinedTotal = open(directoryTwo)
-  print(combinedTotal[])
   files = Path(directory).glob('*')
   for file in files:
     f = open(file)  
@@ -42,7 +41,8 @@ def bopRollup():
     chamberObj ={'classification':chamberName,'incubmentTotal':incumbentTotal, 'gop':gop, 'dem':dem, 'other':other}
     stateObj = {'state':stateName,  'organizations':[chamberObj]}
     bopRollup.append(stateObj)
-  combinedTotalObj = json.load(combinedTotal)
+  ChambersTotal = json.load(combinedTotal)
+  combinedTotalObj = ChambersTotal['states']
   mergedList = bopRollup + combinedTotalObj
   newlist = sorted(mergedList, key=lambda d: d['state'])
   combinedList = collections.defaultdict(list)
