@@ -117,7 +117,9 @@
     width: 45%;
     border-style: none;
   }
-
+  h1 {
+    font-size: 2.5em;
+  }
   .flexy-thing {
     display: flex;
     flex-wrap: wrap;

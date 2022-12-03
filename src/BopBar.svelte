@@ -17,7 +17,7 @@
   async function getChamberInfo() {
     const res = await fetch(`${path}`);
     const results = await res.json();
-    console.log(results);
+    // console.log(results);
     const stateName = `${state}`;
     if (res.ok) {
       //   debugger;
@@ -74,15 +74,21 @@
     <div class="midpoint">50%<br />|</div>
     <div id="{state}-{chamber}-bop" class="bop">
       {#if demSeats != 0}
-        <div id="{state}-{chamber}-dem" class="dem">{demSeats}</div>{:else}{/if}
+        <div id="{state}-{chamber}-dem" class="dem">
+          <span class="flex-span">{demSeats}</span>
+        </div>{:else}{/if}
       {#if otherSeats != 0}
-        <div id="{state}-{chamber}-third" class="third">{otherSeats}</div>
+        <div id="{state}-{chamber}-third" class="third">
+          <span class="flex-span">{otherSeats}</span>
+        </div>
       {:else}{/if}
       {#if vacantSeats != 0}
-        <div id="{state}-{chamber}-vacant" class="vacant">{vacantSeats}</div>
+        <div id="{state}-{chamber}-vacant" class="vacant">
+          <span class="flex-span">{vacantSeats}</span>
+        </div>
       {:else}{/if}
       {#if demSeats != 0}<div id="{state}-{chamber}-gop" class="gop">
-          {gopSeats}
+          <span class="flex-span"> {gopSeats}</span>
         </div>{:else}{/if}
     </div>
     <div class="footnote"><span>(Total Seats {totalSeats})</span></div>
@@ -116,6 +122,11 @@
     background-color: #4165d2;
     display: flex;
     justify-content: center;
+  }
+
+  .flex-span {
+    display: flex;
+    align-items: center;
   }
   .footnote {
     font-size: 0.75em;
