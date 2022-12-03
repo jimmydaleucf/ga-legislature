@@ -2,12 +2,14 @@ import chamberGenerator
 import bopRollup
 import json
 import os
+import requests
 
 
 
 bopRollup.bopRollup()
-f = open('public/output/bopRollup.json')
-file = json.load(f)
+file = requests.get('https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
+print(file)
+# file = json.load(f)
 os.chdir('./public/diagrams/')
 
 states = file['states']

@@ -11,10 +11,13 @@
   let vacantSeats;
   let totalSeats;
 
+  // let path = "output/bopRollup.json";
+  let path = "https://jrd-primary-public.s3.amazonaws.com/bopRollup.json";
+
   async function getChamberInfo() {
-    const res = await fetch(`./output/bopRollup.json`);
+    const res = await fetch(`${path}`);
     const results = await res.json();
-    // console.log(results);
+    console.log(results);
     const stateName = `${state}`;
     if (res.ok) {
       //   debugger;

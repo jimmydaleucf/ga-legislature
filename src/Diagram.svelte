@@ -1,5 +1,4 @@
 <script>
-  import { get } from "svelte/store";
   let svgMarkup;
   export let state;
   export let chamber;

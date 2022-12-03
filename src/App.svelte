@@ -108,7 +108,7 @@
     /* justify-content: space-around; */
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 4px;
     /* padding: 15px; */
     margin-top: 20px;
     width: 45%;
