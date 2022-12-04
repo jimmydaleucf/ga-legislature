@@ -22,7 +22,7 @@ for x in range(len(states)):
         gop = stateOrgs[y]['gop']
         other = stateOrgs[y]['other']
         totalIncumbents = dem + gop + other
-        vacant = chamberTotal - totalIncumbents
+        vacant = stateOrgs[y]['vacant']
         input_list = {
             'parties': [
                 {

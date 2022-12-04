@@ -1,0 +1,1085 @@
+{
+  "timestamp": "11-29-2022 14:51:17",
+  "incumbents": [
+    {
+      "id": "ocd-person/094c65c5-5c69-4eee-b462-368aadcc6260",
+      "name": "Adam Wool",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:ak/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Adam",
+      "family_name": "Wool",
+      "image": "http://akleg.gov/images/legislators/woo.jpg",
+      "email": "Representative.Adam.Wool@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:07.049114+00:00",
+      "updated_at": "2022-01-18T18:12:00.503422+00:00",
+      "openstates_url": "https://openstates.org/person/adam-wool-HXqN5pVzWGnDOSOCGC7o8/"
+    },
+    {
+      "id": "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "name": "Andi Story",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:ak/sldl:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Andi",
+      "family_name": "Story",
+      "image": "http://akleg.gov/images/legislators/sto.jpg",
+      "email": "Representative.Andi.Story@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:26.630266+00:00",
+      "updated_at": "2022-01-18T18:12:13.650025+00:00",
+      "openstates_url": "https://openstates.org/person/andi-story-3pCKx84Gp3jBYVQ1yk93KW/"
+    },
+    {
+      "id": "ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03",
+      "name": "Andy Josephson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:ak/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Andy",
+      "family_name": "Josephson",
+      "image": "http://akleg.gov/images/legislators/jos.jpg",
+      "email": "Representative.Andy.Josephson@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:04.986013+00:00",
+      "updated_at": "2022-01-18T18:11:54.046902+00:00",
+      "openstates_url": "https://openstates.org/person/andy-josephson-6rh0NFirtdxnPCpctdffXP/"
+    },
+    {
+      "id": "ocd-person/9444c6e5-945d-4bae-b8b7-9a78226a0742",
+      "name": "Bart LeBon",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:ak/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Bart",
+      "family_name": "LeBon",
+      "image": "http://akleg.gov/images/legislators/leb.jpg",
+      "email": "Representative.Bart.LeBon@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:29.623533+00:00",
+      "updated_at": "2022-01-18T18:12:22.171038+00:00",
+      "openstates_url": "https://openstates.org/person/bart-lebon-4VmIK4LUSrd8P3l2bJS9A2/"
+    },
+    {
+      "id": "ocd-person/64873656-b474-406d-a93a-e46fa281bc19",
+      "name": "Ben Carpenter",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:ak/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Ben",
+      "family_name": "Carpenter",
+      "image": "http://akleg.gov/images/legislators/cae.jpg",
+      "email": "Representative.Ben.Carpenter@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:25.238676+00:00",
+      "updated_at": "2022-01-18T18:12:24.345913+00:00",
+      "openstates_url": "https://openstates.org/person/ben-carpenter-33h1XcGshViRoVgUak0Men/"
+    },
+    {
+      "id": "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "name": "Bryce Edgmon",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:ak/sldl:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Bryce",
+      "family_name": "Edgmon",
+      "image": "http://akleg.gov/images/legislators/edg.jpg",
+      "email": "Representative.Bryce.Edgmon@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:05.299336+00:00",
+      "updated_at": "2022-01-18T18:11:54.772210+00:00",
+      "openstates_url": "https://openstates.org/person/bryce-edgmon-5NE3YSeK5fC8kJqqcxOHts/"
+    },
+    {
+      "id": "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "name": "Calvin Schrage",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:ak/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Calvin",
+      "family_name": "Schrage",
+      "image": "http://akleg.gov/images/legislators/scg.jpg",
+      "email": "Representative.Calvin.Schrage@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:37:54.125015+00:00",
+      "updated_at": "2022-01-18T18:12:26.371358+00:00",
+      "openstates_url": "https://openstates.org/person/calvin-schrage-4LUZBy1TzuHgw2vrh5Ur6j/"
+    },
+    {
+      "id": "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
+      "name": "Cathy Tilton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:ak/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Cathy",
+      "family_name": "Tilton",
+      "image": "http://akleg.gov/images/legislators/tlt.jpg",
+      "email": "Representative.Cathy.Tilton@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:57.483210+00:00",
+      "updated_at": "2022-01-18T18:12:06.816865+00:00",
+      "openstates_url": "https://openstates.org/person/cathy-tilton-7LiH78N3oCAq1NWQSZoEGN/"
+    },
+    {
+      "id": "ocd-person/a550e3e6-e3ac-4afd-b966-8b8e7a4438e9",
+      "name": "Chris Tuck",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:ak/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Chris",
+      "family_name": "Tuck",
+      "image": "http://akleg.gov/images/legislators/tuc.jpg",
+      "email": "Representative.Chris.Tuck@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:53.997747+00:00",
+      "updated_at": "2022-01-18T18:12:02.895014+00:00",
+      "openstates_url": "https://openstates.org/person/chris-tuck-51whSFIIGehjZYl3kh2dk9/"
+    },
+    {
+      "id": "ocd-person/d516d43e-3f86-404a-9097-475c26d79996",
+      "name": "Christopher Kurka",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:ak/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Christopher",
+      "family_name": "Kurka",
+      "image": "http://akleg.gov/images/legislators/kur.jpg",
+      "email": "Representative.Christopher.Kurka@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:37:57.478348+00:00",
+      "updated_at": "2022-01-18T18:12:08.413372+00:00",
+      "openstates_url": "https://openstates.org/person/christopher-kurka-6U5nVgHdSFg7FuIpDpw1TC/"
+    },
+    {
+      "id": "ocd-person/00fe56b6-c6b4-4b63-a9a1-9d1eadda0ff5",
+      "name": "Dan Ortiz",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:ak/sldl:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Dan",
+      "family_name": "Ortiz",
+      "image": "http://akleg.gov/images/legislators/ort.jpg",
+      "email": "Representative.Dan.Ortiz@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:57.752057+00:00",
+      "updated_at": "2022-01-18T18:12:12.657191+00:00",
+      "openstates_url": "https://openstates.org/person/dan-ortiz-1sES7hY9zzJl88t4OD8Z3/"
+    },
+    {
+      "id": "ocd-person/cf5cefd3-8283-411d-806d-b5076ade039d",
+      "name": "David Eastman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:ak/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Eastman",
+      "image": "http://akleg.gov/images/legislators/eas.jpg",
+      "email": "Representative.David.Eastman@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:09.075421+00:00",
+      "updated_at": "2022-01-18T18:12:20.624080+00:00",
+      "openstates_url": "https://openstates.org/person/david-eastman-6JHsnpnHPlul3aHwYRuZ9p/"
+    },
+    {
+      "id": "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
+      "name": "David Nelson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:ak/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Nelson",
+      "image": "http://akleg.gov/images/legislators/ned.jpg",
+      "email": "Representative.David.Nelson@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:02.093409+00:00",
+      "updated_at": "2022-01-18T18:12:20.123972+00:00",
+      "openstates_url": "https://openstates.org/person/david-nelson-6rlpqlw7yLfHHJoMOsomA7/"
+    },
+    {
+      "id": "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "name": "DeLena Johnson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:ak/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "DeLena",
+      "family_name": "Johnson",
+      "image": "http://akleg.gov/images/legislators/jhs.jpg",
+      "email": "Representative.DeLena.Johnson@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:58.033270+00:00",
+      "updated_at": "2022-01-18T18:12:07.902707+00:00",
+      "openstates_url": "https://openstates.org/person/delena-johnson-6ZGWU9z7fi9btADL4bAecH/"
+    },
+    {
+      "id": "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
+      "name": "George Rauscher",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:ak/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "George",
+      "family_name": "Rauscher",
+      "image": "http://akleg.gov/images/legislators/rau.jpg",
+      "email": "Representative.George.Rauscher@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:52.741037+00:00",
+      "updated_at": "2022-01-18T18:12:05.123007+00:00",
+      "openstates_url": "https://openstates.org/person/george-rauscher-2zobejq5t7em7m4UTuVwwP/"
+    },
+    {
+      "id": "ocd-person/279c0054-2d68-49a7-a3d6-df405f561d17",
+      "name": "Geran Tarr",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:ak/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Geran",
+      "family_name": "Tarr",
+      "image": "http://akleg.gov/images/legislators/tar.jpg",
+      "email": "Representative.Geran.Tarr@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:55.691967+00:00",
+      "updated_at": "2022-01-18T18:12:09.423706+00:00",
+      "openstates_url": "https://openstates.org/person/geran-tarr-1CjzbA66ulJu2cSSno5e6h/"
+    },
+    {
+      "id": "ocd-person/09458fa9-2c0d-40f6-bb90-378008bfe24a",
+      "name": "Grier Hopkins",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:ak/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Grier",
+      "family_name": "Hopkins",
+      "image": "http://akleg.gov/images/legislators/hpk.jpg",
+      "email": "Representative.Grier.Hopkins@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:42.961909+00:00",
+      "updated_at": "2022-01-18T18:12:24.837876+00:00",
+      "openstates_url": "https://openstates.org/person/grier-hopkins-HUifYdwAkspjNBzONV6CI/"
+    },
+    {
+      "id": "ocd-person/51726902-7f26-411c-82cb-a3c209aedd39",
+      "name": "Harriet Drummond",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:ak/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Harriet",
+      "family_name": "Drummond",
+      "image": "http://akleg.gov/images/legislators/dru.jpg",
+      "email": "Representative.Harriet.Drummond@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:03.739216+00:00",
+      "updated_at": "2022-01-18T18:12:04.088597+00:00",
+      "openstates_url": "https://openstates.org/person/harriet-drummond-2TgfAlRr1SYu7rBYGQC4G9/"
+    },
+    {
+      "id": "ocd-person/6fca2838-1540-465c-a67c-ce7bf4e51936",
+      "name": "Ivy Spohnholz",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:ak/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Ivy",
+      "family_name": "Spohnholz",
+      "image": "http://akleg.gov/images/legislators/spn.jpg",
+      "email": "Representative.Ivy.Spohnholz@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:55.456908+00:00",
+      "updated_at": "2022-01-18T18:11:58.058249+00:00",
+      "openstates_url": "https://openstates.org/person/ivy-spohnholz-3OwX82otBBsVCu7xkoDDBW/"
+    },
+    {
+      "id": "ocd-person/f6cd7b64-a3f3-44ec-89a1-68c17fa6d4c9",
+      "name": "James Kaufman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:ak/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "James",
+      "family_name": "Kaufman",
+      "image": "http://akleg.gov/images/legislators/kau.jpg",
+      "email": "Representative.James.Kaufman@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:00.425932+00:00",
+      "updated_at": "2022-01-18T18:12:02.318862+00:00",
+      "openstates_url": "https://openstates.org/person/james-kaufman-7Vi176T2PdtU8vxKlZ8PJx/"
+    },
+    {
+      "id": "ocd-person/8d0e5fc5-f11a-4c7a-a708-c5db6a96644d",
+      "name": "Jonathan Kreiss-Tomkins",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:ak/sldl:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Jonathan",
+      "family_name": "Kreiss-Tomkins",
+      "image": "http://akleg.gov/images/legislators/kre.jpg",
+      "email": "Representative.Jonathan.Kreiss-Tomkins@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:56.811969+00:00",
+      "updated_at": "2022-01-18T18:12:25.833752+00:00",
+      "openstates_url": "https://openstates.org/person/jonathan-kreiss-tomkins-4IAUCO34IO2GrMRByT3SE1/"
+    },
+    {
+      "id": "ocd-person/fe70950b-3eef-4a64-9629-4f2c18391296",
+      "name": "Josiah Patkotak",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:ak/sldl:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Josiah",
+      "family_name": "Patkotak",
+      "image": "http://akleg.gov/images/legislators/pkt.jpg",
+      "email": "Representative.Josiah.Patkotak@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:03.251176+00:00",
+      "updated_at": "2022-01-18T18:12:05.696681+00:00",
+      "openstates_url": "https://openstates.org/person/josiah-patkotak-7k7V4rVmLRi2NLYnOrdota/"
+    },
+    {
+      "id": "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "name": "Kelly Merrick",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:ak/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Kelly",
+      "family_name": "Merrick",
+      "image": "http://akleg.gov/images/legislators/mrr.jpg",
+      "email": "Representative.Kelly.Merrick@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:58.037604+00:00",
+      "updated_at": "2022-01-18T18:12:25.332307+00:00",
+      "openstates_url": "https://openstates.org/person/kelly-merrick-6kIOvuoCoJe6UgpxFez93g/"
+    },
+    {
+      "id": "ocd-person/72aaf721-c628-4eb9-84ce-cc884fcf0613",
+      "name": "Ken McCarty",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:ak/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Ken",
+      "family_name": "McCarty",
+      "image": "http://akleg.gov/images/legislators/mcc.jpg",
+      "email": "Representative.Ken.McCarty@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:37:59.945297+00:00",
+      "updated_at": "2022-01-18T18:11:56.042116+00:00",
+      "openstates_url": "https://openstates.org/person/ken-mccarty-3UNFucCwcdgwCHhgfUj86d/"
+    },
+    {
+      "id": "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "name": "Kevin McCabe",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:ak/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Kevin",
+      "family_name": "McCabe",
+      "image": "http://akleg.gov/images/legislators/mca.jpg",
+      "email": "Representative.Kevin.McCabe@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:02.313987+00:00",
+      "updated_at": "2022-01-18T18:12:01.754990+00:00",
+      "openstates_url": "https://openstates.org/person/kevin-mccabe-2bDbHqK0qED4NXm7yNFj6/"
+    },
+    {
+      "id": "ocd-person/ef814d49-0425-4d61-944a-bf1fb4b1b7d5",
+      "name": "Laddie Shaw",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:ak/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Laddie",
+      "family_name": "Shaw",
+      "image": "http://akleg.gov/images/legislators/shw.jpg",
+      "email": "Representative.Laddie.Shaw@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:04.322261+00:00",
+      "updated_at": "2022-01-18T18:11:59.166892+00:00",
+      "openstates_url": "https://openstates.org/person/laddie-shaw-7HwFwzIuXolQxDJYqHZKjd/"
+    },
+    {
+      "id": "ocd-person/77a4870d-20ce-46cf-b438-3966ef3de2be",
+      "name": "Liz Snyder",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:ak/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Liz",
+      "family_name": "Snyder",
+      "image": "http://akleg.gov/images/legislators/sny.jpg",
+      "email": "Representative.Liz.Snyder@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:01.681964+00:00",
+      "updated_at": "2022-01-18T18:12:15.550516+00:00",
+      "openstates_url": "https://openstates.org/person/liz-snyder-3dlH7kNzb4gL7Ff07cL2YY/"
+    },
+    {
+      "id": "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "name": "Louise Stutes",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:ak/sldl:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Louise",
+      "family_name": "Stutes",
+      "image": "http://akleg.gov/images/legislators/sts.jpg",
+      "email": "Representative.Louise.Stutes@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:07.823327+00:00",
+      "updated_at": "2022-01-18T18:12:12.155798+00:00",
+      "openstates_url": "https://openstates.org/person/louise-stutes-1Nm14igyQES3NlR6mZuY9m/"
+    },
+    {
+      "id": "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "name": "Matt Claman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:ak/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Matt",
+      "family_name": "Claman",
+      "image": "http://akleg.gov/images/legislators/cla.jpg",
+      "email": "Representative.Matt.Claman@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:05.925878+00:00",
+      "updated_at": "2022-01-18T18:12:21.126697+00:00",
+      "openstates_url": "https://openstates.org/person/matt-claman-L5eHvNxqPADiRCVPRiuvc/"
+    },
+    {
+      "id": "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246",
+      "name": "Mike Cronk",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:ak/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Cronk",
+      "image": "http://akleg.gov/images/legislators/crn.jpg",
+      "email": "Representative.Mike.Cronk@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:38:02.837983+00:00",
+      "updated_at": "2022-01-18T18:12:11.622920+00:00",
+      "openstates_url": "https://openstates.org/person/mike-cronk-5zpqUrg4xP0wxhC5UNw7T4/"
+    },
+    {
+      "id": "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
+      "name": "Mike Prax",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:ak/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Prax",
+      "image": "http://akleg.gov/images/legislators/pra.jpg",
+      "email": "Representative.Mike.Prax@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-15T00:03:11.442057+00:00",
+      "updated_at": "2022-01-18T18:12:03.506945+00:00",
+      "openstates_url": "https://openstates.org/person/mike-prax-1vOhuhdKOWH8esjDu4uj8M/"
+    },
+    {
+      "id": "ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0",
+      "name": "Neal Foster",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:ak/sldl:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Neal",
+      "family_name": "Foster",
+      "image": "http://akleg.gov/images/legislators/fon.jpg",
+      "email": "Representative.Neal.Foster@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:32:54.706118+00:00",
+      "updated_at": "2022-01-18T18:12:06.262866+00:00",
+      "openstates_url": "https://openstates.org/person/neal-foster-dXBCJrP6l99niJ5V1qfRY/"
+    },
+    {
+      "id": "ocd-person/2f452f34-740b-4fbd-969a-2ff31516baed",
+      "name": "Ronald Gillham",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:ak/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Ronald",
+      "family_name": "Gillham",
+      "image": "http://akleg.gov/images/legislators/gih.jpg",
+      "email": "Representative.Ronald.Gillham@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:37:59.538243+00:00",
+      "updated_at": "2022-01-18T18:12:09.922672+00:00",
+      "openstates_url": "https://openstates.org/person/ronald-gillham-1RCFuqik2gvvYyKWxpH3dd/"
+    },
+    {
+      "id": "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
+      "name": "Sara Hannan",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:ak/sldl:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Sara",
+      "family_name": "Hannan",
+      "image": "http://akleg.gov/images/legislators/hnn.jpg",
+      "email": "Representative.Sara.Hannan@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:29:10.319913+00:00",
+      "updated_at": "2022-01-18T18:11:57.055741+00:00",
+      "openstates_url": "https://openstates.org/person/sara-hannan-3JXE6A7CDkRlxb78X8pbhd/"
+    },
+    {
+      "id": "ocd-person/d01f3e0f-4503-482e-b82c-c52785b54ddd",
+      "name": "Sara Rasmussen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:ak/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Sara",
+      "family_name": "Rasmussen",
+      "image": "http://akleg.gov/images/legislators/ras.jpg",
+      "email": "Representative.Sara.Rasmussen@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:28:52.287188+00:00",
+      "updated_at": "2022-01-18T18:12:21.627050+00:00",
+      "openstates_url": "https://openstates.org/person/sara-rasmussen-6KigGzOaO28kVxSWfZiJOH/"
+    },
+    {
+      "id": "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50",
+      "name": "Sarah Vance",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:ak/sldl:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Sarah",
+      "family_name": "Vance",
+      "image": "http://akleg.gov/images/legislators/van.jpg",
+      "email": "Representative.Sarah.Vance@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-02-07T03:29:08.929268+00:00",
+      "updated_at": "2022-01-18T18:12:23.843104+00:00",
+      "openstates_url": "https://openstates.org/person/sarah-vance-74ds8IEbCOyAqZk8BtwNFI/"
+    },
+    {
+      "id": "ocd-person/c2ea0d43-d4dc-44af-ae5d-cda77db746f2",
+      "name": "Steve Thompson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:ak/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Steve",
+      "family_name": "Thompson",
+      "image": "http://akleg.gov/images/legislators/thp.jpg",
+      "email": "Representative.Steve.Thompson@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:09.367853+00:00",
+      "updated_at": "2022-01-18T18:12:13.153391+00:00",
+      "openstates_url": "https://openstates.org/person/steve-thompson-5vnTLnuJLC6GK0qXp851qU/"
+    },
+    {
+      "id": "ocd-person/ef203ca8-fcc1-4c60-ba28-3b96b609a00f",
+      "name": "Tiffany Zulkosky",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:ak/sldl:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Tiffany",
+      "family_name": "Zulkosky",
+      "image": "http://akleg.gov/images/legislators/zul.jpg",
+      "email": "Representative.Tiffany.Zulkosky@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:33:04.612491+00:00",
+      "updated_at": "2022-01-18T18:12:01.197563+00:00",
+      "openstates_url": "https://openstates.org/person/tiffany-zulkosky-7HDthke1qIeizR5cVEYkUZ/"
+    },
+    {
+      "id": "ocd-person/60762d79-1ddd-4a7b-b385-0f31b0e49670",
+      "name": "Tom McKay",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:ak/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Tom",
+      "family_name": "McKay",
+      "image": "http://akleg.gov/images/legislators/mck.jpg",
+      "email": "Representative.Tom.McKay@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-12-16T18:37:59.146353+00:00",
+      "updated_at": "2022-01-18T18:12:23.266103+00:00",
+      "openstates_url": "https://openstates.org/person/tom-mckay-2w1GmdkENAIIj03ilVozQm/"
+    },
+    {
+      "id": "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716",
+      "name": "Zack Fields",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:ak/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ak/government",
+        "name": "Alaska",
+        "classification": "state"
+      },
+      "given_name": "Zack",
+      "family_name": "Fields",
+      "image": "http://akleg.gov/images/legislators/fie.jpg",
+      "email": "Representative.Zack.Fields@akleg.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-15T00:03:14.866924+00:00",
+      "updated_at": "2022-01-18T18:12:18.614797+00:00",
+      "openstates_url": "https://openstates.org/person/zack-fields-5tjETQhuEBA8yjB5B4RJvq/"
+    }
+  ]
+}

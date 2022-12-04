@@ -1,0 +1,3299 @@
+{
+  "timestamp": "11-29-2022 15:41:06",
+  "incumbents": [
+    {
+      "id": "ocd-person/5d1fade2-4678-406c-b4ed-657baed1db2b",
+      "name": "Adrian Fisher",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:la/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Adrian",
+      "family_name": "Fisher",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep16.jpg",
+      "email": "hse016@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Masters Degree, Community Counseling-University of LA-Monroe; Bachelors Degree, Accounting-Southern University-Baton Rouge",
+        "legislative assistant": "Delanda Davis",
+        "representing parishes": ["Morehouse and Ouachita"]
+      },
+      "created_at": "2022-01-31T04:06:49.130275+00:00",
+      "updated_at": "2022-01-31T04:06:49.913596+00:00",
+      "openstates_url": "https://openstates.org/person/adrian-fisher-2pilMHFyu6CrT4QNlVEe8x/"
+    },
+    {
+      "id": "ocd-person/3937cef1-8c62-428c-8837-aa6a6a8b60e7",
+      "name": "Aimee Adatto Freeman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "98",
+        "division_id": "ocd-division/country:us/state:la/sldl:98"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep98.jpg",
+      "email": "hse098@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Tulane University, M. B. A.; University of Virginia, B. A.",
+        "legislative assistant": "Razan Amira Badr",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2020-03-06T01:31:32.189640+00:00",
+      "updated_at": "2022-04-12T22:05:41.172326+00:00",
+      "openstates_url": "https://openstates.org/person/aimee-adatto-freeman-1jy4A4PSXXOVUsVR0xCoMx/"
+    },
+    {
+      "id": "ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9",
+      "name": "Alan Seabaugh",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:la/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Alan",
+      "family_name": "Seabaugh",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep5.jpg",
+      "email": "seabaugha@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.A., 1990; Louisiana State University Law School, J.D., 1993",
+        "legislative assistant": "Emily Mott",
+        "representing parishes": ["Caddo"]
+      },
+      "created_at": "2018-10-18T14:45:46.883803+00:00",
+      "updated_at": "2022-01-31T04:06:57.286308+00:00",
+      "openstates_url": "https://openstates.org/person/alan-seabaugh-2RKMENSeFvu1IuYoaHHo6L/"
+    },
+    {
+      "id": "ocd-person/bd179bf7-f90d-4e3a-baea-a590c3002586",
+      "name": "Barbara Reich Freiberg",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "70",
+        "division_id": "ocd-division/country:us/state:la/sldl:70"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep70.jpg",
+      "email": "hse070@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Lee High School; Louisiana Tech University, B.A.; University of North Carolina at Chapel Hill, M.A.",
+        "legislative assistant": "Brandi Chambless",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2020-03-06T01:31:34.233974+00:00",
+      "updated_at": "2022-04-12T22:05:43.808444+00:00",
+      "openstates_url": "https://openstates.org/person/barbara-reich-freiberg-5koL26vVbnf4ZIgeC3e8Sk/"
+    },
+    {
+      "id": "ocd-person/ad514eed-2832-4ae3-a0c5-62d8f2721297",
+      "name": "Barbara W. Carpenter",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "63",
+        "division_id": "ocd-division/country:us/state:la/sldl:63"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Barbara W.",
+      "family_name": "Carpenter",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep63.jpg",
+      "email": "carpenterb@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University, B.S., Vocational Education and General Science; Southern University, M.Ed, Secondary Education and Administration; Kansas State University, PhD, Adult and Occupational Education and International Education",
+        "legislative assistant": "Saveta Williams",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:54.845428+00:00",
+      "updated_at": "2022-01-31T04:06:26.844982+00:00",
+      "openstates_url": "https://openstates.org/person/barbara-w-carpenter-5H2pUhj9UAAUSLiZg7FBvb/"
+    },
+    {
+      "id": "ocd-person/666f0cb4-0b64-4594-9c8f-aa53f77db48a",
+      "name": "Barry Ivey",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "65",
+        "division_id": "ocd-division/country:us/state:la/sldl:65"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Barry",
+      "family_name": "Ivey",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep65.jpg",
+      "email": "iveyb@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Central High School; Louisiana State University, B.S., Finance",
+        "legislative assistant": "Caitlyn Avara",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:47.670699+00:00",
+      "updated_at": "2022-01-31T04:07:12.665380+00:00",
+      "openstates_url": "https://openstates.org/person/barry-ivey-37Hxxo8JqkwtyHg1D5ycrC/"
+    },
+    {
+      "id": "ocd-person/cbe53992-3b3c-4ec0-a94a-58ddf96e6edd",
+      "name": "Beryl A. Amed\u00e9e",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "51",
+        "division_id": "ocd-division/country:us/state:la/sldl:51"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Beryl A.",
+      "family_name": "Amed\u00e9e",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep51.jpg",
+      "email": "amedeeb@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "legislative assistant": "Pam Tauzin",
+        "representing parishes": [
+          "Assumption",
+          "Lafourche",
+          "St. Mary",
+          "Terrebonne"
+        ]
+      },
+      "created_at": "2018-10-18T14:45:38.261098+00:00",
+      "updated_at": "2022-01-31T04:06:14.485034+00:00",
+      "openstates_url": "https://openstates.org/person/beryl-a-amedee-6CkCIovX0ca87YHi5udDhN/"
+    },
+    {
+      "id": "ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a",
+      "name": "Blake Miguez",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "49",
+        "division_id": "ocd-division/country:us/state:la/sldl:49"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Blake",
+      "family_name": "Miguez",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep49.jpg",
+      "email": "miguezb@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Catholic High School New Iberia, 1999; Louisiana State University, Political Science, 2004; Southern University Law Center, 2008",
+        "legislative assistant": "Kirsten D. Bourque",
+        "representing parishes": ["Iberia and Vermilion"]
+      },
+      "created_at": "2018-10-18T14:45:44.037264+00:00",
+      "updated_at": "2022-01-31T04:07:13.604855+00:00",
+      "openstates_url": "https://openstates.org/person/blake-miguez-43pR4buKQhWG62w0cXJNnu/"
+    },
+    {
+      "id": "ocd-person/9ffd05e6-a127-4896-b60e-fc2722fa8779",
+      "name": "Brett F. Geymann",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:la/sldl:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Brett",
+      "family_name": "Geymann",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep35.jpg",
+      "email": "hse035@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "South Beauregard High School; McNeese State University, B.S., Finance",
+        "legislative assistant": "Cynthia Haman",
+        "representing parishes": ["Beauregard and Calcasieu"]
+      },
+      "created_at": "2021-02-24T00:09:05.719481+00:00",
+      "updated_at": "2022-01-31T04:07:28.742250+00:00",
+      "openstates_url": "https://openstates.org/person/brett-f-geymann-4rtPX8viNeG3HG9FYSYaTp/"
+    },
+    {
+      "id": "ocd-person/90b6f6c3-9620-4fbb-8c23-f8ab7b163de7",
+      "name": "Bryan Fontenot",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "55",
+        "division_id": "ocd-division/country:us/state:la/sldl:55"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Bryan",
+      "family_name": "Fontenot",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep55.jpg",
+      "email": "hse055@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Thibodaux High School, 1996; Present: Fletcher Technical Community College, Criminal Justice",
+        "legislative assistant": "Heather Babin",
+        "representing parishes": ["Lafourche"]
+      },
+      "created_at": "2020-03-06T01:31:40.480795+00:00",
+      "updated_at": "2022-01-31T04:07:22.177697+00:00",
+      "openstates_url": "https://openstates.org/person/bryan-fontenot-4P4VbnGIsFsiIMr10XDOsB/"
+    },
+    {
+      "id": "ocd-person/22fece93-3e18-47b9-9cdf-6e5151f9e1de",
+      "name": "Buddy Mincey, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "71",
+        "division_id": "ocd-division/country:us/state:la/sldl:71"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep71.jpg",
+      "email": "hse071@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Denham Springs High School, 1987; Southeastern Louisiana University, B.S., Industrial Technology Supervision Speciality, 1993",
+        "legislative assistant": "Teresa Clement",
+        "representing parishes": ["Livingston"]
+      },
+      "created_at": "2020-03-06T01:31:33.328748+00:00",
+      "updated_at": "2022-01-31T04:06:15.446560+00:00",
+      "openstates_url": "https://openstates.org/person/buddy-mincey-jr-142BXnWT3WXtu0uRF4UrFu/"
+    },
+    {
+      "id": "ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0",
+      "name": "C. Denise Marcelle",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "61",
+        "division_id": "ocd-division/country:us/state:la/sldl:61"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "C. Denise",
+      "family_name": "Marcelle",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep61.jpg",
+      "email": "marcelled@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Capital Senior High School; Southern University, B.A., Criminal Justice",
+        "legislative assistant": "Juandrika Allen",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:44.966513+00:00",
+      "updated_at": "2022-01-31T04:06:38.356597+00:00",
+      "openstates_url": "https://openstates.org/person/c-denise-marcelle-101du9iZM9xbpvH862iRqi/"
+    },
+    {
+      "id": "ocd-person/871d5c01-9710-46f4-aeba-b321bdf11e30",
+      "name": "C. Travis Johnson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:la/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep21.jpg",
+      "email": "hse021@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana Tech University, B.S., Political Science Economics; Belhaven University, Masters, Public Administration",
+        "legislative assistant": "Joshua Fauver and Vanessa Thomas",
+        "representing parishes": [
+          "Catahoula",
+          "Concordia",
+          "East Carroll",
+          "Madison",
+          "Tensas"
+        ]
+      },
+      "created_at": "2020-03-06T01:31:32.384612+00:00",
+      "updated_at": "2022-01-31T04:08:03.188646+00:00",
+      "openstates_url": "https://openstates.org/person/c-travis-johnson-46xNeCX9x8B6wZCCJKrCNs/"
+    },
+    {
+      "id": "ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace",
+      "name": "Candace N. Newell",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "99",
+        "division_id": "ocd-division/country:us/state:la/sldl:99"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep99.jpg",
+      "email": "hse099@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "B.A. Psychology; M.S., Criminal Justice; J.D.",
+        "legislative assistant": "Jonetta Bennett",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2020-03-06T01:31:39.469945+00:00",
+      "updated_at": "2022-01-31T04:06:58.152747+00:00",
+      "openstates_url": "https://openstates.org/person/candace-n-newell-44DOvletSTJCn1LZG93VJ0/"
+    },
+    {
+      "id": "ocd-person/9b53270a-813b-476c-b1b3-331ecedcca60",
+      "name": "Cedric B. Glover",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:la/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Cedric B.",
+      "family_name": "Glover",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep4.jpg",
+      "email": "gloverc@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "legislative assistant": "Burnadine Anderson",
+        "representing parishes": ["Caddo"]
+      },
+      "created_at": "2018-10-18T14:45:47.194434+00:00",
+      "updated_at": "2022-01-31T04:08:05.053789+00:00",
+      "openstates_url": "https://openstates.org/person/cedric-b-glover-4j5oJLEiGTxbvk4ezmyhDE/"
+    },
+    {
+      "id": "ocd-person/6c1520bb-eebb-41ec-8d67-4f6e936f60b9",
+      "name": "Chad Brown",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "60",
+        "division_id": "ocd-division/country:us/state:la/sldl:60"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Chad",
+      "family_name": "Brown",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep60.jpg",
+      "email": "brownc@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Plaquemine High School, 1988; Louisiana State University, B.S., 1992; Southern University Law Center, J.D., 1996",
+        "legislative assistant": "Stacy Bourgeois",
+        "representing parishes": ["Assumption and Iberville"]
+      },
+      "created_at": "2018-10-18T14:45:49.250650+00:00",
+      "updated_at": "2022-01-31T04:06:21.159374+00:00",
+      "openstates_url": "https://openstates.org/person/chad-brown-3HwpG87UmJLFPoiDwRpozJ/"
+    },
+    {
+      "id": "ocd-person/2a4d4c31-ee06-4f32-a67b-c55db60502e4",
+      "name": "Charles Anthony Owen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:la/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep30.jpg",
+      "email": "hse030@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Leesville High School, 1981; Louisiana Tech University, B.S., 1984 (cum laude); Louisiana Tech University, Masters, Business Administration, 1986; Louisiana State University, Ph.D., 2011",
+        "legislative assistant": "Mrs. Donna Sikes",
+        "representing parishes": ["Beauregard and Vernon"]
+      },
+      "created_at": "2020-03-06T01:31:35.324939+00:00",
+      "updated_at": "2022-04-12T22:05:51.451388+00:00",
+      "openstates_url": "https://openstates.org/person/charles-anthony-owen-1Hp0AxlMorvRDGGIrmqkzc/"
+    },
+    {
+      "id": "ocd-person/a07b757e-a57b-4dda-aa6a-7bf5e6b3561d",
+      "name": "Christopher Turner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:la/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Christopher",
+      "family_name": "Turner",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep12.jpg",
+      "email": "hse012@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Oak Grove High School\r; Louisiana Tech",
+        "legislative assistant": "Rebecca Daughtry",
+        "representing parishes": ["Lincoln and Union"]
+      },
+      "created_at": "2019-04-10T05:08:51.853852+00:00",
+      "updated_at": "2022-01-31T04:06:50.688908+00:00",
+      "openstates_url": "https://openstates.org/person/christopher-turner-4spBykCuTcqU52rPxwo8Mv/"
+    },
+    {
+      "id": "ocd-person/69eb0893-93d4-4155-91e8-cc991956b80c",
+      "name": "Clay Schexnayder",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "81",
+        "division_id": "ocd-division/country:us/state:la/sldl:81"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Clay",
+      "family_name": "Schexnayder",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep81.jpg",
+      "email": "schexnayderc@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "St. Amant and French Settlement High Schools; Allen Institute of Atlanta",
+        "legislative assistant": "Gina Duhe",
+        "representing parishes": [
+          "Ascension",
+          "Livingston",
+          "St. James",
+          "St. John the Baptist"
+        ]
+      },
+      "created_at": "2018-10-18T14:45:45.180351+00:00",
+      "updated_at": "2022-01-31T04:07:18.419459+00:00",
+      "openstates_url": "https://openstates.org/person/clay-schexnayder-3DrbVP84hkTOu05f0g2Bhc/"
+    },
+    {
+      "id": "ocd-person/dc59ede6-164c-4fd4-adc1-7e080309776b",
+      "name": "Danny McCormick",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:la/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Danny",
+      "family_name": "McCormick",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep1.jpg",
+      "email": "hse001@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "North Caddo High School; McNeese State University",
+        "legislative assistant": "Vanessa Williams-Diel and Jenni Smith",
+        "representing parishes": ["Bossier and Caddo"]
+      },
+      "created_at": "2020-03-06T01:31:39.924972+00:00",
+      "updated_at": "2022-01-31T04:08:15.333023+00:00",
+      "openstates_url": "https://openstates.org/person/danny-mccormick-6hnPP28cAGZBIs0e1mifPv/"
+    },
+    {
+      "id": "ocd-person/2ace9f60-8f90-43ab-a45d-d1c64bdb7462",
+      "name": "Daryl Andrew Deshotel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:la/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep28.jpg",
+      "email": "hse028@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.S., Construction Management",
+        "legislative assistant": "Craig W. Foster and Chrissie Jeansonne",
+        "representing parishes": ["Avoyelles"]
+      },
+      "created_at": "2020-03-06T01:31:36.346096+00:00",
+      "updated_at": "2022-01-31T04:06:13.520807+00:00",
+      "openstates_url": "https://openstates.org/person/daryl-andrew-deshotel-1Im6TjmvtBpyZsqbAT9gkE/"
+    },
+    {
+      "id": "ocd-person/aefc2237-5913-4b96-9354-18fb7e58884c",
+      "name": "Debbie Villio",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "79",
+        "division_id": "ocd-division/country:us/state:la/sldl:79"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Debbie",
+      "family_name": "Villio",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep79.jpg",
+      "email": "hse079@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Loyola, J.D., 1988; University of New Orleans, General Studies, 1985",
+        "legislative assistant": "Jack Rizzuto",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2020-03-06T01:31:39.084696+00:00",
+      "updated_at": "2022-01-31T04:07:48.927340+00:00",
+      "openstates_url": "https://openstates.org/person/debbie-villio-5KBtCJB7mieGedyI5xTerk/"
+    },
+    {
+      "id": "ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033",
+      "name": "Delisha Boyd",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "102",
+        "division_id": "ocd-division/country:us/state:la/sldl:102"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Delisha",
+      "family_name": "Boyd",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep102.jpg",
+      "email": "hse102@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Bachelor of Business Administration,\r\nMaster of Business Administration (concentration in Organization Management),\r\nDoctor of Business Administration Candidate (abd)",
+        "legislative assistant": "Latisha Granger",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2022-01-31T04:06:10.981428+00:00",
+      "updated_at": "2022-04-12T22:05:52.602113+00:00",
+      "openstates_url": "https://openstates.org/person/delisha-boyd-6MQuBhWN2Y8VQ77DcUdkO3/"
+    },
+    {
+      "id": "ocd-person/4661fe94-874c-4884-99a2-c60516c811ff",
+      "name": "Dodie Horton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:la/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Dodie",
+      "family_name": "Horton",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep9.jpg",
+      "email": "hortond@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Woodlawn High School",
+        "legislative assistant": "Donna F. O\u2019Neal",
+        "representing parishes": ["Bossier"]
+      },
+      "created_at": "2018-10-18T14:45:43.885902+00:00",
+      "updated_at": "2022-01-31T04:07:40.111186+00:00",
+      "openstates_url": "https://openstates.org/person/dodie-horton-28oFHT08WHPVSqzwZMzT1r/"
+    },
+    {
+      "id": "ocd-person/dcf2c7e1-e124-424c-ac0c-8d1e6600e970",
+      "name": "Dustin Miller",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:la/sldl:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Dustin",
+      "family_name": "Miller",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep40.jpg",
+      "email": "millerd@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Opelousas Catholic High School; University of Louisiana at Lafayette, B.S.N.; Southern University, M.S.N., Family Nursing",
+        "legislative assistant": "Kristina Martel",
+        "representing parishes": ["St. Landry"]
+      },
+      "created_at": "2018-10-18T14:45:40.789132+00:00",
+      "updated_at": "2022-01-31T04:06:39.320701+00:00",
+      "openstates_url": "https://openstates.org/person/dustin-miller-6ivGJEYmhS9SVISR5YaemG/"
+    },
+    {
+      "id": "ocd-person/9a91a848-9d01-46b6-84f1-cc868681e912",
+      "name": "Ed Larvadain, III",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:la/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Ed",
+      "family_name": "Larvadain III",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep26.jpg",
+      "email": "hse026@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University, Baton Rouge, LA - B.A. Political Science (1987)\r\nSouthern University Law Center - J.D. (1992)",
+        "legislative assistant": "LeCrete Robinson",
+        "representing parishes": ["Rapides"]
+      },
+      "created_at": "2019-04-10T05:08:59.744376+00:00",
+      "updated_at": "2022-01-31T04:07:51.007386+00:00",
+      "openstates_url": "https://openstates.org/person/ed-larvadain-iii-4hfNnv87RnKZvn3x6bnLAA/"
+    },
+    {
+      "id": "ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70",
+      "name": "Edmond Jordan",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:la/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Edmond",
+      "family_name": "Jordan",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep29.jpg",
+      "email": "jordane@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Brusly High School; \r\nSouthern University A&M College; \r\nSouthern University Law Center",
+        "legislative assistant": "Asheba Brown",
+        "representing parishes": ["East Baton Rouge and West Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:37.627437+00:00",
+      "updated_at": "2022-01-31T04:07:57.517619+00:00",
+      "openstates_url": "https://openstates.org/person/edmond-jordan-7IdIqPSRwC3fM5wKgAs8RM/"
+    },
+    {
+      "id": "ocd-person/040e17ea-a4d0-47ce-8f45-527a6bdc83a7",
+      "name": "Foy Bryan Gadberry",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:la/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep15.jpg",
+      "email": "hse015@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "B.A. Architecture; B.S. Civil Engineering",
+        "legislative assistant": "Donna Stephenson",
+        "representing parishes": ["Ouachita"]
+      },
+      "created_at": "2020-03-06T01:31:34.149866+00:00",
+      "updated_at": "2022-01-31T04:07:02.281662+00:00",
+      "openstates_url": "https://openstates.org/person/foy-bryan-gadberry-7ePQ7QkMgclz9629girTj/"
+    },
+    {
+      "id": "ocd-person/7796b73e-f06a-4d0b-8a85-cfde955a4cd1",
+      "name": "Francis C. Thompson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:la/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Francis C.",
+      "family_name": "Thompson",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep19.jpg",
+      "email": "thompsof@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana Technical University, B.S.; Northeast Louisiana University, EdD; Northeast Louisiana University, Med; Louisiana Technical University, MS",
+        "legislative assistant": "Sharon Gilmore and Josie Hoychick",
+        "representing parishes": [
+          "East Carroll",
+          "Madison",
+          "Morehouse",
+          "Ouachita",
+          "Richland",
+          "West Carroll"
+        ]
+      },
+      "created_at": "2018-10-18T14:45:49.400831+00:00",
+      "updated_at": "2022-01-31T04:06:10.712686+00:00",
+      "openstates_url": "https://openstates.org/person/francis-c-thompson-3dexmU9MmVVW4qQQnhpTn7/"
+    },
+    {
+      "id": "ocd-person/c5ea395a-7594-4585-b193-000e05f08005",
+      "name": "Gerald \"Beau\" Beaullieu, IV",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "48",
+        "division_id": "ocd-division/country:us/state:la/sldl:48"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep48.jpg",
+      "email": "hse048@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, Finance Degree; University of Lafayette, MBA; Certified 401(K) Professional; Accredited Investment Fiduciary",
+        "legislative assistant": "Julie F. Romero",
+        "representing parishes": ["Iberia", "Lafayette", "St. Martin"]
+      },
+      "created_at": "2020-03-06T01:31:40.561118+00:00",
+      "updated_at": "2022-01-31T04:07:46.742246+00:00",
+      "openstates_url": "https://openstates.org/person/gerald-beau-beaullieu-iv-61SWnrP3y5bd4CUn9QWlMr/"
+    },
+    {
+      "id": "ocd-person/14a2f4f7-7387-4f5d-aa17-f0e983e24663",
+      "name": "Gregory A. Miller",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "56",
+        "division_id": "ocd-division/country:us/state:la/sldl:56"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Gregory A.",
+      "family_name": "Miller",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep56.jpg",
+      "email": "millerg@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "DeLaSalle High School, New Orleans, 1980; Louisiana State University, B.A., Political Science, 1985; LSU Paul M. Hebert Law Center, J.D., 1988",
+        "legislative assistant": "Donna Lambert",
+        "representing parishes": ["St. Charles and St. John the Baptist"]
+      },
+      "created_at": "2018-10-18T14:45:53.751323+00:00",
+      "updated_at": "2022-01-31T04:06:42.289020+00:00",
+      "openstates_url": "https://openstates.org/person/gregory-a-miller-cwJiaaVFtBgMk74prFgBP/"
+    },
+    {
+      "id": "ocd-person/2ed9a2e2-0f61-4de1-af10-e9e0dbf02492",
+      "name": "Jack G. McFarland",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:la/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jack G.",
+      "family_name": "McFarland",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep13.jpg",
+      "email": "mcfarlandj@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Winnfield Senior High School; University of Arkansas at Monticello, B.S., Business Administration/Industrial Management",
+        "legislative assistant": "Katie Murphy Murray",
+        "representing parishes": ["Bienville", "Jackson", "Ouachita", "Winn"]
+      },
+      "created_at": "2018-10-18T14:45:38.580175+00:00",
+      "updated_at": "2022-01-31T04:06:03.956742+00:00",
+      "openstates_url": "https://openstates.org/person/jack-g-mcfarland-1QP6denVT0T0Sl2TzhBqiY/"
+    },
+    {
+      "id": "ocd-person/9c15d56b-627b-4fbe-8e23-2ac8385c2224",
+      "name": "Jason Hughes",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "100",
+        "division_id": "ocd-division/country:us/state:la/sldl:100"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jason",
+      "family_name": "Hughes",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep100.jpg",
+      "email": "hse100@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "McDonogh 35 Senior High School; Southern University, B.A., Public Policy and Urban Affairs",
+        "legislative assistant": "Brittiany Collins",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2020-03-06T01:31:34.674912+00:00",
+      "updated_at": "2022-01-31T04:07:06.948958+00:00",
+      "openstates_url": "https://openstates.org/person/jason-hughes-4kWmQG6WNluFqJ8mKoOIrc/"
+    },
+    {
+      "id": "ocd-person/22a76ea6-caa2-4b90-b7eb-3d1d2c9331d5",
+      "name": "Jean-Paul P. Coussan",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "45",
+        "division_id": "ocd-division/country:us/state:la/sldl:45"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jean-Paul P.",
+      "family_name": "Coussan",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep45.jpg",
+      "email": "coussanjp@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "legislative assistant": "Nicole Angers",
+        "representing parishes": ["Lafayette"]
+      },
+      "created_at": "2018-10-18T14:45:39.036559+00:00",
+      "updated_at": "2022-01-31T04:06:45.172379+00:00",
+      "openstates_url": "https://openstates.org/person/jean-paul-p-coussan-13OFrX05nB00WIqj4K4IFB/"
+    },
+    {
+      "id": "ocd-person/9ae6b490-4fe0-435c-93fd-ad316e474204",
+      "name": "Jeremy S. LaCombe",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:la/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jeremy",
+      "family_name": "LaCombe",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep18.jpg",
+      "email": "hse018@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Northwestern State University - B.A.\r\nLouisiana State University Law School - J.D.",
+        "legislative assistant": "Traci Anne Dalfrey",
+        "representing parishes": [
+          "Iberville",
+          "Pointe Coupee",
+          "West Baton Rouge",
+          "West Feliciana"
+        ]
+      },
+      "created_at": "2019-12-05T18:07:19.893265+00:00",
+      "updated_at": "2022-01-31T04:07:08.792555+00:00",
+      "openstates_url": "https://openstates.org/person/jeremy-s-lacombe-4iIFYmlooN00ECTuxFZ9OO/"
+    },
+    {
+      "id": "ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293",
+      "name": "Jerome \"Zee\" Zeringue",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "52",
+        "division_id": "ocd-division/country:us/state:la/sldl:52"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jerome \"Zee\"",
+      "family_name": "Zeringue",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep52.jpg",
+      "email": "zeringuej@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.S., Zoology; Louisiana State University, M.S., Fisheries Science; Tulane University, postgraduate studies",
+        "legislative assistant": "Tina Evans",
+        "representing parishes": ["Lafourche and Terrebonne"]
+      },
+      "created_at": "2018-10-18T14:45:40.332711+00:00",
+      "updated_at": "2022-01-31T04:06:36.469317+00:00",
+      "openstates_url": "https://openstates.org/person/jerome-zee-zeringue-1OD2TruB8FtjjAe9d9LQG3/"
+    },
+    {
+      "id": "ocd-person/6841ee50-e520-4c1f-a6dc-f0de8a8556df",
+      "name": "John M. Stefanski",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "42",
+        "division_id": "ocd-division/country:us/state:la/sldl:42"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "John M.",
+      "family_name": "Stefanski",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep42.jpg",
+      "email": "stefanskij@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State Univerity, B.A., History, 2007; Loyola University New Orleans College of Law, J.D., 2010",
+        "legislative assistant": "DeAnn Goss",
+        "representing parishes": ["Acadia and Lafayette"]
+      },
+      "created_at": "2018-10-18T14:45:54.223434+00:00",
+      "updated_at": "2022-01-31T04:07:44.748821+00:00",
+      "openstates_url": "https://openstates.org/person/john-m-stefanski-3AjKcDKWYynldUFlxkwKyN/"
+    },
+    {
+      "id": "ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42",
+      "name": "John R. Illg, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "78",
+        "division_id": "ocd-division/country:us/state:la/sldl:78"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep78.jpg",
+      "email": "hse078@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Jesuit High School; Louisiana State University",
+        "legislative assistant": "Candance Ward",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2020-03-06T01:31:32.837145+00:00",
+      "updated_at": "2022-01-31T04:06:35.532723+00:00",
+      "openstates_url": "https://openstates.org/person/john-r-illg-jr-1pKM6Nxl56p5R9c0OOodJS/"
+    },
+    {
+      "id": "ocd-person/8b72535d-0380-4e39-a168-dcd1c742f47c",
+      "name": "Jonathan Goudeau",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:la/sldl:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Jonathan",
+      "family_name": "Goudeau",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep31.jpg",
+      "email": "hse031@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "High School",
+        "legislative assistant": "Jude Savoie",
+        "representing parishes": ["Lafayette and Vermilion"]
+      },
+      "created_at": "2020-03-06T01:31:40.066918+00:00",
+      "updated_at": "2022-01-31T04:08:00.392813+00:00",
+      "openstates_url": "https://openstates.org/person/jonathan-goudeau-4F8BBVeDnXkhDjUtFxxHAK/"
+    },
+    {
+      "id": "ocd-person/f0b68891-c893-47e8-b2cc-5ed83c16151d",
+      "name": "Joseph A. Marino, III",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "85",
+        "division_id": "ocd-division/country:us/state:la/sldl:85"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Joseph A.",
+      "family_name": "Marino",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep85.jpg",
+      "email": "marinoj@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Holy Cross High School; Louisiana State University; University of South Carolina School of Law",
+        "legislative assistant": "Julie Montagino",
+        "representing parishes": ["Jefferson (Gretna and Terrytown)"]
+      },
+      "created_at": "2018-10-18T14:45:49.559639+00:00",
+      "updated_at": "2022-01-31T04:08:18.088873+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-a-marino-iii-7KDZk5wlA3fqkfshLpZt8P/"
+    },
+    {
+      "id": "ocd-person/9002c3a7-c0d9-4112-ad34-e0c6fa909ce1",
+      "name": "Joseph A. Orgeron",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "54",
+        "division_id": "ocd-division/country:us/state:la/sldl:54"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Joseph",
+      "family_name": "Orgeron",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep54.jpg",
+      "email": "hse054@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "South Lafourche High School (1984); Nicholls State University, B.S. in Physics (1988); University of Texas M.S. in Physics (1990); University of Texas, PhD in Physics (1993)",
+        "legislative assistant": "Denna Guidry",
+        "representing parishes": ["Jefferson and Lafourche"]
+      },
+      "created_at": "2020-12-19T06:08:21.178234+00:00",
+      "updated_at": "2022-04-12T22:05:57.357474+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-a-orgeron-4Nk9okmVbYgL5nhYbEfpTN/"
+    },
+    {
+      "id": "ocd-person/958015ce-4a91-4830-a11f-e73997823d4b",
+      "name": "Joseph A. Stagni",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "92",
+        "division_id": "ocd-division/country:us/state:la/sldl:92"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Joseph A.",
+      "family_name": "Stagni",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep92.jpg",
+      "email": "stagnij@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Alexander Elementary; Roosevelt Middle; John Curtis Christian School; College Nicholls State University, B.S.; Texas Chiropractic College, D.C.",
+        "legislative assistant": "Louis Laine and Reagan Develle",
+        "representing parishes": ["Jefferson and St. Charles"]
+      },
+      "created_at": "2018-10-18T14:45:44.812528+00:00",
+      "updated_at": "2022-01-31T04:07:14.560781+00:00",
+      "openstates_url": "https://openstates.org/person/joseph-a-stagni-4Y6OI7dD2sEHcPBDGNFd3z/"
+    },
+    {
+      "id": "ocd-person/0e515629-c907-4618-9ae1-4e4457ea25ea",
+      "name": "Julie Emerson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:la/sldl:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Julie",
+      "family_name": "Emerson",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep39.jpg",
+      "email": "emersonj@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Westminster Christian Academy; University of Louisiana at Lafayette, B.S.; University of South Carolina, M.B.A.",
+        "legislative assistant": "Charisse Mouton",
+        "representing parishes": ["Lafayette and St. Landry"]
+      },
+      "created_at": "2018-10-18T14:45:49.875574+00:00",
+      "updated_at": "2022-01-31T04:06:25.037885+00:00",
+      "openstates_url": "https://openstates.org/person/julie-emerson-R13w4zvoF1IruuWOCLJAQ/"
+    },
+    {
+      "id": "ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b",
+      "name": "Kathy Edmonston",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "88",
+        "division_id": "ocd-division/country:us/state:la/sldl:88"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Kathy",
+      "family_name": "Edmonston",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep88.jpg",
+      "email": "hse088@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, English, B.A.",
+        "legislative assistant": "Kathryn Goppelt",
+        "representing parishes": ["Ascension"]
+      },
+      "created_at": "2020-03-06T01:31:32.462593+00:00",
+      "updated_at": "2022-01-31T04:08:13.472627+00:00",
+      "openstates_url": "https://openstates.org/person/kathy-edmonston-4TJzarCD63y0WpNoaOr7Rz/"
+    },
+    {
+      "id": "ocd-person/43a80737-e614-475d-aace-2d1324cb516a",
+      "name": "Kendricks \"Ken\" Brass",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "58",
+        "division_id": "ocd-division/country:us/state:la/sldl:58"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Ken",
+      "family_name": "Brass",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep58.jpg",
+      "email": "brassk@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Lutcher High School; Southern University A & M College, B.S., Electrical Engineering, 1999",
+        "legislative assistant": "D Ara Pillette",
+        "representing parishes": ["Ascension", "Iberville", "St. James"]
+      },
+      "created_at": "2018-10-18T14:45:46.557860+00:00",
+      "updated_at": "2022-01-31T04:07:21.253065+00:00",
+      "openstates_url": "https://openstates.org/person/kendricks-ken-brass-23fH38FkWocqUK8y6QxTC6/"
+    },
+    {
+      "id": "ocd-person/334e5810-37cf-427c-9d26-5b26880caf33",
+      "name": "Kenny R. Cox",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:la/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Kenny R.",
+      "family_name": "Cox",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep23.jpg",
+      "email": "coxk@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Coushatta High School; Northwestern State University, B.S.; U.S. Army Command General Staff College, MA equivalent; U.S. Army Comptroller School on Planning, Program, Budget & Execution",
+        "legislative assistant": "Terence Vinson",
+        "representing parishes": ["DeSoto", "Natchitoches", "Red River"]
+      },
+      "created_at": "2018-10-18T14:45:56.395263+00:00",
+      "updated_at": "2022-01-31T04:06:20.213480+00:00",
+      "openstates_url": "https://openstates.org/person/kenny-r-cox-1YoPXf8dyENoTtTfLEufQ3/"
+    },
+    {
+      "id": "ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2",
+      "name": "Kyle M. Green, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "83",
+        "division_id": "ocd-division/country:us/state:la/sldl:83"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep83.jpg",
+      "email": "hse083@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Archbishop Shaw High School, 2005; Southern University, B.A., Political Science 2009; Southern University Law Center, J.D., 2015",
+        "legislative assistant": "Sandra Muller",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2020-03-06T01:31:39.630716+00:00",
+      "updated_at": "2022-01-31T04:06:40.272851+00:00",
+      "openstates_url": "https://openstates.org/person/kyle-m-green-jr-4NgRVCASQeVqAHKDiZFWZm/"
+    },
+    {
+      "id": "ocd-person/d067d3d0-99b9-432a-b320-3599f91f3095",
+      "name": "Lance Harris",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:la/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Lance",
+      "family_name": "Harris",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep25.jpg",
+      "email": "harrisl@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Attended Northwestern State University and Louisiana College",
+        "legislative assistant": "Amanda Kelley",
+        "representing parishes": ["Rapides"]
+      },
+      "created_at": "2018-10-18T14:45:42.042692+00:00",
+      "updated_at": "2022-01-31T04:08:04.120872+00:00",
+      "openstates_url": "https://openstates.org/person/lance-harris-6LFqtxlB9QjmecYJOJuhqX/"
+    },
+    {
+      "id": "ocd-person/52035a94-6995-4ea4-b463-1109d683048b",
+      "name": "Larry Selders",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "67",
+        "division_id": "ocd-division/country:us/state:la/sldl:67"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Larry",
+      "family_name": "Selders",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg",
+      "email": "hse067@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University and A & M College, B.S., Social Work, 2005",
+        "legislative assistant": "Ana Victorian",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2020-03-06T01:31:34.776964+00:00",
+      "updated_at": "2022-01-31T04:08:02.248840+00:00",
+      "openstates_url": "https://openstates.org/person/larry-selders-2Uku17CY6FRVd0riOIvUHT/"
+    },
+    {
+      "id": "ocd-person/1dbd875c-89b6-4ea1-a73b-7c8efdb203a3",
+      "name": "Laurie Schlegel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "82",
+        "division_id": "ocd-division/country:us/state:la/sldl:82"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Laurie",
+      "family_name": "Schlegel",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep82.jpg",
+      "email": "hse082@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Master of Arts-Marriage and Family Counseling\r\nBachelor of Science- Psychology",
+        "legislative assistant": "Jean-Pierre Risey",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2021-05-18T00:08:09.604293+00:00",
+      "updated_at": "2022-01-31T04:07:43.820648+00:00",
+      "openstates_url": "https://openstates.org/person/laurie-schlegel-u7OKFp4FiZTLNTWubUj4N/"
+    },
+    {
+      "id": "ocd-person/1f3f3a55-09b8-43e6-a4f6-3abd4d353f51",
+      "name": "Lawrence \"Larry\" Frieman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "74",
+        "division_id": "ocd-division/country:us/state:la/sldl:74"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Lawrence",
+      "family_name": "Frieman",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep74.jpg",
+      "email": "hse074@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "B.S. Physical Therapy, Louisiana State University Medical Center; J.D. Loyola University School of Law",
+        "legislative assistant": "Kelly Schumacher",
+        "representing parishes": ["St. Tammany", "Tangipahoa", "Washington"]
+      },
+      "created_at": "2020-03-06T01:31:33.371874+00:00",
+      "updated_at": "2022-01-31T04:06:56.352678+00:00",
+      "openstates_url": "https://openstates.org/person/lawrence-larry-frieman-wxekqldNQ9Gw4PdXfcAZl/"
+    },
+    {
+      "id": "ocd-person/d6e47850-c123-4060-8309-74192011981b",
+      "name": "Lawrence A. \"Larry\" Bagley",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:la/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Lawrence",
+      "family_name": "Bagley",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg",
+      "email": "bagleyl@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Baptist Christian College, B.A.; Stephen F. Austin State University, Master's Degree; Northwestern State University, Plus 30",
+        "legislative assistant": "Brandy Pearce",
+        "representing parishes": ["Caddo", "DeSoto", "Sabine"]
+      },
+      "created_at": "2018-10-18T14:45:43.428261+00:00",
+      "updated_at": "2022-01-31T04:07:58.444883+00:00",
+      "openstates_url": "https://openstates.org/person/lawrence-a-larry-bagley-6XUlgDs62Zt67IOYAH8ZAJ/"
+    },
+    {
+      "id": "ocd-person/81379952-373b-4e6e-a29f-b9bb60e7593b",
+      "name": "Les Farnum",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:la/sldl:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Les",
+      "family_name": "Farnum",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep33.jpg",
+      "email": "hse033@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Sulphur High School; Sowela Technical School",
+        "legislative assistant": "Padra Francois",
+        "representing parishes": ["Calcasieu"]
+      },
+      "created_at": "2020-03-06T01:31:33.993805+00:00",
+      "updated_at": "2022-01-31T04:07:05.144553+00:00",
+      "openstates_url": "https://openstates.org/person/les-farnum-3vpPySagNO99rsdad17ZgB/"
+    },
+    {
+      "id": "ocd-person/8d31e132-1a5d-4340-bcb1-0f8e093b004d",
+      "name": "Mack Marcel Cormier",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "105",
+        "division_id": "ocd-division/country:us/state:la/sldl:105"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep105.jpg",
+      "email": "hse105@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "B.S. Psychology",
+        "legislative assistant": "Jennifer Gray",
+        "representing parishes": ["Jefferson", "Orleans", "Plaquemines"]
+      },
+      "created_at": "2020-03-06T01:31:38.183926+00:00",
+      "updated_at": "2022-04-12T22:05:56.721149+00:00",
+      "openstates_url": "https://openstates.org/person/mack-marcel-cormier-4IQiDSND1hglbyXrSx1qu5/"
+    },
+    {
+      "id": "ocd-person/1537769d-0c74-4c69-91ab-fa35e50c813e",
+      "name": "Malinda B. White",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "75",
+        "division_id": "ocd-division/country:us/state:la/sldl:75"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Malinda",
+      "family_name": "White",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep75.jpg",
+      "email": "whitema@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Varnado High School; some college",
+        "legislative assistant": "Linda Mizell",
+        "representing parishes": ["St. Tammany and Washington"]
+      },
+      "created_at": "2018-10-18T14:45:35.120396+00:00",
+      "updated_at": "2022-01-31T04:06:59.541538+00:00",
+      "openstates_url": "https://openstates.org/person/malinda-b-white-e2BVl0wxQcKaKWzSVoTVe/"
+    },
+    {
+      "id": "ocd-person/6e106343-c9e7-4993-aca8-201210f61d64",
+      "name": "Mandie Landry",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "91",
+        "division_id": "ocd-division/country:us/state:la/sldl:91"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Mandie",
+      "family_name": "Landry",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep91.jpg",
+      "email": "hse091@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of Notre Dame, B.A., 2000; \r\nGeorgetown University Law Center, JD, 2005",
+        "legislative assistant": "Nicole Hershey",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2020-03-06T01:31:36.934126+00:00",
+      "updated_at": "2022-01-31T04:07:25.008723+00:00",
+      "openstates_url": "https://openstates.org/person/mandie-landry-3Lge07THDMTIyKMB4SSmIe/"
+    },
+    {
+      "id": "ocd-person/4d1c2a6e-0339-4b7a-ac52-dfd9064bfbbf",
+      "name": "Marcus Anthony Bryant",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "96",
+        "division_id": "ocd-division/country:us/state:la/sldl:96"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep96.jpg",
+      "email": "hse096@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University Law School, 2004",
+        "legislative assistant": "Marva Spencer",
+        "representing parishes": ["Iberia", "Lafayette", "St. Martin"]
+      },
+      "created_at": "2020-03-06T01:31:36.734184+00:00",
+      "updated_at": "2022-01-31T04:08:16.264566+00:00",
+      "openstates_url": "https://openstates.org/person/marcus-anthony-bryant-2LVHQ04lv72T5ydh5bpFXj/"
+    },
+    {
+      "id": "ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1",
+      "name": "Mark Wright",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "77",
+        "division_id": "ocd-division/country:us/state:la/sldl:77"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Mark",
+      "family_name": "Wright",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep77.jpg",
+      "email": "wrightm@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Xavier University, B.A.; University of Dallas, MP/M.B.A.",
+        "legislative assistant": "Anecia Kenley",
+        "representing parishes": ["St. Tammany"]
+      },
+      "created_at": "2018-10-18T14:45:42.493770+00:00",
+      "updated_at": "2022-01-31T04:07:36.428828+00:00",
+      "openstates_url": "https://openstates.org/person/mark-wright-6RteaL0uZH7KTfXGUM1LYv/"
+    },
+    {
+      "id": "ocd-person/e30b4dd6-751c-4820-a4e4-4fd06cbd1c9f",
+      "name": "Mary DuBuisson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "90",
+        "division_id": "ocd-division/country:us/state:la/sldl:90"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Mary",
+      "family_name": "DuBuisson",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep90.jpg",
+      "email": "hse090@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "legislative assistant": "Jennifer Dexter",
+        "representing parishes": ["St. Tammany"]
+      },
+      "created_at": "2019-01-02T11:47:24.253341+00:00",
+      "updated_at": "2022-01-31T04:07:55.621250+00:00",
+      "openstates_url": "https://openstates.org/person/mary-dubuisson-6uQQIb30jodnhL0nxZG0T9/"
+    },
+    {
+      "id": "ocd-person/834e887f-c79d-44ed-be47-74571a792249",
+      "name": "Matthew Willard",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "97",
+        "division_id": "ocd-division/country:us/state:la/sldl:97"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Matthew",
+      "family_name": "Willard",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep97.jpg",
+      "email": "hse097@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of New Orleans, B.S., Marketing",
+        "legislative assistant": "Courtney Moran",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2020-03-06T01:31:38.136443+00:00",
+      "updated_at": "2022-01-31T04:07:37.284798+00:00",
+      "openstates_url": "https://openstates.org/person/matthew-willard-3zlsqQouATnj9yb5K1SoP3/"
+    },
+    {
+      "id": "ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131",
+      "name": "Michael \"Gabe\" Firment",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:la/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Firment",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep22.jpg",
+      "email": "hse022@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Tioga High School, 1989; Louisiana College, B.S., Public Administration, 1994; Louisiana Tech University, Masters, Business Administration, 1996",
+        "legislative assistant": "Myrtle Lasyone",
+        "representing parishes": [
+          "Grant",
+          "LaSalle",
+          "Natchitoches",
+          "Red River",
+          "Winn"
+        ]
+      },
+      "created_at": "2020-03-06T01:31:35.634264+00:00",
+      "updated_at": "2022-04-12T22:06:43.592337+00:00",
+      "openstates_url": "https://openstates.org/person/michael-gabe-firment-2SHijnpHEiHuHYcIzQx1lZ/"
+    },
+    {
+      "id": "ocd-person/22590bd7-29fe-454d-b61d-2c54c4562274",
+      "name": "Michael Charles Echols",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:la/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep14.jpg",
+      "email": "hse014@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of Louisiana Monroe, B.S., Accounting; University Louisiana Monroe, MBA, Business",
+        "legislative assistant": "Jennifer Lord",
+        "representing parishes": ["Morehouse and Ouachita"]
+      },
+      "created_at": "2020-03-06T01:31:33.740324+00:00",
+      "updated_at": "2022-01-31T04:06:48.857109+00:00",
+      "openstates_url": "https://openstates.org/person/michael-charles-echols-12oQrrp5NDgvtPpZLlklu8/"
+    },
+    {
+      "id": "ocd-person/0e901294-3718-49df-9922-0ac4503acee2",
+      "name": "Michael T. Johnson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:la/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Michael T.",
+      "family_name": "Johnson",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep27.jpg",
+      "email": "hse027@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Pineville High School (1977)\r\nLouisiana College - B.A., Public Administration (1981)\r\nSouthern University School of Law - J.D. (1984)",
+        "legislative assistant": "Cindi Hodnett",
+        "representing parishes": ["Rapides"]
+      },
+      "created_at": "2019-04-10T05:08:55.435438+00:00",
+      "updated_at": "2022-01-31T04:07:32.690775+00:00",
+      "openstates_url": "https://openstates.org/person/michael-t-johnson-RTjVDdZk7mvMHwn5rh5sY/"
+    },
+    {
+      "id": "ocd-person/cdbdd188-93b6-4fd6-95c8-fee4fe753c94",
+      "name": "Mike Huval",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "46",
+        "division_id": "ocd-division/country:us/state:la/sldl:46"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Huval",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep46.jpg",
+      "email": "huvalm@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of Louisiana at Lafayette; Breaux Bridge High School",
+        "legislative assistant": "Gregory Dugas and Monica Mayeux",
+        "representing parishes": ["Iberia", "St. Landry", "St. Martin"]
+      },
+      "created_at": "2018-10-18T14:45:37.152470+00:00",
+      "updated_at": "2022-01-31T04:06:46.112635+00:00",
+      "openstates_url": "https://openstates.org/person/mike-huval-6GEAo6TIiKdPHDfHGDK6dQ/"
+    },
+    {
+      "id": "ocd-person/8ce9b8d1-a92d-4351-a098-617599dde680",
+      "name": "Neil Riser",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:la/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Neil",
+      "family_name": "Riser",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep20.jpg",
+      "email": "risern@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Caldwell Parish High School, 1980; Northeast Louisiana University, Business Management, 1984",
+        "legislative assistant": "Annette McGuffee",
+        "representing parishes": [
+          "Caldwell",
+          "Catahoula",
+          "Franklin",
+          "LaSalle",
+          "Tensas"
+        ]
+      },
+      "created_at": "2020-03-06T01:31:34.559292+00:00",
+      "updated_at": "2022-01-31T04:06:22.180709+00:00",
+      "openstates_url": "https://openstates.org/person/neil-riser-4Htjh3VVTZenLshzpFQ6SW/"
+    },
+    {
+      "id": "ocd-person/bc967860-a12b-4285-bd97-36379803f119",
+      "name": "Nicholas Muscarello, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "86",
+        "division_id": "ocd-division/country:us/state:la/sldl:86"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Nicholas",
+      "family_name": "Muscarello",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep86.jpg",
+      "email": "muscarellon@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southeastern Louisiana University, BA\r\nSouthern University Law Center, J.D.",
+        "legislative assistant": "Betty Stewart",
+        "representing parishes": ["Tangipahoa"]
+      },
+      "created_at": "2018-10-18T14:45:54.689653+00:00",
+      "updated_at": "2022-01-31T04:06:47.996588+00:00",
+      "openstates_url": "https://openstates.org/person/nicholas-muscarello-jr-5jrJzufG9GhwGlanuV3AO9/"
+    },
+    {
+      "id": "ocd-person/88548c7a-b637-4821-b336-c99cfa475e22",
+      "name": "Patricia \"Pat\" Moore",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:la/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Patricia",
+      "family_name": "Moore",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep17.jpg",
+      "email": "hse017@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Wossman High School;\r\nNortheast Louisiana University/ ULM- College of Business",
+        "legislative assistant": "Shontae Johnson",
+        "representing parishes": ["Ouachita"]
+      },
+      "created_at": "2019-12-05T18:07:15.843806+00:00",
+      "updated_at": "2022-01-31T04:08:05.981124+00:00",
+      "openstates_url": "https://openstates.org/person/patricia-pat-moore-49FauXwiCHCOLEK2wnDyok/"
+    },
+    {
+      "id": "ocd-person/cbdfdaef-57ee-44d0-aa40-6058561c572c",
+      "name": "Patrick O. Jefferson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:la/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Patrick",
+      "family_name": "Jefferson",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep11.jpg",
+      "email": "jeffersonpo@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Dillard University, B.A.; Ohio State University, J.D.",
+        "legislative assistant": "Lolita Featherston",
+        "representing parishes": ["Bienville", "Claiborne", "Lincoln"]
+      },
+      "created_at": "2018-10-18T14:45:47.972921+00:00",
+      "updated_at": "2022-01-31T04:07:06.088935+00:00",
+      "openstates_url": "https://openstates.org/person/patrick-o-jefferson-6Chk9qY7UfJ0RRwJaXc9KG/"
+    },
+    {
+      "id": "ocd-person/a78e621d-059e-4359-8de6-add1ea897274",
+      "name": "Paul Hollis",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "104",
+        "division_id": "ocd-division/country:us/state:la/sldl:104"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Paul",
+      "family_name": "Hollis",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep104.jpg",
+      "email": "hollisp@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.A., Political Science",
+        "legislative assistant": "Scott Cleghorn",
+        "representing parishes": ["St. Tammany"]
+      },
+      "created_at": "2018-10-18T14:45:43.588189+00:00",
+      "updated_at": "2022-01-31T04:06:16.395654+00:00",
+      "openstates_url": "https://openstates.org/person/paul-hollis-56AmqpHwf5oOKNu6RcXdUS/"
+    },
+    {
+      "id": "ocd-person/386a6e17-a7e7-4715-8420-5e10bf52dcc1",
+      "name": "Paula P. Davis",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "69",
+        "division_id": "ocd-division/country:us/state:la/sldl:69"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Paula P.",
+      "family_name": "Davis",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep69.jpg",
+      "email": "davisp@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Breaux Bridge High School; Louisiana State University, B.A., Political Science; LSU School of Government, Fellow",
+        "legislative assistant": "Bonnie Kolb",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:43.734407+00:00",
+      "updated_at": "2022-01-31T04:07:25.949487+00:00",
+      "openstates_url": "https://openstates.org/person/paula-p-davis-1iSCxJcyNSeBxynQMxUhs1/"
+    },
+    {
+      "id": "ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc",
+      "name": "Phillip Eric Tarver",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:la/sldl:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep36.jpg",
+      "email": "hse036@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "McNeese State University, B.S., Accounting;",
+        "legislative assistant": "Regina \"Gina\" Camalo",
+        "representing parishes": ["Calcasieu"]
+      },
+      "created_at": "2020-03-06T01:31:32.128015+00:00",
+      "updated_at": "2022-01-31T04:08:06.889563+00:00",
+      "openstates_url": "https://openstates.org/person/phillip-eric-tarver-8lRHayBiAQeyzWDCpkpZ6/"
+    },
+    {
+      "id": "ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d",
+      "name": "Phillip R. DeVillier",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "41",
+        "division_id": "ocd-division/country:us/state:la/sldl:41"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Phillip R.",
+      "family_name": "DeVillier",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep41.jpg",
+      "email": "devillierp@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "St. Edmund Catholic School; Louisiana State University, Business Management",
+        "legislative assistant": "Rebel S. Manuel",
+        "representing parishes": ["Acadia", "Evangeline", "St. Landry"]
+      },
+      "created_at": "2018-10-18T14:45:48.124520+00:00",
+      "updated_at": "2022-01-31T04:08:08.748812+00:00",
+      "openstates_url": "https://openstates.org/person/phillip-r-devillier-7FMUTSaa9HM6dG8SQ7ESC5/"
+    },
+    {
+      "id": "ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b",
+      "name": "Polly Thomas",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "80",
+        "division_id": "ocd-division/country:us/state:la/sldl:80"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Polly",
+      "family_name": "Thomas",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep80.jpg",
+      "email": "thomaspj@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of Southwestern Louisiana, B.A., Speech Pathology and Audiology, 1969; Texas A&M University, M.S., Educational Psychology, 1974; Texas A&M University, Ph.D., Educational Psychology, 1977",
+        "legislative assistant": "Jill Scudari",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2018-10-18T14:45:54.534376+00:00",
+      "updated_at": "2022-01-31T04:07:30.764053+00:00",
+      "openstates_url": "https://openstates.org/person/polly-thomas-6c5kgCOIUxcMfaXAXU4SXD/"
+    },
+    {
+      "id": "ocd-person/2bf8549d-d379-4c42-af8c-b5b9d270f17d",
+      "name": "R. Dewith Carrier",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:la/sldl:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep32.jpg",
+      "email": "hse032@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "McNeese State University",
+        "legislative assistant": "Erin Giles",
+        "representing parishes": ["Allen", "Beauregard", "Calcasieu"]
+      },
+      "created_at": "2020-03-06T01:31:36.298165+00:00",
+      "updated_at": "2022-01-31T04:07:24.163803+00:00",
+      "openstates_url": "https://openstates.org/person/r-dewith-carrier-1Ky9lAHrqkUXfUjpWueWIX/"
+    },
+    {
+      "id": "ocd-person/c8fa77d4-2453-4953-b87a-1c58d841ce97",
+      "name": "Randal L. Gaines",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "57",
+        "division_id": "ocd-division/country:us/state:la/sldl:57"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Randal",
+      "family_name": "Gaines",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep57.jpg",
+      "email": "gainesr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "legislative assistant": "Peggy Joseph",
+        "representing parishes": ["St. Charles and St. John the Baptist"]
+      },
+      "created_at": "2018-10-18T14:45:36.843564+00:00",
+      "updated_at": "2022-01-31T04:08:12.549690+00:00",
+      "openstates_url": "https://openstates.org/person/randal-l-gaines-67EvdUtku5g7V3Pr6tBneB/"
+    },
+    {
+      "id": "ocd-person/b3de3921-3132-43e4-b22b-5b907a21108e",
+      "name": "Raymond E. Garofalo, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "103",
+        "division_id": "ocd-division/country:us/state:la/sldl:103"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Raymond E.",
+      "family_name": "Garofalo",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep103.jpg",
+      "email": "garofalor@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Holy Cross High School; Loyola University, New Orleans, BA; Loyola University School of Law, J.D.",
+        "legislative assistant": "John Scurich",
+        "representing parishes": ["Orleans", "Plaquemines", "St. Bernard"]
+      },
+      "created_at": "2018-10-18T14:45:53.599083+00:00",
+      "updated_at": "2022-01-31T04:07:10.656641+00:00",
+      "openstates_url": "https://openstates.org/person/raymond-e-garofalo-jr-5TPBKgJaWi5Y1EJ3fDGGOE/"
+    },
+    {
+      "id": "ocd-person/126879ce-50c0-4741-a7e7-fb23fecb9d29",
+      "name": "Raymond J. Crews",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:la/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Raymond J.",
+      "family_name": "Crews",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep8.jpg",
+      "email": "crewsr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Texas A&M University, B.S., Computer Science",
+        "legislative assistant": "Whitney Scates",
+        "representing parishes": ["Bossier"]
+      },
+      "created_at": "2018-10-18T14:45:39.825315+00:00",
+      "updated_at": "2022-04-12T22:06:12.766142+00:00",
+      "openstates_url": "https://openstates.org/person/raymond-j-crews-Yjbf59jfUrJuFDxsg3vsf/"
+    },
+    {
+      "id": "ocd-person/6c232d36-fe39-4006-8397-de9cb1e5454c",
+      "name": "Rhonda Gaye Butler",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:la/sldl:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep38.jpg",
+      "email": "hse038@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Cosmetology; Leadership and Training; Business Management",
+        "legislative assistant": "Deborah Lawson",
+        "representing parishes": ["Evangeline and St. Landry"]
+      },
+      "created_at": "2020-03-06T01:31:37.838826+00:00",
+      "updated_at": "2022-01-31T04:06:51.636953+00:00",
+      "openstates_url": "https://openstates.org/person/rhonda-gaye-butler-3I3FJktGsIlDiEIiYnWdem/"
+    },
+    {
+      "id": "ocd-person/db83720b-c2bf-4f1d-b98f-3250cc48c113",
+      "name": "Richard James Nelson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "89",
+        "division_id": "ocd-division/country:us/state:la/sldl:89"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep89.jpg",
+      "email": "hse089@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Mandeville High School; Louisiana State University, B.S., Biological Engineering; Louisiana State University, J.D., Paul M. Hebert Law Center",
+        "legislative assistant": "Michelle Pichon",
+        "representing parishes": ["St. Tammany"]
+      },
+      "created_at": "2020-03-06T01:31:38.763328+00:00",
+      "updated_at": "2022-01-31T04:07:52.816873+00:00",
+      "openstates_url": "https://openstates.org/person/richard-james-nelson-6gDOCZZkWcnEK5dtbC3Sp1/"
+    },
+    {
+      "id": "ocd-person/e49647e3-b5c3-4329-9472-27048115441c",
+      "name": "Rick Edmonds",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "66",
+        "division_id": "ocd-division/country:us/state:la/sldl:66"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Rick",
+      "family_name": "Edmonds",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep66.jpg",
+      "email": "edmondsr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Fair Park High School; East Texas Baptist University, B.A.; New Orleans Baptist Theological Seminary, M.Div., Doctoral Studies",
+        "legislative assistant": "Caleb P. Malone",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2018-10-18T14:45:55.159288+00:00",
+      "updated_at": "2022-01-31T04:07:01.344634+00:00",
+      "openstates_url": "https://openstates.org/person/rick-edmonds-6xKvbNVqIvi5ViyIV9zmKy/"
+    },
+    {
+      "id": "ocd-person/a24e242f-3fd9-479c-8423-cf0c6e2c6273",
+      "name": "Robby Carter",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "72",
+        "division_id": "ocd-division/country:us/state:la/sldl:72"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Robby",
+      "family_name": "Carter",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep72.jpg",
+      "email": "carterr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southeastern Louisiana University, B.A.; Louisiana State University, J.D.",
+        "legislative assistant": "Lakitha McGhee and Joey Guzzardo",
+        "representing parishes": ["East Feliciana", "St. Helena", "Tangipahoa"]
+      },
+      "created_at": "2018-10-18T14:45:45.473323+00:00",
+      "updated_at": "2022-04-12T22:06:37.765367+00:00",
+      "openstates_url": "https://openstates.org/person/robby-carter-4wGSzi594juo1njSVZWd07/"
+    },
+    {
+      "id": "ocd-person/a4aea235-ac61-4183-9ec9-f0e475e2cb5e",
+      "name": "Robert \"Bob\" Owen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "76",
+        "division_id": "ocd-division/country:us/state:la/sldl:76"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep76.jpg",
+      "email": "hse076@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Northshore High School; Louisiana State University; B.A. Mass Communications",
+        "legislative assistant": "Jessica M. Brown",
+        "representing parishes": ["St. Tammany"]
+      },
+      "created_at": "2020-03-06T01:31:32.940082+00:00",
+      "updated_at": "2022-01-31T04:08:11.628699+00:00",
+      "openstates_url": "https://openstates.org/person/robert-bob-owen-50kY3xnobJUiOpDStIc2BS/"
+    },
+    {
+      "id": "ocd-person/71696836-b261-4646-8127-407c40e2c35b",
+      "name": "Rodney Lyons",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "87",
+        "division_id": "ocd-division/country:us/state:la/sldl:87"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Rodney",
+      "family_name": "Lyons",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep87.jpg",
+      "email": "lyonsr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "University of New Orleans; Delgado Community College",
+        "legislative assistant": "Lois Jessie",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2018-10-18T14:45:52.039276+00:00",
+      "updated_at": "2022-01-31T04:06:37.405305+00:00",
+      "openstates_url": "https://openstates.org/person/rodney-lyons-3S0Ir2jp26VUKX5U7bFnEx/"
+    },
+    {
+      "id": "ocd-person/01cb17b2-a215-4cd5-916a-43c3e91723c7",
+      "name": "Rodney Wayne Schamerhorn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:la/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep24.jpg",
+      "email": "hse024@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana College; Northwestern State University",
+        "legislative assistant": "Angel Williams",
+        "representing parishes": ["Natchitoches", "Sabine", "Vernon"]
+      },
+      "created_at": "2020-03-06T01:31:35.754911+00:00",
+      "updated_at": "2022-01-31T04:07:07.878510+00:00",
+      "openstates_url": "https://openstates.org/person/rodney-wayne-schamerhorn-3NnxqIxDTLeSwxV50oqj1/"
+    },
+    {
+      "id": "ocd-person/0353532c-93a0-41cb-9621-278c8ef19178",
+      "name": "Roy Daryl Adams",
+      "party": "Independent",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "62",
+        "division_id": "ocd-division/country:us/state:la/sldl:62"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Roy",
+      "family_name": "Adams",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep62.jpg",
+      "email": "hse062@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Jackson High School; \r\nSouthwest Mississippi College;\r\nNortheastern University in Monroe, LA",
+        "legislative assistant": "Diane Womack",
+        "representing parishes": [
+          "East Baton Rouge",
+          "East Feliciana",
+          "West Feliciana"
+        ]
+      },
+      "created_at": "2019-12-05T18:07:12.813986+00:00",
+      "updated_at": "2022-01-31T04:07:04.142835+00:00",
+      "openstates_url": "https://openstates.org/person/roy-daryl-adams-6H3VRJEay8hGEGu5PqbyC/"
+    },
+    {
+      "id": "ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db",
+      "name": "Royce Duplessis",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "93",
+        "division_id": "ocd-division/country:us/state:la/sldl:93"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Royce",
+      "family_name": "Duplessis",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep93.jpg",
+      "email": "duplessisr@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Xavier University of Louisiana - B.S. in Communications\r\nHoward University School of Law - Juris Doctorate",
+        "legislative assistant": "Tren\u00e9 McCormick",
+        "representing parishes": ["Orleans"]
+      },
+      "created_at": "2018-10-18T14:45:50.336420+00:00",
+      "updated_at": "2022-01-31T04:07:20.312883+00:00",
+      "openstates_url": "https://openstates.org/person/royce-duplessis-3oqu6sgNrHQe3XMAueieuB/"
+    },
+    {
+      "id": "ocd-person/85ef927c-d038-4534-a8ff-b99ad6656bda",
+      "name": "Ryan Bourriaque",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "47",
+        "division_id": "ocd-division/country:us/state:la/sldl:47"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Ryan",
+      "family_name": "Bourriaque",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep47.jpg",
+      "email": "hse047@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Bachelors Degree in Psychology  (Louisiana State University)\r\nMasters in Agricultural Economics with a concentration in Natural Resource Economics and Environmental Policy, (Louisiana State University)",
+        "legislative assistant": "Melinda Frith",
+        "representing parishes": ["Calcasieu", "Cameron", "Vermilion"]
+      },
+      "created_at": "2019-04-10T05:08:53.149747+00:00",
+      "updated_at": "2022-01-31T04:07:31.772913+00:00",
+      "openstates_url": "https://openstates.org/person/ryan-bourriaque-44jSmlJA9PkI8TThtpZYFu/"
+    },
+    {
+      "id": "ocd-person/79bdb4d1-c272-4f9e-9cb6-d327bd3a51af",
+      "name": "Sam L. Jenkins, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:la/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Sam L.",
+      "family_name": "Jenkins",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep2.jpg",
+      "email": "jenkinss@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University, B.A., Political Science; Southern University Law Center, J.D.",
+        "legislative assistant": "Valerie Wilson and Robert Williams",
+        "representing parishes": ["Bossier and Caddo"]
+      },
+      "created_at": "2018-10-18T14:45:47.517514+00:00",
+      "updated_at": "2022-01-31T04:07:42.868579+00:00",
+      "openstates_url": "https://openstates.org/person/sam-l-jenkins-jr-3hilaeDoi3zs3tMc37bsMR/"
+    },
+    {
+      "id": "ocd-person/e8a78dbb-3193-4047-927d-1de594d6214e",
+      "name": "Scott McKnight",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "68",
+        "division_id": "ocd-division/country:us/state:la/sldl:68"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Scott",
+      "family_name": "McKnight",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep68.jpg",
+      "email": "hse068@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.G.S., 2003; Louisiana State University, M.B.A, 2006",
+        "legislative assistant": "Remy Baus Curry",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2020-03-06T01:31:33.532849+00:00",
+      "updated_at": "2022-01-31T04:06:07.864717+00:00",
+      "openstates_url": "https://openstates.org/person/scott-mcknight-750n6ma9ntQ8wRaWtsRzVm/"
+    },
+    {
+      "id": "ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f",
+      "name": "Sherman Q. Mack",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "95",
+        "division_id": "ocd-division/country:us/state:la/sldl:95"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Sherman Q.",
+      "family_name": "Mack",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep95.jpg",
+      "email": "macks@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Holden High School, 1990; Southeastern Louisiana University, 1995; Southern University Law School, 1999",
+        "legislative assistant": "Nacole Wilson",
+        "representing parishes": ["Livingston"]
+      },
+      "created_at": "2018-10-18T14:45:40.642634+00:00",
+      "updated_at": "2022-01-31T04:06:12.577942+00:00",
+      "openstates_url": "https://openstates.org/person/sherman-q-mack-29QoCYUqClKcARdUL2F5TD/"
+    },
+    {
+      "id": "ocd-person/de7591e7-6ae0-47c3-b1ea-12073106498c",
+      "name": "Stephanie Hilferty",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "94",
+        "division_id": "ocd-division/country:us/state:la/sldl:94"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Stephanie",
+      "family_name": "Hilferty",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep94.jpg",
+      "email": "hilfertys@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "St. Mary's Dominican High School;  Loyola University New Orleans, B.A.",
+        "legislative assistant": "Donna Gordon",
+        "representing parishes": ["Jefferson and Orleans"]
+      },
+      "created_at": "2018-10-18T14:45:46.253414+00:00",
+      "updated_at": "2022-01-31T04:07:17.498247+00:00",
+      "openstates_url": "https://openstates.org/person/stephanie-hilferty-6lm1cioTmdMPGykyoPriHM/"
+    },
+    {
+      "id": "ocd-person/838191b8-e275-49c4-88c2-fa601af00cb5",
+      "name": "Stuart J. Bishop",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "43",
+        "division_id": "ocd-division/country:us/state:la/sldl:43"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Stuart",
+      "family_name": "Bishop",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep43.jpg",
+      "email": "bishops@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Hanson Memorial High School; Louisiana State University",
+        "legislative assistant": "Dee Weber",
+        "representing parishes": ["Lafayette"]
+      },
+      "created_at": "2018-10-18T14:45:34.963728+00:00",
+      "updated_at": "2022-01-31T04:06:23.172674+00:00",
+      "openstates_url": "https://openstates.org/person/stuart-j-bishop-409Cu51xUoVJh7SHtDOoth/"
+    },
+    {
+      "id": "ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b",
+      "name": "Tammy T. Phelps",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:la/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep3.jpg",
+      "email": "hse003@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Captain Shreve High School; Amberton University, Strategic Leadership M.B.A.; Louisiana Tech. University, Business Administration, B.S.",
+        "legislative assistant": "Belinda Rose",
+        "representing parishes": ["Caddo"]
+      },
+      "created_at": "2020-03-06T01:31:38.666165+00:00",
+      "updated_at": "2022-01-31T04:07:45.693136+00:00",
+      "openstates_url": "https://openstates.org/person/tammy-t-phelps-57QhzLgqDq1nOmpFT4tvTP/"
+    },
+    {
+      "id": "ocd-person/408ba872-1304-41aa-8a1c-a26f159ca0a0",
+      "name": "Tanner D. Magee",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "53",
+        "division_id": "ocd-division/country:us/state:la/sldl:53"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Tanner D.",
+      "family_name": "Magee",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep53.jpg",
+      "email": "mageet@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, B.S., Psychology; Louisiana State University, M.P.A; Louisiana State University, J.D.",
+        "legislative assistant": "Vickie Larke",
+        "representing parishes": ["Lafourche and Terrebonne"]
+      },
+      "created_at": "2018-10-18T14:45:43.121430+00:00",
+      "updated_at": "2022-01-31T04:06:30.925018+00:00",
+      "openstates_url": "https://openstates.org/person/tanner-d-magee-1xnKdJHlcnW2N1kuwOXqu8/"
+    },
+    {
+      "id": "ocd-person/e6a15fa6-85e2-4e5b-b267-202a5cc1f01a",
+      "name": "Thomas A. Pressly",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:la/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep6.jpg",
+      "email": "hse006@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "C. E. Byrd High School, 2005; Texas Christian University, B.S., 2009; Loyola University New Orleans College of Law, JD, 2013",
+        "legislative assistant": "Laurie Kerr",
+        "representing parishes": ["Bossier and Caddo"]
+      },
+      "created_at": "2020-03-06T01:31:35.938854+00:00",
+      "updated_at": "2022-01-31T04:06:41.346861+00:00",
+      "openstates_url": "https://openstates.org/person/thomas-a-pressly-71ByxHXCqBFp0Re2DbFmhu/"
+    },
+    {
+      "id": "ocd-person/1ebb9d9b-329d-4a43-a33c-e3608ef09cc8",
+      "name": "Timothy P. Kerner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "84",
+        "division_id": "ocd-division/country:us/state:la/sldl:84"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep84.jpg",
+      "email": "hse084@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Fisher High School; Jefferson Parish Sheriff's Office; Fellow LSU Academy of Politics;",
+        "legislative assistant": "Nicole Cooper",
+        "representing parishes": ["Jefferson"]
+      },
+      "created_at": "2020-03-06T01:31:39.045899+00:00",
+      "updated_at": "2022-01-31T04:07:33.620622+00:00",
+      "openstates_url": "https://openstates.org/person/timothy-p-kerner-vzVdyqlLiNaG4OqgLa3mi/"
+    },
+    {
+      "id": "ocd-person/9fde5725-d1b2-4afc-9897-2706dda502c8",
+      "name": "Tony Bacala",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "59",
+        "division_id": "ocd-division/country:us/state:la/sldl:59"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Tony",
+      "family_name": "Bacala",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep59.jpg",
+      "email": "bacalat@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana State University, Bachelor's Degree, 1982; FBI National Academy, 2004",
+        "legislative assistant": "Donna Hebert",
+        "representing parishes": ["Ascension"]
+      },
+      "created_at": "2018-10-18T14:45:43.275154+00:00",
+      "updated_at": "2022-01-31T04:08:14.398171+00:00",
+      "openstates_url": "https://openstates.org/person/tony-bacala-4rfOAZV4uJ7Q26sqUnhaDQ/"
+    },
+    {
+      "id": "ocd-person/87828aa1-a979-419e-aac6-c808c00896e7",
+      "name": "Troy D. Romero",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:la/sldl:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep37.jpg",
+      "email": "hse037@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Welsh High School; Louisiana State University",
+        "legislative assistant": "Mary Tietje",
+        "representing parishes": ["Calcasieu and Jefferson Davis"]
+      },
+      "created_at": "2020-03-06T01:31:40.368588+00:00",
+      "updated_at": "2022-01-31T04:08:07.812715+00:00",
+      "openstates_url": "https://openstates.org/person/troy-d-romero-47hcY9gRs1fcBttByqbVEl/"
+    },
+    {
+      "id": "ocd-person/33e76c3a-a834-444c-9872-fc2af5c83837",
+      "name": "Valarie Hodges",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "64",
+        "division_id": "ocd-division/country:us/state:la/sldl:64"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Valarie",
+      "family_name": "Hodges",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep64.jpg",
+      "email": "hodgesv@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Glen Oaks High School, Baton Rouge; Bob Brooks School of Real Estate, Baton Rouge; Light University course work; Louisiana State University",
+        "legislative assistant": "Karen Connolly",
+        "representing parishes": ["East Baton Rouge and Livingston"]
+      },
+      "created_at": "2018-10-18T14:45:51.100539+00:00",
+      "updated_at": "2022-01-31T04:07:53.753150+00:00",
+      "openstates_url": "https://openstates.org/person/valarie-hodges-1ZwMt7PWTUBir6KSdrYcLf/"
+    },
+    {
+      "id": "ocd-person/9510158f-4e63-4b68-ad44-daef2987b780",
+      "name": "Vanessa Caston LaFleur",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "101",
+        "division_id": "ocd-division/country:us/state:la/sldl:101"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Vanessa",
+      "family_name": "LaFleur",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep101.jpg",
+      "email": "hse101@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Baton Rouge Magnet High School,\r\nSouthern University A&M College and\r\nSouthern University Law Center",
+        "legislative assistant": "Anthony Kenney",
+        "representing parishes": ["East Baton Rouge"]
+      },
+      "created_at": "2022-04-12T22:06:50.268977+00:00",
+      "updated_at": "2022-04-12T22:06:51.062421+00:00",
+      "openstates_url": "https://openstates.org/person/vanessa-caston-lafleur-4XHCqaVZdORAnYJ4ppXa2i/"
+    },
+    {
+      "id": "ocd-person/c75a9e00-6017-4e74-95fd-70fbfa803c58",
+      "name": "Vincent \"Vinney\" J. St. Blanc, III",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "50",
+        "division_id": "ocd-division/country:us/state:la/sldl:50"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep50.jpg",
+      "email": "hse050@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Hanson High School; USL, B.S.",
+        "legislative assistant": "Shelia Ann Jones",
+        "representing parishes": ["St. Martin and St. Mary"]
+      },
+      "created_at": "2020-03-06T01:31:38.280007+00:00",
+      "updated_at": "2022-01-31T04:07:11.724543+00:00",
+      "openstates_url": "https://openstates.org/person/vincent-vinney-j-st-blanc-iii-64AsssHsEk5tCUI4qBHLgm/"
+    },
+    {
+      "id": "ocd-person/79b96fce-bf08-48e4-bd5d-b5fea3a34723",
+      "name": "Vincent J. Pierre",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "44",
+        "division_id": "ocd-division/country:us/state:la/sldl:44"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Vincent J.",
+      "family_name": "Pierre",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep44.jpg",
+      "email": "pierrev@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Holy Rosary Institute; Southern University",
+        "legislative assistant": "Inez Sam",
+        "representing parishes": ["Lafayette"]
+      },
+      "created_at": "2018-10-18T14:45:51.566814+00:00",
+      "updated_at": "2022-01-31T04:08:10.593650+00:00",
+      "openstates_url": "https://openstates.org/person/vincent-j-pierre-3hgocE5nrUG36RH0gy1kYt/"
+    },
+    {
+      "id": "ocd-person/c3e1299d-034f-4e70-9c86-c003c6e35964",
+      "name": "Wayne McMahen",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:la/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "Wayne",
+      "family_name": "McMahen",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep10.jpg",
+      "email": "mcmahenw@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Louisiana Tech University, B.S., Pre-Veterinary Medicine\r\nLouisiana State University, Doctor of Veterinary Medicine (DVM)",
+        "legislative assistant": "Deborah Brown",
+        "representing parishes": ["Bossier and Webster"]
+      },
+      "created_at": "2018-10-18T14:45:39.348030+00:00",
+      "updated_at": "2022-01-31T04:06:29.989988+00:00",
+      "openstates_url": "https://openstates.org/person/wayne-mcmahen-5xcP0QKf8fGMORmkiKGP12/"
+    },
+    {
+      "id": "ocd-person/3ced6b49-7f72-41d0-a84c-0e7cff17e88b",
+      "name": "Wilford Dan Carter, Sr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:la/sldl:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep34.jpg",
+      "email": "hse034@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Southern University, Law Degree; McNeese State University, Accounting",
+        "legislative assistant": "Jennifer Leah Pete",
+        "representing parishes": ["Calcasieu"]
+      },
+      "created_at": "2020-03-06T01:31:33.249071+00:00",
+      "updated_at": "2022-04-12T22:06:29.163166+00:00",
+      "openstates_url": "https://openstates.org/person/wilford-dan-carter-sr-1qy2VTZurRIaTUnO5wlVCV/"
+    },
+    {
+      "id": "ocd-person/cb72b0cd-1519-49f9-b075-4ca40111dddc",
+      "name": "William \"Bill\" Wheat, Jr.",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "73",
+        "division_id": "ocd-division/country:us/state:la/sldl:73"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep73.jpg",
+      "email": "hse073@legis.la.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "education": "Veterinary Medicine, Louisiana State University Medical Center",
+        "legislative assistant": "Cathy McNair Brignac",
+        "representing parishes": ["Tangipahoa"]
+      },
+      "created_at": "2020-03-06T01:31:39.559210+00:00",
+      "updated_at": "2022-01-31T04:06:09.760864+00:00",
+      "openstates_url": "https://openstates.org/person/william-bill-wheat-jr-6Btr50hUr5paHITaTYNLcC/"
+    }
+  ]
+}

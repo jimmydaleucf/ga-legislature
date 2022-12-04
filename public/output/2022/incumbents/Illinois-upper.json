@@ -1,0 +1,1598 @@
+{
+  "timestamp": "11-29-2022 15:02:08",
+  "incumbents": [
+    {
+      "id": "ocd-person/e4e9607b-dd1b-4c3d-b3a3-f09927800864",
+      "name": "Adriane Johnson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:il/sldu:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Adriane",
+      "family_name": "Johnson",
+      "image": "https://ilga.gov/images/members/{991EBDF6-BC13-4260-A2B8-E10751629780}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:10.768263+00:00",
+      "updated_at": "2022-10-17T20:04:53.981294+00:00",
+      "openstates_url": "https://openstates.org/person/adriane-johnson-6xwu3JuRoxDwW5K1OZlmdw/"
+    },
+    {
+      "id": "ocd-person/aafd10ac-0d72-4892-b543-65926bb004fc",
+      "name": "Ann Gillespie",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:il/sldu:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Ann",
+      "family_name": "Gillespie",
+      "image": "https://ilga.gov/images/members/{D11CC547-0960-44F1-80C9-99F8CE5D5479}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:45.037812+00:00",
+      "updated_at": "2022-10-17T20:04:54.031488+00:00",
+      "openstates_url": "https://openstates.org/person/ann-gillespie-5CeLUbwHBmSVKwYP53tPlU/"
+    },
+    {
+      "id": "ocd-person/19c7ebb7-8c4b-4a4b-ad13-1a7ef3485835",
+      "name": "Antonio Mu\u00f1oz",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:il/sldu:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Antonio",
+      "family_name": "Mu\u00f1oz",
+      "image": "https://ilga.gov/images/members/{C4AA7682-5256-4C1D-A7C6-90953534A514}.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:15.681031+00:00",
+      "updated_at": "2021-12-16T18:48:21.165178+00:00",
+      "openstates_url": "https://openstates.org/person/antonio-munoz-meAg1FI3Gwy8dVfaeYOk1/"
+    },
+    {
+      "id": "ocd-person/5fe6a4a5-da36-4fa0-8c36-739648b9ce0c",
+      "name": "Bill Cunningham",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:il/sldu:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "William",
+      "family_name": "Cunningham",
+      "image": "https://ilga.gov/images/members/{402F0454-4EAF-4721-993D-53C7459BA35B}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:50.166392+00:00",
+      "updated_at": "2022-10-17T20:04:55.688968+00:00",
+      "openstates_url": "https://openstates.org/person/bill-cunningham-2uxfrmFPsjguGTbcaZcpNk/"
+    },
+    {
+      "id": "ocd-person/bdb2b767-7c04-4a7e-941b-9734155329d6",
+      "name": "Brian W. Stewart",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "45",
+        "division_id": "ocd-division/country:us/state:il/sldu:45"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Stewart",
+      "image": "https://ilga.gov/images/members/{9542D32E-E8F8-4E42-963E-23FC7621D747}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:45.086921+00:00",
+      "updated_at": "2022-10-17T20:04:58.222794+00:00",
+      "openstates_url": "https://openstates.org/person/brian-w-stewart-5lxDqsZRYaUwh8PDd3k5PK/"
+    },
+    {
+      "id": "ocd-person/013d012f-a50e-43c8-af40-f12aa852a0da",
+      "name": "Celina Villanueva",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:il/sldu:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Celina",
+      "family_name": "Villanueva",
+      "image": "https://ilga.gov/images/members/{F8A21A81-5453-4E94-AC51-E644E1B0C00B}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:51.376753+00:00",
+      "updated_at": "2022-10-17T20:04:59.596945+00:00",
+      "openstates_url": "https://openstates.org/person/celina-villanueva-2Ks28ANkbWhV28xBB5wrq/"
+    },
+    {
+      "id": "ocd-person/b748f1e8-6cfd-47d6-9398-5817aa879f39",
+      "name": "Chapin Rose",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "51",
+        "division_id": "ocd-division/country:us/state:il/sldu:51"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Chapin",
+      "family_name": "Rose",
+      "image": "https://ilga.gov/images/members/{BA95E1D1-0570-4492-B739-D1F593F183FD}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:47.918021+00:00",
+      "updated_at": "2022-10-17T20:04:57.242727+00:00",
+      "openstates_url": "https://openstates.org/person/chapin-rose-5Zqvlk6m26zgaP2gzSF881/"
+    },
+    {
+      "id": "ocd-person/ce79408a-9923-4ab4-9c3a-805a2b4162d5",
+      "name": "Christopher Belt",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "57",
+        "division_id": "ocd-division/country:us/state:il/sldu:57"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Christopher",
+      "family_name": "Belt",
+      "image": "https://ilga.gov/images/members/{EFE7513C-260C-46DE-BAB3-A12F250B2937}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:51.827644+00:00",
+      "updated_at": "2022-10-17T20:04:56.144262+00:00",
+      "openstates_url": "https://openstates.org/person/christopher-belt-6HbpZAgxiBNHuEp1zd98Yn/"
+    },
+    {
+      "id": "ocd-person/07e2527a-ae7d-4c58-b20b-ea2266a03a9e",
+      "name": "Craig Wilcox",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:il/sldu:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Craig",
+      "family_name": "Wilcox",
+      "image": "https://ilga.gov/images/members/{E397F861-68AA-4CC2-9A23-50B9A8E13031}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:57.684301+00:00",
+      "updated_at": "2022-10-17T20:04:54.940071+00:00",
+      "openstates_url": "https://openstates.org/person/craig-wilcox-EsNIdXmBymTXHcGXLn2vW/"
+    },
+    {
+      "id": "ocd-person/f5add4b7-0c7e-4909-8e31-3042698f5b49",
+      "name": "Cristina Castro",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:il/sldu:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Cristina",
+      "family_name": "Castro",
+      "image": "https://ilga.gov/images/members/{F09EB558-EB8D-48B1-91F0-EF47A07632F5}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:06.935320+00:00",
+      "updated_at": "2022-10-17T20:04:55.356125+00:00",
+      "openstates_url": "https://openstates.org/person/cristina-castro-7TaYmj6QhOHrZwsTv0JZoP/"
+    },
+    {
+      "id": "ocd-person/2c67678e-d0c0-4b67-8c39-1478ffb752e2",
+      "name": "Cristina H. Pacione-Zayas",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:il/sldu:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://ilga.gov/images/members/{2DA121C4-D6F5-48F7-A1CF-D5AE36076CF1}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:09.883877+00:00",
+      "updated_at": "2022-10-17T20:05:00.148470+00:00",
+      "openstates_url": "https://openstates.org/person/cristina-h-pacione-zayas-1LmuwHD8HWdKVoGUpFDPik/"
+    },
+    {
+      "id": "ocd-person/5a84a944-7d29-454e-aec6-85e6c3238d53",
+      "name": "Dale Fowler",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "59",
+        "division_id": "ocd-division/country:us/state:il/sldu:59"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Dale",
+      "family_name": "Fowler",
+      "image": "https://ilga.gov/images/members/{1E60CA94-7006-4CAB-841D-C9D99569D9D3}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:52.759934+00:00",
+      "updated_at": "2022-10-17T20:04:59.839976+00:00",
+      "openstates_url": "https://openstates.org/person/dale-fowler-2knw15XEJCvgJ9YABvRoFH/"
+    },
+    {
+      "id": "ocd-person/a24d31d0-02cb-49a8-8c25-1be3766dd7c4",
+      "name": "Dan McConchie",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:il/sldu:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Dan",
+      "family_name": "McConchie",
+      "image": "https://ilga.gov/images/members/{B3DB61E4-CBA1-4E2C-9DC7-4EEE9F52BCD7}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:00.481579+00:00",
+      "updated_at": "2022-10-17T20:04:56.387993+00:00",
+      "openstates_url": "https://openstates.org/person/dan-mcconchie-4wG2AVxNDuGP3YYNGyTiQm/"
+    },
+    {
+      "id": "ocd-person/65768dc3-c4b1-4c8f-bb79-5da425fa59e0",
+      "name": "Darren Bailey",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "55",
+        "division_id": "ocd-division/country:us/state:il/sldu:55"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Darren",
+      "family_name": "Bailey",
+      "image": "https://ilga.gov/images/members/{FB025E91-2025-4C39-BBC8-3196C761769E}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:51.334243+00:00",
+      "updated_at": "2022-10-17T20:04:56.780447+00:00",
+      "openstates_url": "https://openstates.org/person/darren-bailey-35SP3vur3roMsBVwkhb4ro/"
+    },
+    {
+      "id": "ocd-person/d02beb7e-1f30-48f2-8418-4c9287452562",
+      "name": "Dave Syverson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:il/sldu:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Dave",
+      "family_name": "Syverson",
+      "image": "https://ilga.gov/images/members/{6FD168B8-C34B-4399-8E39-7373F7600882}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:06.760644+00:00",
+      "updated_at": "2022-10-17T20:04:55.469366+00:00",
+      "openstates_url": "https://openstates.org/person/dave-syverson-6KoTTfYU2AOdtr6NRKj7T8/"
+    },
+    {
+      "id": "ocd-person/997e8947-dadd-4c8d-9538-0b58c077a812",
+      "name": "David Koehler",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "46",
+        "division_id": "ocd-division/country:us/state:il/sldu:46"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "Koehler",
+      "image": "https://ilga.gov/images/members/{2C57E551-D82A-4C7D-8746-3F83913F0D7D}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:13.406654+00:00",
+      "updated_at": "2022-10-17T20:04:59.081784+00:00",
+      "openstates_url": "https://openstates.org/person/david-koehler-4fdeV7gVB8OnUYLWG8AVBy/"
+    },
+    {
+      "id": "ocd-person/15c56180-21e1-492d-874f-25d511f804ee",
+      "name": "Don Harmon",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:il/sldu:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Don",
+      "family_name": "Harmon",
+      "image": "https://ilga.gov/images/members/{CF3F6473-4E6D-4E84-A0A4-4FF7335132E2}.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:10.622902+00:00",
+      "updated_at": "2021-12-16T18:48:23.140320+00:00",
+      "openstates_url": "https://openstates.org/person/don-harmon-f52c6ssvTxYMYBDyGvEoY/"
+    },
+    {
+      "id": "ocd-person/c4a1e37c-3c81-448c-9349-199a8fa5c2d3",
+      "name": "Donald P. DeWitte",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:il/sldu:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Donald",
+      "family_name": "DeWitte",
+      "image": "https://ilga.gov/images/members/{21A3B029-3423-410E-818A-84512CD0D231}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:54.718509+00:00",
+      "updated_at": "2022-10-17T20:05:00.341153+00:00",
+      "openstates_url": "https://openstates.org/person/donald-p-dewitte-5z2TimlZfZ7yv4FDHpxpCd/"
+    },
+    {
+      "id": "ocd-person/5db8d260-f850-406c-8e26-d618762c10cd",
+      "name": "Doris Turner",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "48",
+        "division_id": "ocd-division/country:us/state:il/sldu:48"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Doris",
+      "family_name": "Turner",
+      "image": "https://ilga.gov/images/members/{D114C73A-2295-431C-8250-38AC3353A20E}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-03-10T00:07:11.272690+00:00",
+      "updated_at": "2022-10-17T20:04:58.546076+00:00",
+      "openstates_url": "https://openstates.org/person/doris-turner-2qqkVmooAUM0KGJPqwEoRB/"
+    },
+    {
+      "id": "ocd-person/50ad4838-140d-4cb7-80cb-46da37a8827f",
+      "name": "Elgie R. Sims, Jr.",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:il/sldu:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Elgie",
+      "family_name": "Sims",
+      "image": "https://ilga.gov/images/members/{1EAF7721-A189-4CD1-B31D-CD39F79DBD04}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:12.177770+00:00",
+      "updated_at": "2022-10-17T20:04:57.128712+00:00",
+      "openstates_url": "https://openstates.org/person/elgie-r-sims-jr-2SEZjJ2KXt68LC9TP9GtjD/"
+    },
+    {
+      "id": "ocd-person/05030c23-9600-4d1c-ab77-46c17aec2059",
+      "name": "Emil Jones, III",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:il/sldu:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Emil",
+      "family_name": "Jones",
+      "image": "https://ilga.gov/images/members/{2C0EE719-E9D8-4625-990D-69FCE146BC0F}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:07.111675+00:00",
+      "updated_at": "2022-10-17T20:04:54.735214+00:00",
+      "openstates_url": "https://openstates.org/person/emil-jones-iii-9SLxxid7OdMKJ5wRwUXIf/"
+    },
+    {
+      "id": "ocd-person/65c6bfb5-a423-42e7-812a-6e9fbdef72e1",
+      "name": "Jacqueline Y. Collins",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:il/sldu:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Jacqueline",
+      "family_name": "Collins",
+      "image": "https://ilga.gov/images/members/{D2A0AAA1-D1A0-49D3-8A11-78A1A73D73A9}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:53.635180+00:00",
+      "updated_at": "2022-10-17T20:04:54.659405+00:00",
+      "openstates_url": "https://openstates.org/person/jacqueline-y-collins-3633JhAMn1aRMs5C2tbCTZ/"
+    },
+    {
+      "id": "ocd-person/61330c54-9a94-45d5-b2fe-a4eca869571d",
+      "name": "Jason A. Barickman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "53",
+        "division_id": "ocd-division/country:us/state:il/sldu:53"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Jason",
+      "family_name": "Barickman",
+      "image": "https://ilga.gov/images/members/{73221756-E2C7-4B72-8907-701CC96B7ED2}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:03.770158+00:00",
+      "updated_at": "2022-10-17T20:04:55.983731+00:00",
+      "openstates_url": "https://openstates.org/person/jason-a-barickman-2xPaFwxirPvskvG8WGNvSf/"
+    },
+    {
+      "id": "ocd-person/d868bc8f-f51c-4f5b-a9a3-3608b8b44b29",
+      "name": "Jason Plummer",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "54",
+        "division_id": "ocd-division/country:us/state:il/sldu:54"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Jason",
+      "family_name": "Plummer",
+      "image": "https://ilga.gov/images/members/{CE75DC7E-2CD4-4D01-B697-C2866F828E25}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:50.543601+00:00",
+      "updated_at": "2022-10-17T20:04:56.549138+00:00",
+      "openstates_url": "https://openstates.org/person/jason-plummer-6aMCr9XM4sKW5sHRy4M3eT/"
+    },
+    {
+      "id": "ocd-person/be85f354-7f46-48aa-afc7-850502fda3cb",
+      "name": "Jil Tracy",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "47",
+        "division_id": "ocd-division/country:us/state:il/sldu:47"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Jil",
+      "family_name": "Tracy",
+      "image": "https://ilga.gov/images/members/{21C0F860-E9DD-4215-A3AA-703E275C8526}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:17.796647+00:00",
+      "updated_at": "2022-10-17T20:04:59.795820+00:00",
+      "openstates_url": "https://openstates.org/person/jil-tracy-5nVkyWXMNwxZPhAYqLSL8N/"
+    },
+    {
+      "id": "ocd-person/fce6a931-141a-4ff4-808f-6c29f876f716",
+      "name": "John Connor",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "43",
+        "division_id": "ocd-division/country:us/state:il/sldu:43"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Connor",
+      "image": "https://ilga.gov/images/members/{7C3BEF77-7346-4A40-BC59-472919A869B8}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:12.358974+00:00",
+      "updated_at": "2022-10-17T20:04:58.384688+00:00",
+      "openstates_url": "https://openstates.org/person/john-connor-7hDTgEVATTjgPPzZJGLowA/"
+    },
+    {
+      "id": "ocd-person/cb63cb04-f84b-4fc9-91cf-05c4e1f93345",
+      "name": "John F. Curran",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "41",
+        "division_id": "ocd-division/country:us/state:il/sldu:41"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Curran",
+      "image": "https://ilga.gov/images/members/{7FC724D0-C297-4D20-AC25-3D879DE286B8}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:11.675153+00:00",
+      "updated_at": "2022-10-17T20:04:59.877246+00:00",
+      "openstates_url": "https://openstates.org/person/john-f-curran-6Bn2yENR4MYjZN9gwHO0Tl/"
+    },
+    {
+      "id": "ocd-person/1e106d7c-5aba-40d1-932b-760b599c70ae",
+      "name": "Julie A. Morrison",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:il/sldu:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Julie",
+      "family_name": "Morrison",
+      "image": "https://ilga.gov/images/members/{0E6BF8A6-C5C8-4F54-977B-D5FD11707FA5}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:07.636944+00:00",
+      "updated_at": "2022-10-17T20:04:57.321879+00:00",
+      "openstates_url": "https://openstates.org/person/julie-a-morrison-ujHBrX3b6700W8I4nZmKU/"
+    },
+    {
+      "id": "ocd-person/ca80672a-9d02-4287-9cd2-d2a7d08f604a",
+      "name": "Karina Villa",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:il/sldu:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Karina",
+      "family_name": "Villa",
+      "image": "https://ilga.gov/images/members/{C8126F4D-472E-4738-85B5-87A229F8174A}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-03-10T00:07:05.999739+00:00",
+      "updated_at": "2022-10-17T20:04:57.362918+00:00",
+      "openstates_url": "https://openstates.org/person/karina-villa-6A785C3L22i1hatdN27Br0/"
+    },
+    {
+      "id": "ocd-person/595f7bf4-5bd7-4238-94a3-e14d8b6d4545",
+      "name": "Kimberly A. Lightford",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:il/sldu:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Kimberly",
+      "family_name": "Lightford",
+      "image": "https://ilga.gov/images/members/{7FBA8DB0-281E-406F-BF9F-ABEB75B7B38E}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:47.553831+00:00",
+      "updated_at": "2022-10-17T20:04:58.580209+00:00",
+      "openstates_url": "https://openstates.org/person/kimberly-a-lightford-2idx7GDWD0dSNX2ib8506P/"
+    },
+    {
+      "id": "ocd-person/9bc8c9e8-ed36-42a1-ae80-4b2dfe591839",
+      "name": "Laura Ellman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:il/sldu:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Laura",
+      "family_name": "Ellman",
+      "image": "https://ilga.gov/images/members/{423E6DDE-1AFB-4F10-A767-C869B0E51483}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:40.138245+00:00",
+      "updated_at": "2022-10-17T20:04:54.779197+00:00",
+      "openstates_url": "https://openstates.org/person/laura-ellman-4jxZQNrpJXTxLBozlOOwTh/"
+    },
+    {
+      "id": "ocd-person/0ce44c13-37aa-4560-8489-67c309da913a",
+      "name": "Laura Fine",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:il/sldu:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Laura",
+      "family_name": "Fine",
+      "image": "https://ilga.gov/images/members/{A4F70929-881C-4003-B10A-D1A775D3D94B}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:11.498131+00:00",
+      "updated_at": "2022-10-17T20:04:58.104726+00:00",
+      "openstates_url": "https://openstates.org/person/laura-fine-OKEsdnkdTCa20zRjQlm2s/"
+    },
+    {
+      "id": "ocd-person/55be467f-1dd9-4cb7-96b8-050c113f5975",
+      "name": "Laura M. Murphy",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:il/sldu:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Laura",
+      "family_name": "Murphy",
+      "image": "https://ilga.gov/images/members/{E8C6FBF1-611C-4DD5-A81D-F0FF8917556D}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:59.777910+00:00",
+      "updated_at": "2022-10-17T20:04:57.167764+00:00",
+      "openstates_url": "https://openstates.org/person/laura-m-murphy-2bnIq87vIl24SAyVGZpRZt/"
+    },
+    {
+      "id": "ocd-person/8d0beff8-000c-470a-a6c8-a05e1b6816cb",
+      "name": "Linda Holmes",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "42",
+        "division_id": "ocd-division/country:us/state:il/sldu:42"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Linda",
+      "family_name": "Holmes",
+      "image": "https://ilga.gov/images/members/{9A39C8B9-4B06-4BF7-85CE-4C6F4FD07769}.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:15.851361+00:00",
+      "updated_at": "2021-12-16T18:48:20.544937+00:00",
+      "openstates_url": "https://openstates.org/person/linda-holmes-4I9N9k0HEjLrOgsm879fOl/"
+    },
+    {
+      "id": "ocd-person/879afbe3-9394-4a84-b57f-af36ca92cb14",
+      "name": "Mattie Hunter",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:il/sldu:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Mattie",
+      "family_name": "Hunter",
+      "image": "https://ilga.gov/images/members/{F4630DDB-11F0-417E-8C0A-B4ED6426116F}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:58.709252+00:00",
+      "updated_at": "2022-10-17T20:04:55.850855+00:00",
+      "openstates_url": "https://openstates.org/person/mattie-hunter-47sn6SKXuf4vrWsvlDiiVI/"
+    },
+    {
+      "id": "ocd-person/d218f82f-ce03-4277-9408-119857d1e61f",
+      "name": "Meg Loughran Cappel",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "49",
+        "division_id": "ocd-division/country:us/state:il/sldu:49"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "",
+      "family_name": "",
+      "image": "https://ilga.gov/images/members/{344F07C5-9853-49B6-902A-89D5F81637BF}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:02.493756+00:00",
+      "updated_at": "2022-10-17T20:04:57.050837+00:00",
+      "openstates_url": "https://openstates.org/person/meg-loughran-cappel-6ORnaF6R3lSQIKzEx1k5aJ/"
+    },
+    {
+      "id": "ocd-person/2b6d796b-34b6-4752-8f6b-c64a86c95e78",
+      "name": "Melinda Bush",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:il/sldu:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Melinda",
+      "family_name": "Bush",
+      "image": "https://ilga.gov/images/members/{772B9650-EA19-4BC6-9C53-F76EB5DA14B3}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:03.941353+00:00",
+      "updated_at": "2022-10-17T20:04:58.728021+00:00",
+      "openstates_url": "https://openstates.org/person/melinda-bush-1JwhOc64wxqEJLC0PalBdo/"
+    },
+    {
+      "id": "ocd-person/fb433923-65ca-475a-b106-7293c3483c57",
+      "name": "Michael E. Hastings",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:il/sldu:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Hastings",
+      "image": "https://ilga.gov/images/members/{C6E534EB-7243-4687-8A65-04BD4DA5DF72}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:14.984101+00:00",
+      "updated_at": "2022-10-17T20:04:53.620784+00:00",
+      "openstates_url": "https://openstates.org/person/michael-e-hastings-7e7nIaxBwCEdrdMrt7eiXP/"
+    },
+    {
+      "id": "ocd-person/0125b0ac-65ba-443e-b418-53cdf42b9f85",
+      "name": "Mike Simmons",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:il/sldu:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Simmons",
+      "image": "https://ilga.gov/images/members/{6EDEB1E8-2566-4659-ABF5-A9107C2912F0}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-03-10T00:07:03.800096+00:00",
+      "updated_at": "2022-10-17T20:04:55.320692+00:00",
+      "openstates_url": "https://openstates.org/person/mike-simmons-2ADRF7Wq9jw0E0huW4ikH/"
+    },
+    {
+      "id": "ocd-person/f8e78760-4ec7-44f4-a00f-54f42fb834d5",
+      "name": "Napoleon Harris, III",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:il/sldu:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Napoleon",
+      "family_name": "Harris",
+      "image": "https://ilga.gov/images/members/{87402198-6E85-4CFE-BDD2-B9DC58948869}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:16.551386+00:00",
+      "updated_at": "2022-10-17T20:04:56.218447+00:00",
+      "openstates_url": "https://openstates.org/person/napoleon-harris-iii-7ZfuAsXKLMz87w3YoGv33N/"
+    },
+    {
+      "id": "ocd-person/b676c70e-0bc2-45d2-bd4c-9f3fa70bf60e",
+      "name": "Neil Anderson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:il/sldu:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Neil",
+      "family_name": "Anderson",
+      "image": "https://ilga.gov/images/members/{90CDA259-1DEA-4D18-AE97-30051E03D154}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:15.322925+00:00",
+      "updated_at": "2022-10-17T20:04:56.428257+00:00",
+      "openstates_url": "https://openstates.org/person/neil-anderson-5YIsry1d9uUMW50SXLkSn0/"
+    },
+    {
+      "id": "ocd-person/436c1e53-1203-4ce3-9931-d22f9e3c406a",
+      "name": "Omar Aquino",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:il/sldu:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Omar",
+      "family_name": "Aquino",
+      "image": "https://ilga.gov/images/members/{79A5CDE2-DD9F-423E-83F0-4643FDB13ABB}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:49.326990+00:00",
+      "updated_at": "2022-10-17T20:04:54.442003+00:00",
+      "openstates_url": "https://openstates.org/person/omar-aquino-23DtYupEXfMqwaZD1hO2ig/"
+    },
+    {
+      "id": "ocd-person/9e1c7252-d8e4-4f72-a2af-bd6dd18236cb",
+      "name": "Patricia Van Pelt",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:il/sldu:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Patricia",
+      "family_name": "Van Pelt",
+      "image": "https://ilga.gov/images/members/{71DA8897-D74A-4034-9A99-79C7FB2BD90E}.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:50.695875+00:00",
+      "updated_at": "2021-12-16T18:48:24.542076+00:00",
+      "openstates_url": "https://openstates.org/person/patricia-van-pelt-4oLmqFP2PbkCGTCCzi7xCF/"
+    },
+    {
+      "id": "ocd-person/1ae7c123-b1a4-4c6e-b4d3-dc22db461e44",
+      "name": "Patrick J. Joyce",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:il/sldu:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Patrick",
+      "family_name": "Joyce",
+      "image": "https://ilga.gov/images/members/{39D6F100-DAEC-4C4B-A4F5-F20299B79152}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2020-01-05T11:05:27.876717+00:00",
+      "updated_at": "2022-10-17T20:04:58.764489+00:00",
+      "openstates_url": "https://openstates.org/person/patrick-j-joyce-oliBAB58zTCiWYWfJAsRY/"
+    },
+    {
+      "id": "ocd-person/9916a2a9-b075-4319-af0b-ba4ac7fcf564",
+      "name": "Rachelle Crowe",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "56",
+        "division_id": "ocd-division/country:us/state:il/sldu:56"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Rachelle",
+      "family_name": "Crowe",
+      "image": "https://ilga.gov/images/members/{05406617-A6A5-4533-852E-04678B860D88}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:46.807093+00:00",
+      "updated_at": "2022-10-17T20:04:55.583120+00:00",
+      "openstates_url": "https://openstates.org/person/rachelle-crowe-4esAZ9mbLH0Qfe1McdkWm4/"
+    },
+    {
+      "id": "ocd-person/d01a10b0-e391-4c65-ba1f-304ee6130f5c",
+      "name": "Ram Villivalam",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:il/sldu:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Ram",
+      "family_name": "Villivalam",
+      "image": "https://ilga.gov/images/members/{DBF0BBF0-0E16-4C5F-894A-16C4A14CAF51}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:50.950997+00:00",
+      "updated_at": "2022-10-17T20:04:59.755329+00:00",
+      "openstates_url": "https://openstates.org/person/ram-villivalam-6KgJa676o4Wn5YRZTjCTO8/"
+    },
+    {
+      "id": "ocd-person/4a3645fe-2a56-400f-ae2a-18e50f2b0bea",
+      "name": "Robert F. Martwick",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:il/sldu:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Martwick",
+      "image": "https://ilga.gov/images/members/{8FA2A22C-6775-4098-905C-0C7D8BBD7AEE}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:01.000681+00:00",
+      "updated_at": "2022-10-17T20:04:58.839530+00:00",
+      "openstates_url": "https://openstates.org/person/robert-f-martwick-2G2EaACCOZy2wlYNlvjWp8/"
+    },
+    {
+      "id": "ocd-person/86ee52dd-dc32-4895-bf16-746eb76df012",
+      "name": "Robert Peters",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:il/sldu:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Robert",
+      "family_name": "Peters",
+      "image": "https://ilga.gov/images/members/{05AD9CBA-EA20-489D-9C33-3F39DC1F9B0C}.jpg",
+      "email": "",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:52.910548+00:00",
+      "updated_at": "2021-12-16T18:48:29.401893+00:00",
+      "openstates_url": "https://openstates.org/person/robert-peters-46bsvyeGrs45vQuo0ZtVJ4/"
+    },
+    {
+      "id": "ocd-person/cb406eb3-673a-4715-8d87-d5963220ad6b",
+      "name": "Sally J. Turner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "44",
+        "division_id": "ocd-division/country:us/state:il/sldu:44"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Sally",
+      "family_name": "Turner",
+      "image": "https://ilga.gov/images/members/{C47C199A-2C77-4A73-BAE5-AB139ED85CAC}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-03-10T00:07:08.960804+00:00",
+      "updated_at": "2022-10-17T20:04:54.619793+00:00",
+      "openstates_url": "https://openstates.org/person/sally-j-turner-6BWt3m2qcn0bwtT1PXQ1tr/"
+    },
+    {
+      "id": "ocd-person/6c0069de-c064-412e-ae45-9e87d6ee3dae",
+      "name": "Sara Feigenholtz",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:il/sldu:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Sara",
+      "family_name": "Feigenholtz",
+      "image": "https://ilga.gov/images/members/{E77394AE-D896-4FEB-A325-B33A553554EB}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:57.510985+00:00",
+      "updated_at": "2022-10-17T20:04:53.821260+00:00",
+      "openstates_url": "https://openstates.org/person/sara-feigenholtz-3HnML1ug5X6EKw6PxC9uUo/"
+    },
+    {
+      "id": "ocd-person/86147150-e615-43a2-a748-e95d06627ad3",
+      "name": "Scott M. Bennett",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "52",
+        "division_id": "ocd-division/country:us/state:il/sldu:52"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Scott",
+      "family_name": "Bennett",
+      "image": "https://ilga.gov/images/members/{8F1A0093-CB44-43C1-9D4D-67266A50A8C6}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:58.366958+00:00",
+      "updated_at": "2022-10-17T20:04:58.065904+00:00",
+      "openstates_url": "https://openstates.org/person/scott-m-bennett-450JTVlH58xCzBnSCPaH4d/"
+    },
+    {
+      "id": "ocd-person/d3450848-4552-4b8f-97dc-fb3c26c2566c",
+      "name": "Steve McClure",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "50",
+        "division_id": "ocd-division/country:us/state:il/sldu:50"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Steve",
+      "family_name": "McClure",
+      "image": "https://ilga.gov/images/members/{EB86B3C4-3F25-4D5C-8944-7B4CBCA7CACE}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:50.023124+00:00",
+      "updated_at": "2022-10-17T20:04:53.423792+00:00",
+      "openstates_url": "https://openstates.org/person/steve-mcclure-6QevaZ9OLxRPP7HoFnfm7I/"
+    },
+    {
+      "id": "ocd-person/ba9c4927-bf9b-4bd5-879f-c515a12a046c",
+      "name": "Steve Stadelman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:il/sldu:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Steve",
+      "family_name": "Stadelman",
+      "image": "https://ilga.gov/images/members/{47906765-AB0A-48BF-8C14-B5443B8F27C4}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:00.122200+00:00",
+      "updated_at": "2022-10-17T20:04:59.915423+00:00",
+      "openstates_url": "https://openstates.org/person/steve-stadelman-5g7zj8OAIdfv7DLbI9DVHg/"
+    },
+    {
+      "id": "ocd-person/65116f1b-c8ef-4a48-84be-ab5edeb0bcd5",
+      "name": "Steven M. Landek",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:il/sldu:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Steven",
+      "family_name": "Landek",
+      "image": "https://ilga.gov/images/members/{CB30B8CB-1FBB-4869-A78E-D08AF0616D74}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:42:56.651321+00:00",
+      "updated_at": "2022-10-17T20:04:56.511072+00:00",
+      "openstates_url": "https://openstates.org/person/steven-m-landek-34iBvYsdvWc6Zb9q1FuRK1/"
+    },
+    {
+      "id": "ocd-person/a1ac69ba-49db-4529-926f-999e73ef9654",
+      "name": "Sue Rezin",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:il/sldu:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Sue",
+      "family_name": "Rezin",
+      "image": "https://ilga.gov/images/members/{45666230-B77D-4162-A45E-6AC5587C4E56}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:04.301039+00:00",
+      "updated_at": "2022-10-17T20:04:57.902824+00:00",
+      "openstates_url": "https://openstates.org/person/sue-rezin-4v4YZR0XJdd12xtijPr0y4/"
+    },
+    {
+      "id": "ocd-person/16483678-e06e-4551-8cec-266335b56fff",
+      "name": "Suzy Glowiak Hilton",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:il/sldu:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Suzy",
+      "family_name": "Hilton",
+      "image": "https://ilga.gov/images/members/{8DE2D7E5-9F3D-43FD-B0EC-0010BDA8849A}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2019-01-19T06:06:39.907561+00:00",
+      "updated_at": "2022-10-17T20:04:57.448669+00:00",
+      "openstates_url": "https://openstates.org/person/suzy-glowiak-hilton-g2pcEYuZfkYxN3Ch7ZDkl/"
+    },
+    {
+      "id": "ocd-person/372be8dc-8177-47e7-b128-1e6a81621f3a",
+      "name": "Terri Bryant",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "58",
+        "division_id": "ocd-division/country:us/state:il/sldu:58"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Terri",
+      "family_name": "Bryant",
+      "image": "https://ilga.gov/images/members/{58FBFE5F-39EE-4F3C-853A-0DB98E83E893}.jpg",
+      "email": "",
+      "gender": "Female",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:06.187680+00:00",
+      "updated_at": "2022-10-17T20:04:58.462975+00:00",
+      "openstates_url": "https://openstates.org/person/terri-bryant-1g6dyMDs1GK9N40x5ZFlhy/"
+    },
+    {
+      "id": "ocd-person/6535ad96-efb8-4643-ae43-63837fbc06aa",
+      "name": "Thomas Cullerton",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:il/sldu:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Thomas",
+      "family_name": "Cullerton",
+      "image": "https://ilga.gov/images/members/{A0AAC8CC-CA27-4DD9-9F4F-E1EA4C12B0E3}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2018-10-18T14:43:02.746066+00:00",
+      "updated_at": "2022-10-17T20:04:54.896812+00:00",
+      "openstates_url": "https://openstates.org/person/thomas-cullerton-34ykryuH20prrZFW6uO4Co/"
+    },
+    {
+      "id": "ocd-person/e6dede3b-1db8-42ed-8c71-e19f4e49a8ee",
+      "name": "Win Stoller",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:il/sldu:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "given_name": "Win",
+      "family_name": "Stoller",
+      "image": "https://ilga.gov/images/members/{02AA7D94-3FC5-4F6D-A749-6CFFE11755D2}.jpg",
+      "email": "",
+      "gender": "Male",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {},
+      "created_at": "2021-01-14T00:07:14.090124+00:00",
+      "updated_at": "2022-10-17T20:04:59.209824+00:00",
+      "openstates_url": "https://openstates.org/person/win-stoller-71e5LNu4wSkT6ntvuTWmhq/"
+    }
+  ]
+}

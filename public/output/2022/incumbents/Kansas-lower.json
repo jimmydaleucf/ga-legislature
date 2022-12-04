@@ -1,0 +1,3382 @@
+{
+  "timestamp": "11-29-2022 15:04:30",
+  "incumbents": [
+    {
+      "id": "ocd-person/4824d856-5fdc-43a5-abee-ff60e648e112",
+      "name": "Aaron Coleman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "37",
+        "division_id": "ocd-division/country:us/state:ks/sldl:37"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Aaron",
+      "family_name": "Coleman",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_coleman_aaron_1.jpg",
+      "email": "aaron.coleman@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Entrepreneur" },
+      "created_at": "2021-01-12T00:09:22.370857+00:00",
+      "updated_at": "2021-12-16T18:50:16.463002+00:00",
+      "openstates_url": "https://openstates.org/person/aaron-coleman-2C8HiYqO0bBqQtw8BmQFKk/"
+    },
+    {
+      "id": "ocd-person/c1802270-0126-4be5-b7e7-1a9a472f5fd7",
+      "name": "Adam Smith",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "120",
+        "division_id": "ocd-division/country:us/state:ks/sldl:120"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Adam",
+      "family_name": "Smith",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_smith_adam_1.jpg",
+      "email": "Adam.Smith@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer/Rancher" },
+      "created_at": "2018-10-18T14:44:30.656833+00:00",
+      "updated_at": "2021-12-16T18:50:08.314534+00:00",
+      "openstates_url": "https://openstates.org/person/adam-smith-5t84l1IlhVdjxR4pj67bKZ/"
+    },
+    {
+      "id": "ocd-person/2c46aedb-f7a4-4f9a-bade-5ae192acc2a3",
+      "name": "Adam Thomas",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "26",
+        "division_id": "ocd-division/country:us/state:ks/sldl:26"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Adam",
+      "family_name": "Thomas",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_thomas_adam_1.jpg",
+      "email": "Adam.Thomas@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Restaurant Owner" },
+      "created_at": "2019-01-07T05:01:31.726090+00:00",
+      "updated_at": "2021-12-16T18:50:14.213992+00:00",
+      "openstates_url": "https://openstates.org/person/adam-thomas-1LXxo22tJv8mJxz9UJ2qe3/"
+    },
+    {
+      "id": "ocd-person/12d14470-2c7c-47b5-a472-7653e4fb2aeb",
+      "name": "Annie Kuether",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "55",
+        "division_id": "ocd-division/country:us/state:ks/sldl:55"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Annie",
+      "family_name": "Kuether",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_kuether_annie_1.jpg",
+      "email": "annie.kuether@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:33.942472+00:00",
+      "updated_at": "2021-12-16T18:50:09.083253+00:00",
+      "openstates_url": "https://openstates.org/person/annie-kuether-ZVUpigZSUApaQX5eISnsJ/"
+    },
+    {
+      "id": "ocd-person/4544fc4e-fff8-4bbe-bc29-4e28c6be3179",
+      "name": "Avery Anderson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "72",
+        "division_id": "ocd-division/country:us/state:ks/sldl:72"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Avery",
+      "family_name": "Anderson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_anderson_avery_1.jpg",
+      "email": "avery.anderson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Insurance" },
+      "created_at": "2021-01-12T00:09:19.079813+00:00",
+      "updated_at": "2021-12-16T18:50:20.758178+00:00",
+      "openstates_url": "https://openstates.org/person/avery-anderson-26hzohQKKQKEkEDLrCLOG1/"
+    },
+    {
+      "id": "ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c",
+      "name": "Barbara Ballard",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "44",
+        "division_id": "ocd-division/country:us/state:ks/sldl:44"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Barbara",
+      "family_name": "Ballard",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ballard_barbara_1.jpg",
+      "email": "barbara.ballard@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "University Administrator" },
+      "created_at": "2018-10-18T14:44:39.257464+00:00",
+      "updated_at": "2021-12-16T18:50:01.180096+00:00",
+      "openstates_url": "https://openstates.org/person/barbara-ballard-1p862NhkGVYWhQ1IpjxkWC/"
+    },
+    {
+      "id": "ocd-person/7aac5ab6-1590-4cfe-8c02-d61f292497c8",
+      "name": "Barbara Wasinger",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "111",
+        "division_id": "ocd-division/country:us/state:ks/sldl:111"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Barbara",
+      "family_name": "Wasinger",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_wasinger_barbara_1.jpg",
+      "email": "Barb.Wasinger@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Business Owner" },
+      "created_at": "2019-01-07T05:01:30.416044+00:00",
+      "updated_at": "2021-12-16T18:50:00.750751+00:00",
+      "openstates_url": "https://openstates.org/person/barbara-wasinger-3jTpShH62L44rALrqBav0K/"
+    },
+    {
+      "id": "ocd-person/463dcd61-1bf6-4182-ae6f-a840e43ea7fe",
+      "name": "Bill Clifford",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "122",
+        "division_id": "ocd-division/country:us/state:ks/sldl:122"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Bill",
+      "family_name": "Clifford",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_clifford_bill_1.jpg",
+      "email": "william.clifford@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Fry Eye Associates" },
+      "created_at": "2021-12-16T18:50:22.048081+00:00",
+      "updated_at": "2021-12-16T18:50:22.218193+00:00",
+      "openstates_url": "https://openstates.org/person/bill-clifford-28XhoB5cGxbUz1bWXh638Y/"
+    },
+    {
+      "id": "ocd-person/d01abc3e-cce3-450e-8d2c-41491b5bbde6",
+      "name": "Bill Rhiley",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "80",
+        "division_id": "ocd-division/country:us/state:ks/sldl:80"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Bill",
+      "family_name": "Rhiley",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_rhiley_bill_1.jpg",
+      "email": "Bill.Rhiley@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2019-01-07T05:01:25.788071+00:00",
+      "updated_at": "2021-12-16T18:50:15.968758+00:00",
+      "openstates_url": "https://openstates.org/person/bill-rhiley-6KgcZKZwAaWrPrSo1eJVXa/"
+    },
+    {
+      "id": "ocd-person/dc23fc2c-0f64-4fab-96ec-951f0efbe7bb",
+      "name": "Bill Sutton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "43",
+        "division_id": "ocd-division/country:us/state:ks/sldl:43"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Bill",
+      "family_name": "Sutton",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_sutton_william_1.jpg",
+      "email": "bill.sutton@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Inventory Control" },
+      "created_at": "2018-10-18T14:44:33.264966+00:00",
+      "updated_at": "2021-12-16T18:50:23.116469+00:00",
+      "openstates_url": "https://openstates.org/person/bill-sutton-6hOkwTxc3UscR0jVyqdcgl/"
+    },
+    {
+      "id": "ocd-person/1d864a5d-0e34-4c79-a084-d765bb1dd869",
+      "name": "Blaine Finch",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "59",
+        "division_id": "ocd-division/country:us/state:ks/sldl:59"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Blaine",
+      "family_name": "Finch",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_finch_blaine_1.jpg",
+      "email": "blaine.finch@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:51.048639+00:00",
+      "updated_at": "2021-12-16T18:49:59.578112+00:00",
+      "openstates_url": "https://openstates.org/person/blaine-finch-ti9CSyIqJoms74kzqQy8v/"
+    },
+    {
+      "id": "ocd-person/38998536-e18f-44bb-8e80-01bfee04e991",
+      "name": "Blake Carpenter",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "81",
+        "division_id": "ocd-division/country:us/state:ks/sldl:81"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Blake",
+      "family_name": "Carpenter",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_carpenter_blake_1.jpg",
+      "email": "blake.carpenter@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Contractor" },
+      "created_at": "2018-10-18T14:44:31.597382+00:00",
+      "updated_at": "2021-12-16T18:50:05.936454+00:00",
+      "openstates_url": "https://openstates.org/person/blake-carpenter-1injDUNghBL8Ucf4z0VrSD/"
+    },
+    {
+      "id": "ocd-person/c504fb9b-fbd3-44ec-bd1a-2ca5ce7f20f5",
+      "name": "Boyd Orr",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "115",
+        "division_id": "ocd-division/country:us/state:ks/sldl:115"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Boyd",
+      "family_name": "Orr",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_orr_boyd_1.jpg",
+      "email": "Boyd.Orr@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer/Rancher" },
+      "created_at": "2018-10-18T14:44:46.233264+00:00",
+      "updated_at": "2021-12-16T18:50:24.085837+00:00",
+      "openstates_url": "https://openstates.org/person/boyd-orr-5zllSuGMoRex50cIbVdVzR/"
+    },
+    {
+      "id": "ocd-person/8176ce66-2967-4095-9314-21c266fe3e6f",
+      "name": "Bradley Ralph",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "119",
+        "division_id": "ocd-division/country:us/state:ks/sldl:119"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Bradley",
+      "family_name": "Ralph",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ralph_bradley_1.jpg",
+      "email": "Brad.Ralph@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:51.718470+00:00",
+      "updated_at": "2021-12-16T18:50:04.656032+00:00",
+      "openstates_url": "https://openstates.org/person/bradley-ralph-3wIItbQGj1aaaMbPzAL5Pr/"
+    },
+    {
+      "id": "ocd-person/7e82e21f-443a-4d81-b4a8-c41af07913b1",
+      "name": "Brandon Woodard",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "30",
+        "division_id": "ocd-division/country:us/state:ks/sldl:30"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Brandon",
+      "family_name": "Woodard",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_woodard_brandon_1.jpg",
+      "email": "Brandon.Woodard@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Higher Education Fundraising" },
+      "created_at": "2019-01-07T05:01:20.225322+00:00",
+      "updated_at": "2021-12-16T18:50:17.598702+00:00",
+      "openstates_url": "https://openstates.org/person/brandon-woodard-3qiqVzAHAkrhZFkpoU97dB/"
+    },
+    {
+      "id": "ocd-person/4f9fb266-2de1-4d94-948e-9e0255666c52",
+      "name": "Brenda Landwehr",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "105",
+        "division_id": "ocd-division/country:us/state:ks/sldl:105"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Brenda",
+      "family_name": "Landwehr",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_landwehr_brenda_1.jpg",
+      "email": "brenda.landwehr@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:55.887568+00:00",
+      "updated_at": "2021-12-16T18:49:59.859330+00:00",
+      "openstates_url": "https://openstates.org/person/brenda-landwehr-2QFNHReh7iaJq024RZLHWc/"
+    },
+    {
+      "id": "ocd-person/ca3f1bf6-44e0-4d67-b242-3cd29905723c",
+      "name": "Brett Fairchild",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "113",
+        "division_id": "ocd-division/country:us/state:ks/sldl:113"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Brett",
+      "family_name": "Fairchild",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_fairchild_brett_1.jpg",
+      "email": "brett.fairchild@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer" },
+      "created_at": "2021-01-12T00:09:15.791520+00:00",
+      "updated_at": "2021-12-16T18:50:23.273888+00:00",
+      "openstates_url": "https://openstates.org/person/brett-fairchild-69dI2mzSmrCoqgxPGw9LWG/"
+    },
+    {
+      "id": "ocd-person/ee28d684-dc5b-4923-a56f-7fef74c9ef67",
+      "name": "Brian Bergkamp",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "93",
+        "division_id": "ocd-division/country:us/state:ks/sldl:93"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Brian",
+      "family_name": "Bergkamp",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_bergkamp_brian_1.jpg",
+      "email": "Brian.Bergkamp@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Project Manager" },
+      "created_at": "2021-01-12T00:09:18.998750+00:00",
+      "updated_at": "2021-12-16T18:50:11.330952+00:00",
+      "openstates_url": "https://openstates.org/person/brian-bergkamp-7FOpsknu3IOhUm1rJMgc1X/"
+    },
+    {
+      "id": "ocd-person/f8ad1b70-34d0-486f-92af-0289e154d2db",
+      "name": "Broderick Henderson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "35",
+        "division_id": "ocd-division/country:us/state:ks/sldl:35"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Broderick",
+      "family_name": "Henderson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_henderson_broderick_1.jpg",
+      "email": "broderick.henderson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Parking Controller Office" },
+      "created_at": "2018-10-18T14:44:33.432389+00:00",
+      "updated_at": "2021-12-16T18:50:09.236650+00:00",
+      "openstates_url": "https://openstates.org/person/broderick-henderson-7ZFCqqJS9SgLWwNpSyx5bf/"
+    },
+    {
+      "id": "ocd-person/71b474cb-1732-41fc-b525-4d53911cbbbe",
+      "name": "Carl Turner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "28",
+        "division_id": "ocd-division/country:us/state:ks/sldl:28"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Carl",
+      "family_name": "Turner",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_turner_carl_1.jpg",
+      "email": "carl.turner@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": {
+        "occupation": "Financial/Process Improvement/Project Management"
+      },
+      "created_at": "2021-01-12T00:09:16.694583+00:00",
+      "updated_at": "2021-12-16T18:50:21.989879+00:00",
+      "openstates_url": "https://openstates.org/person/carl-turner-3SYbIpptl5nfNZPgzUkqbe/"
+    },
+    {
+      "id": "ocd-person/e9245d69-ed9f-456c-9c78-01fc5a1f4244",
+      "name": "Charlotte Esau",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "14",
+        "division_id": "ocd-division/country:us/state:ks/sldl:14"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Charlotte",
+      "family_name": "Esau",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_esau_charlotte_1.jpg",
+      "email": "Charlotte.Esau@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Genealogist" },
+      "created_at": "2019-01-07T05:01:19.597958+00:00",
+      "updated_at": "2021-12-16T18:50:14.676919+00:00",
+      "openstates_url": "https://openstates.org/person/charlotte-esau-75vpWKmyjfDTm0yYkwdtY4/"
+    },
+    {
+      "id": "ocd-person/c459372e-82ef-4fe9-90a5-03accdd18812",
+      "name": "Cheryl Helmer",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "79",
+        "division_id": "ocd-division/country:us/state:ks/sldl:79"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Cheryl",
+      "family_name": "Helmer",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_helmer_cheryl_1.jpg",
+      "email": "Cheryl.Helmer@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Professional School Counselor" },
+      "created_at": "2019-01-07T05:01:26.678593+00:00",
+      "updated_at": "2021-12-16T18:50:08.490093+00:00",
+      "openstates_url": "https://openstates.org/person/cheryl-helmer-5yVGb55i0GzReTTObRI9f0/"
+    },
+    {
+      "id": "ocd-person/e0cd5e74-7229-4c04-be9e-aa688868e703",
+      "name": "Chris Croft",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "8",
+        "division_id": "ocd-division/country:us/state:ks/sldl:8"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Chris",
+      "family_name": "Croft",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_croft_chris_1.jpg",
+      "email": "Chris.Croft@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Army" },
+      "created_at": "2019-01-07T05:01:35.868933+00:00",
+      "updated_at": "2021-12-16T18:50:10.873271+00:00",
+      "openstates_url": "https://openstates.org/person/chris-croft-6qC8NPq0tpr1WODooQzJTv/"
+    },
+    {
+      "id": "ocd-person/dd195ea4-3f71-41f2-af19-95d60b252348",
+      "name": "Christina Haswood",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "10",
+        "division_id": "ocd-division/country:us/state:ks/sldl:10"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Christina",
+      "family_name": "Haswood",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_haswood_christina_1.jpg",
+      "email": "christina.haswood@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Public Health Worker" },
+      "created_at": "2021-01-12T00:09:21.688535+00:00",
+      "updated_at": "2021-12-16T18:50:00.894529+00:00",
+      "openstates_url": "https://openstates.org/person/christina-haswood-6jCtgrHwhXO3oenpriWX1c/"
+    },
+    {
+      "id": "ocd-person/5fa601c2-c0d4-4f22-bc70-bb9529128b93",
+      "name": "Chuck Schmidt",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "88",
+        "division_id": "ocd-division/country:us/state:ks/sldl:88"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Chuck",
+      "family_name": "Schmidt",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_schmidt_chuck_1.jpg",
+      "email": "Chuck.Schmidt@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2021-12-16T18:50:21.558180+00:00",
+      "updated_at": "2021-12-16T18:50:21.725445+00:00",
+      "openstates_url": "https://openstates.org/person/chuck-schmidt-2uU8SOSuaQP81P1YCRJXIR/"
+    },
+    {
+      "id": "ocd-person/8b617466-af12-4848-8cca-ed088fb196da",
+      "name": "Chuck Smith",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "3",
+        "division_id": "ocd-division/country:us/state:ks/sldl:3"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Charles",
+      "family_name": "Smith",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_smith_charles_1.jpg",
+      "email": "chuck.smith@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Teacher-Coach" },
+      "created_at": "2021-01-12T00:09:19.781768+00:00",
+      "updated_at": "2021-12-16T18:50:03.081774+00:00",
+      "openstates_url": "https://openstates.org/person/chuck-smith-4F0TA6I5rnaFLDD2ZeoqAE/"
+    },
+    {
+      "id": "ocd-person/eafd24b5-d096-4fa0-92c4-3b4ced58c40f",
+      "name": "Cindy Neighbor",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "18",
+        "division_id": "ocd-division/country:us/state:ks/sldl:18"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Cindy",
+      "family_name": "Neighbor",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_neighbor_cindy_1.jpg",
+      "email": "Cindy.Neighbor@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Medical Administrator" },
+      "created_at": "2018-10-18T14:44:52.218225+00:00",
+      "updated_at": "2021-12-16T18:50:01.032512+00:00",
+      "openstates_url": "https://openstates.org/person/cindy-neighbor-79PtGQpXp008fBhWtqQdcl/"
+    },
+    {
+      "id": "ocd-person/3df522a5-5542-4ad4-b1bf-54736e60c601",
+      "name": "Clarke Sanders",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "69",
+        "division_id": "ocd-division/country:us/state:ks/sldl:69"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Clarke",
+      "family_name": "Sanders",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_sanders_clarke_1.jpg",
+      "email": "clarke.sanders@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:20.585211+00:00",
+      "updated_at": "2021-12-16T18:50:15.481145+00:00",
+      "openstates_url": "https://openstates.org/person/clarke-sanders-1suYfCyZmJTxuEwir2Om25/"
+    },
+    {
+      "id": "ocd-person/c333ddca-e5a2-4638-910c-a816bcddd666",
+      "name": "Cyndi Howerton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "98",
+        "division_id": "ocd-division/country:us/state:ks/sldl:98"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Cyndi",
+      "family_name": "Howerton",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_howerton_cyndi_1.jpg",
+      "email": "Cyndi.Howerton@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Tax service manager" },
+      "created_at": "2021-12-16T18:50:06.562621+00:00",
+      "updated_at": "2021-12-16T18:50:06.694571+00:00",
+      "openstates_url": "https://openstates.org/person/cyndi-howerton-5wLConQ59FLb37AwGuC76s/"
+    },
+    {
+      "id": "ocd-person/d9b94e4b-d2b0-4139-8135-cba9ff03e8b7",
+      "name": "Dan Osman",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "48",
+        "division_id": "ocd-division/country:us/state:ks/sldl:48"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Dan",
+      "family_name": "Osman",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_osman_dan_1.jpg",
+      "email": "Dan.Osman@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2021-12-16T18:50:04.150132+00:00",
+      "updated_at": "2021-12-16T18:50:04.283451+00:00",
+      "openstates_url": "https://openstates.org/person/dan-osman-6cq1Ejuc23xQja4VS2punn/"
+    },
+    {
+      "id": "ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3",
+      "name": "Daniel Hawkins",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "100",
+        "division_id": "ocd-division/country:us/state:ks/sldl:100"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Daniel",
+      "family_name": "Hawkins",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_hawkins_daniel_1.jpg",
+      "email": "dan.hawkins@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Insurance Agent" },
+      "created_at": "2018-10-18T14:44:45.439219+00:00",
+      "updated_at": "2021-12-16T18:50:12.329957+00:00",
+      "openstates_url": "https://openstates.org/person/daniel-hawkins-1BRMHN73dWgdc0XhSSKX11/"
+    },
+    {
+      "id": "ocd-person/19f9f871-df4e-4d43-8138-8a2ac6ad8d36",
+      "name": "Dave Baker",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "68",
+        "division_id": "ocd-division/country:us/state:ks/sldl:68"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Dave",
+      "family_name": "Baker",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_baker_dave_1.jpg",
+      "email": "dave.baker@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Consultant/realtor" },
+      "created_at": "2018-10-18T14:44:35.092686+00:00",
+      "updated_at": "2021-12-16T18:50:02.881830+00:00",
+      "openstates_url": "https://openstates.org/person/dave-baker-n12n0N3zA0OFHgbI3fFry/"
+    },
+    {
+      "id": "ocd-person/d78c98e3-862b-44d4-9b49-47965ed8ea04",
+      "name": "David French",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "40",
+        "division_id": "ocd-division/country:us/state:ks/sldl:40"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "David",
+      "family_name": "French",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_french_david_1.jpg",
+      "email": "David.French@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2019-01-07T05:01:33.541146+00:00",
+      "updated_at": "2021-12-16T18:50:22.625148+00:00",
+      "openstates_url": "https://openstates.org/person/david-french-6YjbPVzFrRCqyBvegplJBM/"
+    },
+    {
+      "id": "ocd-person/2b1eb7a3-d80a-44bf-b3b1-ca2c6d037d93",
+      "name": "Dennis \"Boog\" Highberger",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "46",
+        "division_id": "ocd-division/country:us/state:ks/sldl:46"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Dennis",
+      "family_name": "Highberger",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_highberger_dennis_1.jpg",
+      "email": "dennis.boog.highberger@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:43.082449+00:00",
+      "updated_at": "2021-12-16T18:50:16.856413+00:00",
+      "openstates_url": "https://openstates.org/person/dennis-boog-highberger-1JMhtGXEGIXV9wB57eM5ml/"
+    },
+    {
+      "id": "ocd-person/050b34c6-14a3-4998-a67a-13c02217a666",
+      "name": "Doug Blex",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "12",
+        "division_id": "ocd-division/country:us/state:ks/sldl:12"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Doug",
+      "family_name": "Blex",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_blex_doug_1.jpg",
+      "email": "Doug.Blex@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Wildlife Biologist/Farmer" },
+      "created_at": "2018-10-18T14:44:32.446670+00:00",
+      "updated_at": "2021-12-16T18:50:06.796069+00:00",
+      "openstates_url": "https://openstates.org/person/doug-blex-9W58VX7GeIjlJgSQ2snQc/"
+    },
+    {
+      "id": "ocd-person/06e5710d-2c6a-4baa-829f-803417539415",
+      "name": "Emil Bergquist",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "91",
+        "division_id": "ocd-division/country:us/state:ks/sldl:91"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Emil",
+      "family_name": "Bergquist",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_bergquist_emil_1.jpg",
+      "email": "emil.bergquist@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Aircraft R and D" },
+      "created_at": "2018-10-18T14:44:39.425898+00:00",
+      "updated_at": "2021-12-16T18:50:24.576411+00:00",
+      "openstates_url": "https://openstates.org/person/emil-bergquist-D0oA3uoY5YXC0aCKbso0j/"
+    },
+    {
+      "id": "ocd-person/0f0f626f-b39a-4a94-9d33-0d8166473d26",
+      "name": "Eric Smith",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "76",
+        "division_id": "ocd-division/country:us/state:ks/sldl:76"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Eric",
+      "family_name": "Smith",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_smith_eric_1.jpg",
+      "email": "Eric.Smith@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Deputy Sheriff" },
+      "created_at": "2018-10-18T14:44:52.581483+00:00",
+      "updated_at": "2021-12-16T18:50:18.461897+00:00",
+      "openstates_url": "https://openstates.org/person/eric-smith-SPulkifZwsBzec09JQiXu/"
+    },
+    {
+      "id": "ocd-person/aa7fa5a0-596b-4f52-9af5-732b76f875e9",
+      "name": "Francis Awerkamp",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "61",
+        "division_id": "ocd-division/country:us/state:ks/sldl:61"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Francis",
+      "family_name": "Awerkamp",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_awerkamp_francis_1.jpg",
+      "email": "francis.awerkamp@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Business owner" },
+      "created_at": "2018-10-18T14:44:31.441194+00:00",
+      "updated_at": "2021-12-16T18:50:17.311975+00:00",
+      "openstates_url": "https://openstates.org/person/francis-awerkamp-5Bj1svrwYxobIOrEIldDsf/"
+    },
+    {
+      "id": "ocd-person/1afb7f61-3f23-48d7-a596-09ad5a556449",
+      "name": "Fred Patton",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "50",
+        "division_id": "ocd-division/country:us/state:ks/sldl:50"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Fred",
+      "family_name": "Patton",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_patton_fred_1.jpg",
+      "email": "fred.patton@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:50.889243+00:00",
+      "updated_at": "2021-12-16T18:50:16.238341+00:00",
+      "openstates_url": "https://openstates.org/person/fred-patton-oujaAWZcFugTKPJ5fgTnN/"
+    },
+    {
+      "id": "ocd-person/a42fe093-66c1-4f9a-b4c3-3c21c6a3ad3b",
+      "name": "Gail Finney",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "84",
+        "division_id": "ocd-division/country:us/state:ks/sldl:84"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Gail",
+      "family_name": "Finney",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_finney_gail_1.jpg",
+      "email": "gail.finney@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Small Business Owner" },
+      "created_at": "2018-10-18T14:44:31.109956+00:00",
+      "updated_at": "2021-12-16T18:50:12.166074+00:00",
+      "openstates_url": "https://openstates.org/person/gail-finney-4zocXOGH4zVkoU4XqEfERX/"
+    },
+    {
+      "id": "ocd-person/eaf4ca2d-ba48-4c99-88cc-2845e7237143",
+      "name": "Heather Meyer",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "29",
+        "division_id": "ocd-division/country:us/state:ks/sldl:29"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Heather",
+      "family_name": "Meyer",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_meyer_heather_1.jpg",
+      "email": "Heather.Meyer@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Medical Social Worker" },
+      "created_at": "2021-12-16T18:50:16.610687+00:00",
+      "updated_at": "2021-12-16T18:50:16.739511+00:00",
+      "openstates_url": "https://openstates.org/person/heather-meyer-79M4ZUCy2RVXKzXa1NGBNr/"
+    },
+    {
+      "id": "ocd-person/d951217c-00c1-4957-842b-02ecf79ee70d",
+      "name": "Henry Helgerson",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "83",
+        "division_id": "ocd-division/country:us/state:ks/sldl:83"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Henry",
+      "family_name": "Helgerson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_helgerson_henry_1.jpg",
+      "email": "henry.helgerson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Businessman" },
+      "created_at": "2018-10-18T14:44:45.920692+00:00",
+      "updated_at": "2021-12-16T18:50:13.481046+00:00",
+      "openstates_url": "https://openstates.org/person/henry-helgerson-6c4PX5iNgQqxeq8NFIiDHR/"
+    },
+    {
+      "id": "ocd-person/65fa3818-4803-4821-8533-51a7802694ec",
+      "name": "Jarrod Ousley",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "24",
+        "division_id": "ocd-division/country:us/state:ks/sldl:24"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jarrod",
+      "family_name": "Ousley",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ousley_jarrod_1.jpg",
+      "email": "jarrod.ousley@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Paint Contractor" },
+      "created_at": "2018-10-18T14:44:43.997943+00:00",
+      "updated_at": "2021-12-16T18:49:59.142818+00:00",
+      "openstates_url": "https://openstates.org/person/jarrod-ousley-36QZg9mzeesxtboO4ej1x6/"
+    },
+    {
+      "id": "ocd-person/11a23aec-0417-42f0-8301-1fb911c10596",
+      "name": "Jason Probst",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "102",
+        "division_id": "ocd-division/country:us/state:ks/sldl:102"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jason",
+      "family_name": "Probst",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_probst_jason_1.jpg",
+      "email": "Jason.Probst@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Freelance Writer" },
+      "created_at": "2018-10-18T14:44:29.988300+00:00",
+      "updated_at": "2021-12-16T18:50:11.661750+00:00",
+      "openstates_url": "https://openstates.org/person/jason-probst-XH0YPEokYm3QWHdOTPSSM/"
+    },
+    {
+      "id": "ocd-person/4a358caf-0fad-4d45-8fa7-3c5ef062a544",
+      "name": "Jerry Stogsdill",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "21",
+        "division_id": "ocd-division/country:us/state:ks/sldl:21"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jerry",
+      "family_name": "Stogsdill",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_stogsdill_jerry_1.jpg",
+      "email": "Jerry.Stogsdill@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Real Estate Investor" },
+      "created_at": "2018-10-18T14:44:51.878592+00:00",
+      "updated_at": "2021-12-16T18:50:23.921856+00:00",
+      "openstates_url": "https://openstates.org/person/jerry-stogsdill-2G1u4Xl10T29Jnp69usDI4/"
+    },
+    {
+      "id": "ocd-person/0c2ba27f-4208-475d-a625-a12c5f0581b5",
+      "name": "Jesse Borjon",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "52",
+        "division_id": "ocd-division/country:us/state:ks/sldl:52"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jesse",
+      "family_name": "Borjon",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_borjon_jesse_1.jpg",
+      "email": "jesse.borjon@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Business Owner" },
+      "created_at": "2021-01-12T00:09:17.518941+00:00",
+      "updated_at": "2021-12-16T18:50:22.788605+00:00",
+      "openstates_url": "https://openstates.org/person/jesse-borjon-MxqdnJgdSAwSZtvDne5qP/"
+    },
+    {
+      "id": "ocd-person/98365272-afaa-457b-bcf5-2bf2160a9310",
+      "name": "Jesse Burris",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "82",
+        "division_id": "ocd-division/country:us/state:ks/sldl:82"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jesse",
+      "family_name": "Burris",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_burris_jesse_1.jpg",
+      "email": "jesse.burris@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:36.926298+00:00",
+      "updated_at": "2021-12-16T18:50:12.489819+00:00",
+      "openstates_url": "https://openstates.org/person/jesse-burris-4dDer1AMi9Qd5ohO1Le2q0/"
+    },
+    {
+      "id": "ocd-person/058bdfbc-818f-437c-a37c-2d2717a136f0",
+      "name": "Jim Gartner",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "53",
+        "division_id": "ocd-division/country:us/state:ks/sldl:53"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jim",
+      "family_name": "Gartner",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_gartner_jim_1.jpg",
+      "email": "Jim.gartner@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:32.601568+00:00",
+      "updated_at": "2021-12-16T18:50:01.637258+00:00",
+      "openstates_url": "https://openstates.org/person/jim-gartner-ASsovtNeo1QVT6v06Yeyu/"
+    },
+    {
+      "id": "ocd-person/33b4026c-391b-4875-889f-c1539c0ee022",
+      "name": "Jim Kelly",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "11",
+        "division_id": "ocd-division/country:us/state:ks/sldl:11"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jim",
+      "family_name": "Kelly",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_kelly_jim_1.jpg",
+      "email": "jim.kelly@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Banker" },
+      "created_at": "2018-10-18T14:44:32.273103+00:00",
+      "updated_at": "2021-12-16T18:50:18.622029+00:00",
+      "openstates_url": "https://openstates.org/person/jim-kelly-1ZYs8hRzi6M8K2Zeepa426/"
+    },
+    {
+      "id": "ocd-person/ca29b8ff-9845-40ba-a196-458cef943041",
+      "name": "Jim Minnix",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "118",
+        "division_id": "ocd-division/country:us/state:ks/sldl:118"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jim",
+      "family_name": "Minnix",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_minnix_jim_1.jpg",
+      "email": "jim.minnix@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer, Stockman" },
+      "created_at": "2021-01-12T00:09:23.917634+00:00",
+      "updated_at": "2021-12-16T18:49:59.294513+00:00",
+      "openstates_url": "https://openstates.org/person/jim-minnix-69TW4iLMNaQm2JQtaU4mQr/"
+    },
+    {
+      "id": "ocd-person/f66696d0-6a3c-4b91-9f41-ed016e74d4ef",
+      "name": "Jo Ella Hoye",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "17",
+        "division_id": "ocd-division/country:us/state:ks/sldl:17"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Jo",
+      "family_name": "Hoye",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_hoye_jo_ella_1.jpg",
+      "email": "JoElla.Hoye@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:14.798840+00:00",
+      "updated_at": "2021-12-16T18:50:13.317877+00:00",
+      "openstates_url": "https://openstates.org/person/jo-ella-hoye-7UwzjqC59pi6XoqnS6YP67/"
+    },
+    {
+      "id": "ocd-person/66b0380e-b279-4416-853e-d855c7238f19",
+      "name": "Joe Newland",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "13",
+        "division_id": "ocd-division/country:us/state:ks/sldl:13"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Joe",
+      "family_name": "Newland",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_newland_joe_1.jpg",
+      "email": "Joe.Newland@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer-Rancher" },
+      "created_at": "2020-02-07T06:08:20.401871+00:00",
+      "updated_at": "2021-12-16T18:50:07.366425+00:00",
+      "openstates_url": "https://openstates.org/person/joe-newland-37lkTeKvJJTLHfYrbnueQz/"
+    },
+    {
+      "id": "ocd-person/29dad718-27f5-4cbb-9a2c-56fad33e4569",
+      "name": "Joe Seiwert",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "101",
+        "division_id": "ocd-division/country:us/state:ks/sldl:101"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Joe",
+      "family_name": "Seiwert",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_seiwert_joe_1.jpg",
+      "email": "joe.seiwert@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Agricultural Business Owner" },
+      "created_at": "2018-10-18T14:44:41.413411+00:00",
+      "updated_at": "2021-12-16T18:50:02.397240+00:00",
+      "openstates_url": "https://openstates.org/person/joe-seiwert-1Gyh87yTjzno0emhA6WQwL/"
+    },
+    {
+      "id": "ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4",
+      "name": "John Alcala",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "57",
+        "division_id": "ocd-division/country:us/state:ks/sldl:57"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Alcala",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_alcala_john_1.jpg",
+      "email": "john.alcala@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired " },
+      "created_at": "2018-10-18T14:44:42.743498+00:00",
+      "updated_at": "2021-12-16T18:50:24.745822+00:00",
+      "openstates_url": "https://openstates.org/person/john-alcala-7NjV2nEQlzvhZ2whQRY81c/"
+    },
+    {
+      "id": "ocd-person/474eaed8-6d1a-4644-87ba-00fa0269e687",
+      "name": "John Barker",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "70",
+        "division_id": "ocd-division/country:us/state:ks/sldl:70"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Barker",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_barker_john_1.jpg",
+      "email": "john.barker@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Judge" },
+      "created_at": "2018-10-18T14:44:33.766225+00:00",
+      "updated_at": "2021-12-16T18:49:59.719176+00:00",
+      "openstates_url": "https://openstates.org/person/john-barker-2AYPdH1nCjnZQLZSQ2BfzL/"
+    },
+    {
+      "id": "ocd-person/0ce6641b-4793-4194-8a6b-de220fcb20d5",
+      "name": "John Carmichael",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "92",
+        "division_id": "ocd-division/country:us/state:ks/sldl:92"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Carmichael",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_carmichael_john_1.jpg",
+      "email": "john.carmichael@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:47.429813+00:00",
+      "updated_at": "2021-12-16T18:50:22.325779+00:00",
+      "openstates_url": "https://openstates.org/person/john-carmichael-OLCCyUjpbbY1XLtkD8QM9/"
+    },
+    {
+      "id": "ocd-person/a5e62cf7-f799-4086-9350-516d61316518",
+      "name": "John Eplee",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "63",
+        "division_id": "ocd-division/country:us/state:ks/sldl:63"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Eplee",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_eplee_john_1.jpg",
+      "email": "John.Eplee@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Family Physician" },
+      "created_at": "2018-10-18T14:44:47.110828+00:00",
+      "updated_at": "2021-12-16T18:50:19.669264+00:00",
+      "openstates_url": "https://openstates.org/person/john-eplee-532vJrfnnQ6GpTX0xkbyHo/"
+    },
+    {
+      "id": "ocd-person/df7cab28-f697-448a-9d60-64163b67843d",
+      "name": "John Resman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "121",
+        "division_id": "ocd-division/country:us/state:ks/sldl:121"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Resman",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_resman_john_1.jpg",
+      "email": "john.resman@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Deputy Sheriff" },
+      "created_at": "2018-10-18T14:44:48.870457+00:00",
+      "updated_at": "2021-12-16T18:50:04.383696+00:00",
+      "openstates_url": "https://openstates.org/person/john-resman-6niGHWnnsaB5CCJ3U9RJBF/"
+    },
+    {
+      "id": "ocd-person/e702f7ac-9b09-49c4-a362-7ae9b0fc0089",
+      "name": "John Toplikar",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "15",
+        "division_id": "ocd-division/country:us/state:ks/sldl:15"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Toplikar",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_toplikar_john_1.jpg",
+      "email": "John.Toplikar@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Carpenter/Contractor" },
+      "created_at": "2019-01-07T05:01:18.460996+00:00",
+      "updated_at": "2021-12-16T18:50:17.172788+00:00",
+      "openstates_url": "https://openstates.org/person/john-toplikar-71uaBe4sSTsF3dIPSrxY3F/"
+    },
+    {
+      "id": "ocd-person/ff250ff6-c494-4c7b-85b9-432d63195cdb",
+      "name": "John Wheeler",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "123",
+        "division_id": "ocd-division/country:us/state:ks/sldl:123"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "John",
+      "family_name": "Wheeler",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_wheeler_john_1.jpg",
+      "email": "John.Wheeler@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Attorney" },
+      "created_at": "2018-10-18T14:44:51.553560+00:00",
+      "updated_at": "2021-12-16T18:49:59.440427+00:00",
+      "openstates_url": "https://openstates.org/person/john-wheeler-7lRyogNreI1kVspjU0BFrX/"
+    },
+    {
+      "id": "ocd-person/16ed9e2b-5a1b-48b1-99c9-651a55061060",
+      "name": "KC Ohaebosim",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "89",
+        "division_id": "ocd-division/country:us/state:ks/sldl:89"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "KC",
+      "family_name": "Ohaebosim",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ohaebosim_kc_1.jpg",
+      "email": "KC.Ohaebosim@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2018-10-18T14:44:46.385649+00:00",
+      "updated_at": "2021-12-16T18:50:21.837844+00:00",
+      "openstates_url": "https://openstates.org/person/kc-ohaebosim-hGQDRzpgH6XWLmzqIu396/"
+    },
+    {
+      "id": "ocd-person/fd4fbfb3-e907-4ae4-8e68-c3bd4c0e5b24",
+      "name": "Kathy Wolfe Moore",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "36",
+        "division_id": "ocd-division/country:us/state:ks/sldl:36"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Kathy",
+      "family_name": "Moore",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_wolfe_moore_kathy_1.jpg",
+      "email": "kathy.wolfemoore@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "External Liaison/KU Hospital" },
+      "created_at": "2018-10-18T14:44:42.910357+00:00",
+      "updated_at": "2021-12-16T18:50:24.415387+00:00",
+      "openstates_url": "https://openstates.org/person/kathy-wolfe-moore-7hzVFYxqfWEDD7WvCUgp4G/"
+    },
+    {
+      "id": "ocd-person/afee9b4c-c30b-4cba-b5a2-e20a186c75b1",
+      "name": "Ken Corbet",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "54",
+        "division_id": "ocd-division/country:us/state:ks/sldl:54"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ken",
+      "family_name": "Corbet",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_corbet_ken_1.jpg",
+      "email": "ken.corbet@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Small Business Owner" },
+      "created_at": "2018-10-18T14:44:49.632601+00:00",
+      "updated_at": "2021-12-16T18:50:05.796767+00:00",
+      "openstates_url": "https://openstates.org/person/ken-corbet-5LyhRjBqJwBH5jYp1migiX/"
+    },
+    {
+      "id": "ocd-person/782cdea1-59a1-4930-8126-ffd1264420f9",
+      "name": "Ken Rahjes",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "110",
+        "division_id": "ocd-division/country:us/state:ks/sldl:110"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ken",
+      "family_name": "Rahjes",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_rahjes_ken_1.jpg",
+      "email": "ken.rahjes@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Agricultural Communications" },
+      "created_at": "2018-10-18T14:44:47.582359+00:00",
+      "updated_at": "2021-12-16T18:50:19.528479+00:00",
+      "openstates_url": "https://openstates.org/person/ken-rahjes-3elaFgT06eFJFnEph0wNXF/"
+    },
+    {
+      "id": "ocd-person/9d1f2540-8f56-49c1-be08-2ee7b7faed8e",
+      "name": "Kenneth Collins",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "2",
+        "division_id": "ocd-division/country:us/state:ks/sldl:2"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Kenneth",
+      "family_name": "Collins",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_collins_kenneth_1.jpg",
+      "email": "Ken.Collins@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Convenience Store Owner" },
+      "created_at": "2019-01-07T05:01:34.176941+00:00",
+      "updated_at": "2021-12-16T18:50:08.136216+00:00",
+      "openstates_url": "https://openstates.org/person/kenneth-collins-4mU1n0M3yPmqcngW8CzH5y/"
+    },
+    {
+      "id": "ocd-person/c9de86b3-df93-4f2c-90b1-91e0dc8fde34",
+      "name": "Kent Thompson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "9",
+        "division_id": "ocd-division/country:us/state:ks/sldl:9"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Kent",
+      "family_name": "Thompson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_thompson_kent_1.jpg",
+      "email": "kent.thompson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Real Estate/Rancher" },
+      "created_at": "2018-10-18T14:44:43.391165+00:00",
+      "updated_at": "2021-12-16T18:50:03.961561+00:00",
+      "openstates_url": "https://openstates.org/person/kent-thompson-68v9S6m0Y8cf9U4h8t8RvA/"
+    },
+    {
+      "id": "ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7",
+      "name": "Kristey Williams",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "77",
+        "division_id": "ocd-division/country:us/state:ks/sldl:77"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Kristey",
+      "family_name": "Williams",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_williams_kristey_1.jpg",
+      "email": "kristey.williams@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Former mayor/Former teacher" },
+      "created_at": "2018-10-18T14:44:42.397595+00:00",
+      "updated_at": "2021-12-16T18:50:19.104478+00:00",
+      "openstates_url": "https://openstates.org/person/kristey-williams-3wMbOQRUpg2GHJ6pZpb74x/"
+    },
+    {
+      "id": "ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2",
+      "name": "Kyle Hoffman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "116",
+        "division_id": "ocd-division/country:us/state:ks/sldl:116"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Kyle",
+      "family_name": "Hoffman",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_hoffman_kyle_1.jpg",
+      "email": "kyle.hoffman@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer/Rancher" },
+      "created_at": "2018-10-18T14:44:30.809996+00:00",
+      "updated_at": "2021-12-16T18:50:03.824583+00:00",
+      "openstates_url": "https://openstates.org/person/kyle-hoffman-5zt7wcaCs5k6V7U1TotVfm/"
+    },
+    {
+      "id": "ocd-person/a1546322-9d4b-467c-a65a-57dddcc9c4cf",
+      "name": "Lance W. Neelly",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "42",
+        "division_id": "ocd-division/country:us/state:ks/sldl:42"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Lance",
+      "family_name": "Neelly",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_neelly_lance_1.jpg",
+      "email": "lance.neelly@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Security Supervisor" },
+      "created_at": "2021-01-12T00:09:14.713995+00:00",
+      "updated_at": "2021-12-16T18:50:15.637854+00:00",
+      "openstates_url": "https://openstates.org/person/lance-w-neelly-4uQKRSZmcvttz33iOmu6vf/"
+    },
+    {
+      "id": "ocd-person/0f185c85-3f64-4f47-9a64-048b1e009181",
+      "name": "Leo Delperdang",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "94",
+        "division_id": "ocd-division/country:us/state:ks/sldl:94"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Leo",
+      "family_name": "Delperdang",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_delperdang_leo_1.jpg",
+      "email": "Leo.Delperdang@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:45.766834+00:00",
+      "updated_at": "2021-12-16T18:50:19.386108+00:00",
+      "openstates_url": "https://openstates.org/person/leo-delperdang-SU17ZbkBvGZR4CKZ92IGv/"
+    },
+    {
+      "id": "ocd-person/87357e58-db15-41a3-b80e-5309f3c6d6bf",
+      "name": "Les Mason",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "73",
+        "division_id": "ocd-division/country:us/state:ks/sldl:73"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Les",
+      "family_name": "Mason",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_mason_les_1.jpg",
+      "email": "les.mason@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:36.307600+00:00",
+      "updated_at": "2021-12-16T18:50:22.472013+00:00",
+      "openstates_url": "https://openstates.org/person/les-mason-478PSxo2RatI6ZZycog24l/"
+    },
+    {
+      "id": "ocd-person/dd5d95d7-16a3-4094-8c3f-d1319fb5b61a",
+      "name": "Linda Featherston",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "16",
+        "division_id": "ocd-division/country:us/state:ks/sldl:16"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Linda",
+      "family_name": "Featherston",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_featherston_linda_1.jpg",
+      "email": "linda.featherston@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Piano Teacher" },
+      "created_at": "2021-01-12T00:09:15.322459+00:00",
+      "updated_at": "2021-12-16T18:50:12.001684+00:00",
+      "openstates_url": "https://openstates.org/person/linda-featherston-6ji4W7NJbz0xyLlLRupeDC/"
+    },
+    {
+      "id": "ocd-person/4a16a87e-2567-4361-9874-aaee47278840",
+      "name": "Lindsay Vaughn",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "22",
+        "division_id": "ocd-division/country:us/state:ks/sldl:22"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Lindsay",
+      "family_name": "Vaughn",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_vaughn_lindsay_1.jpg",
+      "email": "lindsay.vaughn@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Volunteer Manager" },
+      "created_at": "2021-01-12T00:09:18.891691+00:00",
+      "updated_at": "2021-12-16T18:50:03.685650+00:00",
+      "openstates_url": "https://openstates.org/person/lindsay-vaughn-2FnmnGxbezoU1cHX6fm2wS/"
+    },
+    {
+      "id": "ocd-person/019607dd-e8e2-4c2e-b4cc-e95ccddb54a2",
+      "name": "Lisa Moser",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "106",
+        "division_id": "ocd-division/country:us/state:ks/sldl:106"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Lisa",
+      "family_name": "Moser",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_moser_lisa_1.jpg",
+      "email": "lisa.moser@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Rancher" },
+      "created_at": "2021-01-12T00:09:24.295547+00:00",
+      "updated_at": "2021-12-16T18:50:21.080223+00:00",
+      "openstates_url": "https://openstates.org/person/lisa-moser-2zYVQLJh9pg23gxsrxwcE/"
+    },
+    {
+      "id": "ocd-person/b528025c-1654-4278-9b2e-392abbc0def8",
+      "name": "Lonnie Clark",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "65",
+        "division_id": "ocd-division/country:us/state:ks/sldl:65"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Lonnie",
+      "family_name": "Clark",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_clark_lonnie_1.jpg",
+      "email": "lonnie.clark@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:41.766884+00:00",
+      "updated_at": "2021-12-16T18:50:07.815646+00:00",
+      "openstates_url": "https://openstates.org/person/lonnie-clark-5VptW6MlQ1y4hDd2Qx2IQ4/"
+    },
+    {
+      "id": "ocd-person/6a7f0eed-6a34-4bd2-842c-2978ca9c6008",
+      "name": "Louis Ruiz",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:ks/sldl:31"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Louis",
+      "family_name": "Ruiz",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ruiz_louis_1.jpg",
+      "email": "louis.ruiz@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired; Lucent" },
+      "created_at": "2018-10-18T14:44:48.375005+00:00",
+      "updated_at": "2021-12-16T18:50:07.222911+00:00",
+      "openstates_url": "https://openstates.org/person/louis-ruiz-3ExFeUok6ROpFw1PsTPQRE/"
+    },
+    {
+      "id": "ocd-person/46d9caea-ab2c-4a6e-a08c-ebc927403dc8",
+      "name": "Mari-Lynn Poskin",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "20",
+        "division_id": "ocd-division/country:us/state:ks/sldl:20"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Mari-Lynn",
+      "family_name": "Poskin",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_poskin_mari_lynn_1.jpg",
+      "email": "Mari-Lynn.Poskin@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Education Consultant" },
+      "created_at": "2021-01-12T00:09:16.117030+00:00",
+      "updated_at": "2021-12-16T18:50:23.433861+00:00",
+      "openstates_url": "https://openstates.org/person/mari-lynn-poskin-29gzeUbfQaZGSKStiNxUIS/"
+    },
+    {
+      "id": "ocd-person/f3c4c7c6-31c7-47e3-8070-fc71b8cba97a",
+      "name": "Mark Samsel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "5",
+        "division_id": "ocd-division/country:us/state:ks/sldl:5"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Mark",
+      "family_name": "Samsel",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_samsel_mark_1.jpg",
+      "email": "Mark.Samsel@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney/KSHSAA Referee" },
+      "created_at": "2019-01-07T05:01:33.901536+00:00",
+      "updated_at": "2021-12-16T18:50:11.489923+00:00",
+      "openstates_url": "https://openstates.org/person/mark-samsel-7Pz3zJN1CpX8uJqOUHC6Uk/"
+    },
+    {
+      "id": "ocd-person/1748d756-be07-4eaf-be90-82992092e990",
+      "name": "Mark Schreiber",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "60",
+        "division_id": "ocd-division/country:us/state:ks/sldl:60"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Mark",
+      "family_name": "Schreiber",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_schreiber_mark_1.jpg",
+      "email": "Mark.Schreiber@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:41.265960+00:00",
+      "updated_at": "2021-12-16T18:50:00.018975+00:00",
+      "openstates_url": "https://openstates.org/person/mark-schreiber-hw6wdDbROblGP16NdYOi8/"
+    },
+    {
+      "id": "ocd-person/ef29753b-3048-4126-bc08-353befde18ab",
+      "name": "Marty Long",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "124",
+        "division_id": "ocd-division/country:us/state:ks/sldl:124"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Marty",
+      "family_name": "Long",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_long_martin_1.jpg",
+      "email": "Martin.Long@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer/Small Business" },
+      "created_at": "2019-01-07T05:01:31.461713+00:00",
+      "updated_at": "2021-12-16T18:50:06.372929+00:00",
+      "openstates_url": "https://openstates.org/person/marty-long-7HI6yMqLsljgvuLuQX6NLP/"
+    },
+    {
+      "id": "ocd-person/884c0c77-c2f5-4b52-8f11-77c12bba68a3",
+      "name": "Megan Lynn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "49",
+        "division_id": "ocd-division/country:us/state:ks/sldl:49"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Megan",
+      "family_name": "Lynn",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_lynn_megan_1.jpg",
+      "email": "Megan.Lynn@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Children's Ministry Assistant" },
+      "created_at": "2019-01-07T05:01:23.690708+00:00",
+      "updated_at": "2021-12-16T18:50:02.725752+00:00",
+      "openstates_url": "https://openstates.org/person/megan-lynn-49Bi4PL6TD962oA3WgTu5L/"
+    },
+    {
+      "id": "ocd-person/75d4404f-3551-462a-bfce-840afa89f75f",
+      "name": "Michael Dodson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "67",
+        "division_id": "ocd-division/country:us/state:ks/sldl:67"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Dodson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_dodson_michael_1.jpg",
+      "email": "mike.dodson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2021-01-12T00:09:17.900263+00:00",
+      "updated_at": "2021-12-16T18:50:01.497962+00:00",
+      "openstates_url": "https://openstates.org/person/michael-dodson-3aL6HVzEx4VBgB3CnXUKtz/"
+    },
+    {
+      "id": "ocd-person/b08a0272-189a-4034-9f35-494ffd6cf142",
+      "name": "Michael Houser",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "1",
+        "division_id": "ocd-division/country:us/state:ks/sldl:1"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Houser",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_houser_michael_1.jpg",
+      "email": "michael.houser@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Construction Estimator" },
+      "created_at": "2018-10-18T14:44:40.487401+00:00",
+      "updated_at": "2021-12-16T18:50:19.806498+00:00",
+      "openstates_url": "https://openstates.org/person/michael-houser-5N7ie23NqeOYGdEf2ry3qk/"
+    },
+    {
+      "id": "ocd-person/8b446a75-944d-4292-8af0-f5114be39021",
+      "name": "Michael Murphy",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "114",
+        "division_id": "ocd-division/country:us/state:ks/sldl:114"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Michael",
+      "family_name": "Murphy",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_murphy_michael_1.jpg",
+      "email": "michael.murphy@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "B and B Owner/Operator" },
+      "created_at": "2021-01-12T00:09:15.891197+00:00",
+      "updated_at": "2021-12-16T18:50:17.930261+00:00",
+      "openstates_url": "https://openstates.org/person/michael-murphy-4EnCNCh94F6OTrIJ94GFMn/"
+    },
+    {
+      "id": "ocd-person/05204bb3-1917-4f12-848e-b83f68f5fddf",
+      "name": "Mike Amyx",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "45",
+        "division_id": "ocd-division/country:us/state:ks/sldl:45"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Mike",
+      "family_name": "Amyx",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_amyx_mike_1.jpg",
+      "email": "Mike.Amyx@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Barber" },
+      "created_at": "2019-01-07T05:01:28.356215+00:00",
+      "updated_at": "2021-12-16T18:50:00.448966+00:00",
+      "openstates_url": "https://openstates.org/person/mike-amyx-9figndMsXz6Us3NZObP5D/"
+    },
+    {
+      "id": "ocd-person/df19b642-2877-4b6d-ab29-bbdd26deaa26",
+      "name": "Nick Hoheisel",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "97",
+        "division_id": "ocd-division/country:us/state:ks/sldl:97"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Nick",
+      "family_name": "Hoheisel",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_hoheisel_nick_1.jpg",
+      "email": "Nick.Hoheisel@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2019-01-07T05:01:26.413470+00:00",
+      "updated_at": "2021-12-16T18:50:04.522554+00:00",
+      "openstates_url": "https://openstates.org/person/nick-hoheisel-6mz2R6pI460cNVqAVLa9LS/"
+    },
+    {
+      "id": "ocd-person/0287e900-55b6-4497-8142-73fcf4774572",
+      "name": "Owen Donohoe",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "39",
+        "division_id": "ocd-division/country:us/state:ks/sldl:39"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Owen",
+      "family_name": "Donohoe",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_donohoe_owen_1.jpg",
+      "email": "Owen.Donohoe@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Medical Sales" },
+      "created_at": "2019-01-07T05:01:24.548174+00:00",
+      "updated_at": "2021-12-16T18:50:20.927123+00:00",
+      "openstates_url": "https://openstates.org/person/owen-donohoe-4m5w8z4avVkckjD08veHy/"
+    },
+    {
+      "id": "ocd-person/57e6524f-40c5-4708-89ad-c80570bf31b1",
+      "name": "Pam Curtis",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "32",
+        "division_id": "ocd-division/country:us/state:ks/sldl:32"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Pam",
+      "family_name": "Curtis",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_curtis_pam_1.jpg",
+      "email": "pam.curtis@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Community Relations" },
+      "created_at": "2018-10-18T14:44:54.501939+00:00",
+      "updated_at": "2021-12-16T18:50:05.087206+00:00",
+      "openstates_url": "https://openstates.org/person/pam-curtis-2fraYiela1FFKdZuUL2mvZ/"
+    },
+    {
+      "id": "ocd-person/fcd23935-0e7e-4896-9381-45ca745e8903",
+      "name": "Pat Proctor",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "41",
+        "division_id": "ocd-division/country:us/state:ks/sldl:41"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Pat",
+      "family_name": "Proctor",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_proctor_pat_1.jpg",
+      "email": "pat.proctor@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Professor" },
+      "created_at": "2021-01-12T00:09:23.416240+00:00",
+      "updated_at": "2021-12-16T18:50:13.649945+00:00",
+      "openstates_url": "https://openstates.org/person/pat-proctor-7h48bWGcPaqxc9tkzzpKGx/"
+    },
+    {
+      "id": "ocd-person/d7d7bc12-659e-454e-8c26-0f02ba0d5f84",
+      "name": "Patrick Penn",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "85",
+        "division_id": "ocd-division/country:us/state:ks/sldl:85"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Patrick",
+      "family_name": "Penn",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_penn_patrick_1.jpg",
+      "email": "patrick.penn@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:15.670691+00:00",
+      "updated_at": "2021-12-16T18:50:02.561719+00:00",
+      "openstates_url": "https://openstates.org/person/patrick-penn-6ZHwMPnvEdgXpPk9UYyfsC/"
+    },
+    {
+      "id": "ocd-person/8dc23ca9-1ad8-466d-83d4-453f1bf324b0",
+      "name": "Paul Waggoner",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "104",
+        "division_id": "ocd-division/country:us/state:ks/sldl:104"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Paul",
+      "family_name": "Waggoner",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_waggoner_paul_1.jpg",
+      "email": "Paul.Waggoner@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Manager, Waggoners, Inc." },
+      "created_at": "2019-01-07T05:01:18.600053+00:00",
+      "updated_at": "2021-12-16T18:50:05.508899+00:00",
+      "openstates_url": "https://openstates.org/person/paul-waggoner-4JUgRlJMgBS9oOqFVfTd2G/"
+    },
+    {
+      "id": "ocd-person/1b237997-0292-4316-9f29-b53a9ee0f35e",
+      "name": "Ponka-We Victors",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "103",
+        "division_id": "ocd-division/country:us/state:ks/sldl:103"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ponka-We",
+      "family_name": "Victors",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_victors_ponka_we_1.jpg",
+      "email": "ponka-we.victors@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Guest Teacher" },
+      "created_at": "2018-10-18T14:44:50.576617+00:00",
+      "updated_at": "2021-12-16T18:50:09.959578+00:00",
+      "openstates_url": "https://openstates.org/person/ponka-we-victors-pD0IxAVbr9b5xtNHbquqM/"
+    },
+    {
+      "id": "ocd-person/0c722aa0-4865-4d7b-8ed7-c6537d0a1b71",
+      "name": "Randy Garber",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "62",
+        "division_id": "ocd-division/country:us/state:ks/sldl:62"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Randy",
+      "family_name": "Garber",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_garber_randy_1.jpg",
+      "email": "randy.garber@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Navy/Construction Worker" },
+      "created_at": "2018-10-18T14:44:42.126098+00:00",
+      "updated_at": "2021-12-16T18:50:24.250071+00:00",
+      "openstates_url": "https://openstates.org/person/randy-garber-NU55pxhlJhUFi8Tls8g9R/"
+    },
+    {
+      "id": "ocd-person/3110757b-216d-42f1-9340-63f4d301501f",
+      "name": "Richard Proehl",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "7",
+        "division_id": "ocd-division/country:us/state:ks/sldl:7"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Richard",
+      "family_name": "Proehl",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_proehl_richard_1.jpg",
+      "email": "richard.proehl@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Banker" },
+      "created_at": "2018-10-18T14:44:31.940438+00:00",
+      "updated_at": "2021-12-16T18:50:18.785608+00:00",
+      "openstates_url": "https://openstates.org/person/richard-proehl-1Ua92JweZuH4LraJSS5khb/"
+    },
+    {
+      "id": "ocd-person/4a23d71c-1401-44ed-a8b8-ffc5e0604e42",
+      "name": "Ron Highland",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "51",
+        "division_id": "ocd-division/country:us/state:ks/sldl:51"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ron",
+      "family_name": "Highland",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_highland_ron_1.jpg",
+      "email": "ron.highland@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Veterinarian" },
+      "created_at": "2018-10-18T14:44:49.478512+00:00",
+      "updated_at": "2021-12-16T18:50:23.758091+00:00",
+      "openstates_url": "https://openstates.org/person/ron-highland-2FtoIQuwUthiNxY99w78J0/"
+    },
+    {
+      "id": "ocd-person/d0726d0a-4a9e-44e1-992e-8e1addd330ce",
+      "name": "Ron Ryckman",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "78",
+        "division_id": "ocd-division/country:us/state:ks/sldl:78"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ron",
+      "family_name": "Ryckman",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ryckman_jr_ron_1.jpg",
+      "email": "ron.ryckman@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Contractor" },
+      "created_at": "2018-10-18T14:44:36.006246+00:00",
+      "updated_at": "2021-12-16T18:50:09.371364+00:00",
+      "openstates_url": "https://openstates.org/person/ron-ryckman-6LKhCY5fDjr2fpWqPYprpu/"
+    },
+    {
+      "id": "ocd-person/6daed22d-40c3-492c-948a-d3de94499e53",
+      "name": "Ronald Ellis",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "47",
+        "division_id": "ocd-division/country:us/state:ks/sldl:47"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Ronald",
+      "family_name": "Ellis",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ellis_ronald_1.jpg",
+      "email": "Ronald.Ellis@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Rancher" },
+      "created_at": "2018-10-18T14:44:54.997982+00:00",
+      "updated_at": "2021-12-16T18:50:03.241827+00:00",
+      "openstates_url": "https://openstates.org/person/ronald-ellis-3Ky3XLlHZNOaYej0Y2SRIB/"
+    },
+    {
+      "id": "ocd-person/c4495c7d-3d3a-4651-9c8b-e3c975c0b84c",
+      "name": "Rui Xu",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "25",
+        "division_id": "ocd-division/country:us/state:ks/sldl:25"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Rui",
+      "family_name": "Xu",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_xu_rui_1.jpg",
+      "email": "Rui.Xu@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Marketing Analyst" },
+      "created_at": "2019-01-07T05:01:19.732286+00:00",
+      "updated_at": "2021-12-16T18:50:13.793916+00:00",
+      "openstates_url": "https://openstates.org/person/rui-xu-5yO1NgWEdmA3d8YHEwPpsK/"
+    },
+    {
+      "id": "ocd-person/31351496-5fc5-44fc-911f-0e7547a50a72",
+      "name": "Samantha M. Poetter",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "6",
+        "division_id": "ocd-division/country:us/state:ks/sldl:6"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Samantha",
+      "family_name": "Poetter",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_poetter_samantha_1.jpg",
+      "email": "samantha.poetter@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:15.717068+00:00",
+      "updated_at": "2021-12-16T18:50:05.227990+00:00",
+      "openstates_url": "https://openstates.org/person/samantha-m-poetter-1UqsfnblUyStTJTEbphh2I/"
+    },
+    {
+      "id": "ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c",
+      "name": "Sean Tarwater",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "27",
+        "division_id": "ocd-division/country:us/state:ks/sldl:27"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Sean",
+      "family_name": "Tarwater",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_tarwater_sean_1.jpg",
+      "email": "Sean.Tarwater@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Business Owner" },
+      "created_at": "2018-10-18T14:44:56.389238+00:00",
+      "updated_at": "2021-12-16T18:50:12.796641+00:00",
+      "openstates_url": "https://openstates.org/person/sean-tarwater-53vfEI0YnX5BbwuZSBw3zw/"
+    },
+    {
+      "id": "ocd-person/cc0df3af-9c8b-4834-a629-c16e4c8debcb",
+      "name": "Shannon Francis",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "125",
+        "division_id": "ocd-division/country:us/state:ks/sldl:125"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Shannon",
+      "family_name": "Francis",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_francis_shannon_1.jpg",
+      "email": "shannon.francis@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Property Management" },
+      "created_at": "2018-10-18T14:44:53.301598+00:00",
+      "updated_at": "2021-12-16T18:50:21.501980+00:00",
+      "openstates_url": "https://openstates.org/person/shannon-francis-6D2oGUCL91afJ4uPml5nnX/"
+    },
+    {
+      "id": "ocd-person/e38aa75d-32c5-4e57-8da8-6d9ae4e19ade",
+      "name": "Stephanie Byers",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "86",
+        "division_id": "ocd-division/country:us/state:ks/sldl:86"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Stephanie",
+      "family_name": "Byers",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_byers_stephanie_1.jpg",
+      "email": "stephanie.byers@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Teacher (Retired)" },
+      "created_at": "2021-01-12T00:09:22.691858+00:00",
+      "updated_at": "2021-12-16T18:50:09.507350+00:00",
+      "openstates_url": "https://openstates.org/person/stephanie-byers-6vMcdTpNsPbr6NNW2wjcmk/"
+    },
+    {
+      "id": "ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70",
+      "name": "Stephanie Clayton",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "19",
+        "division_id": "ocd-division/country:us/state:ks/sldl:19"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Stephanie",
+      "family_name": "Clayton",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_clayton_stephanie_1.jpg",
+      "email": "stephanie.clayton@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Social Media Consultant" },
+      "created_at": "2018-10-18T14:44:38.915344+00:00",
+      "updated_at": "2021-12-16T18:50:13.197605+00:00",
+      "openstates_url": "https://openstates.org/person/stephanie-clayton-3IGtdhZW7tknaRXZwF0U8O/"
+    },
+    {
+      "id": "ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1",
+      "name": "Stephen Owens",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "74",
+        "division_id": "ocd-division/country:us/state:ks/sldl:74"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Stephen",
+      "family_name": "Owens",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_owens_stephen_1.jpg",
+      "email": "Stephen.Owens@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Self-employed" },
+      "created_at": "2019-01-07T05:01:26.543217+00:00",
+      "updated_at": "2021-12-16T18:50:01.960955+00:00",
+      "openstates_url": "https://openstates.org/person/stephen-owens-1z6GoZHmqNahKO0mebRS3V/"
+    },
+    {
+      "id": "ocd-person/528160f1-93ab-49f0-89d5-c00cf6e87b81",
+      "name": "Steve Huebert",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "90",
+        "division_id": "ocd-division/country:us/state:ks/sldl:90"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Steve",
+      "family_name": "Huebert",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_huebert_steve_1.jpg",
+      "email": "steve.huebert@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Self-Employed" },
+      "created_at": "2018-10-18T14:44:38.540783+00:00",
+      "updated_at": "2021-12-16T18:50:15.309772+00:00",
+      "openstates_url": "https://openstates.org/person/steve-huebert-2VgUoc0fDXWIfNW2vyZqZl/"
+    },
+    {
+      "id": "ocd-person/a7cbb327-24e1-4f6b-b0b7-47affa64a84a",
+      "name": "Steven Johnson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "108",
+        "division_id": "ocd-division/country:us/state:ks/sldl:108"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Steven",
+      "family_name": "Johnson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_johnson_steven_1.jpg",
+      "email": "steven.johnson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer" },
+      "created_at": "2018-10-18T14:44:40.953860+00:00",
+      "updated_at": "2021-12-16T18:50:10.738320+00:00",
+      "openstates_url": "https://openstates.org/person/steven-johnson-56coCQ6Ptcpj2cc8Dk5Mr4/"
+    },
+    {
+      "id": "ocd-person/e5b4d1e8-40a3-4f75-af3a-36fc7e84a228",
+      "name": "Steven K. Howe",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "71",
+        "division_id": "ocd-division/country:us/state:ks/sldl:71"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Steven",
+      "family_name": "Howe",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_howe_steven_1.jpg",
+      "email": "steven.howe@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:21.002687+00:00",
+      "updated_at": "2021-12-16T18:50:13.929301+00:00",
+      "openstates_url": "https://openstates.org/person/steven-k-howe-6zRsQN1HW22irarYLB41LU/"
+    },
+    {
+      "id": "ocd-person/43d0b5fe-e853-4200-a66a-d4590eec1ad1",
+      "name": "Susan Concannon",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "107",
+        "division_id": "ocd-division/country:us/state:ks/sldl:107"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Susan",
+      "family_name": "Concannon",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_concannon_susan_1.jpg",
+      "email": "susan.concannon@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Philanthropy" },
+      "created_at": "2018-10-18T14:44:38.380991+00:00",
+      "updated_at": "2021-12-16T18:50:05.367437+00:00",
+      "openstates_url": "https://openstates.org/person/susan-concannon-23xrkzzK6SfGfRuUBZ2te5/"
+    },
+    {
+      "id": "ocd-person/075f264c-efcf-408f-baf8-b3f9306bae36",
+      "name": "Susan Estes",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "87",
+        "division_id": "ocd-division/country:us/state:ks/sldl:87"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Susan",
+      "family_name": "Estes",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_estes_susan_2.jpg",
+      "email": "susan.estes@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "" },
+      "created_at": "2021-01-12T00:09:17.368985+00:00",
+      "updated_at": "2021-12-16T18:50:19.942458+00:00",
+      "openstates_url": "https://openstates.org/person/susan-estes-DuQe5IDdPlgEPh9Mnwf1K/"
+    },
+    {
+      "id": "ocd-person/4ab616b7-79d2-4d89-ae25-cd4ea4e8c4c8",
+      "name": "Susan Humphries",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "99",
+        "division_id": "ocd-division/country:us/state:ks/sldl:99"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Susan",
+      "family_name": "Humphries",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_humphries_susan_1.jpg",
+      "email": "Susan.Humphries@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Attorney" },
+      "created_at": "2018-10-18T14:44:31.777514+00:00",
+      "updated_at": "2021-12-16T18:50:14.372726+00:00",
+      "openstates_url": "https://openstates.org/person/susan-humphries-2Gye702BBQZowGLh04JEuO/"
+    },
+    {
+      "id": "ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c",
+      "name": "Susan Ruiz",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "23",
+        "division_id": "ocd-division/country:us/state:ks/sldl:23"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Susan",
+      "family_name": "Ruiz",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_ruiz_susan_1.jpg",
+      "email": "Susan.Ruiz@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Social Work" },
+      "created_at": "2019-01-07T05:01:23.823400+00:00",
+      "updated_at": "2021-12-16T18:50:08.909978+00:00",
+      "openstates_url": "https://openstates.org/person/susan-ruiz-5r5mU3z7fTMiGY1jkJ3xPw/"
+    },
+    {
+      "id": "ocd-person/5a61c286-9f15-44e3-a75d-48d2ecd1726a",
+      "name": "Suzi Carlson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "64",
+        "division_id": "ocd-division/country:us/state:ks/sldl:64"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Suzi",
+      "family_name": "Carlson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_carlson_suzi_1.jpg",
+      "email": "Suzi.Carlson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired Municipal Judge" },
+      "created_at": "2019-01-07T05:01:29.993451+00:00",
+      "updated_at": "2021-12-16T18:50:06.512405+00:00",
+      "openstates_url": "https://openstates.org/person/suzi-carlson-2kXz7Sm9jyu9bwuwxfXqva/"
+    },
+    {
+      "id": "ocd-person/61dc8b8f-5016-4114-b08a-b2dd0cb16993",
+      "name": "Sydney Carlin",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "66",
+        "division_id": "ocd-division/country:us/state:ks/sldl:66"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Sydney",
+      "family_name": "Carlin",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_carlin_sydney_1.jpg",
+      "email": "sydney.carlin@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Investments, Property manager" },
+      "created_at": "2018-10-18T14:44:56.220755+00:00",
+      "updated_at": "2021-12-16T18:50:07.668559+00:00",
+      "openstates_url": "https://openstates.org/person/sydney-carlin-2yf2nV35bOvKpfF5yLy7W7/"
+    },
+    {
+      "id": "ocd-person/7252d7aa-a266-408d-aa89-1d1c274d195b",
+      "name": "Tatum Lee",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "117",
+        "division_id": "ocd-division/country:us/state:ks/sldl:117"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Tatum",
+      "family_name": "Lee-Hahn",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_leehahn_tatum_1.jpg",
+      "email": "Tatum.Lee@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Development Director, R-CALF USA" },
+      "created_at": "2021-01-12T00:09:17.070652+00:00",
+      "updated_at": "2021-12-16T18:50:11.841941+00:00",
+      "openstates_url": "https://openstates.org/person/tatum-lee-3Tiz1xUxvs3mjSyCIUH4HL/"
+    },
+    {
+      "id": "ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8",
+      "name": "Timothy Johnson",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "38",
+        "division_id": "ocd-division/country:us/state:ks/sldl:38"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Timothy",
+      "family_name": "Johnson",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_johnson_timothy_1.jpg",
+      "email": "timothy.johnson@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Teacher (Retired)" },
+      "created_at": "2021-01-12T00:09:17.678523+00:00",
+      "updated_at": "2021-12-16T18:50:17.017695+00:00",
+      "openstates_url": "https://openstates.org/person/timothy-johnson-7DCu4JbzZ43Ots1q1VjrGC/"
+    },
+    {
+      "id": "ocd-person/fe8a2674-dbc3-40ba-bdb4-8b5b448febd9",
+      "name": "Tom Burroughs",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "33",
+        "division_id": "ocd-division/country:us/state:ks/sldl:33"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Tom",
+      "family_name": "Burroughs",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_burroughs_tom_1.jpg",
+      "email": "tom.burroughs@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Ret. Colgate-Palmolive" },
+      "created_at": "2018-10-18T14:44:37.256793+00:00",
+      "updated_at": "2021-12-16T18:50:04.098312+00:00",
+      "openstates_url": "https://openstates.org/person/tom-burroughs-7kJBWWrKsQ5U8LsxESAa3V/"
+    },
+    {
+      "id": "ocd-person/9cef565d-6e73-4090-80bc-a752310efc4c",
+      "name": "Tom Kessler",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "96",
+        "division_id": "ocd-division/country:us/state:ks/sldl:96"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Tom",
+      "family_name": "Kessler",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_kessler_tom_1.jpg",
+      "email": "tom.kessler@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Toms Wine and Spirits LLC " },
+      "created_at": "2021-01-12T00:09:22.422226+00:00",
+      "updated_at": "2021-12-16T18:50:06.933980+00:00",
+      "openstates_url": "https://openstates.org/person/tom-kessler-4m8BBnxVvslcQ7sSUbWjng/"
+    },
+    {
+      "id": "ocd-person/e6ca4faa-17ec-4256-9265-fbba8afcbb0e",
+      "name": "Tom Sawyer",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "95",
+        "division_id": "ocd-division/country:us/state:ks/sldl:95"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Tom",
+      "family_name": "Sawyer",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_sawyer_tom_1.jpg",
+      "email": "tom.sawyer@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Accountant" },
+      "created_at": "2018-10-18T14:44:48.054701+00:00",
+      "updated_at": "2021-12-16T18:50:17.757154+00:00",
+      "openstates_url": "https://openstates.org/person/tom-sawyer-71UgsoQHYNKXWLfWLmv4KE/"
+    },
+    {
+      "id": "ocd-person/80f9f23c-fa36-43ef-b97e-a9563bd4237b",
+      "name": "Tory Marie Arnberger",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "112",
+        "division_id": "ocd-division/country:us/state:ks/sldl:112"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Tory",
+      "family_name": "Arnberger",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_arnberger_tory_1.jpg",
+      "email": "ToryMarie.Arnberger@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Human Resources Director, Pryor Automatic" },
+      "created_at": "2018-10-18T14:44:37.566335+00:00",
+      "updated_at": "2021-12-16T18:50:14.534213+00:00",
+      "openstates_url": "https://openstates.org/person/tory-marie-arnberger-3vNF6QGYqAYrOnHi0jXfVD/"
+    },
+    {
+      "id": "ocd-person/803e1253-a98c-4c6f-95fb-36b3034983eb",
+      "name": "Trevor Jacobs",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "4",
+        "division_id": "ocd-division/country:us/state:ks/sldl:4"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Trevor",
+      "family_name": "Jacobs",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_jacobs_trevor_1.jpg",
+      "email": "Trevor.Jacobs@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Welder" },
+      "created_at": "2018-10-18T14:44:44.307185+00:00",
+      "updated_at": "2021-12-16T18:50:03.412335+00:00",
+      "openstates_url": "https://openstates.org/person/trevor-jacobs-3tzNqaoWorqye7wYSDRpwR/"
+    },
+    {
+      "id": "ocd-person/655437d6-f80f-4e14-b061-c28a8977cf0f",
+      "name": "Troy Waymaster",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "109",
+        "division_id": "ocd-division/country:us/state:ks/sldl:109"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Troy",
+      "family_name": "Waymaster",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_waymaster_troy_1.jpg",
+      "email": "troy.waymaster@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Farmer/Office Manager" },
+      "created_at": "2018-10-18T14:44:55.182098+00:00",
+      "updated_at": "2021-12-16T18:50:02.112231+00:00",
+      "openstates_url": "https://openstates.org/person/troy-waymaster-35CiC3yZYnBEws0gYtcdax/"
+    },
+    {
+      "id": "ocd-person/8d608ede-12f3-4ec4-8206-2c3dde0db6b7",
+      "name": "Valdenia Winn",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "34",
+        "division_id": "ocd-division/country:us/state:ks/sldl:34"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Valdenia",
+      "family_name": "Winn",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_winn_valdenia_1.jpg",
+      "email": "valdenia.winn@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "College Professor" },
+      "created_at": "2018-10-18T14:44:43.836937+00:00",
+      "updated_at": "2021-12-16T18:50:01.793832+00:00",
+      "openstates_url": "https://openstates.org/person/valdenia-winn-4Im2o0vEkn7loBaWm6dSCt/"
+    },
+    {
+      "id": "ocd-person/68dbfc96-2c1d-49e9-af6e-3d4f33b4bce8",
+      "name": "Vic Miller",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "58",
+        "division_id": "ocd-division/country:us/state:ks/sldl:58"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Vic",
+      "family_name": "Miller",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_miller_vic_1.jpg",
+      "email": "Vic.Miller@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:54.339950+00:00",
+      "updated_at": "2021-12-16T18:50:12.943182+00:00",
+      "openstates_url": "https://openstates.org/person/vic-miller-3BrjdvgNYkPGuyV8XPrI5Y/"
+    },
+    {
+      "id": "ocd-person/acb8f24a-aecd-43a5-887c-be8bbf963e3d",
+      "name": "Virgil Weigel",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "56",
+        "division_id": "ocd-division/country:us/state:ks/sldl:56"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Virgil",
+      "family_name": "Weigel",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_weigel_virgil_1.jpg",
+      "email": "virgil.weigel@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Retired" },
+      "created_at": "2018-10-18T14:44:52.763490+00:00",
+      "updated_at": "2021-12-16T18:50:16.102844+00:00",
+      "openstates_url": "https://openstates.org/person/virgil-weigel-5FvCSfU4qRCN8E8sRGTzTB/"
+    },
+    {
+      "id": "ocd-person/695c8e66-9ee6-4431-8bd4-b7435b04e2c7",
+      "name": "Will Carpenter",
+      "party": "Republican",
+      "current_role": {
+        "title": "Representative",
+        "org_classification": "lower",
+        "district": "75",
+        "division_id": "ocd-division/country:us/state:ks/sldl:75"
+      },
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "given_name": "Will",
+      "family_name": "Carpenter",
+      "image": "http://www.kslegislature.org/li/m/images/pics/rep_carpenter_will_1.jpg",
+      "email": "Will.Carpenter@house.ks.gov",
+      "gender": "",
+      "birth_date": "",
+      "death_date": "",
+      "extras": { "occupation": "Business Owner" },
+      "created_at": "2019-01-07T05:01:22.204545+00:00",
+      "updated_at": "2021-12-16T18:50:04.795026+00:00",
+      "openstates_url": "https://openstates.org/person/will-carpenter-3CoUXmZwNcOZtoPrfi7Ubn/"
+    }
+  ]
+}
