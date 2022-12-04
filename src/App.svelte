@@ -64,6 +64,7 @@
 <main>
   <h1>Jimmy's Legislature Project</h1>
   <div class="flexy-thing">
+    <BopBar state="US" chamber="National" />
     {#each stateList as state}
       <div class="state-container">
         <h2 class="state-name">{state}</h2>
