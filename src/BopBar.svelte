@@ -35,7 +35,6 @@
       otherSeats = organization.other;
       totalIncumbents = organization.incubmentTotal;
       vacantSeats = organization.vacant;
-      console.log(organization);
       const demPercent = (demSeats / totalSeats) * 100;
       const gopPercent = (gopSeats / totalSeats) * 100;
       const vacantPercent = (vacantSeats / totalSeats) * 100;
