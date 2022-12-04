@@ -1,6 +1,6 @@
 {
-  "timestamp": "12-04-2022 11:06:49",
-  "nationalRollup": { "gop": 3986, "dem": 3279, "other": 94 },
+  "timestamp": "12-04-2022 11:10:19",
+  "nationalRollup": { "gop": 3986, "dem": 3279, "other": 94, "vacant": 24 },
   "states": [
     {
       "state": "Alabama",

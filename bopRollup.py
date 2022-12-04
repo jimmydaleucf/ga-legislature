@@ -78,9 +78,10 @@ def bopRollup():
       container.append(newThing)
       for chamber in container:
         vacant = chamber['totalSeats']-chamber['incubmentTotal']
+        nationalVacant = nationalVacant + vacant
         chamber.update({"vacant":vacant})
       state['organizations'] = container      
-  nationalRollup = {'gop':nationalGOP, 'dem': nationalDem, 'other':nationalOther}
+  nationalRollup = {'gop':nationalGOP, 'dem': nationalDem, 'other':nationalOther, 'vacant':nationalVacant}
   now = datetime.datetime.now()
   newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"),'nationalRollup':nationalRollup, 'states':newlist}
   with open(f'{path}bopRollup.json', 'w') as json_file:
