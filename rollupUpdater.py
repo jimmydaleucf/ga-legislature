@@ -2,6 +2,7 @@
 # requests against two api keys to prevent reaching the daily limit of API requests too quickly.
 
 import getIncumbents
+import updateChambers
 
 apiKeys= [
     '&apikey=f186a663-061d-462c-8364-f20e6f3594ce', 
@@ -68,4 +69,5 @@ for x in range(len(apiKeys)):
     apiKey = apiKeys[x]
     stateList = stateLists[x]
     getIncumbents.getIncumbents(apiKey,stateList)
+updateChambers.updateChambers()
    
