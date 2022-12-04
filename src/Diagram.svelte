@@ -3,7 +3,7 @@
   export let state;
   export let chamber;
 
-  let path = "public/diagrams/";
+  let path = "https://jrd-primary-public.s3.amazonaws.com/hemicycles/";
   fetch(`./diagrams/${state}-${chamber}-diagram.svg`)
     .then((res) => res.text())
     .then((res) => {

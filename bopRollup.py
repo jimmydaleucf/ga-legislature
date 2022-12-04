@@ -17,6 +17,8 @@ def bopRollup():
   nationalGOP = 0
   nationalOther = 0
   nationalVacant = 0
+  nationalTotalSeats = 0
+  nationalincumbentTotal = 0
   # nationalRollup = {}
   combinedTotal = open(directoryTwo)
   files = Path(directory).glob('*')
@@ -46,6 +48,7 @@ def bopRollup():
       else:
         pass
     incumbentTotal = gop + dem + other
+    nationalincumbentTotal = nationalincumbentTotal + incumbentTotal
     chamberObj ={'classification':chamberName,'incubmentTotal':incumbentTotal, 'gop':gop, 'dem':dem, 'other':other}
     stateObj = {'state':stateName,  'organizations':[chamberObj]}
     bopRollup.append(stateObj)
@@ -77,13 +80,25 @@ def bopRollup():
           newThing = upperChamber[0] | upperChamber[1]
       container.append(newThing)
       for chamber in container:
-        vacant = chamber['totalSeats']-chamber['incubmentTotal']
+        totalSeats = chamber['totalSeats']
+        nationalTotalSeats = nationalTotalSeats + totalSeats
+        vacant = totalSeats-chamber['incubmentTotal']
         nationalVacant = nationalVacant + vacant
         chamber.update({"vacant":vacant})
       state['organizations'] = container      
-  nationalRollup = {'gop':nationalGOP, 'dem': nationalDem, 'other':nationalOther, 'vacant':nationalVacant}
+  nationalRollup = { "state": "National", "organizations": [{
+          "classification": "National",
+          "incubmentTotal": nationalincumbentTotal,
+          "gop": nationalGOP,
+          "dem": nationalDem,
+          "other": nationalOther,
+          "org": "National",
+          "totalSeats": nationalTotalSeats,
+          "vacant": nationalVacant
+        }]}
+  container.append(nationalRollup)
   now = datetime.datetime.now()
-  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"),'nationalRollup':nationalRollup, 'states':newlist}
+  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':newlist}
   with open(f'{path}bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your "bopRollup.json" file updated!\n')
