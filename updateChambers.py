@@ -2,7 +2,7 @@
 
 def updateChambers():
     import chamberGenerator
-    import dataProcessing.bopRollup as bopRollup
+    import bopRollup 
     import json
     import os
     import requests
