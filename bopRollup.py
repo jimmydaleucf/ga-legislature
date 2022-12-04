@@ -13,6 +13,11 @@ def bopRollup():
   directoryTwo = 'public/output/ChambersTotal.json'
   path = './public/output/'
 
+  nationalDem = 0
+  nationalGOP = 0
+  nationalOther = 0
+  nationalVacant = 0
+  # nationalRollup = {}
   combinedTotal = open(directoryTwo)
   files = Path(directory).glob('*')
   for file in files:
@@ -24,17 +29,20 @@ def bopRollup():
     other = 0
     stateName = data[0]['jurisdiction']['name']
     chamberName = data[0]['current_role']['org_classification'] 
-    partyCount = []
+    # partyCount = []
     for datum in data:
       party = datum['party']
       orgClass = datum['current_role']['org_classification']
       if orgClass != 'executive':
         if party == 'Republican':
           gop += 1
+          nationalGOP += 1
         elif party == 'Democratic' or party =='Democratic-Farmer-Labor': 
           dem += 1
+          nationalDem += 1
         else:
           other += 1
+          nationalOther += 1
       else:
         pass
     incumbentTotal = gop + dem + other
@@ -68,9 +76,13 @@ def bopRollup():
       else:
           newThing = upperChamber[0] | upperChamber[1]
       container.append(newThing)
-      state['organizations'] = container
+      for chamber in container:
+        vacant = chamber['totalSeats']-chamber['incubmentTotal']
+        chamber.update({"vacant":vacant})
+      state['organizations'] = container      
+  nationalRollup = {'gop':nationalGOP, 'dem': nationalDem, 'other':nationalOther}
   now = datetime.datetime.now()
-  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':newlist}
+  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"),'nationalRollup':nationalRollup, 'states':newlist}
   with open(f'{path}bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your "bopRollup.json" file updated!\n')

@@ -1,5 +1,6 @@
 {
-  "timestamp": "12-03-2022 15:52:10",
+  "timestamp": "12-04-2022 11:06:49",
+  "nationalRollup": { "gop": 3986, "dem": 3279, "other": 94 },
   "states": [
     {
       "state": "Alabama",
@@ -11,7 +12,8 @@
           "dem": 28,
           "other": 0,
           "org": "House",
-          "totalSeats": 105
+          "totalSeats": 105,
+          "vacant": 2
         },
         {
           "classification": "upper",
@@ -20,7 +22,8 @@
           "dem": 8,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -34,7 +37,8 @@
           "dem": 15,
           "other": 4,
           "org": "House",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -43,7 +47,8 @@
           "dem": 7,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 20
+          "totalSeats": 20,
+          "vacant": 0
         }
       ]
     },
@@ -57,7 +62,8 @@
           "dem": 29,
           "other": 0,
           "org": "House",
-          "totalSeats": 60
+          "totalSeats": 60,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -66,7 +72,8 @@
           "dem": 14,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 30
+          "totalSeats": 30,
+          "vacant": 0
         }
       ]
     },
@@ -80,7 +87,8 @@
           "dem": 22,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -89,7 +97,8 @@
           "dem": 7,
           "other": 1,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -103,7 +112,8 @@
           "dem": 60,
           "other": 1,
           "org": "Assembly",
-          "totalSeats": 80
+          "totalSeats": 80,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -112,7 +122,8 @@
           "dem": 31,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         }
       ]
     },
@@ -126,7 +137,8 @@
           "dem": 41,
           "other": 0,
           "org": "House",
-          "totalSeats": 65
+          "totalSeats": 65,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -135,7 +147,8 @@
           "dem": 20,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -149,7 +162,8 @@
           "dem": 97,
           "other": 0,
           "org": "House",
-          "totalSeats": 151
+          "totalSeats": 151,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -158,7 +172,8 @@
           "dem": 23,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 36
+          "totalSeats": 36,
+          "vacant": 0
         }
       ]
     },
@@ -172,7 +187,8 @@
           "dem": 26,
           "other": 0,
           "org": "House",
-          "totalSeats": 41
+          "totalSeats": 41,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -181,7 +197,8 @@
           "dem": 14,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 21
+          "totalSeats": 21,
+          "vacant": 0
         }
       ]
     },
@@ -195,7 +212,8 @@
           "dem": 42,
           "other": 0,
           "org": "House",
-          "totalSeats": 120
+          "totalSeats": 120,
+          "vacant": 2
         },
         {
           "classification": "upper",
@@ -204,7 +222,8 @@
           "dem": 16,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 1
         }
       ]
     },
@@ -218,7 +237,8 @@
           "dem": 77,
           "other": 0,
           "org": "House",
-          "totalSeats": 180
+          "totalSeats": 180,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -227,7 +247,8 @@
           "dem": 22,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 56
+          "totalSeats": 56,
+          "vacant": 0
         }
       ]
     },
@@ -241,7 +262,8 @@
           "dem": 47,
           "other": 0,
           "org": "House",
-          "totalSeats": 51
+          "totalSeats": 51,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -250,7 +272,8 @@
           "dem": 24,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 25
+          "totalSeats": 25,
+          "vacant": 0
         }
       ]
     },
@@ -264,7 +287,8 @@
           "dem": 12,
           "other": 0,
           "org": "House",
-          "totalSeats": 70
+          "totalSeats": 70,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -273,7 +297,8 @@
           "dem": 7,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -287,7 +312,8 @@
           "dem": 73,
           "other": 0,
           "org": "House",
-          "totalSeats": 118
+          "totalSeats": 118,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -296,7 +322,8 @@
           "dem": 41,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 59
+          "totalSeats": 59,
+          "vacant": 0
         }
       ]
     },
@@ -310,7 +337,8 @@
           "dem": 29,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -319,7 +347,8 @@
           "dem": 11,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 50
+          "totalSeats": 50,
+          "vacant": 0
         }
       ]
     },
@@ -333,7 +362,8 @@
           "dem": 40,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -342,7 +372,8 @@
           "dem": 18,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 50
+          "totalSeats": 50,
+          "vacant": 0
         }
       ]
     },
@@ -356,7 +387,8 @@
           "dem": 39,
           "other": 0,
           "org": "House",
-          "totalSeats": 125
+          "totalSeats": 125,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -365,7 +397,8 @@
           "dem": 11,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         }
       ]
     },
@@ -379,7 +412,8 @@
           "dem": 25,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -388,7 +422,8 @@
           "dem": 8,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 38
+          "totalSeats": 38,
+          "vacant": 0
         }
       ]
     },
@@ -402,7 +437,8 @@
           "dem": 34,
           "other": 3,
           "org": "House",
-          "totalSeats": 105
+          "totalSeats": 105,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -411,7 +447,8 @@
           "dem": 11,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 39
+          "totalSeats": 39,
+          "vacant": 1
         }
       ]
     },
@@ -425,7 +462,8 @@
           "dem": 78,
           "other": 3,
           "org": "House",
-          "totalSeats": 151
+          "totalSeats": 151,
+          "vacant": 7
         },
         {
           "classification": "upper",
@@ -434,7 +472,8 @@
           "dem": 22,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -448,7 +487,8 @@
           "dem": 99,
           "other": 0,
           "org": "House",
-          "totalSeats": 141
+          "totalSeats": 141,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -457,7 +497,8 @@
           "dem": 32,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 47
+          "totalSeats": 47,
+          "vacant": 0
         }
       ]
     },
@@ -471,7 +512,8 @@
           "dem": 127,
           "other": 1,
           "org": "House",
-          "totalSeats": 160
+          "totalSeats": 160,
+          "vacant": 4
         },
         {
           "classification": "upper",
@@ -480,7 +522,8 @@
           "dem": 37,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         }
       ]
     },
@@ -494,7 +537,8 @@
           "dem": 53,
           "other": 0,
           "org": "House",
-          "totalSeats": 110
+          "totalSeats": 110,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -503,7 +547,8 @@
           "dem": 16,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 38
+          "totalSeats": 38,
+          "vacant": 0
         }
       ]
     },
@@ -517,7 +562,8 @@
           "dem": 69,
           "other": 1,
           "org": "House",
-          "totalSeats": 134
+          "totalSeats": 134,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -526,7 +572,8 @@
           "dem": 31,
           "other": 2,
           "org": "Senate",
-          "totalSeats": 67
+          "totalSeats": 67,
+          "vacant": 0
         }
       ]
     },
@@ -540,7 +587,8 @@
           "dem": 45,
           "other": 2,
           "org": "House",
-          "totalSeats": 122
+          "totalSeats": 122,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -549,7 +597,8 @@
           "dem": 15,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 52
+          "totalSeats": 52,
+          "vacant": 0
         }
       ]
     },
@@ -563,7 +612,8 @@
           "dem": 49,
           "other": 0,
           "org": "House",
-          "totalSeats": 163
+          "totalSeats": 163,
+          "vacant": 6
         },
         {
           "classification": "upper",
@@ -572,7 +622,8 @@
           "dem": 10,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 34
+          "totalSeats": 34,
+          "vacant": 0
         }
       ]
     },
@@ -586,7 +637,8 @@
           "dem": 33,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -595,7 +647,8 @@
           "dem": 19,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 50
+          "totalSeats": 50,
+          "vacant": 0
         }
       ]
     },
@@ -609,7 +662,8 @@
           "dem": 0,
           "other": 49,
           "org": "Nebraska Legislature",
-          "totalSeats": 49
+          "totalSeats": 49,
+          "vacant": 0
         }
       ]
     },
@@ -623,7 +677,8 @@
           "dem": 26,
           "other": 0,
           "org": "Assembly",
-          "totalSeats": 42
+          "totalSeats": 42,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -632,7 +687,8 @@
           "dem": 12,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 21
+          "totalSeats": 21,
+          "vacant": 0
         }
       ]
     },
@@ -646,7 +702,8 @@
           "dem": 188,
           "other": 0,
           "org": "House",
-          "totalSeats": 400
+          "totalSeats": 400,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -655,7 +712,8 @@
           "dem": 10,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 24
+          "totalSeats": 24,
+          "vacant": 0
         }
       ]
     },
@@ -669,7 +727,8 @@
           "dem": 46,
           "other": 0,
           "org": "Assembly",
-          "totalSeats": 80
+          "totalSeats": 80,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -678,7 +737,8 @@
           "dem": 24,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         }
       ]
     },
@@ -692,7 +752,8 @@
           "dem": 45,
           "other": 1,
           "org": "House",
-          "totalSeats": 70
+          "totalSeats": 70,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -701,7 +762,8 @@
           "dem": 26,
           "other": 1,
           "org": "Senate",
-          "totalSeats": 42
+          "totalSeats": 42,
+          "vacant": 0
         }
       ]
     },
@@ -715,7 +777,8 @@
           "dem": 106,
           "other": 1,
           "org": "Assembly",
-          "totalSeats": 150
+          "totalSeats": 150,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -724,7 +787,8 @@
           "dem": 43,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 63
+          "totalSeats": 63,
+          "vacant": 0
         }
       ]
     },
@@ -738,7 +802,8 @@
           "dem": 51,
           "other": 0,
           "org": "House",
-          "totalSeats": 120
+          "totalSeats": 120,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -747,7 +812,8 @@
           "dem": 22,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 50
+          "totalSeats": 50,
+          "vacant": 0
         }
       ]
     },
@@ -761,7 +827,8 @@
           "dem": 14,
           "other": 0,
           "org": "House",
-          "totalSeats": 94
+          "totalSeats": 94,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -770,7 +837,8 @@
           "dem": 7,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 47
+          "totalSeats": 47,
+          "vacant": 0
         }
       ]
     },
@@ -784,7 +852,8 @@
           "dem": 35,
           "other": 0,
           "org": "House",
-          "totalSeats": 99
+          "totalSeats": 99,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -793,7 +862,8 @@
           "dem": 8,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 33
+          "totalSeats": 33,
+          "vacant": 0
         }
       ]
     },
@@ -807,7 +877,8 @@
           "dem": 19,
           "other": 0,
           "org": "House",
-          "totalSeats": 101
+          "totalSeats": 101,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -816,7 +887,8 @@
           "dem": 9,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 48
+          "totalSeats": 48,
+          "vacant": 0
         }
       ]
     },
@@ -830,7 +902,8 @@
           "dem": 38,
           "other": 0,
           "org": "House",
-          "totalSeats": 60
+          "totalSeats": 60,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -839,7 +912,8 @@
           "dem": 18,
           "other": 1,
           "org": "Senate",
-          "totalSeats": 30
+          "totalSeats": 30,
+          "vacant": 0
         }
       ]
     },
@@ -853,7 +927,8 @@
           "dem": 90,
           "other": 0,
           "org": "House",
-          "totalSeats": 203
+          "totalSeats": 203,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -862,7 +937,8 @@
           "dem": 21,
           "other": 1,
           "org": "Senate",
-          "totalSeats": 50
+          "totalSeats": 50,
+          "vacant": 0
         }
       ]
     },
@@ -876,7 +952,8 @@
           "dem": 65,
           "other": 0,
           "org": "House",
-          "totalSeats": 75
+          "totalSeats": 75,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -885,7 +962,8 @@
           "dem": 34,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 38
+          "totalSeats": 38,
+          "vacant": 0
         }
       ]
     },
@@ -899,7 +977,8 @@
           "dem": 43,
           "other": 0,
           "org": "House",
-          "totalSeats": 124
+          "totalSeats": 124,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -908,7 +987,8 @@
           "dem": 16,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 46
+          "totalSeats": 46,
+          "vacant": 0
         }
       ]
     },
@@ -922,7 +1002,8 @@
           "dem": 8,
           "other": 0,
           "org": "House",
-          "totalSeats": 70
+          "totalSeats": 70,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -931,7 +1012,8 @@
           "dem": 3,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 35
+          "totalSeats": 35,
+          "vacant": 0
         }
       ]
     },
@@ -945,7 +1027,8 @@
           "dem": 24,
           "other": 1,
           "org": "House",
-          "totalSeats": 99
+          "totalSeats": 99,
+          "vacant": 1
         },
         {
           "classification": "upper",
@@ -954,7 +1037,8 @@
           "dem": 6,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 33
+          "totalSeats": 33,
+          "vacant": 0
         }
       ]
     },
@@ -968,7 +1052,8 @@
           "dem": 67,
           "other": 0,
           "org": "House",
-          "totalSeats": 150
+          "totalSeats": 150,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -977,7 +1062,8 @@
           "dem": 13,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 31
+          "totalSeats": 31,
+          "vacant": 0
         }
       ]
     },
@@ -991,7 +1077,8 @@
           "dem": 17,
           "other": 0,
           "org": "House",
-          "totalSeats": 75
+          "totalSeats": 75,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1000,7 +1087,8 @@
           "dem": 6,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 29
+          "totalSeats": 29,
+          "vacant": 0
         }
       ]
     },
@@ -1014,7 +1102,8 @@
           "dem": 90,
           "other": 14,
           "org": "House",
-          "totalSeats": 150
+          "totalSeats": 150,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1023,7 +1112,8 @@
           "dem": 18,
           "other": 5,
           "org": "Senate",
-          "totalSeats": 30
+          "totalSeats": 30,
+          "vacant": 0
         }
       ]
     },
@@ -1037,7 +1127,8 @@
           "dem": 48,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1046,7 +1137,8 @@
           "dem": 21,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 40
+          "totalSeats": 40,
+          "vacant": 0
         }
       ]
     },
@@ -1060,7 +1152,8 @@
           "dem": 57,
           "other": 0,
           "org": "House",
-          "totalSeats": 98
+          "totalSeats": 98,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1069,7 +1162,8 @@
           "dem": 29,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 49
+          "totalSeats": 49,
+          "vacant": 0
         }
       ]
     },
@@ -1083,7 +1177,8 @@
           "dem": 22,
           "other": 0,
           "org": "House",
-          "totalSeats": 100
+          "totalSeats": 100,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1092,7 +1187,8 @@
           "dem": 11,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 34
+          "totalSeats": 34,
+          "vacant": 0
         }
       ]
     },
@@ -1106,7 +1202,8 @@
           "dem": 38,
           "other": 0,
           "org": "Assembly",
-          "totalSeats": 99
+          "totalSeats": 99,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1115,7 +1212,8 @@
           "dem": 12,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 33
+          "totalSeats": 33,
+          "vacant": 0
         }
       ]
     },
@@ -1129,7 +1227,8 @@
           "dem": 7,
           "other": 2,
           "org": "House",
-          "totalSeats": 60
+          "totalSeats": 60,
+          "vacant": 0
         },
         {
           "classification": "upper",
@@ -1138,7 +1237,8 @@
           "dem": 2,
           "other": 0,
           "org": "Senate",
-          "totalSeats": 30
+          "totalSeats": 30,
+          "vacant": 0
         }
       ]
     }

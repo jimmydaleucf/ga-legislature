@@ -8,7 +8,7 @@ import requests
 
 bopRollup.bopRollup()
 file = requests.get('https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
-print(file)
+# print(file)
 # file = json.load(f)
 os.chdir('./public/diagrams/')
 
