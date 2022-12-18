@@ -1,12 +1,16 @@
-## This file loops through the list of states that is divided into two groups to spread the 
+# This file loops through the list of states that is divided into two groups to spread the
 # requests against two api keys to prevent reaching the daily limit of API requests too quickly.
 
 import getIncumbents
 import updateChambers
+import config
 
-apiKeys= [
-    '&apikey=f186a663-061d-462c-8364-f20e6f3594ce', 
-    '&apikey=047dc17e-0268-4b55-9eab-3ae74457228d']
+firstKey = config.apikey1
+secondKey = config.apiKey2
+
+apiKeys = [
+    f'&apikey={firstKey}',
+    f'&apikey={secondKey}']
 
 # stateLists  =[[
 # 'Alabama',
@@ -63,11 +67,10 @@ apiKeys= [
 # stateLists = [['Nebraska']]
 
 stateLists = [['Hawaii'], ['Nebraska']]
-# apiKey = '&apikey=047dc17e-0268-4b55-9eab-3ae74457228d'
+
 
 for x in range(len(apiKeys)):
     apiKey = apiKeys[x]
     stateList = stateLists[x]
-    getIncumbents.getIncumbents(apiKey,stateList)
+    getIncumbents.getIncumbents(apiKey, stateList)
 updateChambers.updateChambers()
-   
