@@ -7,11 +7,13 @@ def bopRollup():
   from pathlib import Path
   import collections
   import datetime
+  import config
 
   bopRollup = []
-  directory = './public/output/incumbents/'
-  directoryTwo = 'public/output/ChambersTotal.json'
-  path = './public/output/'
+  
+  path = config.path
+  directory = f'./{path}incumbents/'
+  directoryTwo = f'{path}ChambersTotal.json'
 
   nationalDem = 0
   nationalGOP = 0
@@ -19,7 +21,6 @@ def bopRollup():
   nationalVacant = 0
   nationalTotalSeats = 0
   nationalincumbentTotal = 0
-  # nationalRollup = {}
   combinedTotal = open(directoryTwo)
   files = Path(directory).glob('*')
   for file in files:
@@ -31,7 +32,6 @@ def bopRollup():
     other = 0
     stateName = data[0]['jurisdiction']['name']
     chamberName = data[0]['current_role']['org_classification'] 
-    # partyCount = []
     for datum in data:
       party = datum['party']
       orgClass = datum['current_role']['org_classification']
