@@ -7,11 +7,13 @@ def bopRollup():
   from pathlib import Path
   import collections
   import datetime
+  import config
 
   bopRollup = []
-  directory = './public/output/incumbents/'
-  directoryTwo = 'public/output/ChambersTotal.json'
-  path = './public/output/'
+  
+  path = config.path
+  directory = f'./{path}incumbents/'
+  directoryTwo = f'{path}ChambersTotal.json'
 
   nationalDem = 0
   nationalGOP = 0

@@ -67,7 +67,6 @@ apiKeys = [
 # stateLists = [['Nebraska']]
 
 stateLists = [['Hawaii'], ['Nebraska']]
-# apiKey = '&apikey=047dc17e-0268-4b55-9eab-3ae74457228d'
 
 for x in range(len(apiKeys)):
     apiKey = apiKeys[x]
