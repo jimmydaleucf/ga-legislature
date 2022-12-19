@@ -3,10 +3,14 @@
 
 import getIncumbents
 import updateChambers
+import config
 
-apiKeys= [
-    '&apikey=f186a663-061d-462c-8364-f20e6f3594ce', 
-    '&apikey=047dc17e-0268-4b55-9eab-3ae74457228d']
+firstKey = config.apikey1
+secondKey = config.apiKey2
+
+apiKeys = [
+    f'&apikey={firstKey}',
+    f'&apikey={secondKey}']
 
 # stateLists  =[[
 # 'Alabama',
