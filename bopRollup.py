@@ -19,7 +19,6 @@ def bopRollup():
   nationalVacant = 0
   nationalTotalSeats = 0
   nationalincumbentTotal = 0
-  # nationalRollup = {}
   combinedTotal = open(directoryTwo)
   files = Path(directory).glob('*')
   for file in files:
@@ -31,7 +30,6 @@ def bopRollup():
     other = 0
     stateName = data[0]['jurisdiction']['name']
     chamberName = data[0]['current_role']['org_classification'] 
-    # partyCount = []
     for datum in data:
       party = datum['party']
       orgClass = datum['current_role']['org_classification']
