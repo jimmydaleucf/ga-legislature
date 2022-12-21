@@ -1,16 +1,15 @@
-
+import config
 
 def updateChambers():
     import chamberGenerator
     import bopRollup
-    # import json
     import os
     import requests
 
     bopRollup.bopRollup()
     file = requests.get(
         'https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
-    os.chdir('./public/diagrams/')
+    os.chdir(f'./{config.path}/diagrams/')
 
     states = file['states']
     for x in range(len(states)):
@@ -18,7 +17,7 @@ def updateChambers():
         stateOrgs = states[x]['organizations']
         for y in range(len(stateOrgs)):
             chamber = stateOrgs[y]['classification']
-            chamberTotal = stateOrgs[y]['totalSeats']
+            # chamberTotal = stateOrgs[y]['totalSeats']
             filename = f'{stateName}-{chamber}-diagram.svg'
             dem = stateOrgs[y]['dem']
             gop = stateOrgs[y]['gop']

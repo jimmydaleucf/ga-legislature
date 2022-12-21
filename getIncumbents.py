@@ -7,8 +7,9 @@ def getIncumbents(apiKey, stateList):
     import json
     import time
     import datetime
+    import config
 
-    path = './public/output/incumbents/'
+    path = f'./{config.path}/incumbents/'
     
     mainList = []
     baseURL= 'https://v3.openstates.org/people?jurisdiction='

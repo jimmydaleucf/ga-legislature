@@ -10,7 +10,7 @@ import datetime
 
 import config
 
-path = './public/output/'
+path = f'./{config.path}/'
 
 apiKey = config.apikey1
 

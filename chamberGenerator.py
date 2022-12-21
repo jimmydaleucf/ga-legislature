@@ -18,28 +18,6 @@ def chamberGenerator(input_list, filename):
         29001, 29679, 30367, 31061
     ]
 
-    #4165d2;#dc3d3d;
-
-    # input_list = {
-    #             'parties': [
-    #                 {
-    #                     'name': 'Democrat',
-    #                     'nb_seats':222,
-    #                     'color': '#4165d2' ,
-    #                     'border_size': 0,
-    #                     'border_color': '#000000'
-    #                 },
-    #                 {
-    #                     'name': 'Republican',
-    #                     'nb_seats': 213,
-    #                     'color': '#dc3d3d' ,
-    #                     'border_size': 0,
-    #                     'border_color': '#000000'
-    #                 }
-    #             ],
-    #             'denser_rows': False
-    #         }
-
     def count_delegates(party_list):
         """
         Sums all delegates from all parties. Return 0 if something fails.

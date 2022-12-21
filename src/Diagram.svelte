@@ -4,14 +4,13 @@
   export let chamber;
 
   let path = "https://jrd-primary-public.s3.amazonaws.com/hemicycles/";
-  fetch(`./diagrams/${state}-${chamber}-diagram.svg`)
+  fetch(`${path}${state}-${chamber}-diagram.svg`)
     .then((res) => res.text())
     .then((res) => {
       svgMarkup = res;
       let map = document.createElement("div");
       map.innerHTML = svgMarkup;
     });
-  // let svg = get("public/diagrams/Georgia-House-diagram.svg");
 </script>
 
 <main>

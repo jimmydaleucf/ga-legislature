@@ -1,4 +1,58 @@
 apikey1 = "f186a663-061d-462c-8364-f20e6f3594ce"
 apiKey2 = "047dc17e-0268-4b55-9eab-3ae74457228d"
 
-path = 'public/output/'
+path = 'public/output/2022'
+
+# stateLists = [['Hawaii'], ['Nebraska']]
+
+stateLists  =[[
+'Alabama',
+'Alaska',
+'Arizona',
+'Arkansas',
+'California',
+'Colorado',
+'Connecticut',
+'Delaware',
+'Florida',
+'Georgia',
+'Hawaii',
+'Idaho',
+'Illinois',
+'Indiana',
+'Iowa',
+'Kansas',
+'Kentucky',
+'Louisiana',
+'Maine',
+'Maryland',
+'Massachusetts',
+'Michigan',
+'Minnesota',
+'Mississippi',
+'Missouri',
+'Montana',
+'Nebraska',
+'Nevada',
+'New Hampshire'],[
+'New Jersey',
+'New Mexico',
+'New York',
+'North Carolina',
+'North Dakota',
+'Ohio',
+'Oklahoma',
+'Oregon',
+'Pennsylvania',
+'Rhode Island',
+'South Carolina',
+'South Dakota',
+'Tennessee',
+'Texas',
+'Utah',
+'Vermont',
+'Virginia',
+'Washington',
+'West Virginia',
+'Wisconsin',
+'Wyoming']]

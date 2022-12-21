@@ -12,8 +12,8 @@ def bopRollup():
   bopRollup = []
   
   path = config.path
-  directory = f'./{path}incumbents/'
-  directoryTwo = f'{path}ChambersTotal.json'
+  directory = f'./{path}/incumbents/'
+  directoryTwo = f'{path}/ChambersTotal.json'
 
   nationalDem = 0
   nationalGOP = 0
@@ -99,6 +99,6 @@ def bopRollup():
   newlist.append(nationalRollup)
   now = datetime.datetime.now()
   newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':newlist}
-  with open(f'{path}bopRollup.json', 'w') as json_file:
+  with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your "bopRollup.json" file updated!\n')
