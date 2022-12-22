@@ -28,6 +28,7 @@ dist-ssr
 
 #python config
 config.py
+
 #python cache
 __pycache__/
 
