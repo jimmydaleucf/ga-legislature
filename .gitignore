@@ -31,3 +31,6 @@ config.py
 
 #python cache
 __pycache__/
+
+#creds
+aws.py

@@ -24,7 +24,7 @@ def getIncumbents(apiKey, stateList):
             chamberList = ['lower','upper']
             classifier = 'org_classification'
         for y in range(len(chamberList)): ## loops through for each chamber
-            print(f'\n** Initiating inital request for {state} {chamberList[y]} chamber in 20 seconds **')
+            print(f'\n** Initiating initial request for \033[93m{state} {chamberList[y]}\x1B[0m chamber in 20 seconds **')
             for i in range(20,0,-1):
                 print(f"{i}", end=" \r", flush=True)
                 time.sleep(1)
@@ -51,6 +51,6 @@ def getIncumbents(apiKey, stateList):
             newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'incumbents': mainList}
             with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
                 json.dump(newJson, json_file)
-            print(f'✅ Condragulations, your file {state}-{chamber} has been updated! ***  \n')
+            print(f'✅ \033[93m{state}-{chamber}\x1B[0m has been updated! ***  \n')
             mainList=[]
 
