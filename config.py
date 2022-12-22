@@ -3,6 +3,8 @@ apiKey2 = "047dc17e-0268-4b55-9eab-3ae74457228d"
 
 path = 'public/output/2022'
 
+
+
 # stateLists = [['Hawaii'], ['Nebraska']]
 
 stateLists  =[[
