@@ -1,5 +1,5 @@
 
-  # This file takes all the individual files of incumbets saved in /public/output/incumbents/ 
+  # This file takes all the individual files of incumbents saved in /public/output/incumbents/ 
   # and creates a rollup by counting all the repubs, the dems, and the others.  It creates a lightweight
   # rollup by state.  
 def bopRollup():
