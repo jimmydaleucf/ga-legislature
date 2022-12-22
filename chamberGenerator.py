@@ -296,7 +296,7 @@ def chamberGenerator(input_list, filename):
 
             pos_list = get_spots_centers(sum_delegates, nb_rows, radius, dense_rows)
             draw_svg(svg_filename, sum_delegates, party_list, pos_list, radius)
-            print(f'\n *** {filename} created! ***')
+            print(f'\n *** \033[93m{filename}\x1B[0m created! ***')
             # f = open(f'./public/diagrams/{svg_filename}', 'w')
             return svg_filename
             
