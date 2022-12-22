@@ -1,10 +1,12 @@
 import config
+import chamberGenerator
+import bopRollup
+import os
+import requests
+import uploadFile
 
 def updateChambers():
-    import chamberGenerator
-    import bopRollup
-    import os
-    import requests
+    
 
     bopRollup.bopRollup()
     file = requests.get(
@@ -58,5 +60,8 @@ def updateChambers():
                 'denser_rows': False
             }
             chamberGenerator.chamberGenerator(input_list, filename)
+            uploadFile.upload_file(f'{filename}', 'jrd-primary-public', f'hemicycles/{filename}')
+
+            
 
     # chamberGenerator.chamberGenerator(input_list)

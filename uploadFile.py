@@ -31,4 +31,4 @@ def upload_file(file_name, bucket, object_name=None):
         return False
     return True
 
-# upload_file('testJSON.json', 'jrd-primary-public')
+# upload_file('testJSON.json', 'jrd-primary-public', 'hemicycles/testJson.json')
