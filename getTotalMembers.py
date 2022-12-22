@@ -7,7 +7,7 @@ import requests
 import json
 import time
 import datetime
-
+import uploadFile
 import config
 
 path = f'./{config.path}/'
@@ -108,4 +108,6 @@ ChambersTotal = {"timestamp": now.strftime(
     "%m-%d-%Y %H:%M:%S"), 'states': output}
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
     json.dump(ChambersTotal, json_file)
-print('\n ✅ Your file "ChambersTotal.json" has been created Jimmy!')
+print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
+uploadFile.upload_file(f'{path}ChambersTotal.json', 'jrd-primary-public')
+print('Your \033[93mChambersTotal.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')

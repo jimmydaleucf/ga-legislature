@@ -1,5 +1,5 @@
 
-  # This file takes all the individual files of incumbets saved in /public/output/incumbents/ 
+  # This file takes all the individual files of incumbents saved in /public/output/incumbents/ 
   # and creates a rollup by counting all the repubs, the dems, and the others.  It creates a lightweight
   # rollup by state.  
 def bopRollup():
@@ -8,6 +8,7 @@ def bopRollup():
   import collections
   import datetime
   import config
+  import uploadFile
 
   bopRollup = []
   
@@ -101,4 +102,6 @@ def bopRollup():
   newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':newlist}
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
-      print('\n✅ Your "bopRollup.json" file updated!\n')
+      print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
+  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public')
+  print('Your \033[93mbopRollup.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')
