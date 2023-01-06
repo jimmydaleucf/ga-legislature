@@ -11,6 +11,7 @@ def getIncumbents(apiKey, stateList):
     import uploadFile
 
     path = f'./{config.path}/incumbents/'
+    year = config.year
     
     mainList = []
     baseURL= 'https://v3.openstates.org/people?jurisdiction='
@@ -52,7 +53,7 @@ def getIncumbents(apiKey, stateList):
             newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'incumbents': mainList}
             with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
                 json.dump(newJson, json_file)
-            uploadFile.upload_file(f'{path}{stateString}-{chamber}.json', 'jrd-primary-public', f'2022/incumbents/{stateString}-{chamber}.json')
+            uploadFile.upload_file(f'{path}{stateString}-{chamber}.json', 'jrd-primary-public', f'{year}/incumbents/{stateString}-{chamber}.json')
             print(f'✅ \033[93m{state}-{chamber}\x1B[0m has been updated & uploaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m ***  \n')
             mainList=[]
 

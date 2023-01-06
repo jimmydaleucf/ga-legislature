@@ -14,7 +14,8 @@ def bopRollup():
   
   path = config.path
   directory = f'./{path}/incumbents/'
-  directoryTwo = f'{path}/ChambersTotal.json'
+  directoryTwo = f'public/output/ChambersTotal.json'
+  year = config.year
 
   nationalDem = 0
   nationalGOP = 0
@@ -65,6 +66,7 @@ def bopRollup():
       upperChamber = []
       lowerChamber = []
       orgs = state['organizations']
+      print(orgs)
       container = []
       for org in orgs:
           if org['classification'] == 'upper':
@@ -74,6 +76,8 @@ def bopRollup():
           elif org['classification'] == 'legislature' and state['state']== 'Nebraska':
               upperChamber.append(org)
       if state['state'] != "Nebraska":
+          print(state)
+          print(upperChamber)
           newThing = upperChamber[0] | upperChamber[1]
           newThing2 = lowerChamber[0] | lowerChamber[1]
           container.append(newThing2)
@@ -103,5 +107,5 @@ def bopRollup():
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
-  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public')
+  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public', f'{year}/bopRollup.json')
   print('Your \033[93mbopRollup.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')
