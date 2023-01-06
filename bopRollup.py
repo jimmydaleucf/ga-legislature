@@ -58,6 +58,7 @@ def bopRollup():
   combinedTotalObj = ChambersTotal['states']
   mergedList = bopRollup + combinedTotalObj
   newlist = sorted(mergedList, key=lambda d: d['state'])
+  print(newlist)
   combinedList = collections.defaultdict(list)
   for organizations in newlist:
     combinedList[organizations['state']].extend(organizations['organizations'])
@@ -66,7 +67,6 @@ def bopRollup():
       upperChamber = []
       lowerChamber = []
       orgs = state['organizations']
-      print(orgs)
       container = []
       for org in orgs:
           if org['classification'] == 'upper':
@@ -76,8 +76,6 @@ def bopRollup():
           elif org['classification'] == 'legislature' and state['state']== 'Nebraska':
               upperChamber.append(org)
       if state['state'] != "Nebraska":
-          print(state)
-          print(upperChamber)
           newThing = upperChamber[0] | upperChamber[1]
           newThing2 = lowerChamber[0] | lowerChamber[1]
           container.append(newThing2)
