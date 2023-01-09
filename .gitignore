@@ -34,4 +34,6 @@ __pycache__/
 
 #creds
 aws.py
-#
+
+#output files
+/public/output
