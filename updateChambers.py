@@ -5,9 +5,9 @@ import os
 import requests
 import uploadFile
 
-def updateChambers():
-    
+year = config.year
 
+def updateChambers():
     bopRollup.bopRollup()
     file = requests.get(
         'https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
@@ -60,7 +60,7 @@ def updateChambers():
                 'denser_rows': False
             }
             chamberGenerator.chamberGenerator(input_list, filename)
-            uploadFile.upload_file(f'{filename}', 'jrd-primary-public', f'hemicycles/{filename}')
+            uploadFile.upload_file(f'{filename}', 'jrd-primary-public', f'{year}/hemicycles/{filename}')
 
             
 

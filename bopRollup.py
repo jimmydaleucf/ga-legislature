@@ -14,7 +14,8 @@ def bopRollup():
   
   path = config.path
   directory = f'./{path}/incumbents/'
-  directoryTwo = f'{path}/ChambersTotal.json'
+  directoryTwo = f'public/output/ChambersTotal.json'
+  year = config.year
 
   nationalDem = 0
   nationalGOP = 0
@@ -57,6 +58,7 @@ def bopRollup():
   combinedTotalObj = ChambersTotal['states']
   mergedList = bopRollup + combinedTotalObj
   newlist = sorted(mergedList, key=lambda d: d['state'])
+  print(newlist)
   combinedList = collections.defaultdict(list)
   for organizations in newlist:
     combinedList[organizations['state']].extend(organizations['organizations'])
@@ -103,5 +105,5 @@ def bopRollup():
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
-  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public')
+  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public', f'{year}/bopRollup.json')
   print('Your \033[93mbopRollup.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')

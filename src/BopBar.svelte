@@ -1,4 +1,5 @@
 <script>
+  import { onMount } from "svelte";
   export let state;
   let chamberSize;
   export let chamber;
@@ -10,54 +11,43 @@
   let totalIncumbents;
   let vacantSeats;
   let totalSeats;
+  export let testDataObj;
 
-  // let path = "output/bopRollup.json";
-  let path = "https://jrd-primary-public.s3.amazonaws.com/bopRollup.json";
-
-  async function getChamberInfo() {
-    const res = await fetch(`${path}`);
-    const results = await res.json();
-    // console.log(results);
+  onMount(() => {
     const stateName = `${state}`;
-    if (res.ok) {
-      //   debugger;
-      chamberData = results.states;
-      const targetState = chamberData.find(
-        ({ state }) => state === `${stateName}`
-      );
-      const organization = targetState.organizations.find(
-        ({ classification }) => classification === `${chamber}`
-      );
-      chamberName = organization.org;
-      totalSeats = organization.totalSeats;
-      demSeats = organization.dem;
-      gopSeats = organization.gop;
-      otherSeats = organization.other;
-      totalIncumbents = organization.incubmentTotal;
-      vacantSeats = organization.vacant;
-      const demPercent = (demSeats / totalSeats) * 100;
-      const gopPercent = (gopSeats / totalSeats) * 100;
-      const vacantPercent = (vacantSeats / totalSeats) * 100;
-      const thirdPercent = (otherSeats / totalSeats) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
-      document.getElementById(
-        `${state}-${chamber}-dem`
-      ).style.width = `${demPercent}%`;
-      document.getElementById(
-        `${state}-${chamber}-gop`
-      ).style.width = `${gopPercent}%`;
-      document.getElementById(
-        `${state}-${chamber}-third`
-      ).style.width = `${thirdPercent}%`;
-      document.getElementById(
-        `${state}-${chamber}-vacant`
-      ).style.width = `${vacantPercent}%`;
-      return chamberSize;
-    } else {
-      throw new Error(text);
-    }
-  }
-
-  getChamberInfo();
+    chamberData = testDataObj;
+    const targetState = chamberData.find(
+      ({ state }) => state === `${stateName}`
+    );
+    // console.log(targetState);
+    const organization = targetState.organizations.find(
+      ({ classification }) => classification === `${chamber}`
+    );
+    chamberName = organization.org;
+    totalSeats = organization.totalSeats;
+    demSeats = organization.dem;
+    gopSeats = organization.gop;
+    otherSeats = organization.other;
+    totalIncumbents = organization.incubmentTotal;
+    vacantSeats = organization.vacant;
+    const demPercent = (demSeats / totalSeats) * 100;
+    const gopPercent = (gopSeats / totalSeats) * 100;
+    const vacantPercent = (vacantSeats / totalSeats) * 100;
+    const thirdPercent = (otherSeats / totalSeats) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
+    document.getElementById(
+      `${state}-${chamber}-dem`
+    ).style.width = `${demPercent}%`;
+    document.getElementById(
+      `${state}-${chamber}-gop`
+    ).style.width = `${gopPercent}%`;
+    document.getElementById(
+      `${state}-${chamber}-third`
+    ).style.width = `${thirdPercent}%`;
+    document.getElementById(
+      `${state}-${chamber}-vacant`
+    ).style.width = `${vacantPercent}%`;
+    return chamberSize;
+  });
 </script>
 
 <main>
