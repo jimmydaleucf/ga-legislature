@@ -16,16 +16,16 @@
   // let path = "output/bopRollup.json";
   let path = "https://jrd-primary-public.s3.amazonaws.com/bopRollup.json";
 
-  onMount(() => {
-    console.log(testDataObj.states);
-    // const res = await fetch(`${path}`);
-    // const results = await res.json();
+  onMount(async () => {
+    // console.log(testDataObj.states);
+    const res = await fetch(`${path}`);
+    const results = await res.json();
     // console.log(results);
     const stateName = `${state}`;
     // if (res.ok) {
     //   debugger;
     // console.log(results);
-    chamberData = testDataObj.states;
+    chamberData = results.states;
     const targetState = chamberData.find(
       ({ state }) => state === `${stateName}`
     );

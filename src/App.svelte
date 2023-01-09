@@ -55,16 +55,10 @@
     // "Wisconsin",
     // "Wyoming",
   ];
-  let testDataObj;
-  import { testData } from "./store.js";
-  testData.subscribe((value) => {
-    testDataObj = value;
-  });
-  // console.log(testDataObj);
+
   // let stateListExperiment = ["California", "Florida", "Georgia", "New York"];
 
   let chamberList = ["upper", "lower"];
-  // consoleç.log(name);
 </script>
 
 <main>
@@ -80,7 +74,7 @@
               <div class="state-container spacer">
                 <!-- <LegMap {state} {chamber} /> -->
                 <Diagram {state} {chamber} />
-                <BopBar {testDataObj} {state} {chamber} />
+                <BopBar {state} {chamber} />
               </div>
             {/each}
           {:else}
