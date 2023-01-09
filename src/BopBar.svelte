@@ -13,23 +13,13 @@
   let totalSeats;
   export let testDataObj;
 
-  // let path = "output/bopRollup.json";
-  let path = "https://jrd-primary-public.s3.amazonaws.com/bopRollup.json";
-
-  onMount(async () => {
-    // console.log(testDataObj.states);
-    const res = await fetch(`${path}`);
-    const results = await res.json();
-    // console.log(results);
+  onMount(() => {
     const stateName = `${state}`;
-    // if (res.ok) {
-    //   debugger;
-    // console.log(results);
-    chamberData = results.states;
+    chamberData = testDataObj;
     const targetState = chamberData.find(
       ({ state }) => state === `${stateName}`
     );
-    console.log(targetState);
+    // console.log(targetState);
     const organization = targetState.organizations.find(
       ({ classification }) => classification === `${chamber}`
     );
@@ -57,11 +47,7 @@
       `${state}-${chamber}-vacant`
     ).style.width = `${vacantPercent}%`;
     return chamberSize;
-    // } else {
-    //   throw new Error(text);
-    // }
   });
-  // getChamberInfo();
 </script>
 
 <main>

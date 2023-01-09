@@ -2,58 +2,69 @@
   // import LegMap from "./LegMap.svelte";
   import BopBar from "./BopBar.svelte";
   import Diagram from "./Diagram.svelte";
+  import { onMount } from "svelte";
+
+  let testDataObj;
+
+  let path = "https://jrd-primary-public.s3.amazonaws.com/2022/bopRollup.json";
+
+  onMount(async () => {
+    const res = await fetch(`${path}`);
+    const results = await res.json();
+    testDataObj = results.states;
+  });
 
   let stateList = [
     "Alabama",
-    // "Alaska",
-    // "Arizona",
-    // "Arkansas",
-    // "California",
-    // "Colorado",
-    // "Connecticut",
-    // "Delaware",
-    // "Florida",
-    // "Georgia",
-    // "Hawaii",
-    // "Idaho",
-    // "Illinois",
-    // "Indiana",
-    // "Iowa",
-    // "Kansas",
-    // "Kentucky",
-    // "Louisiana",
-    // "Maine",
-    // "Maryland",
-    // "Massachusetts",
-    // "Michigan",
-    // "Minnesota",
-    // "Mississippi",
-    // "Missouri",
-    // "Montana",
-    // "Nebraska",
-    // "Nevada",
-    // "New Hampshire",
-    // "New Jersey",
-    // "New Mexico",
-    // "New York",
-    // "North Carolina",
-    // "North Dakota",
-    // "Ohio",
-    // "Oklahoma",
-    // "Oregon",
-    // "Pennsylvania",
-    // "Rhode Island",
-    // "South Carolina",
-    // "South Dakota",
-    // "Tennessee",
-    // "Texas",
-    // "Utah",
-    // "Vermont",
-    // "Virginia",
-    // "Washington",
-    // "West Virginia",
-    // "Wisconsin",
-    // "Wyoming",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming",
   ];
 
   // let stateListExperiment = ["California", "Florida", "Georgia", "New York"];
@@ -74,13 +85,18 @@
               <div class="state-container spacer">
                 <!-- <LegMap {state} {chamber} /> -->
                 <Diagram {state} {chamber} />
-                <BopBar {state} {chamber} />
+                {#if testDataObj}
+                  <BopBar {testDataObj} {state} {chamber} />{/if}
               </div>
             {/each}
           {:else}
             <div class="bop-component nebraska">
               <Diagram {state} chamber="legislature" />
-              <BopBar {state} chamber="legislature" />
+              {#if testDataObj}<BopBar
+                  {testDataObj}
+                  {state}
+                  chamber="legislature"
+                />{/if}
               <p>
                 Nebraska's Legislature is unicameral (only one chamber) and its
                 members run as non-partisan.
