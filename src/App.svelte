@@ -5,7 +5,6 @@
   import { onMount } from "svelte";
 
   let testDataObj;
-
   let path = "https://jrd-primary-public.s3.amazonaws.com/2022/bopRollup.json";
 
   onMount(async () => {
@@ -66,9 +65,6 @@
     "Wisconsin",
     "Wyoming",
   ];
-
-  // let stateListExperiment = ["California", "Florida", "Georgia", "New York"];
-
   let chamberList = ["upper", "lower"];
 </script>
 
