@@ -36,4 +36,4 @@ __pycache__/
 aws.py
 
 #output files
-/public/output
+public/output
