@@ -69,7 +69,8 @@
 </script>
 
 <main>
-  <h1>Jimmy's Legislature Project</h1>
+  <h1>State Legislatures Party Composition</h1>
+  <h1>2022</h1>
   <div class="flexy-thing">
     <!-- <BopBar state="US" chamber="National" /> -->
     {#each stateList as state}
