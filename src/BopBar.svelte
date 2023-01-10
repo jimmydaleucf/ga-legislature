@@ -33,7 +33,7 @@
     const demPercent = (demSeats / totalSeats) * 100;
     const gopPercent = (gopSeats / totalSeats) * 100;
     const vacantPercent = (vacantSeats / totalSeats) * 100;
-    const thirdPercent = (otherSeats / totalSeats) * 100 + 0.001; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
+    const thirdPercent = (otherSeats / totalSeats) * 100; //i added this .001 to solve the tiny gap that is showing up when 3 colors are displayed in the bar
     document.getElementById(
       `${state}-${chamber}-dem`
     ).style.width = `${demPercent}%`;
