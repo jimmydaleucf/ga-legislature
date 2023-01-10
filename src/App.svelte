@@ -5,12 +5,14 @@
   import { onMount } from "svelte";
 
   let testDataObj;
+  let year;
   let path = "https://jrd-primary-public.s3.amazonaws.com/2022/bopRollup.json";
 
   onMount(async () => {
     const res = await fetch(`${path}`);
     const results = await res.json();
     testDataObj = results.states;
+    year = results.year;
   });
 
   let stateList = [
@@ -70,7 +72,7 @@
 
 <main>
   <h1>State Legislatures Party Composition</h1>
-  <h1>2022</h1>
+  <h1>{year}</h1>
   <div class="flexy-thing">
     <!-- <BopBar state="US" chamber="National" /> -->
     {#each stateList as state}

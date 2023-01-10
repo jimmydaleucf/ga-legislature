@@ -8,7 +8,7 @@ import json
 import time
 import datetime
 import uploadFile
-import dataProcessing.config as config
+import config
 
 path = f'./{config.path}/'
 

@@ -1,6 +1,6 @@
-import dataProcessing.config as config
-import dataProcessing.chamberGenerator as chamberGenerator
-import dataProcessing.bopRollup as bopRollup
+import config
+import  chamberGenerator
+import  bopRollup
 import os
 import requests
 import uploadFile

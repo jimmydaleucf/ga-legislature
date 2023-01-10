@@ -7,7 +7,7 @@ def bopRollup():
   from pathlib import Path
   import collections
   import datetime
-  import dataProcessing.config as config
+  import config
   import uploadFile
 
   bopRollup = []
@@ -100,7 +100,7 @@ def bopRollup():
         }]}
   newlist.append(nationalRollup)
   now = datetime.datetime.now()
-  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'states':newlist}
+  newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), "year":f"{year}",  'states':newlist}
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
       print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')

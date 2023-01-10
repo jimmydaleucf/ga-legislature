@@ -7,7 +7,7 @@ def getIncumbents(apiKey, stateList):
     import json
     import time
     import datetime
-    import dataProcessing.config as config
+    import  config
     import uploadFile
 
     path = f'./{config.path}/incumbents/'
