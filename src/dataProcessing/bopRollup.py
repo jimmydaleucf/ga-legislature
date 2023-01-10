@@ -7,7 +7,7 @@ def bopRollup():
   from pathlib import Path
   import collections
   import datetime
-  import config
+  import dataProcessing.config as config
   import uploadFile
 
   bopRollup = []
@@ -58,7 +58,6 @@ def bopRollup():
   combinedTotalObj = ChambersTotal['states']
   mergedList = bopRollup + combinedTotalObj
   newlist = sorted(mergedList, key=lambda d: d['state'])
-  print(newlist)
   combinedList = collections.defaultdict(list)
   for organizations in newlist:
     combinedList[organizations['state']].extend(organizations['organizations'])
