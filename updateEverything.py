@@ -12,7 +12,6 @@ apiKeys = [
 for x in range(len(apiKeys)):
     apiKey = apiKeys[x]
     stateList = config.stateLists[x]
-    print(stateList)
     getIncumbents.getIncumbents(apiKey,stateList)
 updateChambers.updateChambers()
    
