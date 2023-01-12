@@ -7,10 +7,10 @@ def getIncumbents(apiKey, stateList):
     import json
     import time
     import datetime
-    import  config
+    import config
     import uploadFile
 
-    path = f'./{config.path}/incumbents/'
+    path = f'{config.path}/incumbents/'
     year = config.year
     
     mainList = []

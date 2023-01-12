@@ -71,41 +71,38 @@
 </script>
 
 <main>
-  <h1>State Legislatures Party Composition</h1>
-  <h1>{year}</h1>
-  <div class="flexy-thing">
-    <!-- <BopBar state="US" chamber="National" /> -->
-    {#each stateList as state}
-      <div class="state-container">
-        <h2 class="state-name">{state}</h2>
-        <div class="flex-container">
-          {#if state != "Nebraska"}
-            {#each chamberList as chamber}
-              <div class="state-container spacer">
-                <!-- <LegMap {state} {chamber} /> -->
-                <Diagram {state} {chamber} />
-                {#if testDataObj}
-                  <BopBar {testDataObj} {state} {chamber} />{/if}
+  {#if testDataObj}
+    <h1>State Legislatures Party Composition</h1>
+    <h1>{year}</h1>
+    <div class="flexy-thing">
+      <!-- <BopBar state="US" chamber="National" /> -->
+      {#each stateList as state}
+        <div class="state-container">
+          <h2 class="state-name">{state}</h2>
+          <div class="flex-container">
+            {#if state != "Nebraska"}
+              {#each chamberList as chamber}
+                <div class="state-container spacer">
+                  <!-- <LegMap {state} {chamber} /> -->
+                  <Diagram {state} {chamber} />
+                  {#if testDataObj}
+                    <BopBar {testDataObj} {state} {chamber} />{/if}
+                </div>
+              {/each}
+            {:else}
+              <div class="bop-component nebraska">
+                <Diagram {state} chamber="legislature" />
+                <BopBar {testDataObj} {state} chamber="legislature" />
+                <p>
+                  Nebraska's Legislature is unicameral (only one chamber) and
+                  its members run as non-partisan.
+                </p>
               </div>
-            {/each}
-          {:else}
-            <div class="bop-component nebraska">
-              <Diagram {state} chamber="legislature" />
-              {#if testDataObj}<BopBar
-                  {testDataObj}
-                  {state}
-                  chamber="legislature"
-                />{/if}
-              <p>
-                Nebraska's Legislature is unicameral (only one chamber) and its
-                members run as non-partisan.
-              </p>
-            </div>
-          {/if}
+            {/if}
+          </div>
         </div>
-      </div>
-    {/each}
-  </div>
+      {/each}
+    </div>{/if}
 </main>
 
 <style>
