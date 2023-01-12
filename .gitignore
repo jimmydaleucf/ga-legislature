@@ -33,7 +33,7 @@ config.py
 __pycache__/
 
 #creds
-aws.py
+secrets.py
 
 #output files
 public/output
