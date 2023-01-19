@@ -1,3 +1,6 @@
+##This file was borrowed from Wikipedia Commons. It takes an imported set of 
+# parameters and generates a hemicyle diagram painted with the correct proportion of seats by party. 
+
 def chamberGenerator(input_list, filename):
     import cgi
     import re

@@ -70,18 +70,18 @@
             <circle cx="260.83" cy="84.65" r="8.00"/> 
             <circle cx="251.37" cy="102.98" r="8.00"/> 
             <circle cx="293.81" cy="60.53" r="8.00"/> 
+            <circle cx="288.17" cy="83.44" r="8.00"/> 
+            <circle cx="245.84" cy="126.24" r="8.00"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
-            <title>b'Other'</title>            <circle cx="288.17" cy="83.44" r="8.00"/> 
-        </g>
+            <title>b'Other'</title>        </g>
         <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
            id="2_Vacant"> 
             <title>b'Vacant'</title>        </g>
         <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
            id="3_Republican"> 
-            <title>b'Republican'</title>            <circle cx="245.84" cy="126.24" r="8.00"/> 
-            <circle cx="278.23" cy="102.70" r="8.00"/> 
+            <title>b'Republican'</title>            <circle cx="278.23" cy="102.70" r="8.00"/> 
             <circle cx="310.61" cy="79.18" r="8.00"/> 
             <circle cx="268.15" cy="122.96" r="8.00"/> 
             <circle cx="302.82" cy="102.93" r="8.00"/> 

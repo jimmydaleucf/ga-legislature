@@ -4,15 +4,24 @@ import  bopRollup
 import os
 import requests
 import uploadFile
+import json
 
 year = config.year
+awsFlag = config.awsFlag
+bucketName = config.s3Bucket
+path = config.path
 
 def updateChambers():
     bopRollup.bopRollup()
-    file = requests.get(
+    if awsFlag == True:
+       file = requests.get(
         'https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
-    os.chdir(f'./{config.path}/diagrams/')
-
+       os.chdir(f'./{path}/diagrams/')
+    else:
+         f = open(f'{path}/bopRollup.json')
+         file = json.load(f)
+         print(file)
+         os.chdir(f'./{path}/diagrams/')
     states = file['states']
     for x in range(len(states)):
         stateName = states[x]['state']
@@ -59,9 +68,12 @@ def updateChambers():
                 ],
                 'denser_rows': False
             }
-            chamberGenerator.chamberGenerator(input_list, filename)
-            uploadFile.upload_file(f'{filename}', 'jrd-primary-public', f'{year}/hemicycles/{filename}')
+            if awsFlag == True:
+                chamberGenerator.chamberGenerator(input_list, filename)
+                uploadFile.upload_file(f'{filename}', f'{bucketName}', f'{year}/hemicycles/{filename}')
+            else:
+                chamberGenerator.chamberGenerator(input_list, filename)
+
 
             
 
-    # chamberGenerator.chamberGenerator(input_list)

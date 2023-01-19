@@ -1,3 +1,0 @@
-import bopRollup
-
-bopRollup.bopRollup()

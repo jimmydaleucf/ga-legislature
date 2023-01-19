@@ -39,6 +39,7 @@
             <circle cx="165.90" cy="93.64" r="10.00"/> 
             <circle cx="155.57" cy="19.35" r="10.00"/> 
             <circle cx="166.29" cy="43.19" r="10.00"/> 
+            <circle cx="180.00" cy="67.50" r="10.00"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
@@ -48,8 +49,7 @@
             <title>b'Vacant'</title>        </g>
         <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
            id="3_Republican"> 
-            <title>b'Republican'</title>            <circle cx="180.00" cy="67.50" r="10.00"/> 
-            <circle cx="180.00" cy="17.50" r="10.00"/> 
+            <title>b'Republican'</title>            <circle cx="180.00" cy="17.50" r="10.00"/> 
             <circle cx="193.71" cy="43.19" r="10.00"/> 
             <circle cx="204.43" cy="19.35" r="10.00"/> 
             <circle cx="194.10" cy="93.64" r="10.00"/> 

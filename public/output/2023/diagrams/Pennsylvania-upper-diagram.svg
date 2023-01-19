@@ -31,11 +31,11 @@
             <circle cx="120.13" cy="28.93" r="10.00"/> 
             <circle cx="133.40" cy="50.64" r="10.00"/> 
             <circle cx="147.14" cy="72.41" r="10.00"/> 
+            <circle cx="161.92" cy="94.39" r="10.00"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
-            <title>b'Other'</title>            <circle cx="161.92" cy="94.39" r="10.00"/> 
-        </g>
+            <title>b'Other'</title>        </g>
         <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
            id="2_Vacant"> 
             <title>b'Vacant'</title>        </g>

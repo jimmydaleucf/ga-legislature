@@ -88,26 +88,26 @@
             <circle cx="180.00" cy="55.00" r="5.71"/> 
             <circle cx="180.00" cy="69.29" r="5.71"/> 
             <circle cx="189.41" cy="26.72" r="5.71"/> 
+            <circle cx="189.26" cy="41.02" r="5.71"/> 
+            <circle cx="189.70" cy="84.06" r="5.71"/> 
+            <circle cx="197.17" cy="13.02" r="5.71"/> 
+            <circle cx="189.47" cy="98.40" r="5.71"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
-            <title>b'Other'</title>            <circle cx="189.26" cy="41.02" r="5.71"/> 
-            <circle cx="189.70" cy="84.06" r="5.71"/> 
-            <circle cx="197.17" cy="13.02" r="5.71"/> 
+            <title>b'Other'</title>            <circle cx="198.99" cy="56.45" r="5.71"/> 
+            <circle cx="198.60" cy="70.86" r="5.71"/> 
         </g>
         <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
            id="2_Vacant"> 
-            <title>b'Vacant'</title>            <circle cx="189.47" cy="98.40" r="5.71"/> 
-            <circle cx="198.99" cy="56.45" r="5.71"/> 
-            <circle cx="198.60" cy="70.86" r="5.71"/> 
-            <circle cx="208.10" cy="29.02" r="5.71"/> 
+            <title>b'Vacant'</title>        </g>
+        <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
+           id="3_Republican"> 
+            <title>b'Republican'</title>            <circle cx="208.10" cy="29.02" r="5.71"/> 
             <circle cx="207.61" cy="43.48" r="5.71"/> 
             <circle cx="214.15" cy="15.65" r="5.71"/> 
             <circle cx="208.71" cy="87.94" r="5.71"/> 
-        </g>
-        <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
-           id="3_Republican"> 
-            <title>b'Republican'</title>            <circle cx="217.54" cy="60.77" r="5.71"/> 
+            <circle cx="217.54" cy="60.77" r="5.71"/> 
             <circle cx="226.37" cy="33.60" r="5.71"/> 
             <circle cx="230.78" cy="20.01" r="5.71"/> 
             <circle cx="225.47" cy="48.35" r="5.71"/> 

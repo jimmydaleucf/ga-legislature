@@ -66,14 +66,14 @@
             <circle cx="205.19" cy="49.07" r="6.67"/> 
             <circle cx="205.03" cy="66.05" r="6.67"/> 
             <circle cx="216.16" cy="17.30" r="6.67"/> 
-            <circle cx="215.80" cy="34.34" r="6.67"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
             <title>b'Other'</title>        </g>
         <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
            id="2_Vacant"> 
-            <title>b'Vacant'</title>        </g>
+            <title>b'Vacant'</title>            <circle cx="215.80" cy="34.34" r="6.67"/> 
+        </g>
         <g style="fill:#dc3d3d; stroke-width:0.00; stroke:#000000" 
            id="3_Republican"> 
             <title>b'Republican'</title>            <circle cx="204.81" cy="83.13" r="6.67"/> 

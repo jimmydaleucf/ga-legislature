@@ -16,6 +16,8 @@ def bopRollup():
   directory = f'./{path}/incumbents/'
   directoryTwo = f'public/output/ChambersTotal.json'
   year = config.year
+  awsFlag = config.awsFlag
+  bucketName = config.s3Bucket
 
   nationalDem = 0
   nationalGOP = 0
@@ -103,6 +105,12 @@ def bopRollup():
   newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), "year":f"{year}",  'states':newlist}
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
-      print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
-  uploadFile.upload_file(f'{path}/bopRollup.json', 'jrd-primary-public', f'{year}/bopRollup.json')
-  print('Your \033[93mbopRollup.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')
+  if awsFlag == True:
+    print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
+    uploadFile.upload_file(f'{path}/bopRollup.json', f'{bucketName}', f'{year}/bopRollup.json')
+    print(f'Your \033[93mbopRollup.json\x1B[0m file has been updloaded to S3 bucket \033[94m"{bucketName}"\x1B[0m')
+  else:
+    print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
+
+
+# bopRollup()

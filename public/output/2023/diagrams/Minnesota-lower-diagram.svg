@@ -79,11 +79,11 @@
             <circle cx="180.00" cy="30.00" r="6.67"/> 
             <circle cx="180.00" cy="63.33" r="6.67"/> 
             <circle cx="180.00" cy="96.67" r="6.67"/> 
+            <circle cx="188.81" cy="46.96" r="6.67"/> 
         </g>
         <g style="fill:#e3bb1c; stroke-width:0.00; stroke:#000000" 
            id="1_Other"> 
-            <title>b'Other'</title>            <circle cx="188.81" cy="46.96" r="6.67"/> 
-        </g>
+            <title>b'Other'</title>        </g>
         <g style="fill:#808080; stroke-width:0.00; stroke:#000000" 
            id="2_Vacant"> 
             <title>b'Vacant'</title>        </g>

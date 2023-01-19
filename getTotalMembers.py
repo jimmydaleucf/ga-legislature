@@ -1,6 +1,6 @@
-# This file creates a rollup of the total members of each chamber in each state and compiles it into a single file.
-# It does not have to be run more than once as the total number of seats in a legilsative body do not change.  If any
-# state were to change the number of seats in one of their chambers, simply running this once would update this rollup.
+# This file creates a rollup of the total seats of each chamber in each state and compiles it into a single file.
+# It does not have to be run more than once as the total number of seats in a legislative body do not change.  If any
+# states were to change the number of seats in one of their chambers, simply running this once would update this rollup.
 
 
 import requests
@@ -13,6 +13,8 @@ import config
 path = f'./{config.path}/'
 
 apiKey = config.apikey1
+bucketName = config.s3Bucket
+awsFlag = config.awsFlag
 
 # stateList = [
 # 'Alabama', 'Alaska']
@@ -108,6 +110,10 @@ ChambersTotal = {"timestamp": now.strftime(
     "%m-%d-%Y %H:%M:%S"), 'states': output}
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
     json.dump(ChambersTotal, json_file)
-print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
-uploadFile.upload_file(f'{path}ChambersTotal.json', 'jrd-primary-public')
-print('Your \033[93mChambersTotal.json\x1B[0m file has been updloaded to S3 bucket \033[94m"jrd-primary-public"\x1B[0m')
+if awsFlag == True:
+    print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
+    uploadFile.upload_file(f'{path}ChambersTotal.json', f'{bucketName}')
+    print(f'Your \033[93mChambersTotal.json\x1B[0m file has been updloaded to S3 bucket \033[94m"{bucketName}"\x1B[0m')
+else:
+    print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
+   
