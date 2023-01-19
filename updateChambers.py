@@ -15,7 +15,7 @@ def updateChambers():
     bopRollup.bopRollup()
     if awsFlag == True:
        file = requests.get(
-        'https://jrd-primary-public.s3.amazonaws.com/bopRollup.json').json()
+        f'https://{bucketName}.s3.amazonaws.com/bopRollup.json').json()
        os.chdir(f'./{path}/diagrams/')
     else:
          f = open(f'{path}/bopRollup.json')
