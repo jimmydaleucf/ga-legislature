@@ -11,11 +11,11 @@
   let totalIncumbents;
   let vacantSeats;
   let totalSeats;
-  export let testDataObj;
+  export let dataObject;
 
   onMount(() => {
     const stateName = `${state}`;
-    chamberData = testDataObj;
+    chamberData = dataObject;
     const targetState = chamberData.find(
       ({ state }) => state === `${stateName}`
     );

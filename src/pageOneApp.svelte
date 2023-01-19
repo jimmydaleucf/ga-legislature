@@ -4,14 +4,14 @@
   import Diagram from "./Diagram.svelte";
   import { onMount } from "svelte";
 
-  let dataObject;
+  let testDataObj;
   let year;
   let path = "https://jrd-primary-public.s3.amazonaws.com/2023/bopRollup.json";
 
   onMount(async () => {
     const res = await fetch(`${path}`);
     const results = await res.json();
-    dataObject = results.states;
+    testDataObj = results.states;
     year = results.year;
   });
 
@@ -71,7 +71,7 @@
 </script>
 
 <main>
-  {#if dataObject}
+  {#if testDataObj}
     <h1>State Legislatures Party Composition</h1>
     <h1>{year}</h1>
     <div class="flexy-thing">
@@ -85,14 +85,14 @@
                 <div class="state-container spacer">
                   <!-- <LegMap {state} {chamber} /> -->
                   <Diagram {state} {chamber} />
-                  {#if dataObject}
-                    <BopBar {dataObject} {state} {chamber} />{/if}
+                  {#if testDataObj}
+                    <BopBar {testDataObj} {state} {chamber} />{/if}
                 </div>
               {/each}
             {:else}
               <div class="bop-component nebraska">
                 <Diagram {state} chamber="legislature" />
-                <BopBar {dataObject} {state} chamber="legislature" />
+                <BopBar {testDataObj} {state} chamber="legislature" />
                 <p>
                   Nebraska's Legislature is unicameral (only one chamber) and
                   its members run as non-partisan.
