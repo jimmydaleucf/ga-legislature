@@ -16,12 +16,23 @@ def updateChambers():
     if awsFlag == True:
        file = requests.get(
         f'https://{bucketName}.s3.amazonaws.com/bopRollup.json').json()
-       os.chdir(f'./{path}/diagrams/')
+       os.chdir(f'./{path}/')
+       check_folder = os.path.isdir('hemicycles')
+       if not check_folder:
+          os.makedirs('hemicycles')
+          os.chdir('hemicycles')
+       else:
+          os.chdir('hemicycles')
     else:
          f = open(f'{path}/bopRollup.json')
          file = json.load(f)
-         print(file)
-         os.chdir(f'./{path}/diagrams/')
+         os.chdir(f'./{path}/')
+         check_folder = os.path.isdir('hemicycles')
+         if not check_folder:
+          os.makedirs('hemicycles')
+          os.chdir('hemicycles')
+         else:
+          os.chdir('hemicycles')
     states = file['states']
     for x in range(len(states)):
         stateName = states[x]['state']

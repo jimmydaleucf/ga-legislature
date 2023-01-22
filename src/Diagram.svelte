@@ -1,10 +1,13 @@
 <script>
+  import App from "./App.svelte";
+
   let svgMarkup;
   export let state;
   export let chamber;
 
-  let path = "https://jrd-primary-public.s3.amazonaws.com/hemicycles/";
-  fetch(`${path}${state}-${chamber}-diagram.svg`)
+  export let diagramPath;
+
+  fetch(`${diagramPath}${state}-${chamber}-diagram.svg`)
     .then((res) => res.text())
     .then((res) => {
       svgMarkup = res;
