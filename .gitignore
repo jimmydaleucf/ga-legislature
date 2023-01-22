@@ -26,13 +26,14 @@ dist-ssr
 #Environment File
 .env
 
-#python config
+#secrets config
 secrets.py
 
 #python cache
 __pycache__/
 
-
+# venv files and directories #
+*/venv/*
 
 #output files
 public/output
