@@ -34,7 +34,7 @@ __pycache__/
 
 # venv files and directories #
 */venv/*
-*/python-env/*
+python-env/*
 
 #output files
-public/output
+public/output/*
