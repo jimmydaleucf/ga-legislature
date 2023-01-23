@@ -11,7 +11,7 @@ year = '2023'
 path = f'public/output/{year}'
 
 
-awsFlag = True
+awsFlag = False
 ## Set to True if you have an S3 bucket you would like to upload your files 
 # to after they are created. You will need to have configured your machine/s3 
 # bucket to allow for this before it will work.##  
