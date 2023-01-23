@@ -9,6 +9,7 @@ def getIncumbents(apiKey, stateList):
     import datetime
     import config
     import uploadFile
+    import os
 
     path = f'{config.path}/incumbents/'
     year = config.year
@@ -53,6 +54,11 @@ def getIncumbents(apiKey, stateList):
                     pass
             now = datetime.datetime.now()
             newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), 'incumbents': mainList}
+            check_folder = os.path.isdir('public/output/2023/incumbents')
+            if not check_folder:
+              os.makedirs(f'public/output/2023/incumbents')
+            else:
+              pass
             with open(f'{path}{stateString}-{chamber}.json', 'w') as json_file:
                 json.dump(newJson, json_file)
             if awsFlag == True:

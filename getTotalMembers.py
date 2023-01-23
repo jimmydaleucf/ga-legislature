@@ -9,66 +9,68 @@ import time
 import datetime
 import uploadFile
 import config
+import os
 
-path = f'./{config.path}/'
+path = f'public/output/'
 
 apiKey = config.apikey1
 bucketName = config.s3Bucket
 awsFlag = config.awsFlag
+year = config.year
 
-# stateList = [
-# 'Alabama', 'Alaska']
+stateList = [
+'Alabama', 'Alaska']
 
-stateList = ['Alabama',
-             'Alaska',
-             'Arizona',
-             'Arkansas',
-             'California',
-             'Colorado',
-             'Connecticut',
-             'Delaware',
-             'Florida',
-             'Georgia',
-             'Hawaii',
-             'Idaho',
-             'Illinois',
-             'Indiana',
-             'Iowa',
-             'Kansas',
-             'Kentucky',
-             'Louisiana',
-             'Maine',
-             'Maryland',
-             'Massachusetts',
-             'Michigan',
-             'Minnesota',
-             'Mississippi',
-             'Missouri',
-             'Montana',
-             'Nebraska',
-             'Nevada',
-             'New Hampshire',
-             'New Jersey',
-             'New Mexico',
-             'New York',
-             'North Carolina',
-             'North Dakota',
-             'Ohio',
-             'Oklahoma',
-             'Oregon',
-             'Pennsylvania',
-             'Rhode Island',
-             'South Carolina',
-             'South Dakota',
-             'Tennessee',
-             'Texas',
-             'Utah',
-             'Vermont',
-             'Virginia',
-             'Washington',
-             'West Virginia',
-             'Wisconsin',
-             'Wyoming']
+# stateList = ['Alabama',
+#              'Alaska',
+#              'Arizona',
+#              'Arkansas',
+#              'California',
+#              'Colorado',
+#              'Connecticut',
+#              'Delaware',
+#              'Florida',
+#              'Georgia',
+#              'Hawaii',
+#              'Idaho',
+#              'Illinois',
+#              'Indiana',
+#              'Iowa',
+#              'Kansas',
+#              'Kentucky',
+#              'Louisiana',
+#              'Maine',
+#              'Maryland',
+#              'Massachusetts',
+#              'Michigan',
+#              'Minnesota',
+#              'Mississippi',
+#              'Missouri',
+#              'Montana',
+#              'Nebraska',
+#              'Nevada',
+#              'New Hampshire',
+#              'New Jersey',
+#              'New Mexico',
+#              'New York',
+#              'North Carolina',
+#              'North Dakota',
+#              'Ohio',
+#              'Oklahoma',
+#              'Oregon',
+#              'Pennsylvania',
+#              'Rhode Island',
+#              'South Carolina',
+#              'South Dakota',
+#              'Tennessee',
+#              'Texas',
+#              'Utah',
+#              'Vermont',
+#              'Virginia',
+#              'Washington',
+#              'West Virginia',
+#              'Wisconsin',
+#              'Wyoming']
 
 output = []
 
@@ -108,6 +110,7 @@ for x in range(len(stateList)):
 now = datetime.datetime.now()
 ChambersTotal = {"timestamp": now.strftime(
     "%m-%d-%Y %H:%M:%S"), 'states': output}
+check_folder = os.path.isdir('/public/output/2023/')
 with open(f'{path}ChambersTotal.json', 'w') as json_file:
     json.dump(ChambersTotal, json_file)
 if awsFlag == True:
