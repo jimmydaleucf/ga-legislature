@@ -116,7 +116,7 @@ with open(f'{path}ChambersTotal.json', 'w') as json_file:
 if awsFlag == True:
     print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
     uploadFile.upload_file(f'{path}ChambersTotal.json', f'{bucketName}')
-    print(f'Your \033[93mChambersTotal.json\x1B[0m file has been updloaded to S3 bucket \033[94m"{bucketName}"\x1B[0m')
+    print(f'Your \033[93mChambersTotal.json\x1B[0m file has been uploaded to S3 bucket \033[94m"{bucketName}"\x1B[0m')
 else:
     print('\n ✅ Your file \033[93mChambersTotal.json\x1B[0m has been created Jimmy!')
    

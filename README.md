@@ -4,7 +4,6 @@ In this project, I wanted to represent how each state's legislature was composed
 
 ![Screen Shot 2023-01-19 at 5 18 25 PM](https://user-images.githubusercontent.com/58115871/214136909-af60e4eb-3773-41fb-8c61-d70b8166e25d.png)
 
-
 ## Data Processing (Python)
 
 ### Summary
@@ -37,7 +36,7 @@ The data is pulled from an open source API built and maintained by [OpenStates.o
    ```
    Note: if you only request one API key from OpenStates, enter it in both spots in `secrets.py`, the code requires both to have a value to run successfully.
 5. Take a moment to review `config.py`. In this file, you can view or change the variable `statesLists` to run some or all the states. (it's defaulted to run all the states.) You can also flip the `awsFlag` to True if you have an s3 bucket you'd like to configure to have your files saved to. You can also update the `year` variable if needed. (I did this when we began 2023 so that i could have a historical record of 2022 while also creating a directory for 2023)
-6. Run `getTotalMembers`. (this only has to be done once, skip this step when running again in the future)
+6. Run `python3 getTotalMembers.py`. (this only has to be done once, skip this step when running again in the future)
 7. Run `python3 updateEverything.py` and watch it go!
 
 ## Front End (Svelte)
