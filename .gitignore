@@ -25,6 +25,7 @@ dist-ssr
 
 #Environment File
 .env
+config.py
 
 #secrets config
 secrets.py
