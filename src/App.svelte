@@ -7,11 +7,11 @@
   let dataObject;
   let year;
 
-  let baseDir = "public/output";
+  let baseDir = "/output";
   // Change to public/output to access files on local
 
   let path = `${baseDir}/2023/bopRollup.json`;
-  let diagramPath = `${baseDir}/2023/diagrams/`;
+  let diagramPath = `${baseDir}/2023/hemicycles/`;
 
   onMount(async () => {
     const res = await fetch(`${path}`);
