@@ -9,8 +9,9 @@
 
   let baseDir = "https://jrd-primary-public.s3.amazonaws.com";
   // Change to "public/output" to access files on local
+
   let path = `${baseDir}/2023/bopRollup.json`;
-  let diagramPath = `https://jrd-primary-public.s3.amazonaws.com/2023/hemicycles/`;
+  let diagramPath = `${baseDir}/2023/hemicycles/`;
 
   onMount(async () => {
     const res = await fetch(`${path}`);
