@@ -7,11 +7,10 @@
   let dataObject;
   let year;
 
-  let baseDir = "public/output";
-  // Change to public/output to access files on local
-
+  let baseDir = "https://jrd-primary-public.s3.amazonaws.com";
+  // Change to "public/output" to access files on local
   let path = `${baseDir}/2023/bopRollup.json`;
-  let diagramPath = `${baseDir}/2023/diagrams/`;
+  let diagramPath = `https://jrd-primary-public.s3.amazonaws.com/2023/hemicycles/`;
 
   onMount(async () => {
     const res = await fetch(`${path}`);
@@ -89,14 +88,16 @@
               {#each chamberList as chamber}
                 <div class="state-container spacer">
                   <!-- <LegMap {state} {chamber} /> -->
-                  <Diagram {state} {chamber} {diagramPath} />
+                  {#if diagramPath}
+                    <Diagram {state} {chamber} {diagramPath} />{/if}
                   {#if dataObject}
                     <BopBar {dataObject} {state} {chamber} />{/if}
                 </div>
               {/each}
             {:else}
               <div class="bop-component nebraska">
-                <Diagram {state} chamber="legislature" {diagramPath} />
+                {#if diagramPath}
+                  <Diagram {state} chamber="legislature" {diagramPath} />{/if}
                 <BopBar {dataObject} {state} chamber="legislature" />
                 <p>
                   Nebraska's Legislature is unicameral (only one chamber) and

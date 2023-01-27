@@ -1,6 +1,6 @@
 import config
-import  chamberGenerator
-import  bopRollup
+import chamberGenerator
+import bopRollup
 import os
 import requests
 import uploadFile
@@ -15,7 +15,7 @@ def updateChambers():
     bopRollup.bopRollup()
     if awsFlag == True:
        file = requests.get(
-        f'https://{bucketName}.s3.amazonaws.com/bopRollup.json').json()
+        f'https://{bucketName}.s3.amazonaws.com/{year}/bopRollup.json').json()
        os.chdir(f'./{path}/')
        check_folder = os.path.isdir('hemicycles')
        if not check_folder:
