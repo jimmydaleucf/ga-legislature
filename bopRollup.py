@@ -40,10 +40,10 @@ def bopRollup():
       party = datum['party']
       orgClass = datum['current_role']['org_classification']
       if orgClass != 'executive':
-        if party == 'Republican':
+        if 'Republican' in party:
           gop += 1
           nationalGOP += 1
-        elif party == 'Democratic' or party =='Democratic-Farmer-Labor': 
+        elif 'Democratic' in party: 
           dem += 1
           nationalDem += 1
         else:
@@ -113,4 +113,4 @@ def bopRollup():
     print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
 
 
-# bopRollup()
+bopRollup()
