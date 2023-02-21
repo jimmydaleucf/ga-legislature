@@ -11,7 +11,7 @@ apiKeys = [
 
 print(f'\033[96mConfig Settings:\x1B[0m\n  \033[94mYear:\x1B[0m \033[93m{config.year}\x1B[0m\n  \033[94mawsFlag set to:\x1B[0m \033[93m{config.awsFlag}\x1B[0m')
 if config.awsFlag == True:
-    print('\033[94mFiles will be saved to S3 bucket:\x1B[0m \033[93m{config.s3Bucket}\x1B[0m')
+    print(f'\033[94mFiles will be saved to S3 bucket:\x1B[0m \033[93m{config.s3Bucket}\x1B[0m')
 else:
     print('  \033[94mFiles will \033[93mnot be uploaded to S3\x1B[0m')
 

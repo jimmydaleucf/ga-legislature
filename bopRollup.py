@@ -113,4 +113,4 @@ def bopRollup():
     print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
 
 
-bopRollup()
+# bopRollup()
