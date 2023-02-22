@@ -33,6 +33,7 @@ unChanged = []
 
 userInput = input('Which mode?\n1. Changed \n2. Not Changed\nEnter number:')
 
+
 states1 = json1['states']
 states2 = json2['states']
 for x in range(len(states1)):
@@ -49,11 +50,20 @@ for x in range(len(states1)):
             data = f'{name1} {chamber1}'
             changed.append(data)
         # print(f'Changes detected in {name1} {chamber1}')
-print('Diff results: The following states/chambers are different from the original file:')
-for state in changed:
-    text = colored(state, 'yellow')
-    print(text)
-print('Diff results: The following states/chambers have NOT changed from the original file:')
-for state in unChanged:
-    text = colored(state, 'green')
-    print(text)
+
+if userInput == '1':
+    print('Diff results: The following states/chambers are different from the original file:')
+
+    for state in changed:
+        text = colored(state, 'green')
+        print(text)
+elif userInput == '2':
+    print('Diff results: The following states/chambers have NOT changed from the original file:')
+    for state in unChanged:
+        text = colored(state, 'red')
+        print(text)
+else:
+    print('please enter either 1 or 2')
+
+
+
