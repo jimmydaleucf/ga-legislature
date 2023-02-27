@@ -9,6 +9,7 @@ def bopRollup():
   import datetime
   import config
   import uploadFile
+  import differ
 
   bopRollup = []
   
@@ -103,6 +104,7 @@ def bopRollup():
   newlist.append(nationalRollup)
   now = datetime.datetime.now()
   newJson = {"timestamp":now.strftime("%m-%d-%Y %H:%M:%S"), "year":f"{year}",  'states':newlist}
+  differ.differ(**newJson)
   with open(f'{path}/bopRollup.json', 'w') as json_file:
       json.dump(newJson, json_file)
   if awsFlag == True:
@@ -113,4 +115,4 @@ def bopRollup():
     print('\n✅ Your \033[93mbopRollup.json\x1B[0m file updated!\n')
 
 
-# bopRollup()
+bopRollup()
