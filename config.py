@@ -8,10 +8,12 @@ year = '2023'
 ## Set this to the current year. The API doesn't provide historical data, 
 # only current information for the legisatures. ## 
 
+yearCompare = '2022'
+
 path = f'public/output/{year}'
 
 
-awsFlag = False
+awsFlag = True
 ## Set to True if you have an S3 bucket you would like to upload your files 
 # to after they are created. You will need to have configured your machine/s3 
 # bucket to allow for this before it will work.##  
