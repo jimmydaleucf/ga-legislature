@@ -1,11 +1,14 @@
 import json
 import sys
 
+import config
+
 from termcolor import colored
 
 
 def differ(**newJson):
-    file1 = open('public/output/2023/bopRollup.json')
+    yearCompare = config.yearCompare
+    file1 = open(f'public/output/{yearCompare}/bopRollup.json')
     json1= json.load(file1)
     # file2= open('public/output/2023/bopRollup.json')
     # json2= json.load(file2)
