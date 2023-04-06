@@ -845,8 +845,8 @@
           "classification": "executive",
           "totalSeats": 0
         },
-        { "org": "House", "classification": "lower", "totalSeats": 60 },
-        { "org": "Senate", "classification": "upper", "totalSeats": 30 }
+        { "org": "House", "classification": "lower", "totalSeats": 62 },
+        { "org": "Senate", "classification": "upper", "totalSeats": 31 }
       ]
     }
   ]
