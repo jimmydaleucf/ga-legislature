@@ -38,7 +38,7 @@ __pycache__/
 python-env/*
 
 #output files
-public/output/2022/*
+public/output/2022/incumbents/*
 public/output/2023/*
 public/output/diagrams/*
 public/output/incumbents/*
