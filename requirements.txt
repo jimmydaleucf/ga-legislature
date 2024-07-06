@@ -2,6 +2,6 @@ certifi==2024.7.4
 charset-normalizer==2.1.1
 idna==3.7
 requests==2.31.0
-urllib3==1.26.18
+urllib3==1.26.19
 boto3 == 1.26.13
 termcolor == 2.3.0
